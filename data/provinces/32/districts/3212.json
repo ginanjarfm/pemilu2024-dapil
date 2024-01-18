@@ -1,1 +1,126 @@
-[{"id":321201,"name":" HAURGEULIS"},{"id":321202,"name":" KROYA"},{"id":321203,"name":" GABUSWETAN"},{"id":321204,"name":" CIKEDUNG"},{"id":321205,"name":" LELEA"},{"id":321206,"name":" BANGODUA"},{"id":321207,"name":" WIDASARI"},{"id":321208,"name":" KERTASEMAYA"},{"id":321209,"name":" KRANGKENG"},{"id":321210,"name":" KARANGAMPEL"},{"id":321211,"name":" JUNTINYUAT"},{"id":321212,"name":" SLIYEG"},{"id":321213,"name":" JATIBARANG"},{"id":321214,"name":" BALONGAN"},{"id":321215,"name":" INDRAMAYU"},{"id":321216,"name":" SINDANG"},{"id":321217,"name":" CANTIGI"},{"id":321218,"name":" LOHBENER"},{"id":321219,"name":" ARAHAN"},{"id":321220,"name":" LOSARANG"},{"id":321221,"name":" KANDANGHAUR"},{"id":321222,"name":" BONGAS"},{"id":321223,"name":" ANJATAN"},{"id":321224,"name":" SUKRA"},{"id":321225,"name":" GANTAR"},{"id":321226,"name":" TERISI"},{"id":321227,"name":" SUKAGUMIWANG"},{"id":321228,"name":" KEDOKAN BUNDER"},{"id":321229,"name":" PASEKAN"},{"id":321230,"name":" TUKDANA"},{"id":321231,"name":" PATROL"}]
+[
+  {
+    "id": 321201,
+    "name": " HAURGEULIS"
+  },
+  {
+    "id": 321202,
+    "name": " KROYA"
+  },
+  {
+    "id": 321203,
+    "name": " GABUSWETAN"
+  },
+  {
+    "id": 321204,
+    "name": " CIKEDUNG"
+  },
+  {
+    "id": 321205,
+    "name": " LELEA"
+  },
+  {
+    "id": 321206,
+    "name": " BANGODUA"
+  },
+  {
+    "id": 321207,
+    "name": " WIDASARI"
+  },
+  {
+    "id": 321208,
+    "name": " KERTASEMAYA"
+  },
+  {
+    "id": 321209,
+    "name": " KRANGKENG"
+  },
+  {
+    "id": 321210,
+    "name": " KARANGAMPEL"
+  },
+  {
+    "id": 321211,
+    "name": " JUNTINYUAT"
+  },
+  {
+    "id": 321212,
+    "name": " SLIYEG"
+  },
+  {
+    "id": 321213,
+    "name": " JATIBARANG"
+  },
+  {
+    "id": 321214,
+    "name": " BALONGAN"
+  },
+  {
+    "id": 321215,
+    "name": " INDRAMAYU"
+  },
+  {
+    "id": 321216,
+    "name": " SINDANG"
+  },
+  {
+    "id": 321217,
+    "name": " CANTIGI"
+  },
+  {
+    "id": 321218,
+    "name": " LOHBENER"
+  },
+  {
+    "id": 321219,
+    "name": " ARAHAN"
+  },
+  {
+    "id": 321220,
+    "name": " LOSARANG"
+  },
+  {
+    "id": 321221,
+    "name": " KANDANGHAUR"
+  },
+  {
+    "id": 321222,
+    "name": " BONGAS"
+  },
+  {
+    "id": 321223,
+    "name": " ANJATAN"
+  },
+  {
+    "id": 321224,
+    "name": " SUKRA"
+  },
+  {
+    "id": 321225,
+    "name": " GANTAR"
+  },
+  {
+    "id": 321226,
+    "name": " TERISI"
+  },
+  {
+    "id": 321227,
+    "name": " SUKAGUMIWANG"
+  },
+  {
+    "id": 321228,
+    "name": " KEDOKAN BUNDER"
+  },
+  {
+    "id": 321229,
+    "name": " PASEKAN"
+  },
+  {
+    "id": 321230,
+    "name": " TUKDANA"
+  },
+  {
+    "id": 321231,
+    "name": " PATROL"
+  }
+]

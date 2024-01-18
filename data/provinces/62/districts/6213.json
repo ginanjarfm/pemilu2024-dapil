@@ -1,1 +1,42 @@
-[{"id":621301,"name":" DUSUN TIMUR"},{"id":621302,"name":" BANUA LIMA"},{"id":621303,"name":" PATANGKEP TUTUI"},{"id":621304,"name":" AWANG"},{"id":621305,"name":" DUSUN TENGAH"},{"id":621306,"name":" PEMATANG KARAU"},{"id":621307,"name":" PAJU EPAT"},{"id":621308,"name":" RAREN BATUAH"},{"id":621309,"name":" PAKU"},{"id":621310,"name":" KARUSEN JANANG"}]
+[
+  {
+    "id": 621301,
+    "name": " DUSUN TIMUR"
+  },
+  {
+    "id": 621302,
+    "name": " BANUA LIMA"
+  },
+  {
+    "id": 621303,
+    "name": " PATANGKEP TUTUI"
+  },
+  {
+    "id": 621304,
+    "name": " AWANG"
+  },
+  {
+    "id": 621305,
+    "name": " DUSUN TENGAH"
+  },
+  {
+    "id": 621306,
+    "name": " PEMATANG KARAU"
+  },
+  {
+    "id": 621307,
+    "name": " PAJU EPAT"
+  },
+  {
+    "id": 621308,
+    "name": " RAREN BATUAH"
+  },
+  {
+    "id": 621309,
+    "name": " PAKU"
+  },
+  {
+    "id": 621310,
+    "name": " KARUSEN JANANG"
+  }
+]

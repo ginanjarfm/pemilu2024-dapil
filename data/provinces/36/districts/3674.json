@@ -1,1 +1,30 @@
-[{"id":367401,"name":" SERPONG"},{"id":367402,"name":" SERPONG UTARA"},{"id":367403,"name":" PONDOK AREN"},{"id":367404,"name":" CIPUTAT"},{"id":367405,"name":" CIPUTAT TIMUR"},{"id":367406,"name":" PAMULANG"},{"id":367407,"name":" SETU"}]
+[
+  {
+    "id": 367401,
+    "name": " SERPONG"
+  },
+  {
+    "id": 367402,
+    "name": " SERPONG UTARA"
+  },
+  {
+    "id": 367403,
+    "name": " PONDOK AREN"
+  },
+  {
+    "id": 367404,
+    "name": " CIPUTAT"
+  },
+  {
+    "id": 367405,
+    "name": " CIPUTAT TIMUR"
+  },
+  {
+    "id": 367406,
+    "name": " PAMULANG"
+  },
+  {
+    "id": 367407,
+    "name": " SETU"
+  }
+]

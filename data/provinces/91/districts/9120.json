@@ -1,1 +1,34 @@
-[{"id":912001,"name":" MAMBERAMO TENGAH"},{"id":912002,"name":" MAMBERAMO HULU"},{"id":912003,"name":" RUFAER"},{"id":912004,"name":" MAMBERAMO TENGAH TIMUR"},{"id":912005,"name":" MAMBERAMO HILIR"},{"id":912006,"name":" WAROPEN ATAS"},{"id":912007,"name":" BENUKI"},{"id":912008,"name":" SAWAI"}]
+[
+  {
+    "id": 912001,
+    "name": " MAMBERAMO TENGAH"
+  },
+  {
+    "id": 912002,
+    "name": " MAMBERAMO HULU"
+  },
+  {
+    "id": 912003,
+    "name": " RUFAER"
+  },
+  {
+    "id": 912004,
+    "name": " MAMBERAMO TENGAH TIMUR"
+  },
+  {
+    "id": 912005,
+    "name": " MAMBERAMO HILIR"
+  },
+  {
+    "id": 912006,
+    "name": " WAROPEN ATAS"
+  },
+  {
+    "id": 912007,
+    "name": " BENUKI"
+  },
+  {
+    "id": 912008,
+    "name": " SAWAI"
+  }
+]

@@ -1,1 +1,50 @@
-[{"id":532101,"name":" MALAKA TENGAH"},{"id":532102,"name":" MALAKA BARAT"},{"id":532103,"name":" WEWIKU"},{"id":532104,"name":" WELIMAN"},{"id":532105,"name":" RINHAT"},{"id":532106,"name":" IO KUFEU"},{"id":532107,"name":" SASITAMEAN"},{"id":532108,"name":" LAENMANEN"},{"id":532109,"name":" MALAKA TIMUR"},{"id":532110,"name":" KOBALIMA TIMUR"},{"id":532111,"name":" KOBALIMA"},{"id":532112,"name":" BOTIN LEOBELE"}]
+[
+  {
+    "id": 532101,
+    "name": " MALAKA TENGAH"
+  },
+  {
+    "id": 532102,
+    "name": " MALAKA BARAT"
+  },
+  {
+    "id": 532103,
+    "name": " WEWIKU"
+  },
+  {
+    "id": 532104,
+    "name": " WELIMAN"
+  },
+  {
+    "id": 532105,
+    "name": " RINHAT"
+  },
+  {
+    "id": 532106,
+    "name": " IO KUFEU"
+  },
+  {
+    "id": 532107,
+    "name": " SASITAMEAN"
+  },
+  {
+    "id": 532108,
+    "name": " LAENMANEN"
+  },
+  {
+    "id": 532109,
+    "name": " MALAKA TIMUR"
+  },
+  {
+    "id": 532110,
+    "name": " KOBALIMA TIMUR"
+  },
+  {
+    "id": 532111,
+    "name": " KOBALIMA"
+  },
+  {
+    "id": 532112,
+    "name": " BOTIN LEOBELE"
+  }
+]

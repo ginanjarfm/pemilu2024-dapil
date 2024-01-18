@@ -1,1 +1,26 @@
-[{"id":647101,"name":" BALIKPAPAN TIMUR"},{"id":647102,"name":" BALIKPAPAN BARAT"},{"id":647103,"name":" BALIKPAPAN UTARA"},{"id":647104,"name":" BALIKPAPAN TENGAH"},{"id":647105,"name":" BALIKPAPAN SELATAN"},{"id":647106,"name":" BALIKPAPAN KOTA"}]
+[
+  {
+    "id": 647101,
+    "name": " BALIKPAPAN TIMUR"
+  },
+  {
+    "id": 647102,
+    "name": " BALIKPAPAN BARAT"
+  },
+  {
+    "id": 647103,
+    "name": " BALIKPAPAN UTARA"
+  },
+  {
+    "id": 647104,
+    "name": " BALIKPAPAN TENGAH"
+  },
+  {
+    "id": 647105,
+    "name": " BALIKPAPAN SELATAN"
+  },
+  {
+    "id": 647106,
+    "name": " BALIKPAPAN KOTA"
+  }
+]

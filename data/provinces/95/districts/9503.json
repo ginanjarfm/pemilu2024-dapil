@@ -1,1 +1,206 @@
-[{"id":950301,"name":" KURIMA"},{"id":950302,"name":" ANGGRUK"},{"id":950303,"name":" NINIA"},{"id":950304,"name":" SILIMO"},{"id":950305,"name":" SAMENAGE"},{"id":950306,"name":" NALCA"},{"id":950307,"name":" DEKAI"},{"id":950308,"name":" OBIO"},{"id":950309,"name":" SURU SURU"},{"id":950310,"name":" WUSAMA"},{"id":950311,"name":" AMUMA"},{"id":950312,"name":" MUSAIK"},{"id":950313,"name":" PASEMA"},{"id":950314,"name":" HOGIO"},{"id":950315,"name":" MUGI"},{"id":950316,"name":" SOBA"},{"id":950317,"name":" WERIMA"},{"id":950318,"name":" TANGMA"},{"id":950319,"name":" UKHA"},{"id":950320,"name":" PANGGEMA"},{"id":950321,"name":" KOSAREK"},{"id":950322,"name":" NIPSAN"},{"id":950323,"name":" UBAHAK"},{"id":950324,"name":" PRONGGOLI"},{"id":950325,"name":" WALMA"},{"id":950326,"name":" YAHULIAMBUT"},{"id":950327,"name":" HEREAPINI"},{"id":950328,"name":" UBALIHI"},{"id":950329,"name":" TALAMBO"},{"id":950330,"name":" PULDAMA"},{"id":950331,"name":" ENDOMEN"},{"id":950332,"name":" KONA"},{"id":950333,"name":" DIRWEMNA"},{"id":950334,"name":" HOLUWON"},{"id":950335,"name":" LOLAT"},{"id":950336,"name":" SOLOIKMA"},{"id":950337,"name":" SELA"},{"id":950338,"name":" KORUPUN"},{"id":950339,"name":" LANGDA"},{"id":950340,"name":" BOMELA"},{"id":950341,"name":" SUNTAMON"},{"id":950342,"name":" SERADALA"},{"id":950343,"name":" SOBAHAM"},{"id":950344,"name":" KABIANGGAMA"},{"id":950345,"name":" KWELAMDUA"},{"id":950346,"name":" KWIKMA"},{"id":950347,"name":" HILIPUK"},{"id":950348,"name":" DURAM"},{"id":950349,"name":" YOGOSEM"},{"id":950350,"name":" KAYO"},{"id":950351,"name":" SUMO"}]
+[
+  {
+    "id": 950301,
+    "name": " KURIMA"
+  },
+  {
+    "id": 950302,
+    "name": " ANGGRUK"
+  },
+  {
+    "id": 950303,
+    "name": " NINIA"
+  },
+  {
+    "id": 950304,
+    "name": " SILIMO"
+  },
+  {
+    "id": 950305,
+    "name": " SAMENAGE"
+  },
+  {
+    "id": 950306,
+    "name": " NALCA"
+  },
+  {
+    "id": 950307,
+    "name": " DEKAI"
+  },
+  {
+    "id": 950308,
+    "name": " OBIO"
+  },
+  {
+    "id": 950309,
+    "name": " SURU SURU"
+  },
+  {
+    "id": 950310,
+    "name": " WUSAMA"
+  },
+  {
+    "id": 950311,
+    "name": " AMUMA"
+  },
+  {
+    "id": 950312,
+    "name": " MUSAIK"
+  },
+  {
+    "id": 950313,
+    "name": " PASEMA"
+  },
+  {
+    "id": 950314,
+    "name": " HOGIO"
+  },
+  {
+    "id": 950315,
+    "name": " MUGI"
+  },
+  {
+    "id": 950316,
+    "name": " SOBA"
+  },
+  {
+    "id": 950317,
+    "name": " WERIMA"
+  },
+  {
+    "id": 950318,
+    "name": " TANGMA"
+  },
+  {
+    "id": 950319,
+    "name": " UKHA"
+  },
+  {
+    "id": 950320,
+    "name": " PANGGEMA"
+  },
+  {
+    "id": 950321,
+    "name": " KOSAREK"
+  },
+  {
+    "id": 950322,
+    "name": " NIPSAN"
+  },
+  {
+    "id": 950323,
+    "name": " UBAHAK"
+  },
+  {
+    "id": 950324,
+    "name": " PRONGGOLI"
+  },
+  {
+    "id": 950325,
+    "name": " WALMA"
+  },
+  {
+    "id": 950326,
+    "name": " YAHULIAMBUT"
+  },
+  {
+    "id": 950327,
+    "name": " HEREAPINI"
+  },
+  {
+    "id": 950328,
+    "name": " UBALIHI"
+  },
+  {
+    "id": 950329,
+    "name": " TALAMBO"
+  },
+  {
+    "id": 950330,
+    "name": " PULDAMA"
+  },
+  {
+    "id": 950331,
+    "name": " ENDOMEN"
+  },
+  {
+    "id": 950332,
+    "name": " KONA"
+  },
+  {
+    "id": 950333,
+    "name": " DIRWEMNA"
+  },
+  {
+    "id": 950334,
+    "name": " HOLUWON"
+  },
+  {
+    "id": 950335,
+    "name": " LOLAT"
+  },
+  {
+    "id": 950336,
+    "name": " SOLOIKMA"
+  },
+  {
+    "id": 950337,
+    "name": " SELA"
+  },
+  {
+    "id": 950338,
+    "name": " KORUPUN"
+  },
+  {
+    "id": 950339,
+    "name": " LANGDA"
+  },
+  {
+    "id": 950340,
+    "name": " BOMELA"
+  },
+  {
+    "id": 950341,
+    "name": " SUNTAMON"
+  },
+  {
+    "id": 950342,
+    "name": " SERADALA"
+  },
+  {
+    "id": 950343,
+    "name": " SOBAHAM"
+  },
+  {
+    "id": 950344,
+    "name": " KABIANGGAMA"
+  },
+  {
+    "id": 950345,
+    "name": " KWELAMDUA"
+  },
+  {
+    "id": 950346,
+    "name": " KWIKMA"
+  },
+  {
+    "id": 950347,
+    "name": " HILIPUK"
+  },
+  {
+    "id": 950348,
+    "name": " DURAM"
+  },
+  {
+    "id": 950349,
+    "name": " YOGOSEM"
+  },
+  {
+    "id": 950350,
+    "name": " KAYO"
+  },
+  {
+    "id": 950351,
+    "name": " SUMO"
+  }
+]

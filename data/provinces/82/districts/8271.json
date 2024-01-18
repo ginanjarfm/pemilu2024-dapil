@@ -1,1 +1,34 @@
-[{"id":827101,"name":" PULAU TERNATE"},{"id":827102,"name":" KOTA TERNATE SELATAN"},{"id":827103,"name":" KOTA TERNATE UTARA"},{"id":827104,"name":" MOTI"},{"id":827105,"name":" PULAU BATANG DUA"},{"id":827106,"name":" KOTA TERNATE TENGAH"},{"id":827107,"name":" PULAU HIRI"},{"id":827108,"name":" TERNATE BARAT"}]
+[
+  {
+    "id": 827101,
+    "name": " PULAU TERNATE"
+  },
+  {
+    "id": 827102,
+    "name": " KOTA TERNATE SELATAN"
+  },
+  {
+    "id": 827103,
+    "name": " KOTA TERNATE UTARA"
+  },
+  {
+    "id": 827104,
+    "name": " MOTI"
+  },
+  {
+    "id": 827105,
+    "name": " PULAU BATANG DUA"
+  },
+  {
+    "id": 827106,
+    "name": " KOTA TERNATE TENGAH"
+  },
+  {
+    "id": 827107,
+    "name": " PULAU HIRI"
+  },
+  {
+    "id": 827108,
+    "name": " TERNATE BARAT"
+  }
+]

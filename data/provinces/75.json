@@ -1,1 +1,26 @@
-[{"id":7501,"name":"GORONTALO"},{"id":7502,"name":"BOALEMO"},{"id":7503,"name":"BONE BOLANGO"},{"id":7504,"name":"POHUWATO"},{"id":7505,"name":"GORONTALO UTARA"},{"id":7571,"name":"KOTA GORONTALO"}]
+[
+  {
+    "id": 7501,
+    "name": "GORONTALO"
+  },
+  {
+    "id": 7502,
+    "name": "BOALEMO"
+  },
+  {
+    "id": 7503,
+    "name": "BONE BOLANGO"
+  },
+  {
+    "id": 7504,
+    "name": "POHUWATO"
+  },
+  {
+    "id": 7505,
+    "name": "GORONTALO UTARA"
+  },
+  {
+    "id": 7571,
+    "name": "KOTA GORONTALO"
+  }
+]

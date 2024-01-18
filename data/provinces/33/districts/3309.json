@@ -1,1 +1,90 @@
-[{"id":330901,"name":" SELO"},{"id":330902,"name":" AMPEL"},{"id":330903,"name":" CEPOGO"},{"id":330904,"name":" MUSUK"},{"id":330905,"name":" BOYOLALI"},{"id":330906,"name":" MOJOSONGO"},{"id":330907,"name":" TERAS"},{"id":330908,"name":" SAWIT"},{"id":330909,"name":" BANYUDONO"},{"id":330910,"name":" SAMBI"},{"id":330911,"name":" NGEMPLAK"},{"id":330912,"name":" NOGOSARI"},{"id":330913,"name":" SIMO"},{"id":330914,"name":" KARANGGEDE"},{"id":330915,"name":" KLEGO"},{"id":330916,"name":" ANDONG"},{"id":330917,"name":" KEMUSU"},{"id":330918,"name":" WONOSEGORO"},{"id":330919,"name":" JUWANGI"},{"id":330920,"name":" GLADAGSARI"},{"id":330921,"name":" TAMANSARI"},{"id":330922,"name":" WONOSAMODRO"}]
+[
+  {
+    "id": 330901,
+    "name": " SELO"
+  },
+  {
+    "id": 330902,
+    "name": " AMPEL"
+  },
+  {
+    "id": 330903,
+    "name": " CEPOGO"
+  },
+  {
+    "id": 330904,
+    "name": " MUSUK"
+  },
+  {
+    "id": 330905,
+    "name": " BOYOLALI"
+  },
+  {
+    "id": 330906,
+    "name": " MOJOSONGO"
+  },
+  {
+    "id": 330907,
+    "name": " TERAS"
+  },
+  {
+    "id": 330908,
+    "name": " SAWIT"
+  },
+  {
+    "id": 330909,
+    "name": " BANYUDONO"
+  },
+  {
+    "id": 330910,
+    "name": " SAMBI"
+  },
+  {
+    "id": 330911,
+    "name": " NGEMPLAK"
+  },
+  {
+    "id": 330912,
+    "name": " NOGOSARI"
+  },
+  {
+    "id": 330913,
+    "name": " SIMO"
+  },
+  {
+    "id": 330914,
+    "name": " KARANGGEDE"
+  },
+  {
+    "id": 330915,
+    "name": " KLEGO"
+  },
+  {
+    "id": 330916,
+    "name": " ANDONG"
+  },
+  {
+    "id": 330917,
+    "name": " KEMUSU"
+  },
+  {
+    "id": 330918,
+    "name": " WONOSEGORO"
+  },
+  {
+    "id": 330919,
+    "name": " JUWANGI"
+  },
+  {
+    "id": 330920,
+    "name": " GLADAGSARI"
+  },
+  {
+    "id": 330921,
+    "name": " TAMANSARI"
+  },
+  {
+    "id": 330922,
+    "name": " WONOSAMODRO"
+  }
+]

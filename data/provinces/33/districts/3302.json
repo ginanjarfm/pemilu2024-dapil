@@ -1,1 +1,110 @@
-[{"id":330201,"name":" LUMBIR"},{"id":330202,"name":" WANGON"},{"id":330203,"name":" JATILAWANG"},{"id":330204,"name":" RAWALO"},{"id":330205,"name":" KEBASEN"},{"id":330206,"name":" KEMRANJEN"},{"id":330207,"name":" SUMPIUH"},{"id":330208,"name":" TAMBAK"},{"id":330209,"name":" SOMAGEDE"},{"id":330210,"name":" KALIBAGOR"},{"id":330211,"name":" BANYUMAS"},{"id":330212,"name":" PATIKRAJA"},{"id":330213,"name":" PURWOJATI"},{"id":330214,"name":" AJIBARANG"},{"id":330215,"name":" GUMELAR"},{"id":330216,"name":" PEKUNCEN"},{"id":330217,"name":" CILONGOK"},{"id":330218,"name":" KARANGLEWAS"},{"id":330219,"name":" SOKARAJA"},{"id":330220,"name":" KEMBARAN"},{"id":330221,"name":" SUMBANG"},{"id":330222,"name":" BATURRADEN"},{"id":330223,"name":" KEDUNGBANTENG"},{"id":330224,"name":" PURWOKERTO SELATAN"},{"id":330225,"name":" PURWOKERTO BARAT"},{"id":330226,"name":" PURWOKERTO TIMUR"},{"id":330227,"name":" PURWOKERTO UTARA"}]
+[
+  {
+    "id": 330201,
+    "name": " LUMBIR"
+  },
+  {
+    "id": 330202,
+    "name": " WANGON"
+  },
+  {
+    "id": 330203,
+    "name": " JATILAWANG"
+  },
+  {
+    "id": 330204,
+    "name": " RAWALO"
+  },
+  {
+    "id": 330205,
+    "name": " KEBASEN"
+  },
+  {
+    "id": 330206,
+    "name": " KEMRANJEN"
+  },
+  {
+    "id": 330207,
+    "name": " SUMPIUH"
+  },
+  {
+    "id": 330208,
+    "name": " TAMBAK"
+  },
+  {
+    "id": 330209,
+    "name": " SOMAGEDE"
+  },
+  {
+    "id": 330210,
+    "name": " KALIBAGOR"
+  },
+  {
+    "id": 330211,
+    "name": " BANYUMAS"
+  },
+  {
+    "id": 330212,
+    "name": " PATIKRAJA"
+  },
+  {
+    "id": 330213,
+    "name": " PURWOJATI"
+  },
+  {
+    "id": 330214,
+    "name": " AJIBARANG"
+  },
+  {
+    "id": 330215,
+    "name": " GUMELAR"
+  },
+  {
+    "id": 330216,
+    "name": " PEKUNCEN"
+  },
+  {
+    "id": 330217,
+    "name": " CILONGOK"
+  },
+  {
+    "id": 330218,
+    "name": " KARANGLEWAS"
+  },
+  {
+    "id": 330219,
+    "name": " SOKARAJA"
+  },
+  {
+    "id": 330220,
+    "name": " KEMBARAN"
+  },
+  {
+    "id": 330221,
+    "name": " SUMBANG"
+  },
+  {
+    "id": 330222,
+    "name": " BATURRADEN"
+  },
+  {
+    "id": 330223,
+    "name": " KEDUNGBANTENG"
+  },
+  {
+    "id": 330224,
+    "name": " PURWOKERTO SELATAN"
+  },
+  {
+    "id": 330225,
+    "name": " PURWOKERTO BARAT"
+  },
+  {
+    "id": 330226,
+    "name": " PURWOKERTO TIMUR"
+  },
+  {
+    "id": 330227,
+    "name": " PURWOKERTO UTARA"
+  }
+]

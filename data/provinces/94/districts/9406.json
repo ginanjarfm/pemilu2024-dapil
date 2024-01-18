@@ -1,1 +1,42 @@
-[{"id":940601,"name":" KAMU"},{"id":940602,"name":" MAPIA"},{"id":940603,"name":" PIYAIYE"},{"id":940604,"name":" KAMU UTARA"},{"id":940605,"name":" SUKIKAI SELATAN"},{"id":940606,"name":" MAPIA BARAT"},{"id":940607,"name":" KAMU SELATAN"},{"id":940608,"name":" KAMU TIMUR"},{"id":940609,"name":" MAPIA TENGAH"},{"id":940610,"name":" DOGIYAI"}]
+[
+  {
+    "id": 940601,
+    "name": " KAMU"
+  },
+  {
+    "id": 940602,
+    "name": " MAPIA"
+  },
+  {
+    "id": 940603,
+    "name": " PIYAIYE"
+  },
+  {
+    "id": 940604,
+    "name": " KAMU UTARA"
+  },
+  {
+    "id": 940605,
+    "name": " SUKIKAI SELATAN"
+  },
+  {
+    "id": 940606,
+    "name": " MAPIA BARAT"
+  },
+  {
+    "id": 940607,
+    "name": " KAMU SELATAN"
+  },
+  {
+    "id": 940608,
+    "name": " KAMU TIMUR"
+  },
+  {
+    "id": 940609,
+    "name": " MAPIA TENGAH"
+  },
+  {
+    "id": 940610,
+    "name": " DOGIYAI"
+  }
+]

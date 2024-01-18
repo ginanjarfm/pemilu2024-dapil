@@ -1,1 +1,54 @@
-[{"id":6301,"name":"TANAH LAUT"},{"id":6302,"name":"KOTABARU"},{"id":6303,"name":"BANJAR"},{"id":6304,"name":"BARITO KUALA"},{"id":6305,"name":"TAPIN"},{"id":6306,"name":"HULU SUNGAI SELATAN"},{"id":6307,"name":"HULU SUNGAI TENGAH"},{"id":6308,"name":"HULU SUNGAI UTARA"},{"id":6309,"name":"TABALONG"},{"id":6310,"name":"TANAH BUMBU"},{"id":6311,"name":"BALANGAN"},{"id":6371,"name":"KOTA BANJARMASIN"},{"id":6372,"name":"KOTA BANJARBARU"}]
+[
+  {
+    "id": 6301,
+    "name": "TANAH LAUT"
+  },
+  {
+    "id": 6302,
+    "name": "KOTABARU"
+  },
+  {
+    "id": 6303,
+    "name": "BANJAR"
+  },
+  {
+    "id": 6304,
+    "name": "BARITO KUALA"
+  },
+  {
+    "id": 6305,
+    "name": "TAPIN"
+  },
+  {
+    "id": 6306,
+    "name": "HULU SUNGAI SELATAN"
+  },
+  {
+    "id": 6307,
+    "name": "HULU SUNGAI TENGAH"
+  },
+  {
+    "id": 6308,
+    "name": "HULU SUNGAI UTARA"
+  },
+  {
+    "id": 6309,
+    "name": "TABALONG"
+  },
+  {
+    "id": 6310,
+    "name": "TANAH BUMBU"
+  },
+  {
+    "id": 6311,
+    "name": "BALANGAN"
+  },
+  {
+    "id": 6371,
+    "name": "KOTA BANJARMASIN"
+  },
+  {
+    "id": 6372,
+    "name": "KOTA BANJARBARU"
+  }
+]

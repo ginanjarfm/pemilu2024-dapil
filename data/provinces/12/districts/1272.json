@@ -1,1 +1,34 @@
-[{"id":127201,"name":" SIANTAR TIMUR"},{"id":127202,"name":" SIANTAR BARAT"},{"id":127203,"name":" SIANTAR UTARA"},{"id":127204,"name":" SIANTAR SELATAN"},{"id":127205,"name":" SIANTAR MARIHAT"},{"id":127206,"name":" SIANTAR MARTOBA"},{"id":127207,"name":" SIANTAR SITALASARI"},{"id":127208,"name":" SIANTAR MARIMBUN"}]
+[
+  {
+    "id": 127201,
+    "name": " SIANTAR TIMUR"
+  },
+  {
+    "id": 127202,
+    "name": " SIANTAR BARAT"
+  },
+  {
+    "id": 127203,
+    "name": " SIANTAR UTARA"
+  },
+  {
+    "id": 127204,
+    "name": " SIANTAR SELATAN"
+  },
+  {
+    "id": 127205,
+    "name": " SIANTAR MARIHAT"
+  },
+  {
+    "id": 127206,
+    "name": " SIANTAR MARTOBA"
+  },
+  {
+    "id": 127207,
+    "name": " SIANTAR SITALASARI"
+  },
+  {
+    "id": 127208,
+    "name": " SIANTAR MARIMBUN"
+  }
+]

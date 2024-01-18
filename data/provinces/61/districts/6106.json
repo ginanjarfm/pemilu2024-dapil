@@ -1,1 +1,94 @@
-[{"id":610601,"name":" PUTUSSIBAU UTARA"},{"id":610602,"name":" BIKA"},{"id":610603,"name":" EMBALOH HILIR"},{"id":610604,"name":" EMBALOH HULU"},{"id":610605,"name":" BUNUT HILIR"},{"id":610606,"name":" BUNUT HULU"},{"id":610607,"name":" JONGKONG"},{"id":610608,"name":" HULU GURUNG"},{"id":610609,"name":" SELIMBAU"},{"id":610610,"name":" SEMITAU"},{"id":610611,"name":" SEBERUANG"},{"id":610612,"name":" BATANG LUPAR"},{"id":610613,"name":" EMPANANG"},{"id":610614,"name":" BADAU"},{"id":610615,"name":" SILAT HILIR"},{"id":610616,"name":" SILAT HULU"},{"id":610617,"name":" PUTUSSIBAU SELATAN"},{"id":610618,"name":" KALIS"},{"id":610619,"name":" BOYAN TANJUNG"},{"id":610620,"name":" MENTEBAH"},{"id":610621,"name":" PENGKADAN"},{"id":610622,"name":" SUHAID"},{"id":610623,"name":" PURING KENCANA"}]
+[
+  {
+    "id": 610601,
+    "name": " PUTUSSIBAU UTARA"
+  },
+  {
+    "id": 610602,
+    "name": " BIKA"
+  },
+  {
+    "id": 610603,
+    "name": " EMBALOH HILIR"
+  },
+  {
+    "id": 610604,
+    "name": " EMBALOH HULU"
+  },
+  {
+    "id": 610605,
+    "name": " BUNUT HILIR"
+  },
+  {
+    "id": 610606,
+    "name": " BUNUT HULU"
+  },
+  {
+    "id": 610607,
+    "name": " JONGKONG"
+  },
+  {
+    "id": 610608,
+    "name": " HULU GURUNG"
+  },
+  {
+    "id": 610609,
+    "name": " SELIMBAU"
+  },
+  {
+    "id": 610610,
+    "name": " SEMITAU"
+  },
+  {
+    "id": 610611,
+    "name": " SEBERUANG"
+  },
+  {
+    "id": 610612,
+    "name": " BATANG LUPAR"
+  },
+  {
+    "id": 610613,
+    "name": " EMPANANG"
+  },
+  {
+    "id": 610614,
+    "name": " BADAU"
+  },
+  {
+    "id": 610615,
+    "name": " SILAT HILIR"
+  },
+  {
+    "id": 610616,
+    "name": " SILAT HULU"
+  },
+  {
+    "id": 610617,
+    "name": " PUTUSSIBAU SELATAN"
+  },
+  {
+    "id": 610618,
+    "name": " KALIS"
+  },
+  {
+    "id": 610619,
+    "name": " BOYAN TANJUNG"
+  },
+  {
+    "id": 610620,
+    "name": " MENTEBAH"
+  },
+  {
+    "id": 610621,
+    "name": " PENGKADAN"
+  },
+  {
+    "id": 610622,
+    "name": " SUHAID"
+  },
+  {
+    "id": 610623,
+    "name": " PURING KENCANA"
+  }
+]

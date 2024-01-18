@@ -1,1 +1,46 @@
-[{"id":531801,"name":" LOURA"},{"id":531802,"name":" WEWEWA UTARA"},{"id":531803,"name":" WEWEWA TIMUR"},{"id":531804,"name":" WEWEWA BARAT"},{"id":531805,"name":" WEWEWA SELATAN"},{"id":531806,"name":" KODI BANGEDO"},{"id":531807,"name":" KODI"},{"id":531808,"name":" KODI UTARA"},{"id":531809,"name":" KOTA TAMBOLAKA"},{"id":531810,"name":" WEWEWA TENGAH"},{"id":531811,"name":" KODI BALAGHAR"}]
+[
+  {
+    "id": 531801,
+    "name": " LOURA"
+  },
+  {
+    "id": 531802,
+    "name": " WEWEWA UTARA"
+  },
+  {
+    "id": 531803,
+    "name": " WEWEWA TIMUR"
+  },
+  {
+    "id": 531804,
+    "name": " WEWEWA BARAT"
+  },
+  {
+    "id": 531805,
+    "name": " WEWEWA SELATAN"
+  },
+  {
+    "id": 531806,
+    "name": " KODI BANGEDO"
+  },
+  {
+    "id": 531807,
+    "name": " KODI"
+  },
+  {
+    "id": 531808,
+    "name": " KODI UTARA"
+  },
+  {
+    "id": 531809,
+    "name": " KOTA TAMBOLAKA"
+  },
+  {
+    "id": 531810,
+    "name": " WEWEWA TENGAH"
+  },
+  {
+    "id": 531811,
+    "name": " KODI BALAGHAR"
+  }
+]

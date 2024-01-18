@@ -1,1 +1,50 @@
-[{"id":520201,"name":" PRAYA"},{"id":520202,"name":" JONGGAT"},{"id":520203,"name":" BATUKLIANG"},{"id":520204,"name":" PUJUT"},{"id":520205,"name":" PRAYA BARAT"},{"id":520206,"name":" PRAYA TIMUR"},{"id":520207,"name":" JANAPRIA"},{"id":520208,"name":" PRINGGARATA"},{"id":520209,"name":" KOPANG"},{"id":520210,"name":" PRAYA TENGAH"},{"id":520211,"name":" PRAYA BARAT DAYA"},{"id":520212,"name":" BATUKLIANG UTARA"}]
+[
+  {
+    "id": 520201,
+    "name": " PRAYA"
+  },
+  {
+    "id": 520202,
+    "name": " JONGGAT"
+  },
+  {
+    "id": 520203,
+    "name": " BATUKLIANG"
+  },
+  {
+    "id": 520204,
+    "name": " PUJUT"
+  },
+  {
+    "id": 520205,
+    "name": " PRAYA BARAT"
+  },
+  {
+    "id": 520206,
+    "name": " PRAYA TIMUR"
+  },
+  {
+    "id": 520207,
+    "name": " JANAPRIA"
+  },
+  {
+    "id": 520208,
+    "name": " PRINGGARATA"
+  },
+  {
+    "id": 520209,
+    "name": " KOPANG"
+  },
+  {
+    "id": 520210,
+    "name": " PRAYA TENGAH"
+  },
+  {
+    "id": 520211,
+    "name": " PRAYA BARAT DAYA"
+  },
+  {
+    "id": 520212,
+    "name": " BATUKLIANG UTARA"
+  }
+]

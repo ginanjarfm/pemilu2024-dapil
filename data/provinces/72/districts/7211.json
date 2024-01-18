@@ -1,1 +1,30 @@
-[{"id":721101,"name":" BANGGAI"},{"id":721102,"name":" BANGGAI UTARA"},{"id":721103,"name":" BOKAN KEPULAUAN"},{"id":721104,"name":" BANGKURUNG"},{"id":721105,"name":" LABOBO"},{"id":721106,"name":" BANGGAI SELATAN"},{"id":721107,"name":" BANGGAI TENGAH"}]
+[
+  {
+    "id": 721101,
+    "name": " BANGGAI"
+  },
+  {
+    "id": 721102,
+    "name": " BANGGAI UTARA"
+  },
+  {
+    "id": 721103,
+    "name": " BOKAN KEPULAUAN"
+  },
+  {
+    "id": 721104,
+    "name": " BANGKURUNG"
+  },
+  {
+    "id": 721105,
+    "name": " LABOBO"
+  },
+  {
+    "id": 721106,
+    "name": " BANGGAI SELATAN"
+  },
+  {
+    "id": 721107,
+    "name": " BANGGAI TENGAH"
+  }
+]

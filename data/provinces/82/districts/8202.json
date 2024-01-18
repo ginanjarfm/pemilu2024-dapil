@@ -1,1 +1,42 @@
-[{"id":820201,"name":" WEDA"},{"id":820202,"name":" PATANI"},{"id":820203,"name":" PULAU GEBE"},{"id":820204,"name":" WEDA UTARA"},{"id":820205,"name":" WEDA SELATAN"},{"id":820206,"name":" PATANI UTARA"},{"id":820207,"name":" WEDA TENGAH"},{"id":820208,"name":" PATANI BARAT"},{"id":820209,"name":" WEDA TIMUR"},{"id":820210,"name":" PATANI TIMUR"}]
+[
+  {
+    "id": 820201,
+    "name": " WEDA"
+  },
+  {
+    "id": 820202,
+    "name": " PATANI"
+  },
+  {
+    "id": 820203,
+    "name": " PULAU GEBE"
+  },
+  {
+    "id": 820204,
+    "name": " WEDA UTARA"
+  },
+  {
+    "id": 820205,
+    "name": " WEDA SELATAN"
+  },
+  {
+    "id": 820206,
+    "name": " PATANI UTARA"
+  },
+  {
+    "id": 820207,
+    "name": " WEDA TENGAH"
+  },
+  {
+    "id": 820208,
+    "name": " PATANI BARAT"
+  },
+  {
+    "id": 820209,
+    "name": " WEDA TIMUR"
+  },
+  {
+    "id": 820210,
+    "name": " PATANI TIMUR"
+  }
+]

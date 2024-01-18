@@ -1,1 +1,110 @@
-[{"id":3201,"name":"BOGOR"},{"id":3202,"name":"SUKABUMI"},{"id":3203,"name":"CIANJUR"},{"id":3204,"name":"BANDUNG"},{"id":3205,"name":"GARUT"},{"id":3206,"name":"TASIKMALAYA"},{"id":3207,"name":"CIAMIS"},{"id":3208,"name":"KUNINGAN"},{"id":3209,"name":"CIREBON"},{"id":3210,"name":"MAJALENGKA"},{"id":3211,"name":"SUMEDANG"},{"id":3212,"name":"INDRAMAYU"},{"id":3213,"name":"SUBANG"},{"id":3214,"name":"PURWAKARTA"},{"id":3215,"name":"KARAWANG"},{"id":3216,"name":"BEKASI"},{"id":3217,"name":"BANDUNG BARAT"},{"id":3218,"name":"PANGANDARAN"},{"id":3271,"name":"KOTA BOGOR"},{"id":3272,"name":"KOTA SUKABUMI"},{"id":3273,"name":"KOTA BANDUNG"},{"id":3274,"name":"KOTA CIREBON"},{"id":3275,"name":"KOTA BEKASI"},{"id":3276,"name":"KOTA DEPOK"},{"id":3277,"name":"KOTA CIMAHI"},{"id":3278,"name":"KOTA TASIKMALAYA"},{"id":3279,"name":"KOTA BANJAR"}]
+[
+  {
+    "id": 3201,
+    "name": "BOGOR"
+  },
+  {
+    "id": 3202,
+    "name": "SUKABUMI"
+  },
+  {
+    "id": 3203,
+    "name": "CIANJUR"
+  },
+  {
+    "id": 3204,
+    "name": "BANDUNG"
+  },
+  {
+    "id": 3205,
+    "name": "GARUT"
+  },
+  {
+    "id": 3206,
+    "name": "TASIKMALAYA"
+  },
+  {
+    "id": 3207,
+    "name": "CIAMIS"
+  },
+  {
+    "id": 3208,
+    "name": "KUNINGAN"
+  },
+  {
+    "id": 3209,
+    "name": "CIREBON"
+  },
+  {
+    "id": 3210,
+    "name": "MAJALENGKA"
+  },
+  {
+    "id": 3211,
+    "name": "SUMEDANG"
+  },
+  {
+    "id": 3212,
+    "name": "INDRAMAYU"
+  },
+  {
+    "id": 3213,
+    "name": "SUBANG"
+  },
+  {
+    "id": 3214,
+    "name": "PURWAKARTA"
+  },
+  {
+    "id": 3215,
+    "name": "KARAWANG"
+  },
+  {
+    "id": 3216,
+    "name": "BEKASI"
+  },
+  {
+    "id": 3217,
+    "name": "BANDUNG BARAT"
+  },
+  {
+    "id": 3218,
+    "name": "PANGANDARAN"
+  },
+  {
+    "id": 3271,
+    "name": "KOTA BOGOR"
+  },
+  {
+    "id": 3272,
+    "name": "KOTA SUKABUMI"
+  },
+  {
+    "id": 3273,
+    "name": "KOTA BANDUNG"
+  },
+  {
+    "id": 3274,
+    "name": "KOTA CIREBON"
+  },
+  {
+    "id": 3275,
+    "name": "KOTA BEKASI"
+  },
+  {
+    "id": 3276,
+    "name": "KOTA DEPOK"
+  },
+  {
+    "id": 3277,
+    "name": "KOTA CIMAHI"
+  },
+  {
+    "id": 3278,
+    "name": "KOTA TASIKMALAYA"
+  },
+  {
+    "id": 3279,
+    "name": "KOTA BANJAR"
+  }
+]

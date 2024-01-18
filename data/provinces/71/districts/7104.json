@@ -1,1 +1,78 @@
-[{"id":710401,"name":" LIRUNG"},{"id":710402,"name":" BEO"},{"id":710403,"name":" RAINIS"},{"id":710404,"name":" ESSANG"},{"id":710405,"name":" NANUSA"},{"id":710406,"name":" KABARUAN"},{"id":710407,"name":" MELONGUANE"},{"id":710408,"name":" GEMEH"},{"id":710409,"name":" DAMAU"},{"id":710410,"name":" TAMPAN/ AMMA"},{"id":710411,"name":" SALIBABU"},{"id":710412,"name":" KALONGAN"},{"id":710413,"name":" MIANGAS"},{"id":710414,"name":" BEO UTARA"},{"id":710415,"name":" PULUTAN"},{"id":710416,"name":" MELONGUANE TIMUR"},{"id":710417,"name":" MORONGE"},{"id":710418,"name":" BEO SELATAN"},{"id":710419,"name":" ESSANG SELATAN"}]
+[
+  {
+    "id": 710401,
+    "name": " LIRUNG"
+  },
+  {
+    "id": 710402,
+    "name": " BEO"
+  },
+  {
+    "id": 710403,
+    "name": " RAINIS"
+  },
+  {
+    "id": 710404,
+    "name": " ESSANG"
+  },
+  {
+    "id": 710405,
+    "name": " NANUSA"
+  },
+  {
+    "id": 710406,
+    "name": " KABARUAN"
+  },
+  {
+    "id": 710407,
+    "name": " MELONGUANE"
+  },
+  {
+    "id": 710408,
+    "name": " GEMEH"
+  },
+  {
+    "id": 710409,
+    "name": " DAMAU"
+  },
+  {
+    "id": 710410,
+    "name": " TAMPAN/ AMMA"
+  },
+  {
+    "id": 710411,
+    "name": " SALIBABU"
+  },
+  {
+    "id": 710412,
+    "name": " KALONGAN"
+  },
+  {
+    "id": 710413,
+    "name": " MIANGAS"
+  },
+  {
+    "id": 710414,
+    "name": " BEO UTARA"
+  },
+  {
+    "id": 710415,
+    "name": " PULUTAN"
+  },
+  {
+    "id": 710416,
+    "name": " MELONGUANE TIMUR"
+  },
+  {
+    "id": 710417,
+    "name": " MORONGE"
+  },
+  {
+    "id": 710418,
+    "name": " BEO SELATAN"
+  },
+  {
+    "id": 710419,
+    "name": " ESSANG SELATAN"
+  }
+]

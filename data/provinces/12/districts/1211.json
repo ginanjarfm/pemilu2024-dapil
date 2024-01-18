@@ -1,1 +1,62 @@
-[{"id":121101,"name":" SIDIKALANG"},{"id":121102,"name":" SUMBUL"},{"id":121103,"name":" TIGALINGGA"},{"id":121104,"name":" SIEMPAT NEMPU"},{"id":121105,"name":" SILIMA PUNGGA PUNGGA"},{"id":121106,"name":" TANAH PINEM"},{"id":121107,"name":" SIEMPAT NEMPU HULU"},{"id":121108,"name":" SIEMPAT NEMPU HILIR"},{"id":121109,"name":" PEGAGAN HILIR"},{"id":121110,"name":" PARBULUAN"},{"id":121111,"name":" LAE PARIRA"},{"id":121112,"name":" GUNUNG SITEMBER"},{"id":121113,"name":" BERAMPU"},{"id":121114,"name":" SILAHISABUNGAN"},{"id":121115,"name":" SITINJO"}]
+[
+  {
+    "id": 121101,
+    "name": " SIDIKALANG"
+  },
+  {
+    "id": 121102,
+    "name": " SUMBUL"
+  },
+  {
+    "id": 121103,
+    "name": " TIGALINGGA"
+  },
+  {
+    "id": 121104,
+    "name": " SIEMPAT NEMPU"
+  },
+  {
+    "id": 121105,
+    "name": " SILIMA PUNGGA PUNGGA"
+  },
+  {
+    "id": 121106,
+    "name": " TANAH PINEM"
+  },
+  {
+    "id": 121107,
+    "name": " SIEMPAT NEMPU HULU"
+  },
+  {
+    "id": 121108,
+    "name": " SIEMPAT NEMPU HILIR"
+  },
+  {
+    "id": 121109,
+    "name": " PEGAGAN HILIR"
+  },
+  {
+    "id": 121110,
+    "name": " PARBULUAN"
+  },
+  {
+    "id": 121111,
+    "name": " LAE PARIRA"
+  },
+  {
+    "id": 121112,
+    "name": " GUNUNG SITEMBER"
+  },
+  {
+    "id": 121113,
+    "name": " BERAMPU"
+  },
+  {
+    "id": 121114,
+    "name": " SILAHISABUNGAN"
+  },
+  {
+    "id": 121115,
+    "name": " SITINJO"
+  }
+]

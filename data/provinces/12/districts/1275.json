@@ -1,1 +1,22 @@
-[{"id":127501,"name":" BINJAI UTARA"},{"id":127502,"name":" BINJAI KOTA"},{"id":127503,"name":" BINJAI BARAT"},{"id":127504,"name":" BINJAI TIMUR"},{"id":127505,"name":" BINJAI SELATAN"}]
+[
+  {
+    "id": 127501,
+    "name": " BINJAI UTARA"
+  },
+  {
+    "id": 127502,
+    "name": " BINJAI KOTA"
+  },
+  {
+    "id": 127503,
+    "name": " BINJAI BARAT"
+  },
+  {
+    "id": 127504,
+    "name": " BINJAI TIMUR"
+  },
+  {
+    "id": 127505,
+    "name": " BINJAI SELATAN"
+  }
+]

@@ -1,1 +1,74 @@
-[{"id":640801,"name":" MUARA ANCALONG"},{"id":640802,"name":" MUARA WAHAU"},{"id":640803,"name":" MUARA BENGKAL"},{"id":640804,"name":" SANGATTA UTARA"},{"id":640805,"name":" SANGKULIRANG"},{"id":640806,"name":" BUSANG"},{"id":640807,"name":" TELEN"},{"id":640808,"name":" KOMBENG"},{"id":640809,"name":" BENGALON"},{"id":640810,"name":" KALIORANG"},{"id":640811,"name":" SANDARAN"},{"id":640812,"name":" SANGATTA SELATAN"},{"id":640813,"name":" TELUK PANDAN"},{"id":640814,"name":" RANTAU PULUNG"},{"id":640815,"name":" KAUBUN"},{"id":640816,"name":" KARANGAN"},{"id":640817,"name":" BATU AMPAR"},{"id":640818,"name":" LONG MESANGAT"}]
+[
+  {
+    "id": 640801,
+    "name": " MUARA ANCALONG"
+  },
+  {
+    "id": 640802,
+    "name": " MUARA WAHAU"
+  },
+  {
+    "id": 640803,
+    "name": " MUARA BENGKAL"
+  },
+  {
+    "id": 640804,
+    "name": " SANGATTA UTARA"
+  },
+  {
+    "id": 640805,
+    "name": " SANGKULIRANG"
+  },
+  {
+    "id": 640806,
+    "name": " BUSANG"
+  },
+  {
+    "id": 640807,
+    "name": " TELEN"
+  },
+  {
+    "id": 640808,
+    "name": " KOMBENG"
+  },
+  {
+    "id": 640809,
+    "name": " BENGALON"
+  },
+  {
+    "id": 640810,
+    "name": " KALIORANG"
+  },
+  {
+    "id": 640811,
+    "name": " SANDARAN"
+  },
+  {
+    "id": 640812,
+    "name": " SANGATTA SELATAN"
+  },
+  {
+    "id": 640813,
+    "name": " TELUK PANDAN"
+  },
+  {
+    "id": 640814,
+    "name": " RANTAU PULUNG"
+  },
+  {
+    "id": 640815,
+    "name": " KAUBUN"
+  },
+  {
+    "id": 640816,
+    "name": " KARANGAN"
+  },
+  {
+    "id": 640817,
+    "name": " BATU AMPAR"
+  },
+  {
+    "id": 640818,
+    "name": " LONG MESANGAT"
+  }
+]

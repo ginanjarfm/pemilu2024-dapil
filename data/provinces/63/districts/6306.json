@@ -1,1 +1,46 @@
-[{"id":630601,"name":" SUNGAI RAYA"},{"id":630602,"name":" PADANG BATUNG"},{"id":630603,"name":" TELAGA LANGSAT"},{"id":630604,"name":" ANGKINANG"},{"id":630605,"name":" KANDANGAN"},{"id":630606,"name":" SIMPUR"},{"id":630607,"name":" DAHA SELATAN"},{"id":630608,"name":" DAHA UTARA"},{"id":630609,"name":" KALUMPANG"},{"id":630610,"name":" LOKSADO"},{"id":630611,"name":" DAHA BARAT"}]
+[
+  {
+    "id": 630601,
+    "name": " SUNGAI RAYA"
+  },
+  {
+    "id": 630602,
+    "name": " PADANG BATUNG"
+  },
+  {
+    "id": 630603,
+    "name": " TELAGA LANGSAT"
+  },
+  {
+    "id": 630604,
+    "name": " ANGKINANG"
+  },
+  {
+    "id": 630605,
+    "name": " KANDANGAN"
+  },
+  {
+    "id": 630606,
+    "name": " SIMPUR"
+  },
+  {
+    "id": 630607,
+    "name": " DAHA SELATAN"
+  },
+  {
+    "id": 630608,
+    "name": " DAHA UTARA"
+  },
+  {
+    "id": 630609,
+    "name": " KALUMPANG"
+  },
+  {
+    "id": 630610,
+    "name": " LOKSADO"
+  },
+  {
+    "id": 630611,
+    "name": " DAHA BARAT"
+  }
+]

@@ -1,1 +1,34 @@
-[{"id":820801,"name":" TALIABU BARAT"},{"id":820802,"name":" TALIABU BARAT LAUT"},{"id":820803,"name":" LEDE"},{"id":820804,"name":" TALIABU UTARA"},{"id":820805,"name":" TALIABU TIMUR"},{"id":820806,"name":" TALIABU TIMUR SELATAN"},{"id":820807,"name":" TALIABU SELATAN"},{"id":820808,"name":" TABONA"}]
+[
+  {
+    "id": 820801,
+    "name": " TALIABU BARAT"
+  },
+  {
+    "id": 820802,
+    "name": " TALIABU BARAT LAUT"
+  },
+  {
+    "id": 820803,
+    "name": " LEDE"
+  },
+  {
+    "id": 820804,
+    "name": " TALIABU UTARA"
+  },
+  {
+    "id": 820805,
+    "name": " TALIABU TIMUR"
+  },
+  {
+    "id": 820806,
+    "name": " TALIABU TIMUR SELATAN"
+  },
+  {
+    "id": 820807,
+    "name": " TALIABU SELATAN"
+  },
+  {
+    "id": 820808,
+    "name": " TABONA"
+  }
+]

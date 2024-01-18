@@ -1,1 +1,46 @@
-[{"id":760201,"name":" MAMUJU"},{"id":760202,"name":" TAPALANG"},{"id":760203,"name":" KALUKKU"},{"id":760204,"name":" KALUMPANG"},{"id":760207,"name":" PAPALANG"},{"id":760208,"name":" SAMPAGA"},{"id":760211,"name":" TOMMO"},{"id":760212,"name":" SIMBORO DAN KEPULAUAN"},{"id":760213,"name":" TAPALANG BARAT"},{"id":760215,"name":" BONEHAU"},{"id":760216,"name":" KEP. BALA BALAKANG"}]
+[
+  {
+    "id": 760201,
+    "name": " MAMUJU"
+  },
+  {
+    "id": 760202,
+    "name": " TAPALANG"
+  },
+  {
+    "id": 760203,
+    "name": " KALUKKU"
+  },
+  {
+    "id": 760204,
+    "name": " KALUMPANG"
+  },
+  {
+    "id": 760207,
+    "name": " PAPALANG"
+  },
+  {
+    "id": 760208,
+    "name": " SAMPAGA"
+  },
+  {
+    "id": 760211,
+    "name": " TOMMO"
+  },
+  {
+    "id": 760212,
+    "name": " SIMBORO DAN KEPULAUAN"
+  },
+  {
+    "id": 760213,
+    "name": " TAPALANG BARAT"
+  },
+  {
+    "id": 760215,
+    "name": " BONEHAU"
+  },
+  {
+    "id": 760216,
+    "name": " KEP. BALA BALAKANG"
+  }
+]

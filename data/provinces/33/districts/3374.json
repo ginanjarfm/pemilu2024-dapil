@@ -1,1 +1,66 @@
-[{"id":337401,"name":" SEMARANG TENGAH"},{"id":337402,"name":" SEMARANG UTARA"},{"id":337403,"name":" SEMARANG TIMUR"},{"id":337404,"name":" GAYAMSARI"},{"id":337405,"name":" GENUK"},{"id":337406,"name":" PEDURUNGAN"},{"id":337407,"name":" SEMARANG SELATAN"},{"id":337408,"name":" CANDISARI"},{"id":337409,"name":" GAJAHMUNGKUR"},{"id":337410,"name":" TEMBALANG"},{"id":337411,"name":" BANYUMANIK"},{"id":337412,"name":" GUNUNGPATI"},{"id":337413,"name":" SEMARANG BARAT"},{"id":337414,"name":" MIJEN"},{"id":337415,"name":" NGALIYAN"},{"id":337416,"name":" TUGU"}]
+[
+  {
+    "id": 337401,
+    "name": " SEMARANG TENGAH"
+  },
+  {
+    "id": 337402,
+    "name": " SEMARANG UTARA"
+  },
+  {
+    "id": 337403,
+    "name": " SEMARANG TIMUR"
+  },
+  {
+    "id": 337404,
+    "name": " GAYAMSARI"
+  },
+  {
+    "id": 337405,
+    "name": " GENUK"
+  },
+  {
+    "id": 337406,
+    "name": " PEDURUNGAN"
+  },
+  {
+    "id": 337407,
+    "name": " SEMARANG SELATAN"
+  },
+  {
+    "id": 337408,
+    "name": " CANDISARI"
+  },
+  {
+    "id": 337409,
+    "name": " GAJAHMUNGKUR"
+  },
+  {
+    "id": 337410,
+    "name": " TEMBALANG"
+  },
+  {
+    "id": 337411,
+    "name": " BANYUMANIK"
+  },
+  {
+    "id": 337412,
+    "name": " GUNUNGPATI"
+  },
+  {
+    "id": 337413,
+    "name": " SEMARANG BARAT"
+  },
+  {
+    "id": 337414,
+    "name": " MIJEN"
+  },
+  {
+    "id": 337415,
+    "name": " NGALIYAN"
+  },
+  {
+    "id": 337416,
+    "name": " TUGU"
+  }
+]

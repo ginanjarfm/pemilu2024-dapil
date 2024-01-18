@@ -1,1 +1,42 @@
-[{"id":820601,"name":" WASILE"},{"id":820602,"name":" MABA"},{"id":820603,"name":" MABA SELATAN"},{"id":820604,"name":" WASILE SELATAN"},{"id":820605,"name":" WASILE TENGAH"},{"id":820606,"name":" WASILE UTARA"},{"id":820607,"name":" WASILE TIMUR"},{"id":820608,"name":" MABA TENGAH"},{"id":820609,"name":" MABA UTARA"},{"id":820610,"name":" KOTA MABA"}]
+[
+  {
+    "id": 820601,
+    "name": " WASILE"
+  },
+  {
+    "id": 820602,
+    "name": " MABA"
+  },
+  {
+    "id": 820603,
+    "name": " MABA SELATAN"
+  },
+  {
+    "id": 820604,
+    "name": " WASILE SELATAN"
+  },
+  {
+    "id": 820605,
+    "name": " WASILE TENGAH"
+  },
+  {
+    "id": 820606,
+    "name": " WASILE UTARA"
+  },
+  {
+    "id": 820607,
+    "name": " WASILE TIMUR"
+  },
+  {
+    "id": 820608,
+    "name": " MABA TENGAH"
+  },
+  {
+    "id": 820609,
+    "name": " MABA UTARA"
+  },
+  {
+    "id": 820610,
+    "name": " KOTA MABA"
+  }
+]

@@ -1,1 +1,62 @@
-[{"id":170206,"name":" KOTA PADANG"},{"id":170207,"name":" PADANG ULAK TANDING"},{"id":170208,"name":" SINDANG KELINGI"},{"id":170209,"name":" CURUP"},{"id":170210,"name":" BERMANI ULU"},{"id":170211,"name":" SELUPU REJANG"},{"id":170216,"name":" CURUP UTARA"},{"id":170217,"name":" CURUP TIMUR"},{"id":170218,"name":" CURUP SELATAN"},{"id":170219,"name":" CURUP TENGAH"},{"id":170220,"name":" BINDURIANG"},{"id":170221,"name":" SINDANG BELITI ULU"},{"id":170222,"name":" SINDANG DATARAN"},{"id":170223,"name":" SINDANG BELITI ILIR"},{"id":170224,"name":" BERMANI ULU RAYA"}]
+[
+  {
+    "id": 170206,
+    "name": " KOTA PADANG"
+  },
+  {
+    "id": 170207,
+    "name": " PADANG ULAK TANDING"
+  },
+  {
+    "id": 170208,
+    "name": " SINDANG KELINGI"
+  },
+  {
+    "id": 170209,
+    "name": " CURUP"
+  },
+  {
+    "id": 170210,
+    "name": " BERMANI ULU"
+  },
+  {
+    "id": 170211,
+    "name": " SELUPU REJANG"
+  },
+  {
+    "id": 170216,
+    "name": " CURUP UTARA"
+  },
+  {
+    "id": 170217,
+    "name": " CURUP TIMUR"
+  },
+  {
+    "id": 170218,
+    "name": " CURUP SELATAN"
+  },
+  {
+    "id": 170219,
+    "name": " CURUP TENGAH"
+  },
+  {
+    "id": 170220,
+    "name": " BINDURIANG"
+  },
+  {
+    "id": 170221,
+    "name": " SINDANG BELITI ULU"
+  },
+  {
+    "id": 170222,
+    "name": " SINDANG DATARAN"
+  },
+  {
+    "id": 170223,
+    "name": " SINDANG BELITI ILIR"
+  },
+  {
+    "id": 170224,
+    "name": " BERMANI ULU RAYA"
+  }
+]

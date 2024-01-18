@@ -1,1 +1,50 @@
-[{"id":731601,"name":" MAIWA"},{"id":731602,"name":" ENREKANG"},{"id":731603,"name":" BARAKA"},{"id":731604,"name":" ANGGERAJA"},{"id":731605,"name":" ALLA"},{"id":731606,"name":" BUNGIN"},{"id":731607,"name":" CENDANA"},{"id":731608,"name":" CURIO"},{"id":731609,"name":" MALUA"},{"id":731610,"name":" BUNTU BATU"},{"id":731611,"name":" MASALLE"},{"id":731612,"name":" BAROKO"}]
+[
+  {
+    "id": 731601,
+    "name": " MAIWA"
+  },
+  {
+    "id": 731602,
+    "name": " ENREKANG"
+  },
+  {
+    "id": 731603,
+    "name": " BARAKA"
+  },
+  {
+    "id": 731604,
+    "name": " ANGGERAJA"
+  },
+  {
+    "id": 731605,
+    "name": " ALLA"
+  },
+  {
+    "id": 731606,
+    "name": " BUNGIN"
+  },
+  {
+    "id": 731607,
+    "name": " CENDANA"
+  },
+  {
+    "id": 731608,
+    "name": " CURIO"
+  },
+  {
+    "id": 731609,
+    "name": " MALUA"
+  },
+  {
+    "id": 731610,
+    "name": " BUNTU BATU"
+  },
+  {
+    "id": 731611,
+    "name": " MASALLE"
+  },
+  {
+    "id": 731612,
+    "name": " BAROKO"
+  }
+]

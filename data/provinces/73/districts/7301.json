@@ -1,1 +1,46 @@
-[{"id":730101,"name":" BENTENG"},{"id":730102,"name":" BONTOHARU"},{"id":730103,"name":" BONTOMATENE"},{"id":730104,"name":" BONTOMANAI"},{"id":730105,"name":" BONTOSIKUYU"},{"id":730106,"name":" PASIMASUNGGU"},{"id":730107,"name":" PASIMARANNU"},{"id":730108,"name":" TAKA BONERATE"},{"id":730109,"name":" PASILAMBENA"},{"id":730110,"name":" PASIMASUNGGU TIMUR"},{"id":730111,"name":" BUKI"}]
+[
+  {
+    "id": 730101,
+    "name": " BENTENG"
+  },
+  {
+    "id": 730102,
+    "name": " BONTOHARU"
+  },
+  {
+    "id": 730103,
+    "name": " BONTOMATENE"
+  },
+  {
+    "id": 730104,
+    "name": " BONTOMANAI"
+  },
+  {
+    "id": 730105,
+    "name": " BONTOSIKUYU"
+  },
+  {
+    "id": 730106,
+    "name": " PASIMASUNGGU"
+  },
+  {
+    "id": 730107,
+    "name": " PASIMARANNU"
+  },
+  {
+    "id": 730108,
+    "name": " TAKA BONERATE"
+  },
+  {
+    "id": 730109,
+    "name": " PASILAMBENA"
+  },
+  {
+    "id": 730110,
+    "name": " PASIMASUNGGU TIMUR"
+  },
+  {
+    "id": 730111,
+    "name": " BUKI"
+  }
+]

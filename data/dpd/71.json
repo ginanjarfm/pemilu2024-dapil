@@ -1,1 +1,83 @@
-[{"nomor_urut":1,"foto":"https://i.ibb.co/H23grj2/71-1.jpg","nama":"ABID TAKALAMINGAN, S.Sos., M.H.","jenis_kelamin":"L","alamat_kabko":"KOTA MANADO / SULAWESI UTARA","profile":{},"kode_propinsi":"71"},{"nomor_urut":2,"foto":"https://i.ibb.co/FHjhMKN/71-2.jpg","nama":"Dra. ADRIANA CHARLOTTE DONDOKAMBEY, M.Si.","jenis_kelamin":"P","alamat_kabko":"KAB. MINAHASA UTARA / SULAWESI UTARA","profile":{},"kode_propinsi":"71"},{"nomor_urut":3,"foto":"https://i.ibb.co/Wch0fWv/71-3.jpg","nama":"CHERISH HARRIETTE","jenis_kelamin":"P","alamat_kabko":"KOTA JAKARTA SELATAN / DKI JAKARTA","profile":{},"kode_propinsi":"71"},{"nomor_urut":4,"foto":"https://i.ibb.co/tQkmrTw/71-4.jpg","nama":"DJAFAR ALKATIRI","jenis_kelamin":"L","alamat_kabko":"KOTA MANADO / SULAWESI UTARA","profile":{"ID_CANDIDATE":"5daefdd78e965409818e59c295cee89c07af07d00b6c37f9614df856998e176002985e273a339aa5191d0c37b919f3ff26e0e8396337804028ca5a235356d1c3zZLRBiE7Ofb9QzPyR/IkCW+SPDInxujNBrM7EISLkZM=","pilihan_publikasi":"BERSEDIA"},"kode_propinsi":"71"},{"nomor_urut":5,"foto":"https://i.ibb.co/prdg615/71-5.jpg","nama":"MAYA RUMANTIR","jenis_kelamin":"P","alamat_kabko":"KOTA JAKARTA SELATAN / DKI JAKARTA","profile":{},"kode_propinsi":"71"},{"nomor_urut":6,"foto":"https://i.ibb.co/6XbjDjH/71-6.jpg","nama":"MURPHY ELDY KANLY KUHU, S.T.P.","jenis_kelamin":"L","alamat_kabko":"KAB. MINAHASA / SULAWESI UTARA","profile":{},"kode_propinsi":"71"},{"nomor_urut":7,"foto":"https://i.ibb.co/TbdhMTm/71-7.jpg","nama":"PUTRI REJEKI KASAD, S.H., M.Kn.","jenis_kelamin":"P","alamat_kabko":"KOTA TANGERANG SELATAN / BANTEN","profile":{"ID_CANDIDATE":"f8361373298482fc7ae1956a9dc55efd8d10ea8bc611464f499f738d7826e2728fbdde62f8ce8bcd96d52fa54337110c9a3303746ad453427f6f1d8c2499e4feMavwdnSWCkuqyYkg7Brn/nuvBozOc7Xn/NIssvrDqKs=","pilihan_publikasi":"BERSEDIA"},"kode_propinsi":"71"},{"nomor_urut":8,"foto":"https://i.ibb.co/6tJgktZ/71-8.jpg","nama":"Ir. STEFANUS B.A.N. LIOW, M.A.P.","jenis_kelamin":"L","alamat_kabko":"KOTA TOMOHON / SULAWESI UTARA","profile":{"ID_CANDIDATE":"c2c55082e4c9b04dc7e77583d22246f96e05e2ab587eb739445cc1a9ecf1a5d2fec369c0e13cd2ad0eeb9502b9f5561924fa21a963a1fb45fc44f0a1cc8b6607naZmaJ7C51I4el69MEJ6aoLcKQMbL4DKCY7rXxXg9lY=","pilihan_publikasi":"BERSEDIA"},"kode_propinsi":"71"}]
+[
+  {
+    "nomor_urut": 1,
+    "foto": "https://i.ibb.co/H23grj2/71-1.jpg",
+    "nama": "ABID TAKALAMINGAN, S.Sos., M.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA MANADO / SULAWESI UTARA",
+    "profile": {},
+    "kode_propinsi": "71"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://i.ibb.co/FHjhMKN/71-2.jpg",
+    "nama": "Dra. ADRIANA CHARLOTTE DONDOKAMBEY, M.Si.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KAB. MINAHASA UTARA / SULAWESI UTARA",
+    "profile": {},
+    "kode_propinsi": "71"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://i.ibb.co/Wch0fWv/71-3.jpg",
+    "nama": "CHERISH HARRIETTE",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA JAKARTA SELATAN / DKI JAKARTA",
+    "profile": {},
+    "kode_propinsi": "71"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://i.ibb.co/tQkmrTw/71-4.jpg",
+    "nama": "DJAFAR ALKATIRI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA MANADO / SULAWESI UTARA",
+    "profile": {
+      "ID_CANDIDATE": "5daefdd78e965409818e59c295cee89c07af07d00b6c37f9614df856998e176002985e273a339aa5191d0c37b919f3ff26e0e8396337804028ca5a235356d1c3zZLRBiE7Ofb9QzPyR/IkCW+SPDInxujNBrM7EISLkZM=",
+      "pilihan_publikasi": "BERSEDIA"
+    },
+    "kode_propinsi": "71"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://i.ibb.co/prdg615/71-5.jpg",
+    "nama": "MAYA RUMANTIR",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA JAKARTA SELATAN / DKI JAKARTA",
+    "profile": {},
+    "kode_propinsi": "71"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://i.ibb.co/6XbjDjH/71-6.jpg",
+    "nama": "MURPHY ELDY KANLY KUHU, S.T.P.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB. MINAHASA / SULAWESI UTARA",
+    "profile": {},
+    "kode_propinsi": "71"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://i.ibb.co/TbdhMTm/71-7.jpg",
+    "nama": "PUTRI REJEKI KASAD, S.H., M.Kn.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA TANGERANG SELATAN / BANTEN",
+    "profile": {
+      "ID_CANDIDATE": "f8361373298482fc7ae1956a9dc55efd8d10ea8bc611464f499f738d7826e2728fbdde62f8ce8bcd96d52fa54337110c9a3303746ad453427f6f1d8c2499e4feMavwdnSWCkuqyYkg7Brn/nuvBozOc7Xn/NIssvrDqKs=",
+      "pilihan_publikasi": "BERSEDIA"
+    },
+    "kode_propinsi": "71"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://i.ibb.co/6tJgktZ/71-8.jpg",
+    "nama": "Ir. STEFANUS B.A.N. LIOW, M.A.P.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA TOMOHON / SULAWESI UTARA",
+    "profile": {
+      "ID_CANDIDATE": "c2c55082e4c9b04dc7e77583d22246f96e05e2ab587eb739445cc1a9ecf1a5d2fec369c0e13cd2ad0eeb9502b9f5561924fa21a963a1fb45fc44f0a1cc8b6607naZmaJ7C51I4el69MEJ6aoLcKQMbL4DKCY7rXxXg9lY=",
+      "pilihan_publikasi": "BERSEDIA"
+    },
+    "kode_propinsi": "71"
+  }
+]

@@ -1,1 +1,102 @@
-[{"id":740501,"name":" TINANGGEA"},{"id":740502,"name":" ANGATA"},{"id":740503,"name":" ANDOOLO"},{"id":740504,"name":" PALANGGA"},{"id":740505,"name":" LANDONO"},{"id":740506,"name":" LAINEA"},{"id":740507,"name":" KONDA"},{"id":740508,"name":" RANOMEETO"},{"id":740509,"name":" KOLONO"},{"id":740510,"name":" MORAMO"},{"id":740511,"name":" LAONTI"},{"id":740512,"name":" LALEMBUU"},{"id":740513,"name":" BENUA"},{"id":740514,"name":" PALANGGA SELATAN"},{"id":740515,"name":" MOWILA"},{"id":740516,"name":" MORAMO UTARA"},{"id":740517,"name":" BUKE"},{"id":740518,"name":" WOLASI"},{"id":740519,"name":" LAEYA"},{"id":740520,"name":" BAITO"},{"id":740521,"name":" BASALA"},{"id":740522,"name":" RANOMEETO BARAT"},{"id":740523,"name":" KOLONO TIMUR"},{"id":740524,"name":" SABULAKOA"},{"id":740525,"name":" ANDOOLO BARAT"}]
+[
+  {
+    "id": 740501,
+    "name": " TINANGGEA"
+  },
+  {
+    "id": 740502,
+    "name": " ANGATA"
+  },
+  {
+    "id": 740503,
+    "name": " ANDOOLO"
+  },
+  {
+    "id": 740504,
+    "name": " PALANGGA"
+  },
+  {
+    "id": 740505,
+    "name": " LANDONO"
+  },
+  {
+    "id": 740506,
+    "name": " LAINEA"
+  },
+  {
+    "id": 740507,
+    "name": " KONDA"
+  },
+  {
+    "id": 740508,
+    "name": " RANOMEETO"
+  },
+  {
+    "id": 740509,
+    "name": " KOLONO"
+  },
+  {
+    "id": 740510,
+    "name": " MORAMO"
+  },
+  {
+    "id": 740511,
+    "name": " LAONTI"
+  },
+  {
+    "id": 740512,
+    "name": " LALEMBUU"
+  },
+  {
+    "id": 740513,
+    "name": " BENUA"
+  },
+  {
+    "id": 740514,
+    "name": " PALANGGA SELATAN"
+  },
+  {
+    "id": 740515,
+    "name": " MOWILA"
+  },
+  {
+    "id": 740516,
+    "name": " MORAMO UTARA"
+  },
+  {
+    "id": 740517,
+    "name": " BUKE"
+  },
+  {
+    "id": 740518,
+    "name": " WOLASI"
+  },
+  {
+    "id": 740519,
+    "name": " LAEYA"
+  },
+  {
+    "id": 740520,
+    "name": " BAITO"
+  },
+  {
+    "id": 740521,
+    "name": " BASALA"
+  },
+  {
+    "id": 740522,
+    "name": " RANOMEETO BARAT"
+  },
+  {
+    "id": 740523,
+    "name": " KOLONO TIMUR"
+  },
+  {
+    "id": 740524,
+    "name": " SABULAKOA"
+  },
+  {
+    "id": 740525,
+    "name": " ANDOOLO BARAT"
+  }
+]

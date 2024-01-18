@@ -1,1 +1,50 @@
-[{"id":531901,"name":" BORONG"},{"id":531902,"name":" LAMBA LEDA SELATAN"},{"id":531903,"name":" LAMBA LEDA"},{"id":531904,"name":" SAMBI RAMPAS"},{"id":531905,"name":" ELAR"},{"id":531906,"name":" KOTA KOMBA"},{"id":531907,"name":" RANA MESE"},{"id":531908,"name":" LAMBA LEDA TIMUR"},{"id":531909,"name":" ELAR SELATAN"},{"id":531910,"name":" KOTA KOMBA UTARA"},{"id":531911,"name":" LAMBA LEDA UTARA"},{"id":531912,"name":" CONGKAR"}]
+[
+  {
+    "id": 531901,
+    "name": " BORONG"
+  },
+  {
+    "id": 531902,
+    "name": " LAMBA LEDA SELATAN"
+  },
+  {
+    "id": 531903,
+    "name": " LAMBA LEDA"
+  },
+  {
+    "id": 531904,
+    "name": " SAMBI RAMPAS"
+  },
+  {
+    "id": 531905,
+    "name": " ELAR"
+  },
+  {
+    "id": 531906,
+    "name": " KOTA KOMBA"
+  },
+  {
+    "id": 531907,
+    "name": " RANA MESE"
+  },
+  {
+    "id": 531908,
+    "name": " LAMBA LEDA TIMUR"
+  },
+  {
+    "id": 531909,
+    "name": " ELAR SELATAN"
+  },
+  {
+    "id": 531910,
+    "name": " KOTA KOMBA UTARA"
+  },
+  {
+    "id": 531911,
+    "name": " LAMBA LEDA UTARA"
+  },
+  {
+    "id": 531912,
+    "name": " CONGKAR"
+  }
+]

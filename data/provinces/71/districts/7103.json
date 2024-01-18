@@ -1,1 +1,62 @@
-[{"id":710308,"name":" TABUKAN UTARA"},{"id":710309,"name":" NUSA TABUKAN"},{"id":710310,"name":" MANGANITU SELATAN"},{"id":710311,"name":" TATOARENG"},{"id":710312,"name":" TAMAKO"},{"id":710313,"name":" MANGANITU"},{"id":710314,"name":" TABUKAN TENGAH"},{"id":710315,"name":" TABUKAN SELATAN"},{"id":710316,"name":" KENDAHE"},{"id":710317,"name":" TAHUNA"},{"id":710319,"name":" TABUKAN SELATAN TENGAH"},{"id":710320,"name":" TABUKAN SELATAN TENGGARA"},{"id":710323,"name":" TAHUNA BARAT"},{"id":710324,"name":" TAHUNA TIMUR"},{"id":710325,"name":" KEPULAUAN MARORE"}]
+[
+  {
+    "id": 710308,
+    "name": " TABUKAN UTARA"
+  },
+  {
+    "id": 710309,
+    "name": " NUSA TABUKAN"
+  },
+  {
+    "id": 710310,
+    "name": " MANGANITU SELATAN"
+  },
+  {
+    "id": 710311,
+    "name": " TATOARENG"
+  },
+  {
+    "id": 710312,
+    "name": " TAMAKO"
+  },
+  {
+    "id": 710313,
+    "name": " MANGANITU"
+  },
+  {
+    "id": 710314,
+    "name": " TABUKAN TENGAH"
+  },
+  {
+    "id": 710315,
+    "name": " TABUKAN SELATAN"
+  },
+  {
+    "id": 710316,
+    "name": " KENDAHE"
+  },
+  {
+    "id": 710317,
+    "name": " TAHUNA"
+  },
+  {
+    "id": 710319,
+    "name": " TABUKAN SELATAN TENGAH"
+  },
+  {
+    "id": 710320,
+    "name": " TABUKAN SELATAN TENGGARA"
+  },
+  {
+    "id": 710323,
+    "name": " TAHUNA BARAT"
+  },
+  {
+    "id": 710324,
+    "name": " TAHUNA TIMUR"
+  },
+  {
+    "id": 710325,
+    "name": " KEPULAUAN MARORE"
+  }
+]

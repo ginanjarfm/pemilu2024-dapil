@@ -1,1 +1,34 @@
-[{"id":3601,"name":"PANDEGLANG"},{"id":3602,"name":"LEBAK"},{"id":3603,"name":"TANGERANG"},{"id":3604,"name":"SERANG"},{"id":3671,"name":"KOTA TANGERANG"},{"id":3672,"name":"KOTA CILEGON"},{"id":3673,"name":"KOTA SERANG"},{"id":3674,"name":"KOTA TANGERANG SELATAN"}]
+[
+  {
+    "id": 3601,
+    "name": "PANDEGLANG"
+  },
+  {
+    "id": 3602,
+    "name": "LEBAK"
+  },
+  {
+    "id": 3603,
+    "name": "TANGERANG"
+  },
+  {
+    "id": 3604,
+    "name": "SERANG"
+  },
+  {
+    "id": 3671,
+    "name": "KOTA TANGERANG"
+  },
+  {
+    "id": 3672,
+    "name": "KOTA CILEGON"
+  },
+  {
+    "id": 3673,
+    "name": "KOTA SERANG"
+  },
+  {
+    "id": 3674,
+    "name": "KOTA TANGERANG SELATAN"
+  }
+]

@@ -1,1 +1,26 @@
-[{"id":611101,"name":" SUKADANA"},{"id":611102,"name":" SIMPANG HILIR"},{"id":611103,"name":" TELUK BATANG"},{"id":611104,"name":" PULAU MAYA"},{"id":611105,"name":" SEPONTI"},{"id":611106,"name":" KEPULAUAN KARIMATA"}]
+[
+  {
+    "id": 611101,
+    "name": " SUKADANA"
+  },
+  {
+    "id": 611102,
+    "name": " SIMPANG HILIR"
+  },
+  {
+    "id": 611103,
+    "name": " TELUK BATANG"
+  },
+  {
+    "id": 611104,
+    "name": " PULAU MAYA"
+  },
+  {
+    "id": 611105,
+    "name": " SEPONTI"
+  },
+  {
+    "id": 611106,
+    "name": " KEPULAUAN KARIMATA"
+  }
+]

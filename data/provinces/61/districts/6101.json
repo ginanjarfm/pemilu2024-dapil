@@ -1,1 +1,78 @@
-[{"id":610101,"name":" SAMBAS"},{"id":610102,"name":" TELUK KERAMAT"},{"id":610103,"name":" JAWAI"},{"id":610104,"name":" TEBAS"},{"id":610105,"name":" PEMANGKAT"},{"id":610106,"name":" SEJANGKUNG"},{"id":610107,"name":" SELAKAU"},{"id":610108,"name":" PALOH"},{"id":610109,"name":" SAJINGAN BESAR"},{"id":610110,"name":" SUBAH"},{"id":610111,"name":" GALING"},{"id":610112,"name":" TEKARANG"},{"id":610113,"name":" SEMPARUK"},{"id":610114,"name":" SAJAD"},{"id":610115,"name":" SEBAWI"},{"id":610116,"name":" JAWAI SELATAN"},{"id":610117,"name":" TANGARAN"},{"id":610118,"name":" SALATIGA"},{"id":610119,"name":" SELAKAU TIMUR"}]
+[
+  {
+    "id": 610101,
+    "name": " SAMBAS"
+  },
+  {
+    "id": 610102,
+    "name": " TELUK KERAMAT"
+  },
+  {
+    "id": 610103,
+    "name": " JAWAI"
+  },
+  {
+    "id": 610104,
+    "name": " TEBAS"
+  },
+  {
+    "id": 610105,
+    "name": " PEMANGKAT"
+  },
+  {
+    "id": 610106,
+    "name": " SEJANGKUNG"
+  },
+  {
+    "id": 610107,
+    "name": " SELAKAU"
+  },
+  {
+    "id": 610108,
+    "name": " PALOH"
+  },
+  {
+    "id": 610109,
+    "name": " SAJINGAN BESAR"
+  },
+  {
+    "id": 610110,
+    "name": " SUBAH"
+  },
+  {
+    "id": 610111,
+    "name": " GALING"
+  },
+  {
+    "id": 610112,
+    "name": " TEKARANG"
+  },
+  {
+    "id": 610113,
+    "name": " SEMPARUK"
+  },
+  {
+    "id": 610114,
+    "name": " SAJAD"
+  },
+  {
+    "id": 610115,
+    "name": " SEBAWI"
+  },
+  {
+    "id": 610116,
+    "name": " JAWAI SELATAN"
+  },
+  {
+    "id": 610117,
+    "name": " TANGARAN"
+  },
+  {
+    "id": 610118,
+    "name": " SALATIGA"
+  },
+  {
+    "id": 610119,
+    "name": " SELAKAU TIMUR"
+  }
+]

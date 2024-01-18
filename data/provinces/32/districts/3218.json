@@ -1,1 +1,42 @@
-[{"id":321801,"name":" PARIGI"},{"id":321802,"name":" CIJULANG"},{"id":321803,"name":" CIMERAK"},{"id":321804,"name":" CIGUGUR"},{"id":321805,"name":" LANGKAPLANCAR"},{"id":321806,"name":" MANGUNJAYA"},{"id":321807,"name":" PADAHERANG"},{"id":321808,"name":" KALIPUCANG"},{"id":321809,"name":" PANGANDARAN"},{"id":321810,"name":" SIDAMULIH"}]
+[
+  {
+    "id": 321801,
+    "name": " PARIGI"
+  },
+  {
+    "id": 321802,
+    "name": " CIJULANG"
+  },
+  {
+    "id": 321803,
+    "name": " CIMERAK"
+  },
+  {
+    "id": 321804,
+    "name": " CIGUGUR"
+  },
+  {
+    "id": 321805,
+    "name": " LANGKAPLANCAR"
+  },
+  {
+    "id": 321806,
+    "name": " MANGUNJAYA"
+  },
+  {
+    "id": 321807,
+    "name": " PADAHERANG"
+  },
+  {
+    "id": 321808,
+    "name": " KALIPUCANG"
+  },
+  {
+    "id": 321809,
+    "name": " PANGANDARAN"
+  },
+  {
+    "id": 321810,
+    "name": " SIDAMULIH"
+  }
+]

@@ -1,1 +1,94 @@
-[{"id":110703,"name":" BATEE"},{"id":110704,"name":" DELIMA"},{"id":110705,"name":" GEUMPANG"},{"id":110706,"name":" GLUMPANG TIGA"},{"id":110707,"name":" INDRAJAYA"},{"id":110708,"name":" KEMBANG TANJONG"},{"id":110709,"name":" KOTA SIGLI"},{"id":110711,"name":" MILA"},{"id":110712,"name":" MUARA TIGA"},{"id":110713,"name":" MUTIARA"},{"id":110714,"name":" PADANG TIJI"},{"id":110715,"name":" PEUKAN BARO"},{"id":110716,"name":" PIDIE"},{"id":110717,"name":" SAKTI"},{"id":110718,"name":" SIMPANG TIGA"},{"id":110719,"name":" TANGSE"},{"id":110721,"name":" TIRO/TRUSEB"},{"id":110722,"name":" KEUMALA"},{"id":110724,"name":" MUTIARA TIMUR"},{"id":110725,"name":" GRONG-GRONG"},{"id":110727,"name":" MANE"},{"id":110729,"name":" GLUMPANG BARO"},{"id":110731,"name":" TITEUE"}]
+[
+  {
+    "id": 110703,
+    "name": " BATEE"
+  },
+  {
+    "id": 110704,
+    "name": " DELIMA"
+  },
+  {
+    "id": 110705,
+    "name": " GEUMPANG"
+  },
+  {
+    "id": 110706,
+    "name": " GLUMPANG TIGA"
+  },
+  {
+    "id": 110707,
+    "name": " INDRAJAYA"
+  },
+  {
+    "id": 110708,
+    "name": " KEMBANG TANJONG"
+  },
+  {
+    "id": 110709,
+    "name": " KOTA SIGLI"
+  },
+  {
+    "id": 110711,
+    "name": " MILA"
+  },
+  {
+    "id": 110712,
+    "name": " MUARA TIGA"
+  },
+  {
+    "id": 110713,
+    "name": " MUTIARA"
+  },
+  {
+    "id": 110714,
+    "name": " PADANG TIJI"
+  },
+  {
+    "id": 110715,
+    "name": " PEUKAN BARO"
+  },
+  {
+    "id": 110716,
+    "name": " PIDIE"
+  },
+  {
+    "id": 110717,
+    "name": " SAKTI"
+  },
+  {
+    "id": 110718,
+    "name": " SIMPANG TIGA"
+  },
+  {
+    "id": 110719,
+    "name": " TANGSE"
+  },
+  {
+    "id": 110721,
+    "name": " TIRO/TRUSEB"
+  },
+  {
+    "id": 110722,
+    "name": " KEUMALA"
+  },
+  {
+    "id": 110724,
+    "name": " MUTIARA TIMUR"
+  },
+  {
+    "id": 110725,
+    "name": " GRONG-GRONG"
+  },
+  {
+    "id": 110727,
+    "name": " MANE"
+  },
+  {
+    "id": 110729,
+    "name": " GLUMPANG BARO"
+  },
+  {
+    "id": 110731,
+    "name": " TITEUE"
+  }
+]

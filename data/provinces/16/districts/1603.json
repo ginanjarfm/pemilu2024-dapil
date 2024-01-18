@@ -1,1 +1,90 @@
-[{"id":160301,"name":" TANJUNG AGUNG"},{"id":160302,"name":" MUARA ENIM"},{"id":160303,"name":" RAMBANG NIRU"},{"id":160304,"name":" GUNUNG MEGANG"},{"id":160306,"name":" GELUMBANG"},{"id":160307,"name":" LAWANG KIDUL"},{"id":160308,"name":" SEMENDE DARAT LAUT"},{"id":160309,"name":" SEMENDE DARAT TENGAH"},{"id":160310,"name":" SEMENDE DARAT ULU"},{"id":160311,"name":" UJAN MAS"},{"id":160314,"name":" LUBAI"},{"id":160315,"name":" RAMBANG"},{"id":160316,"name":" SUNGAI ROTAN"},{"id":160317,"name":" LEMBAK"},{"id":160319,"name":" BENAKAT"},{"id":160321,"name":" KELEKAR"},{"id":160322,"name":" MUARA BELIDA"},{"id":160323,"name":" BELIMBING"},{"id":160324,"name":" BELIDA DARAT"},{"id":160325,"name":" LUBAI ULU"},{"id":160326,"name":" EMPAT PETULAI DANGKU"},{"id":160327,"name":" PANANG ENIM"}]
+[
+  {
+    "id": 160301,
+    "name": " TANJUNG AGUNG"
+  },
+  {
+    "id": 160302,
+    "name": " MUARA ENIM"
+  },
+  {
+    "id": 160303,
+    "name": " RAMBANG NIRU"
+  },
+  {
+    "id": 160304,
+    "name": " GUNUNG MEGANG"
+  },
+  {
+    "id": 160306,
+    "name": " GELUMBANG"
+  },
+  {
+    "id": 160307,
+    "name": " LAWANG KIDUL"
+  },
+  {
+    "id": 160308,
+    "name": " SEMENDE DARAT LAUT"
+  },
+  {
+    "id": 160309,
+    "name": " SEMENDE DARAT TENGAH"
+  },
+  {
+    "id": 160310,
+    "name": " SEMENDE DARAT ULU"
+  },
+  {
+    "id": 160311,
+    "name": " UJAN MAS"
+  },
+  {
+    "id": 160314,
+    "name": " LUBAI"
+  },
+  {
+    "id": 160315,
+    "name": " RAMBANG"
+  },
+  {
+    "id": 160316,
+    "name": " SUNGAI ROTAN"
+  },
+  {
+    "id": 160317,
+    "name": " LEMBAK"
+  },
+  {
+    "id": 160319,
+    "name": " BENAKAT"
+  },
+  {
+    "id": 160321,
+    "name": " KELEKAR"
+  },
+  {
+    "id": 160322,
+    "name": " MUARA BELIDA"
+  },
+  {
+    "id": 160323,
+    "name": " BELIMBING"
+  },
+  {
+    "id": 160324,
+    "name": " BELIDA DARAT"
+  },
+  {
+    "id": 160325,
+    "name": " LUBAI ULU"
+  },
+  {
+    "id": 160326,
+    "name": " EMPAT PETULAI DANGKU"
+  },
+  {
+    "id": 160327,
+    "name": " PANANG ENIM"
+  }
+]

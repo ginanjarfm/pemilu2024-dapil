@@ -1,1 +1,50 @@
-[{"id":720901,"name":" UNA UNA"},{"id":720902,"name":" TOGEAN"},{"id":720903,"name":" WALEA KEPULAUAN"},{"id":720904,"name":" AMPANA TETE"},{"id":720905,"name":" AMPANA KOTA"},{"id":720906,"name":" ULUBONGKA"},{"id":720907,"name":" TOJO BARAT"},{"id":720908,"name":" TOJO"},{"id":720909,"name":" WALEA BESAR"},{"id":720910,"name":" RATOLINDO"},{"id":720911,"name":" BATUDAKA"},{"id":720912,"name":" TALATAKO"}]
+[
+  {
+    "id": 720901,
+    "name": " UNA UNA"
+  },
+  {
+    "id": 720902,
+    "name": " TOGEAN"
+  },
+  {
+    "id": 720903,
+    "name": " WALEA KEPULAUAN"
+  },
+  {
+    "id": 720904,
+    "name": " AMPANA TETE"
+  },
+  {
+    "id": 720905,
+    "name": " AMPANA KOTA"
+  },
+  {
+    "id": 720906,
+    "name": " ULUBONGKA"
+  },
+  {
+    "id": 720907,
+    "name": " TOJO BARAT"
+  },
+  {
+    "id": 720908,
+    "name": " TOJO"
+  },
+  {
+    "id": 720909,
+    "name": " WALEA BESAR"
+  },
+  {
+    "id": 720910,
+    "name": " RATOLINDO"
+  },
+  {
+    "id": 720911,
+    "name": " BATUDAKA"
+  },
+  {
+    "id": 720912,
+    "name": " TALATAKO"
+  }
+]

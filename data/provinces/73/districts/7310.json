@@ -1,1 +1,54 @@
-[{"id":731001,"name":" LIUKANG TANGAYA"},{"id":731002,"name":" LIUKANG KALMAS"},{"id":731003,"name":" LIUKANG TUPABBIRING"},{"id":731004,"name":" PANGKAJENE"},{"id":731005,"name":" BALOCCI"},{"id":731006,"name":" BUNGORO"},{"id":731007,"name":" LABAKKANG"},{"id":731008,"name":" MARANG"},{"id":731009,"name":" SEGERI"},{"id":731010,"name":" MINASA TENE"},{"id":731011,"name":" MANDALLE"},{"id":731012,"name":" TONDONG TALLASA"},{"id":731013,"name":" LIUKANG TUPABBIRING UTARA"}]
+[
+  {
+    "id": 731001,
+    "name": " LIUKANG TANGAYA"
+  },
+  {
+    "id": 731002,
+    "name": " LIUKANG KALMAS"
+  },
+  {
+    "id": 731003,
+    "name": " LIUKANG TUPABBIRING"
+  },
+  {
+    "id": 731004,
+    "name": " PANGKAJENE"
+  },
+  {
+    "id": 731005,
+    "name": " BALOCCI"
+  },
+  {
+    "id": 731006,
+    "name": " BUNGORO"
+  },
+  {
+    "id": 731007,
+    "name": " LABAKKANG"
+  },
+  {
+    "id": 731008,
+    "name": " MARANG"
+  },
+  {
+    "id": 731009,
+    "name": " SEGERI"
+  },
+  {
+    "id": 731010,
+    "name": " MINASA TENE"
+  },
+  {
+    "id": 731011,
+    "name": " MANDALLE"
+  },
+  {
+    "id": 731012,
+    "name": " TONDONG TALLASA"
+  },
+  {
+    "id": 731013,
+    "name": " LIUKANG TUPABBIRING UTARA"
+  }
+]

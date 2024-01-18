@@ -1,1 +1,58 @@
-[{"id":350301,"name":" PANGGUL"},{"id":350302,"name":" MUNJUNGAN"},{"id":350303,"name":" PULE"},{"id":350304,"name":" DONGKO"},{"id":350305,"name":" TUGU"},{"id":350306,"name":" KARANGAN"},{"id":350307,"name":" KAMPAK"},{"id":350308,"name":" WATULIMO"},{"id":350309,"name":" BENDUNGAN"},{"id":350310,"name":" GANDUSARI"},{"id":350311,"name":" TRENGGALEK"},{"id":350312,"name":" POGALAN"},{"id":350313,"name":" DURENAN"},{"id":350314,"name":" SURUH"}]
+[
+  {
+    "id": 350301,
+    "name": " PANGGUL"
+  },
+  {
+    "id": 350302,
+    "name": " MUNJUNGAN"
+  },
+  {
+    "id": 350303,
+    "name": " PULE"
+  },
+  {
+    "id": 350304,
+    "name": " DONGKO"
+  },
+  {
+    "id": 350305,
+    "name": " TUGU"
+  },
+  {
+    "id": 350306,
+    "name": " KARANGAN"
+  },
+  {
+    "id": 350307,
+    "name": " KAMPAK"
+  },
+  {
+    "id": 350308,
+    "name": " WATULIMO"
+  },
+  {
+    "id": 350309,
+    "name": " BENDUNGAN"
+  },
+  {
+    "id": 350310,
+    "name": " GANDUSARI"
+  },
+  {
+    "id": 350311,
+    "name": " TRENGGALEK"
+  },
+  {
+    "id": 350312,
+    "name": " POGALAN"
+  },
+  {
+    "id": 350313,
+    "name": " DURENAN"
+  },
+  {
+    "id": 350314,
+    "name": " SURUH"
+  }
+]

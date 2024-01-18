@@ -1,1 +1,42 @@
-[{"id":161101,"name":" MUARA PINANG"},{"id":161102,"name":" PENDOPO"},{"id":161103,"name":" ULU MUSI"},{"id":161104,"name":" TEBING TINGGI"},{"id":161105,"name":" LINTANG KANAN"},{"id":161106,"name":" TALANG PADANG"},{"id":161107,"name":" PASEMAH AIR KERUH"},{"id":161108,"name":" SIKAP DALAM"},{"id":161109,"name":" SALING"},{"id":161110,"name":" PENDOPO BARAT"}]
+[
+  {
+    "id": 161101,
+    "name": " MUARA PINANG"
+  },
+  {
+    "id": 161102,
+    "name": " PENDOPO"
+  },
+  {
+    "id": 161103,
+    "name": " ULU MUSI"
+  },
+  {
+    "id": 161104,
+    "name": " TEBING TINGGI"
+  },
+  {
+    "id": 161105,
+    "name": " LINTANG KANAN"
+  },
+  {
+    "id": 161106,
+    "name": " TALANG PADANG"
+  },
+  {
+    "id": 161107,
+    "name": " PASEMAH AIR KERUH"
+  },
+  {
+    "id": 161108,
+    "name": " SIKAP DALAM"
+  },
+  {
+    "id": 161109,
+    "name": " SALING"
+  },
+  {
+    "id": 161110,
+    "name": " PENDOPO BARAT"
+  }
+]

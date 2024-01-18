@@ -1,1 +1,94 @@
-[{"id":180301,"name":" BUKIT KEMUNING"},{"id":180302,"name":" KOTABUMI"},{"id":180303,"name":" SUNGKAI SELATAN"},{"id":180304,"name":" TANJUNG RAJA"},{"id":180305,"name":" ABUNG TIMUR"},{"id":180306,"name":" ABUNG BARAT"},{"id":180307,"name":" ABUNG SELATAN"},{"id":180308,"name":" SUNGKAI UTARA"},{"id":180309,"name":" KOTABUMI UTARA"},{"id":180310,"name":" KOTABUMI SELATAN"},{"id":180311,"name":" ABUNG TENGAH"},{"id":180312,"name":" ABUNG TINGGI"},{"id":180313,"name":" ABUNG SEMULI"},{"id":180314,"name":" ABUNG SURAKARTA"},{"id":180315,"name":" MUARA SUNGKAI"},{"id":180316,"name":" BUNGA MAYANG"},{"id":180317,"name":" HULU SUNGKAI"},{"id":180318,"name":" SUNGKAI TENGAH"},{"id":180319,"name":" ABUNG PEKURUN"},{"id":180320,"name":" SUNGKAI JAYA"},{"id":180321,"name":" SUNGKAI BARAT"},{"id":180322,"name":" ABUNG KUNANG"},{"id":180323,"name":" BLAMBANGAN PAGAR"}]
+[
+  {
+    "id": 180301,
+    "name": " BUKIT KEMUNING"
+  },
+  {
+    "id": 180302,
+    "name": " KOTABUMI"
+  },
+  {
+    "id": 180303,
+    "name": " SUNGKAI SELATAN"
+  },
+  {
+    "id": 180304,
+    "name": " TANJUNG RAJA"
+  },
+  {
+    "id": 180305,
+    "name": " ABUNG TIMUR"
+  },
+  {
+    "id": 180306,
+    "name": " ABUNG BARAT"
+  },
+  {
+    "id": 180307,
+    "name": " ABUNG SELATAN"
+  },
+  {
+    "id": 180308,
+    "name": " SUNGKAI UTARA"
+  },
+  {
+    "id": 180309,
+    "name": " KOTABUMI UTARA"
+  },
+  {
+    "id": 180310,
+    "name": " KOTABUMI SELATAN"
+  },
+  {
+    "id": 180311,
+    "name": " ABUNG TENGAH"
+  },
+  {
+    "id": 180312,
+    "name": " ABUNG TINGGI"
+  },
+  {
+    "id": 180313,
+    "name": " ABUNG SEMULI"
+  },
+  {
+    "id": 180314,
+    "name": " ABUNG SURAKARTA"
+  },
+  {
+    "id": 180315,
+    "name": " MUARA SUNGKAI"
+  },
+  {
+    "id": 180316,
+    "name": " BUNGA MAYANG"
+  },
+  {
+    "id": 180317,
+    "name": " HULU SUNGKAI"
+  },
+  {
+    "id": 180318,
+    "name": " SUNGKAI TENGAH"
+  },
+  {
+    "id": 180319,
+    "name": " ABUNG PEKURUN"
+  },
+  {
+    "id": 180320,
+    "name": " SUNGKAI JAYA"
+  },
+  {
+    "id": 180321,
+    "name": " SUNGKAI BARAT"
+  },
+  {
+    "id": 180322,
+    "name": " ABUNG KUNANG"
+  },
+  {
+    "id": 180323,
+    "name": " BLAMBANGAN PAGAR"
+  }
+]

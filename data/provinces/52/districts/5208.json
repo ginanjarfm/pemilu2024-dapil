@@ -1,1 +1,22 @@
-[{"id":520801,"name":" TANJUNG"},{"id":520802,"name":" GANGGA"},{"id":520803,"name":" KAYANGAN"},{"id":520804,"name":" BAYAN"},{"id":520805,"name":" PEMENANG"}]
+[
+  {
+    "id": 520801,
+    "name": " TANJUNG"
+  },
+  {
+    "id": 520802,
+    "name": " GANGGA"
+  },
+  {
+    "id": 520803,
+    "name": " KAYANGAN"
+  },
+  {
+    "id": 520804,
+    "name": " BAYAN"
+  },
+  {
+    "id": 520805,
+    "name": " PEMENANG"
+  }
+]

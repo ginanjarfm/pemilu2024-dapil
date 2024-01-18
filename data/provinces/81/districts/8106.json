@@ -1,1 +1,46 @@
-[{"id":810601,"name":" KAIRATU"},{"id":810602,"name":" SERAM BARAT"},{"id":810603,"name":" TANIWEL"},{"id":810604,"name":" HUAMUAL BELAKANG"},{"id":810605,"name":" AMALATU"},{"id":810606,"name":" INAMOSOL"},{"id":810607,"name":" KAIRATU BARAT"},{"id":810608,"name":" HUAMUAL"},{"id":810609,"name":" KEPULAUAN MANIPA"},{"id":810610,"name":" TANIWEL TIMUR"},{"id":810611,"name":" ELPAPUTIH"}]
+[
+  {
+    "id": 810601,
+    "name": " KAIRATU"
+  },
+  {
+    "id": 810602,
+    "name": " SERAM BARAT"
+  },
+  {
+    "id": 810603,
+    "name": " TANIWEL"
+  },
+  {
+    "id": 810604,
+    "name": " HUAMUAL BELAKANG"
+  },
+  {
+    "id": 810605,
+    "name": " AMALATU"
+  },
+  {
+    "id": 810606,
+    "name": " INAMOSOL"
+  },
+  {
+    "id": 810607,
+    "name": " KAIRATU BARAT"
+  },
+  {
+    "id": 810608,
+    "name": " HUAMUAL"
+  },
+  {
+    "id": 810609,
+    "name": " KEPULAUAN MANIPA"
+  },
+  {
+    "id": 810610,
+    "name": " TANIWEL TIMUR"
+  },
+  {
+    "id": 810611,
+    "name": " ELPAPUTIH"
+  }
+]

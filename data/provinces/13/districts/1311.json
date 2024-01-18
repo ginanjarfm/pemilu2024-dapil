@@ -1,1 +1,30 @@
-[{"id":131101,"name":" SANGIR"},{"id":131102,"name":" SUNGAI PAGU"},{"id":131103,"name":" KOTO PARIK GADANG DIATEH"},{"id":131104,"name":" SANGIR JUJUAN"},{"id":131105,"name":" SANGIR BATANG HARI"},{"id":131106,"name":" PAUH DUO"},{"id":131107,"name":" SANGIR BALAI JANGGO"}]
+[
+  {
+    "id": 131101,
+    "name": " SANGIR"
+  },
+  {
+    "id": 131102,
+    "name": " SUNGAI PAGU"
+  },
+  {
+    "id": 131103,
+    "name": " KOTO PARIK GADANG DIATEH"
+  },
+  {
+    "id": 131104,
+    "name": " SANGIR JUJUAN"
+  },
+  {
+    "id": 131105,
+    "name": " SANGIR BATANG HARI"
+  },
+  {
+    "id": 131106,
+    "name": " PAUH DUO"
+  },
+  {
+    "id": 131107,
+    "name": " SANGIR BALAI JANGGO"
+  }
+]

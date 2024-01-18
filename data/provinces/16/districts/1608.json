@@ -1,1 +1,82 @@
-[{"id":160801,"name":" MARTAPURA"},{"id":160802,"name":" BUAY MADANG"},{"id":160803,"name":" BELITANG"},{"id":160804,"name":" CEMPAKA"},{"id":160805,"name":" BUAY PEMUKA PELIUNG"},{"id":160806,"name":" MADANG SUKU II"},{"id":160807,"name":" MADANG SUKU I"},{"id":160808,"name":" SEMENDAWAI SUKU III"},{"id":160809,"name":" BELITANG II"},{"id":160810,"name":" BELITANG III"},{"id":160811,"name":" BUNGA MAYANG"},{"id":160812,"name":" BUAY MADANG TIMUR"},{"id":160813,"name":" MADANG SUKU III"},{"id":160814,"name":" SEMENDAWAI BARAT"},{"id":160815,"name":" SEMENDAWAI TIMUR"},{"id":160816,"name":" JAYAPURA"},{"id":160817,"name":" BELITANG JAYA"},{"id":160818,"name":" BELITANG MADANG RAYA"},{"id":160819,"name":" BELITANG MULYA"},{"id":160820,"name":" BUAY PEMUKA BANGSA RAJA"}]
+[
+  {
+    "id": 160801,
+    "name": " MARTAPURA"
+  },
+  {
+    "id": 160802,
+    "name": " BUAY MADANG"
+  },
+  {
+    "id": 160803,
+    "name": " BELITANG"
+  },
+  {
+    "id": 160804,
+    "name": " CEMPAKA"
+  },
+  {
+    "id": 160805,
+    "name": " BUAY PEMUKA PELIUNG"
+  },
+  {
+    "id": 160806,
+    "name": " MADANG SUKU II"
+  },
+  {
+    "id": 160807,
+    "name": " MADANG SUKU I"
+  },
+  {
+    "id": 160808,
+    "name": " SEMENDAWAI SUKU III"
+  },
+  {
+    "id": 160809,
+    "name": " BELITANG II"
+  },
+  {
+    "id": 160810,
+    "name": " BELITANG III"
+  },
+  {
+    "id": 160811,
+    "name": " BUNGA MAYANG"
+  },
+  {
+    "id": 160812,
+    "name": " BUAY MADANG TIMUR"
+  },
+  {
+    "id": 160813,
+    "name": " MADANG SUKU III"
+  },
+  {
+    "id": 160814,
+    "name": " SEMENDAWAI BARAT"
+  },
+  {
+    "id": 160815,
+    "name": " SEMENDAWAI TIMUR"
+  },
+  {
+    "id": 160816,
+    "name": " JAYAPURA"
+  },
+  {
+    "id": 160817,
+    "name": " BELITANG JAYA"
+  },
+  {
+    "id": 160818,
+    "name": " BELITANG MADANG RAYA"
+  },
+  {
+    "id": 160819,
+    "name": " BELITANG MULYA"
+  },
+  {
+    "id": 160820,
+    "name": " BUAY PEMUKA BANGSA RAJA"
+  }
+]

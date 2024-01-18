@@ -1,1 +1,70 @@
-[{"id":620201,"name":" KOTA BESI"},{"id":620202,"name":" CEMPAGA"},{"id":620203,"name":" MENTAYA HULU"},{"id":620204,"name":" PARENGGEAN"},{"id":620205,"name":" BAAMANG"},{"id":620206,"name":" MENTAWA BARU KETAPANG"},{"id":620207,"name":" MENTAYA HILIR UTARA"},{"id":620208,"name":" MENTAYA HILIR SELATAN"},{"id":620209,"name":" PULAU HANAUT"},{"id":620210,"name":" ANTANG KALANG"},{"id":620211,"name":" TELUK SAMPIT"},{"id":620212,"name":" SERANAU"},{"id":620213,"name":" CEMPAGA HULU"},{"id":620214,"name":" TELAWANG"},{"id":620215,"name":" BUKIT SANTUAI"},{"id":620216,"name":" TUALAN HULU"},{"id":620217,"name":" TELAGA ANTANG"}]
+[
+  {
+    "id": 620201,
+    "name": " KOTA BESI"
+  },
+  {
+    "id": 620202,
+    "name": " CEMPAGA"
+  },
+  {
+    "id": 620203,
+    "name": " MENTAYA HULU"
+  },
+  {
+    "id": 620204,
+    "name": " PARENGGEAN"
+  },
+  {
+    "id": 620205,
+    "name": " BAAMANG"
+  },
+  {
+    "id": 620206,
+    "name": " MENTAWA BARU KETAPANG"
+  },
+  {
+    "id": 620207,
+    "name": " MENTAYA HILIR UTARA"
+  },
+  {
+    "id": 620208,
+    "name": " MENTAYA HILIR SELATAN"
+  },
+  {
+    "id": 620209,
+    "name": " PULAU HANAUT"
+  },
+  {
+    "id": 620210,
+    "name": " ANTANG KALANG"
+  },
+  {
+    "id": 620211,
+    "name": " TELUK SAMPIT"
+  },
+  {
+    "id": 620212,
+    "name": " SERANAU"
+  },
+  {
+    "id": 620213,
+    "name": " CEMPAGA HULU"
+  },
+  {
+    "id": 620214,
+    "name": " TELAWANG"
+  },
+  {
+    "id": 620215,
+    "name": " BUKIT SANTUAI"
+  },
+  {
+    "id": 620216,
+    "name": " TUALAN HULU"
+  },
+  {
+    "id": 620217,
+    "name": " TELAGA ANTANG"
+  }
+]

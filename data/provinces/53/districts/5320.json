@@ -1,1 +1,26 @@
-[{"id":532001,"name":" SABU BARAT"},{"id":532002,"name":" SABU TENGAH"},{"id":532003,"name":" SABU TIMUR"},{"id":532004,"name":" SABU LIAE"},{"id":532005,"name":" HAWU MEHARA"},{"id":532006,"name":" RAIJUA"}]
+[
+  {
+    "id": 532001,
+    "name": " SABU BARAT"
+  },
+  {
+    "id": 532002,
+    "name": " SABU TENGAH"
+  },
+  {
+    "id": 532003,
+    "name": " SABU TIMUR"
+  },
+  {
+    "id": 532004,
+    "name": " SABU LIAE"
+  },
+  {
+    "id": 532005,
+    "name": " HAWU MEHARA"
+  },
+  {
+    "id": 532006,
+    "name": " RAIJUA"
+  }
+]

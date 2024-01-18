@@ -1,1 +1,42 @@
-[{"id":730201,"name":" GANTORANG"},{"id":730202,"name":" UJUNG BULU"},{"id":730203,"name":" BONTO BAHARI"},{"id":730204,"name":" BONTO TIRO"},{"id":730205,"name":" HERLANG"},{"id":730206,"name":" KAJANG"},{"id":730207,"name":" BULUKUMPA"},{"id":730208,"name":" KINDANG"},{"id":730209,"name":" UJUNGLOE"},{"id":730210,"name":" RILAUALE"}]
+[
+  {
+    "id": 730201,
+    "name": " GANTORANG"
+  },
+  {
+    "id": 730202,
+    "name": " UJUNG BULU"
+  },
+  {
+    "id": 730203,
+    "name": " BONTO BAHARI"
+  },
+  {
+    "id": 730204,
+    "name": " BONTO TIRO"
+  },
+  {
+    "id": 730205,
+    "name": " HERLANG"
+  },
+  {
+    "id": 730206,
+    "name": " KAJANG"
+  },
+  {
+    "id": 730207,
+    "name": " BULUKUMPA"
+  },
+  {
+    "id": 730208,
+    "name": " KINDANG"
+  },
+  {
+    "id": 730209,
+    "name": " UJUNGLOE"
+  },
+  {
+    "id": 730210,
+    "name": " RILAUALE"
+  }
+]

@@ -1,1 +1,18 @@
-[{"id":137701,"name":" PARIAMAN TENGAH"},{"id":137702,"name":" PARIAMAN UTARA"},{"id":137703,"name":" PARIAMAN SELATAN"},{"id":137704,"name":" PARIAMAN TIMUR"}]
+[
+  {
+    "id": 137701,
+    "name": " PARIAMAN TENGAH"
+  },
+  {
+    "id": 137702,
+    "name": " PARIAMAN UTARA"
+  },
+  {
+    "id": 137703,
+    "name": " PARIAMAN SELATAN"
+  },
+  {
+    "id": 137704,
+    "name": " PARIAMAN TIMUR"
+  }
+]

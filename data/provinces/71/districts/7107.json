@@ -1,1 +1,50 @@
-[{"id":710701,"name":" RATAHAN"},{"id":710702,"name":" PUSOMAEN"},{"id":710703,"name":" BELANG"},{"id":710704,"name":" RATATOTOK"},{"id":710705,"name":" TOMBATU"},{"id":710706,"name":" TOULUAAN"},{"id":710707,"name":" TOULUAAN SELATAN"},{"id":710708,"name":" SILIAN RAYA"},{"id":710709,"name":" TOMBATU TIMUR"},{"id":710710,"name":" TOMBATU UTARA"},{"id":710711,"name":" PASAN"},{"id":710712,"name":" RATAHAN TIMUR"}]
+[
+  {
+    "id": 710701,
+    "name": " RATAHAN"
+  },
+  {
+    "id": 710702,
+    "name": " PUSOMAEN"
+  },
+  {
+    "id": 710703,
+    "name": " BELANG"
+  },
+  {
+    "id": 710704,
+    "name": " RATATOTOK"
+  },
+  {
+    "id": 710705,
+    "name": " TOMBATU"
+  },
+  {
+    "id": 710706,
+    "name": " TOULUAAN"
+  },
+  {
+    "id": 710707,
+    "name": " TOULUAAN SELATAN"
+  },
+  {
+    "id": 710708,
+    "name": " SILIAN RAYA"
+  },
+  {
+    "id": 710709,
+    "name": " TOMBATU TIMUR"
+  },
+  {
+    "id": 710710,
+    "name": " TOMBATU UTARA"
+  },
+  {
+    "id": 710711,
+    "name": " PASAN"
+  },
+  {
+    "id": 710712,
+    "name": " RATAHAN TIMUR"
+  }
+]

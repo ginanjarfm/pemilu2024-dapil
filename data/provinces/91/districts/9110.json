@@ -1,1 +1,42 @@
-[{"id":911001,"name":" SARMI"},{"id":911002,"name":" TOR ATAS"},{"id":911003,"name":" PANTAI BARAT"},{"id":911004,"name":" PANTAI TIMUR"},{"id":911005,"name":" BONGGO"},{"id":911009,"name":" APAWER HULU"},{"id":911012,"name":" SARMI SELATAN"},{"id":911013,"name":" SARMI TIMUR"},{"id":911014,"name":" PANTAI TIMUR BAGIAN BARAT"},{"id":911015,"name":" BONGGO TIMUR"}]
+[
+  {
+    "id": 911001,
+    "name": " SARMI"
+  },
+  {
+    "id": 911002,
+    "name": " TOR ATAS"
+  },
+  {
+    "id": 911003,
+    "name": " PANTAI BARAT"
+  },
+  {
+    "id": 911004,
+    "name": " PANTAI TIMUR"
+  },
+  {
+    "id": 911005,
+    "name": " BONGGO"
+  },
+  {
+    "id": 911009,
+    "name": " APAWER HULU"
+  },
+  {
+    "id": 911012,
+    "name": " SARMI SELATAN"
+  },
+  {
+    "id": 911013,
+    "name": " SARMI TIMUR"
+  },
+  {
+    "id": 911014,
+    "name": " PANTAI TIMUR BAGIAN BARAT"
+  },
+  {
+    "id": 911015,
+    "name": " BONGGO TIMUR"
+  }
+]

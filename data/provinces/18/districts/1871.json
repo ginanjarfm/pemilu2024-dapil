@@ -1,1 +1,82 @@
-[{"id":187101,"name":" KEDATON"},{"id":187102,"name":" SUKARAME"},{"id":187103,"name":" TANJUNGKARANG BARAT"},{"id":187104,"name":" PANJANG"},{"id":187105,"name":" TANJUNGKARANG TIMUR"},{"id":187106,"name":" TANJUNGKARANG PUSAT"},{"id":187107,"name":" TELUKBETUNG SELATAN"},{"id":187108,"name":" TELUKBETUNG BARAT"},{"id":187109,"name":" TELUKBETUNG UTARA"},{"id":187110,"name":" RAJABASA"},{"id":187111,"name":" TANJUNG SENANG"},{"id":187112,"name":" SUKABUMI"},{"id":187113,"name":" KEMILING"},{"id":187114,"name":" LABUHAN RATU"},{"id":187115,"name":" WAY HALIM"},{"id":187116,"name":" LANGKAPURA"},{"id":187117,"name":" ENGGAL"},{"id":187118,"name":" KEDAMAIAN"},{"id":187119,"name":" TELUKBETUNG TIMUR"},{"id":187120,"name":" BUMI WARAS"}]
+[
+  {
+    "id": 187101,
+    "name": " KEDATON"
+  },
+  {
+    "id": 187102,
+    "name": " SUKARAME"
+  },
+  {
+    "id": 187103,
+    "name": " TANJUNGKARANG BARAT"
+  },
+  {
+    "id": 187104,
+    "name": " PANJANG"
+  },
+  {
+    "id": 187105,
+    "name": " TANJUNGKARANG TIMUR"
+  },
+  {
+    "id": 187106,
+    "name": " TANJUNGKARANG PUSAT"
+  },
+  {
+    "id": 187107,
+    "name": " TELUKBETUNG SELATAN"
+  },
+  {
+    "id": 187108,
+    "name": " TELUKBETUNG BARAT"
+  },
+  {
+    "id": 187109,
+    "name": " TELUKBETUNG UTARA"
+  },
+  {
+    "id": 187110,
+    "name": " RAJABASA"
+  },
+  {
+    "id": 187111,
+    "name": " TANJUNG SENANG"
+  },
+  {
+    "id": 187112,
+    "name": " SUKABUMI"
+  },
+  {
+    "id": 187113,
+    "name": " KEMILING"
+  },
+  {
+    "id": 187114,
+    "name": " LABUHAN RATU"
+  },
+  {
+    "id": 187115,
+    "name": " WAY HALIM"
+  },
+  {
+    "id": 187116,
+    "name": " LANGKAPURA"
+  },
+  {
+    "id": 187117,
+    "name": " ENGGAL"
+  },
+  {
+    "id": 187118,
+    "name": " KEDAMAIAN"
+  },
+  {
+    "id": 187119,
+    "name": " TELUKBETUNG TIMUR"
+  },
+  {
+    "id": 187120,
+    "name": " BUMI WARAS"
+  }
+]

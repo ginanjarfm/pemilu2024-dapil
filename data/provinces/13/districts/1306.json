@@ -1,1 +1,66 @@
-[{"id":130601,"name":" TANJUNG MUTIARA"},{"id":130602,"name":" LUBUK BASUNG"},{"id":130603,"name":" TANJUNG RAYA"},{"id":130604,"name":" MATUR"},{"id":130605,"name":" IV KOTO"},{"id":130606,"name":" BANUHAMPU"},{"id":130607,"name":" AMPEK ANGKEK"},{"id":130608,"name":" BASO"},{"id":130609,"name":" TILATANG KAMANG"},{"id":130610,"name":" PALUPUH"},{"id":130611,"name":" PALEMBAYAN"},{"id":130612,"name":" SUNGAI PUA"},{"id":130613,"name":" AMPEK NAGARI"},{"id":130614,"name":" CANDUNG"},{"id":130615,"name":" KAMANG MAGEK"},{"id":130616,"name":" MALALAK"}]
+[
+  {
+    "id": 130601,
+    "name": " TANJUNG MUTIARA"
+  },
+  {
+    "id": 130602,
+    "name": " LUBUK BASUNG"
+  },
+  {
+    "id": 130603,
+    "name": " TANJUNG RAYA"
+  },
+  {
+    "id": 130604,
+    "name": " MATUR"
+  },
+  {
+    "id": 130605,
+    "name": " IV KOTO"
+  },
+  {
+    "id": 130606,
+    "name": " BANUHAMPU"
+  },
+  {
+    "id": 130607,
+    "name": " AMPEK ANGKEK"
+  },
+  {
+    "id": 130608,
+    "name": " BASO"
+  },
+  {
+    "id": 130609,
+    "name": " TILATANG KAMANG"
+  },
+  {
+    "id": 130610,
+    "name": " PALUPUH"
+  },
+  {
+    "id": 130611,
+    "name": " PALEMBAYAN"
+  },
+  {
+    "id": 130612,
+    "name": " SUNGAI PUA"
+  },
+  {
+    "id": 130613,
+    "name": " AMPEK NAGARI"
+  },
+  {
+    "id": 130614,
+    "name": " CANDUNG"
+  },
+  {
+    "id": 130615,
+    "name": " KAMANG MAGEK"
+  },
+  {
+    "id": 130616,
+    "name": " MALALAK"
+  }
+]

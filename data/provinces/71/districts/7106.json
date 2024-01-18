@@ -1,1 +1,42 @@
-[{"id":710601,"name":" KEMA"},{"id":710602,"name":" KAUDITAN"},{"id":710603,"name":" AIRMADIDI"},{"id":710604,"name":" WORI"},{"id":710605,"name":" DIMEMBE"},{"id":710606,"name":" LIKUPANG BARAT"},{"id":710607,"name":" LIKUPANG TIMUR"},{"id":710608,"name":" KALAWAT"},{"id":710609,"name":" TALAWAAN"},{"id":710610,"name":" LIKUPANG SELATAN"}]
+[
+  {
+    "id": 710601,
+    "name": " KEMA"
+  },
+  {
+    "id": 710602,
+    "name": " KAUDITAN"
+  },
+  {
+    "id": 710603,
+    "name": " AIRMADIDI"
+  },
+  {
+    "id": 710604,
+    "name": " WORI"
+  },
+  {
+    "id": 710605,
+    "name": " DIMEMBE"
+  },
+  {
+    "id": 710606,
+    "name": " LIKUPANG BARAT"
+  },
+  {
+    "id": 710607,
+    "name": " LIKUPANG TIMUR"
+  },
+  {
+    "id": 710608,
+    "name": " KALAWAT"
+  },
+  {
+    "id": 710609,
+    "name": " TALAWAAN"
+  },
+  {
+    "id": 710610,
+    "name": " LIKUPANG SELATAN"
+  }
+]

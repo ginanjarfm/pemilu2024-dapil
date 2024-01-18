@@ -1,1 +1,102 @@
-[{"id":351001,"name":" PESANGGARAN"},{"id":351002,"name":" BANGOREJO"},{"id":351003,"name":" PURWOHARJO"},{"id":351004,"name":" TEGALDLIMO"},{"id":351005,"name":" MUNCAR"},{"id":351006,"name":" CLURING"},{"id":351007,"name":" GAMBIRAN"},{"id":351008,"name":" SRONO"},{"id":351009,"name":" GENTENG"},{"id":351010,"name":" GLENMORE"},{"id":351011,"name":" KALIBARU"},{"id":351012,"name":" SINGOJURUH"},{"id":351013,"name":" ROGOJAMPI"},{"id":351014,"name":" KABAT"},{"id":351015,"name":" GLAGAH"},{"id":351016,"name":" BANYUWANGI"},{"id":351017,"name":" GIRI"},{"id":351018,"name":" WONGSOREJO"},{"id":351019,"name":" SONGGON"},{"id":351020,"name":" SEMPU"},{"id":351021,"name":" KALIPURO"},{"id":351022,"name":" SILIRAGUNG"},{"id":351023,"name":" TEGALSARI"},{"id":351024,"name":" LICIN"},{"id":351025,"name":" BLIMBINGSARI"}]
+[
+  {
+    "id": 351001,
+    "name": " PESANGGARAN"
+  },
+  {
+    "id": 351002,
+    "name": " BANGOREJO"
+  },
+  {
+    "id": 351003,
+    "name": " PURWOHARJO"
+  },
+  {
+    "id": 351004,
+    "name": " TEGALDLIMO"
+  },
+  {
+    "id": 351005,
+    "name": " MUNCAR"
+  },
+  {
+    "id": 351006,
+    "name": " CLURING"
+  },
+  {
+    "id": 351007,
+    "name": " GAMBIRAN"
+  },
+  {
+    "id": 351008,
+    "name": " SRONO"
+  },
+  {
+    "id": 351009,
+    "name": " GENTENG"
+  },
+  {
+    "id": 351010,
+    "name": " GLENMORE"
+  },
+  {
+    "id": 351011,
+    "name": " KALIBARU"
+  },
+  {
+    "id": 351012,
+    "name": " SINGOJURUH"
+  },
+  {
+    "id": 351013,
+    "name": " ROGOJAMPI"
+  },
+  {
+    "id": 351014,
+    "name": " KABAT"
+  },
+  {
+    "id": 351015,
+    "name": " GLAGAH"
+  },
+  {
+    "id": 351016,
+    "name": " BANYUWANGI"
+  },
+  {
+    "id": 351017,
+    "name": " GIRI"
+  },
+  {
+    "id": 351018,
+    "name": " WONGSOREJO"
+  },
+  {
+    "id": 351019,
+    "name": " SONGGON"
+  },
+  {
+    "id": 351020,
+    "name": " SEMPU"
+  },
+  {
+    "id": 351021,
+    "name": " KALIPURO"
+  },
+  {
+    "id": 351022,
+    "name": " SILIRAGUNG"
+  },
+  {
+    "id": 351023,
+    "name": " TEGALSARI"
+  },
+  {
+    "id": 351024,
+    "name": " LICIN"
+  },
+  {
+    "id": 351025,
+    "name": " BLIMBINGSARI"
+  }
+]

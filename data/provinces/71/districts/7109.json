@@ -1,1 +1,42 @@
-[{"id":710901,"name":" SIAU TIMUR"},{"id":710902,"name":" SIAU BARAT"},{"id":710903,"name":" TAGULANDANG"},{"id":710904,"name":" SIAU TIMUR SELATAN"},{"id":710905,"name":" SIAU BARAT SELATAN"},{"id":710906,"name":" TAGULANDANG UTARA"},{"id":710907,"name":" BIARO"},{"id":710908,"name":" SIAU BARAT UTARA"},{"id":710909,"name":" SIAU TENGAH"},{"id":710910,"name":" TAGULANDANG SELATAN"}]
+[
+  {
+    "id": 710901,
+    "name": " SIAU TIMUR"
+  },
+  {
+    "id": 710902,
+    "name": " SIAU BARAT"
+  },
+  {
+    "id": 710903,
+    "name": " TAGULANDANG"
+  },
+  {
+    "id": 710904,
+    "name": " SIAU TIMUR SELATAN"
+  },
+  {
+    "id": 710905,
+    "name": " SIAU BARAT SELATAN"
+  },
+  {
+    "id": 710906,
+    "name": " TAGULANDANG UTARA"
+  },
+  {
+    "id": 710907,
+    "name": " BIARO"
+  },
+  {
+    "id": 710908,
+    "name": " SIAU BARAT UTARA"
+  },
+  {
+    "id": 710909,
+    "name": " SIAU TENGAH"
+  },
+  {
+    "id": 710910,
+    "name": " TAGULANDANG SELATAN"
+  }
+]

@@ -1,1 +1,119 @@
-[{"nomor_urut":1,"foto":"https://i.ibb.co/z6RRTy5/96-1.jpg","nama":"AGIL SAENI, S.Hut., M.Si.","jenis_kelamin":"L","alamat_kabko":"KOTA SORONG / PAPUA BARAT DAYA","profile":{"ID_CANDIDATE":"518d27dac996772084dd6a5bf8fda6107a131c2d445a3ad576bc6660073d47659a7829a1ef5cdf7d2e10af53cd4908cf9bb82c6c0d7b6efdd49dc553c7dd3684UriXOE+G62HC57TvZHjdpaesra4e3ZNQ2H21mwrOvNA=","pilihan_publikasi":"BERSEDIA"},"kode_propinsi":"96"},{"nomor_urut":2,"foto":"https://i.ibb.co/QmDL4Jt/96-2.jpg","nama":"AGUSTINUS R. KAMBUAYA, S.I.P.","jenis_kelamin":"L","alamat_kabko":"KAB. MAYBRAT / PAPUA BARAT DAYA","profile":{},"kode_propinsi":"96"},{"nomor_urut":3,"foto":"https://i.ibb.co/hKsgW1v/96-3.jpg","nama":"AMALUT BOINAUW, S.I.P.","jenis_kelamin":"L","alamat_kabko":"KOTA SORONG / PAPUA BARAT DAYA","profile":{},"kode_propinsi":"96"},{"nomor_urut":4,"foto":"https://i.ibb.co/250mT0N/96-4.jpg","nama":"AMUS ATKANA, S.H., S.Pt., M.M.","jenis_kelamin":"L","alamat_kabko":"KAB. MAYBRAT / PAPUA BARAT DAYA","profile":{"ID_CANDIDATE":"1943840612d160a5fdfcb581ef007f9e7f74a64b7c0ce66ff46eb96d8d72d420bfc317c40a880ee41e8685ca9148c74629cf93b56aa899cb27e7b53892cffd52fbuI2mkPfZ8UwyilW8E794+Pr5AsgGHjHwGSk/OV/d0=","pilihan_publikasi":"BERSEDIA"},"kode_propinsi":"96"},{"nomor_urut":5,"foto":"https://i.ibb.co/tHHLqVQ/96-5.jpg","nama":"H. HARTONO","jenis_kelamin":"L","alamat_kabko":"KOTA SORONG / PAPUA BARAT DAYA","profile":{},"kode_propinsi":"96"},{"nomor_urut":6,"foto":"https://i.ibb.co/Dg85m6G/96-6.jpg","nama":"HASBI SUAIB, S.T., M.H.","jenis_kelamin":"L","alamat_kabko":"KAB. RAJA AMPAT / PAPUA BARAT DAYA","profile":{},"kode_propinsi":"96"},{"nomor_urut":7,"foto":"https://i.ibb.co/59wZRVT/96-7.jpg","nama":"Pdt. MAMBEROB Y. RUMAKIEK, S.Si., M.Kesos.","jenis_kelamin":"L","alamat_kabko":"KOTA JAKARTA TIMUR / DKI JAKARTA","profile":{},"kode_propinsi":"96"},{"nomor_urut":8,"foto":"https://i.ibb.co/875xZPG/96-8.jpg","nama":"M. SANUSI RAHANINGMAS, S.Sos., M.M.Sip.","jenis_kelamin":"L","alamat_kabko":"KOTA SORONG / PAPUA BARAT DAYA","profile":{},"kode_propinsi":"96"},{"nomor_urut":9,"foto":"https://i.ibb.co/12BXcJR/96-9.jpg","nama":"MUHDAR ICHSAN WEUL, S.P.","jenis_kelamin":"L","alamat_kabko":"KOTA SORONG / PAPUA BARAT DAYA","profile":{"ID_CANDIDATE":"e932bed276454d9ca7a6d9eb26ca74ac1d4b312572356f3bba2504f4b8362f087aca7a0714d34b6f0bb9125340513dcaeeb5650df657a659dfceecd28cad70874hkyrdV8fReiD+TdVojaziq4HQZ4n96eU8cZ3KF8yJU=","pilihan_publikasi":"BERSEDIA"},"kode_propinsi":"96"},{"nomor_urut":10,"foto":"https://i.ibb.co/3MTfmQQ/96-10.jpg","nama":"PAUL FINSEN MAYOR, S.I.P.,CM.NNLP.","jenis_kelamin":"L","alamat_kabko":"KOTA SORONG / PAPUA BARAT DAYA","profile":{},"kode_propinsi":"96"},{"nomor_urut":11,"foto":"https://i.ibb.co/vwRw9d7/96-11.jpg","nama":"SEPTINUS LOBAT, S.H.","jenis_kelamin":"L","alamat_kabko":"KAB. SORONG / PAPUA BARAT DAYA","profile":{},"kode_propinsi":"96"},{"nomor_urut":12,"foto":"https://i.ibb.co/S6pqnZQ/96-12.jpg","nama":"SOKHIB NAIM, S.H., M.H.","jenis_kelamin":"L","alamat_kabko":"KOTA SORONG / PAPUA BARAT DAYA","profile":{},"kode_propinsi":"96"}]
+[
+  {
+    "nomor_urut": 1,
+    "foto": "https://i.ibb.co/z6RRTy5/96-1.jpg",
+    "nama": "AGIL SAENI, S.Hut., M.Si.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SORONG / PAPUA BARAT DAYA",
+    "profile": {
+      "ID_CANDIDATE": "518d27dac996772084dd6a5bf8fda6107a131c2d445a3ad576bc6660073d47659a7829a1ef5cdf7d2e10af53cd4908cf9bb82c6c0d7b6efdd49dc553c7dd3684UriXOE+G62HC57TvZHjdpaesra4e3ZNQ2H21mwrOvNA=",
+      "pilihan_publikasi": "BERSEDIA"
+    },
+    "kode_propinsi": "96"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://i.ibb.co/QmDL4Jt/96-2.jpg",
+    "nama": "AGUSTINUS R. KAMBUAYA, S.I.P.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB. MAYBRAT / PAPUA BARAT DAYA",
+    "profile": {},
+    "kode_propinsi": "96"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://i.ibb.co/hKsgW1v/96-3.jpg",
+    "nama": "AMALUT BOINAUW, S.I.P.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SORONG / PAPUA BARAT DAYA",
+    "profile": {},
+    "kode_propinsi": "96"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://i.ibb.co/250mT0N/96-4.jpg",
+    "nama": "AMUS ATKANA, S.H., S.Pt., M.M.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB. MAYBRAT / PAPUA BARAT DAYA",
+    "profile": {
+      "ID_CANDIDATE": "1943840612d160a5fdfcb581ef007f9e7f74a64b7c0ce66ff46eb96d8d72d420bfc317c40a880ee41e8685ca9148c74629cf93b56aa899cb27e7b53892cffd52fbuI2mkPfZ8UwyilW8E794+Pr5AsgGHjHwGSk/OV/d0=",
+      "pilihan_publikasi": "BERSEDIA"
+    },
+    "kode_propinsi": "96"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://i.ibb.co/tHHLqVQ/96-5.jpg",
+    "nama": "H. HARTONO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SORONG / PAPUA BARAT DAYA",
+    "profile": {},
+    "kode_propinsi": "96"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://i.ibb.co/Dg85m6G/96-6.jpg",
+    "nama": "HASBI SUAIB, S.T., M.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB. RAJA AMPAT / PAPUA BARAT DAYA",
+    "profile": {},
+    "kode_propinsi": "96"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://i.ibb.co/59wZRVT/96-7.jpg",
+    "nama": "Pdt. MAMBEROB Y. RUMAKIEK, S.Si., M.Kesos.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA JAKARTA TIMUR / DKI JAKARTA",
+    "profile": {},
+    "kode_propinsi": "96"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://i.ibb.co/875xZPG/96-8.jpg",
+    "nama": "M. SANUSI RAHANINGMAS, S.Sos., M.M.Sip.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SORONG / PAPUA BARAT DAYA",
+    "profile": {},
+    "kode_propinsi": "96"
+  },
+  {
+    "nomor_urut": 9,
+    "foto": "https://i.ibb.co/12BXcJR/96-9.jpg",
+    "nama": "MUHDAR ICHSAN WEUL, S.P.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SORONG / PAPUA BARAT DAYA",
+    "profile": {
+      "ID_CANDIDATE": "e932bed276454d9ca7a6d9eb26ca74ac1d4b312572356f3bba2504f4b8362f087aca7a0714d34b6f0bb9125340513dcaeeb5650df657a659dfceecd28cad70874hkyrdV8fReiD+TdVojaziq4HQZ4n96eU8cZ3KF8yJU=",
+      "pilihan_publikasi": "BERSEDIA"
+    },
+    "kode_propinsi": "96"
+  },
+  {
+    "nomor_urut": 10,
+    "foto": "https://i.ibb.co/3MTfmQQ/96-10.jpg",
+    "nama": "PAUL FINSEN MAYOR, S.I.P.,CM.NNLP.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SORONG / PAPUA BARAT DAYA",
+    "profile": {},
+    "kode_propinsi": "96"
+  },
+  {
+    "nomor_urut": 11,
+    "foto": "https://i.ibb.co/vwRw9d7/96-11.jpg",
+    "nama": "SEPTINUS LOBAT, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB. SORONG / PAPUA BARAT DAYA",
+    "profile": {},
+    "kode_propinsi": "96"
+  },
+  {
+    "nomor_urut": 12,
+    "foto": "https://i.ibb.co/S6pqnZQ/96-12.jpg",
+    "nama": "SOKHIB NAIM, S.H., M.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SORONG / PAPUA BARAT DAYA",
+    "profile": {},
+    "kode_propinsi": "96"
+  }
+]

@@ -1,1 +1,26 @@
-[{"id":510301,"name":" KUTA"},{"id":510302,"name":" MENGWI"},{"id":510303,"name":" ABIANSEMAL"},{"id":510304,"name":" PETANG"},{"id":510305,"name":" KUTA SELATAN"},{"id":510306,"name":" KUTA UTARA"}]
+[
+  {
+    "id": 510301,
+    "name": " KUTA"
+  },
+  {
+    "id": 510302,
+    "name": " MENGWI"
+  },
+  {
+    "id": 510303,
+    "name": " ABIANSEMAL"
+  },
+  {
+    "id": 510304,
+    "name": " PETANG"
+  },
+  {
+    "id": 510305,
+    "name": " KUTA SELATAN"
+  },
+  {
+    "id": 510306,
+    "name": " KUTA UTARA"
+  }
+]

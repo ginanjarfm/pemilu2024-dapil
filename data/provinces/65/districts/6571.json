@@ -1,1 +1,18 @@
-[{"id":657101,"name":" TARAKAN BARAT"},{"id":657102,"name":" TARAKAN TENGAH"},{"id":657103,"name":" TARAKAN TIMUR"},{"id":657104,"name":" TARAKAN UTARA"}]
+[
+  {
+    "id": 657101,
+    "name": " TARAKAN BARAT"
+  },
+  {
+    "id": 657102,
+    "name": " TARAKAN TENGAH"
+  },
+  {
+    "id": 657103,
+    "name": " TARAKAN TIMUR"
+  },
+  {
+    "id": 657104,
+    "name": " TARAKAN UTARA"
+  }
+]

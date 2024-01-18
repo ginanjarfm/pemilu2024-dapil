@@ -1,1 +1,50 @@
-[{"id":140501,"name":" UKUI"},{"id":140502,"name":" PANGKALAN KERINCI"},{"id":140503,"name":" PANGKALAN KURAS"},{"id":140504,"name":" PANGKALAN LESUNG"},{"id":140505,"name":" LANGGAM"},{"id":140506,"name":" PELALAWAN"},{"id":140507,"name":" KERUMUTAN"},{"id":140508,"name":" BUNUT"},{"id":140509,"name":" TELUK MERANTI"},{"id":140510,"name":" KUALA KAMPAR"},{"id":140511,"name":" BANDAR SEI KIJANG"},{"id":140512,"name":" BANDAR PETALANGAN"}]
+[
+  {
+    "id": 140501,
+    "name": " UKUI"
+  },
+  {
+    "id": 140502,
+    "name": " PANGKALAN KERINCI"
+  },
+  {
+    "id": 140503,
+    "name": " PANGKALAN KURAS"
+  },
+  {
+    "id": 140504,
+    "name": " PANGKALAN LESUNG"
+  },
+  {
+    "id": 140505,
+    "name": " LANGGAM"
+  },
+  {
+    "id": 140506,
+    "name": " PELALAWAN"
+  },
+  {
+    "id": 140507,
+    "name": " KERUMUTAN"
+  },
+  {
+    "id": 140508,
+    "name": " BUNUT"
+  },
+  {
+    "id": 140509,
+    "name": " TELUK MERANTI"
+  },
+  {
+    "id": 140510,
+    "name": " KUALA KAMPAR"
+  },
+  {
+    "id": 140511,
+    "name": " BANDAR SEI KIJANG"
+  },
+  {
+    "id": 140512,
+    "name": " BANDAR PETALANGAN"
+  }
+]

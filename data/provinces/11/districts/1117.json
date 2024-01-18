@@ -1,1 +1,42 @@
-[{"id":111701,"name":" PINTU RIME GAYO"},{"id":111702,"name":" PERMATA"},{"id":111703,"name":" SYIAH UTAMA"},{"id":111704,"name":" BANDAR"},{"id":111705,"name":" BUKIT"},{"id":111706,"name":" WIH PESAM"},{"id":111707,"name":" TIMANG GAJAH"},{"id":111708,"name":" BENER KELIPAH"},{"id":111709,"name":" MESIDAH"},{"id":111710,"name":" GAJAH PUTIH"}]
+[
+  {
+    "id": 111701,
+    "name": " PINTU RIME GAYO"
+  },
+  {
+    "id": 111702,
+    "name": " PERMATA"
+  },
+  {
+    "id": 111703,
+    "name": " SYIAH UTAMA"
+  },
+  {
+    "id": 111704,
+    "name": " BANDAR"
+  },
+  {
+    "id": 111705,
+    "name": " BUKIT"
+  },
+  {
+    "id": 111706,
+    "name": " WIH PESAM"
+  },
+  {
+    "id": 111707,
+    "name": " TIMANG GAJAH"
+  },
+  {
+    "id": 111708,
+    "name": " BENER KELIPAH"
+  },
+  {
+    "id": 111709,
+    "name": " MESIDAH"
+  },
+  {
+    "id": 111710,
+    "name": " GAJAH PUTIH"
+  }
+]

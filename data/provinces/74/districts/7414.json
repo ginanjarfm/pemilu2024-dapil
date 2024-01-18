@@ -1,1 +1,30 @@
-[{"id":741401,"name":" LAKUDO"},{"id":741402,"name":" MAWASANGKA TIMUR"},{"id":741403,"name":" MAWASANGKA TENGAH"},{"id":741404,"name":" MAWASANGKA"},{"id":741405,"name":" TALAGA RAYA"},{"id":741406,"name":" GU"},{"id":741407,"name":" SANGIA WAMBULU"}]
+[
+  {
+    "id": 741401,
+    "name": " LAKUDO"
+  },
+  {
+    "id": 741402,
+    "name": " MAWASANGKA TIMUR"
+  },
+  {
+    "id": 741403,
+    "name": " MAWASANGKA TENGAH"
+  },
+  {
+    "id": 741404,
+    "name": " MAWASANGKA"
+  },
+  {
+    "id": 741405,
+    "name": " TALAGA RAYA"
+  },
+  {
+    "id": 741406,
+    "name": " GU"
+  },
+  {
+    "id": 741407,
+    "name": " SANGIA WAMBULU"
+  }
+]

@@ -1,1 +1,78 @@
-[{"id":720201,"name":" POSO KOTA"},{"id":720202,"name":" POSO PESISIR"},{"id":720203,"name":" LAGE"},{"id":720204,"name":" PAMONA PUSELEMBA"},{"id":720205,"name":" PAMONA TIMUR"},{"id":720206,"name":" PAMONA SELATAN"},{"id":720207,"name":" LORE UTARA"},{"id":720208,"name":" LORE TENGAH"},{"id":720209,"name":" LORE SELATAN"},{"id":720218,"name":" POSO PESISIR UTARA"},{"id":720219,"name":" POSO PESISIR SELATAN"},{"id":720220,"name":" PAMONA BARAT"},{"id":720221,"name":" POSO KOTA SELATAN"},{"id":720222,"name":" POSO KOTA UTARA"},{"id":720223,"name":" LORE BARAT"},{"id":720224,"name":" LORE TIMUR"},{"id":720225,"name":" LORE PIORE"},{"id":720226,"name":" PAMONA TENGGARA"},{"id":720227,"name":" PAMONA UTARA"}]
+[
+  {
+    "id": 720201,
+    "name": " POSO KOTA"
+  },
+  {
+    "id": 720202,
+    "name": " POSO PESISIR"
+  },
+  {
+    "id": 720203,
+    "name": " LAGE"
+  },
+  {
+    "id": 720204,
+    "name": " PAMONA PUSELEMBA"
+  },
+  {
+    "id": 720205,
+    "name": " PAMONA TIMUR"
+  },
+  {
+    "id": 720206,
+    "name": " PAMONA SELATAN"
+  },
+  {
+    "id": 720207,
+    "name": " LORE UTARA"
+  },
+  {
+    "id": 720208,
+    "name": " LORE TENGAH"
+  },
+  {
+    "id": 720209,
+    "name": " LORE SELATAN"
+  },
+  {
+    "id": 720218,
+    "name": " POSO PESISIR UTARA"
+  },
+  {
+    "id": 720219,
+    "name": " POSO PESISIR SELATAN"
+  },
+  {
+    "id": 720220,
+    "name": " PAMONA BARAT"
+  },
+  {
+    "id": 720221,
+    "name": " POSO KOTA SELATAN"
+  },
+  {
+    "id": 720222,
+    "name": " POSO KOTA UTARA"
+  },
+  {
+    "id": 720223,
+    "name": " LORE BARAT"
+  },
+  {
+    "id": 720224,
+    "name": " LORE TIMUR"
+  },
+  {
+    "id": 720225,
+    "name": " LORE PIORE"
+  },
+  {
+    "id": 720226,
+    "name": " PAMONA TENGGARA"
+  },
+  {
+    "id": 720227,
+    "name": " PAMONA UTARA"
+  }
+]

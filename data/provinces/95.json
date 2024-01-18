@@ -1,1 +1,34 @@
-[{"id":9501,"name":"JAYAWIJAYA"},{"id":9502,"name":"PEGUNUNGAN BINTANG"},{"id":9503,"name":"YAHUKIMO"},{"id":9504,"name":"TOLIKARA"},{"id":9505,"name":"MAMBERAMO TENGAH"},{"id":9506,"name":"YALIMO"},{"id":9507,"name":"LANNY JAYA"},{"id":9508,"name":"NDUGA"}]
+[
+  {
+    "id": 9501,
+    "name": "JAYAWIJAYA"
+  },
+  {
+    "id": 9502,
+    "name": "PEGUNUNGAN BINTANG"
+  },
+  {
+    "id": 9503,
+    "name": "YAHUKIMO"
+  },
+  {
+    "id": 9504,
+    "name": "TOLIKARA"
+  },
+  {
+    "id": 9505,
+    "name": "MAMBERAMO TENGAH"
+  },
+  {
+    "id": 9506,
+    "name": "YALIMO"
+  },
+  {
+    "id": 9507,
+    "name": "LANNY JAYA"
+  },
+  {
+    "id": 9508,
+    "name": "NDUGA"
+  }
+]

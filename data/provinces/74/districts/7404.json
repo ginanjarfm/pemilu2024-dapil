@@ -1,1 +1,30 @@
-[{"id":740411,"name":" PASARWAJO"},{"id":740422,"name":" KAPONTORI"},{"id":740423,"name":" LASALIMU"},{"id":740424,"name":" LASALIMU SELATAN"},{"id":740427,"name":" SIOTAPINA"},{"id":740428,"name":" WOLOWA"},{"id":740429,"name":" WABULA"}]
+[
+  {
+    "id": 740411,
+    "name": " PASARWAJO"
+  },
+  {
+    "id": 740422,
+    "name": " KAPONTORI"
+  },
+  {
+    "id": 740423,
+    "name": " LASALIMU"
+  },
+  {
+    "id": 740424,
+    "name": " LASALIMU SELATAN"
+  },
+  {
+    "id": 740427,
+    "name": " SIOTAPINA"
+  },
+  {
+    "id": 740428,
+    "name": " WOLOWA"
+  },
+  {
+    "id": 740429,
+    "name": " WABULA"
+  }
+]

@@ -1,1 +1,54 @@
-[{"id":367101,"name":" TANGERANG"},{"id":367102,"name":" JATIUWUNG"},{"id":367103,"name":" BATUCEPER"},{"id":367104,"name":" BENDA"},{"id":367105,"name":" CIPONDOH"},{"id":367106,"name":" CILEDUG"},{"id":367107,"name":" KARAWACI"},{"id":367108,"name":" PERIUK"},{"id":367109,"name":" CIBODAS"},{"id":367110,"name":" NEGLASARI"},{"id":367111,"name":" PINANG"},{"id":367112,"name":" KARANG TENGAH"},{"id":367113,"name":" LARANGAN"}]
+[
+  {
+    "id": 367101,
+    "name": " TANGERANG"
+  },
+  {
+    "id": 367102,
+    "name": " JATIUWUNG"
+  },
+  {
+    "id": 367103,
+    "name": " BATUCEPER"
+  },
+  {
+    "id": 367104,
+    "name": " BENDA"
+  },
+  {
+    "id": 367105,
+    "name": " CIPONDOH"
+  },
+  {
+    "id": 367106,
+    "name": " CILEDUG"
+  },
+  {
+    "id": 367107,
+    "name": " KARAWACI"
+  },
+  {
+    "id": 367108,
+    "name": " PERIUK"
+  },
+  {
+    "id": 367109,
+    "name": " CIBODAS"
+  },
+  {
+    "id": 367110,
+    "name": " NEGLASARI"
+  },
+  {
+    "id": 367111,
+    "name": " PINANG"
+  },
+  {
+    "id": 367112,
+    "name": " KARANG TENGAH"
+  },
+  {
+    "id": 367113,
+    "name": " LARANGAN"
+  }
+]

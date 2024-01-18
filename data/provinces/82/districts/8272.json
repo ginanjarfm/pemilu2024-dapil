@@ -1,1 +1,34 @@
-[{"id":827201,"name":" TIDORE"},{"id":827202,"name":" OBA UTARA"},{"id":827203,"name":" OBA"},{"id":827204,"name":" TIDORE SELATAN"},{"id":827205,"name":" TIDORE UTARA"},{"id":827206,"name":" OBA TENGAH"},{"id":827207,"name":" OBA SELATAN"},{"id":827208,"name":" TIDORE TIMUR"}]
+[
+  {
+    "id": 827201,
+    "name": " TIDORE"
+  },
+  {
+    "id": 827202,
+    "name": " OBA UTARA"
+  },
+  {
+    "id": 827203,
+    "name": " OBA"
+  },
+  {
+    "id": 827204,
+    "name": " TIDORE SELATAN"
+  },
+  {
+    "id": 827205,
+    "name": " TIDORE UTARA"
+  },
+  {
+    "id": 827206,
+    "name": " OBA TENGAH"
+  },
+  {
+    "id": 827207,
+    "name": " OBA SELATAN"
+  },
+  {
+    "id": 827208,
+    "name": " TIDORE TIMUR"
+  }
+]

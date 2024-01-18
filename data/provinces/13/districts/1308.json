@@ -1,1 +1,50 @@
-[{"id":130804,"name":" BONJOL"},{"id":130805,"name":" LUBUK SIKAPING"},{"id":130807,"name":" PANTI"},{"id":130808,"name":" MAPAT TUNGGUL"},{"id":130812,"name":" DUO KOTO"},{"id":130813,"name":" TIGO NAGARI"},{"id":130814,"name":" RAO"},{"id":130815,"name":" MAPAT TUNGGUL SELATAN"},{"id":130816,"name":" SIMPANG ALAHAN MATI"},{"id":130817,"name":" PADANG GELUGUR"},{"id":130818,"name":" RAO UTARA"},{"id":130819,"name":" RAO SELATAN"}]
+[
+  {
+    "id": 130804,
+    "name": " BONJOL"
+  },
+  {
+    "id": 130805,
+    "name": " LUBUK SIKAPING"
+  },
+  {
+    "id": 130807,
+    "name": " PANTI"
+  },
+  {
+    "id": 130808,
+    "name": " MAPAT TUNGGUL"
+  },
+  {
+    "id": 130812,
+    "name": " DUO KOTO"
+  },
+  {
+    "id": 130813,
+    "name": " TIGO NAGARI"
+  },
+  {
+    "id": 130814,
+    "name": " RAO"
+  },
+  {
+    "id": 130815,
+    "name": " MAPAT TUNGGUL SELATAN"
+  },
+  {
+    "id": 130816,
+    "name": " SIMPANG ALAHAN MATI"
+  },
+  {
+    "id": 130817,
+    "name": " PADANG GELUGUR"
+  },
+  {
+    "id": 130818,
+    "name": " RAO UTARA"
+  },
+  {
+    "id": 130819,
+    "name": " RAO SELATAN"
+  }
+]

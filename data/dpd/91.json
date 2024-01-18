@@ -1,1 +1,116 @@
-[{"nomor_urut":1,"foto":"https://i.ibb.co/86XmzkB/91-1.jpg","nama":"CAREL SIMON PETRUS SUEBU, S.E.","jenis_kelamin":"L","alamat_kabko":"KAB. JAYAPURA / P A P U A","profile":{},"kode_propinsi":"91"},{"nomor_urut":2,"foto":"https://i.ibb.co/q0m9L6Q/91-2.jpg","nama":"DARUSSALAM DAMIR KS","jenis_kelamin":"L","alamat_kabko":"KOTA JAYAPURA / P A P U A","profile":{},"kode_propinsi":"91"},{"nomor_urut":3,"foto":"https://i.ibb.co/R0qkbY2/91-3.jpg","nama":"Pdt. DAVID HAROLD WAROMI, SM.Th.","jenis_kelamin":"L","alamat_kabko":"KOTA JAYAPURA / P A P U A","profile":{"ID_CANDIDATE":"79a1eddaca9303bd090960c987b6a095005ce5346ed120dc9bb0f9f48a47ee53e7c79d1bcc5a69438319559b6693507efdd354da26b594570d6aa020178c7b48M5gpGPX37y6mb+K1OrfxCEIj23usOw2eI01KoEPhPmU=","pilihan_publikasi":"BERSEDIA"},"kode_propinsi":"91"},{"nomor_urut":4,"foto":"https://i.ibb.co/k8Mn96g/91-4.jpg","nama":"HENOCK PURARO, S.Sos.","jenis_kelamin":"L","alamat_kabko":"KAB. JAYAPURA / P A P U A","profile":{},"kode_propinsi":"91"},{"nomor_urut":5,"foto":"https://i.ibb.co/MkXpzZ6/91-5.jpg","nama":"H. KUMAR, S.Ag., S.H., M.H.","jenis_kelamin":"L","alamat_kabko":"KOTA JAYAPURA / P A P U A","profile":{"ID_CANDIDATE":"f2c199aff9de55780b3a413b4a6f95faf0adc5b522b139ff055947dbede2b0dc38d4d987898b8da8ef4bc3d4101d1e12ceb5cf3d02e0605f54767d5771cad3a4Jbizr3r+spBoGcXKr2/uNcrpZ+IBNYE1lrDUYibV1zE=","pilihan_publikasi":"BERSEDIA"},"kode_propinsi":"91"},{"nomor_urut":6,"foto":"https://i.ibb.co/5BnfCXk/91-6.jpg","nama":"LALITA, S.H.","jenis_kelamin":"P","alamat_kabko":"KAB. BOGOR / JAWA BARAT","profile":{},"kode_propinsi":"91"},{"nomor_urut":7,"foto":"https://i.ibb.co/9VW3R3r/91-7.jpg","nama":"H. MADDU MALLU, S.E.","jenis_kelamin":"L","alamat_kabko":"KOTA JAYAPURA / P A P U A","profile":{"ID_CANDIDATE":"2c73288451867106c25658f5923aeaaf7700db133fcbbfd0b1c83d0788f38f5a8ba128dec68c1c138d55f5a8112ca0d8d316cb5dbecd76cff3c845bcaabecb32Upaxj2cqipmV0K4WYcqgSQHCr6h89IwvKGZzillNZFw=","pilihan_publikasi":"BERSEDIA"},"kode_propinsi":"91"},{"nomor_urut":8,"foto":"https://i.ibb.co/58B4gnJ/91-8.jpg","nama":"MOH EL BAHAR, S.E.","jenis_kelamin":"L","alamat_kabko":"KOTA JAYAPURA / P A P U A","profile":{},"kode_propinsi":"91"},{"nomor_urut":9,"foto":"https://i.ibb.co/MMdKT4R/91-9.jpg","nama":"NUR DAVID PERMANA","jenis_kelamin":"L","alamat_kabko":"KAB. JAYAPURA / P A P U A","profile":{"ID_CANDIDATE":"43c205f6b67cecf37370b49d1e067b3f22309559a1e74d75d49f16c1b4dff15651919eda2f38bcc40e5415293049a4b7690a0fe199fd430130273baa3a16466aahg09bA7sHl9l5xls0qGKk6AvE95TnxP+h6sDkO8G28=","pilihan_publikasi":"BERSEDIA"},"kode_propinsi":"91"},{"nomor_urut":10,"foto":"https://i.ibb.co/m5GRZQZ/91-10.jpg","nama":"REGINA MUABUAY, S.Pd.","jenis_kelamin":"P","alamat_kabko":"KOTA JAYAPURA / P A P U A","profile":{"ID_CANDIDATE":"edb459fbb9d54821484e1c5a42c651412ae84e14768dcde3ea2831860d3a030f464ba4ef2935de2ba339afd7d3858529cb4b51633eea20737458253e0d1ee88fdXCOuVGZfLZaHi64SeIoh0brAVjHs4VhQ0wr0I330LM=","pilihan_publikasi":"BERSEDIA"},"kode_propinsi":"91"},{"nomor_urut":11,"foto":"https://i.ibb.co/dr0R3bZ/91-11.jpg","nama":"YAKONIAS WABRAR","jenis_kelamin":"L","alamat_kabko":"KAB. SARMI / P A P U A","profile":{},"kode_propinsi":"91"}]
+[
+  {
+    "nomor_urut": 1,
+    "foto": "https://i.ibb.co/86XmzkB/91-1.jpg",
+    "nama": "CAREL SIMON PETRUS SUEBU, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB. JAYAPURA / P A P U A",
+    "profile": {},
+    "kode_propinsi": "91"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://i.ibb.co/q0m9L6Q/91-2.jpg",
+    "nama": "DARUSSALAM DAMIR KS",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA JAYAPURA / P A P U A",
+    "profile": {},
+    "kode_propinsi": "91"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://i.ibb.co/R0qkbY2/91-3.jpg",
+    "nama": "Pdt. DAVID HAROLD WAROMI, SM.Th.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA JAYAPURA / P A P U A",
+    "profile": {
+      "ID_CANDIDATE": "79a1eddaca9303bd090960c987b6a095005ce5346ed120dc9bb0f9f48a47ee53e7c79d1bcc5a69438319559b6693507efdd354da26b594570d6aa020178c7b48M5gpGPX37y6mb+K1OrfxCEIj23usOw2eI01KoEPhPmU=",
+      "pilihan_publikasi": "BERSEDIA"
+    },
+    "kode_propinsi": "91"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://i.ibb.co/k8Mn96g/91-4.jpg",
+    "nama": "HENOCK PURARO, S.Sos.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB. JAYAPURA / P A P U A",
+    "profile": {},
+    "kode_propinsi": "91"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://i.ibb.co/MkXpzZ6/91-5.jpg",
+    "nama": "H. KUMAR, S.Ag., S.H., M.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA JAYAPURA / P A P U A",
+    "profile": {
+      "ID_CANDIDATE": "f2c199aff9de55780b3a413b4a6f95faf0adc5b522b139ff055947dbede2b0dc38d4d987898b8da8ef4bc3d4101d1e12ceb5cf3d02e0605f54767d5771cad3a4Jbizr3r+spBoGcXKr2/uNcrpZ+IBNYE1lrDUYibV1zE=",
+      "pilihan_publikasi": "BERSEDIA"
+    },
+    "kode_propinsi": "91"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://i.ibb.co/5BnfCXk/91-6.jpg",
+    "nama": "LALITA, S.H.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KAB. BOGOR / JAWA BARAT",
+    "profile": {},
+    "kode_propinsi": "91"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://i.ibb.co/9VW3R3r/91-7.jpg",
+    "nama": "H. MADDU MALLU, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA JAYAPURA / P A P U A",
+    "profile": {
+      "ID_CANDIDATE": "2c73288451867106c25658f5923aeaaf7700db133fcbbfd0b1c83d0788f38f5a8ba128dec68c1c138d55f5a8112ca0d8d316cb5dbecd76cff3c845bcaabecb32Upaxj2cqipmV0K4WYcqgSQHCr6h89IwvKGZzillNZFw=",
+      "pilihan_publikasi": "BERSEDIA"
+    },
+    "kode_propinsi": "91"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://i.ibb.co/58B4gnJ/91-8.jpg",
+    "nama": "MOH EL BAHAR, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA JAYAPURA / P A P U A",
+    "profile": {},
+    "kode_propinsi": "91"
+  },
+  {
+    "nomor_urut": 9,
+    "foto": "https://i.ibb.co/MMdKT4R/91-9.jpg",
+    "nama": "NUR DAVID PERMANA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB. JAYAPURA / P A P U A",
+    "profile": {
+      "ID_CANDIDATE": "43c205f6b67cecf37370b49d1e067b3f22309559a1e74d75d49f16c1b4dff15651919eda2f38bcc40e5415293049a4b7690a0fe199fd430130273baa3a16466aahg09bA7sHl9l5xls0qGKk6AvE95TnxP+h6sDkO8G28=",
+      "pilihan_publikasi": "BERSEDIA"
+    },
+    "kode_propinsi": "91"
+  },
+  {
+    "nomor_urut": 10,
+    "foto": "https://i.ibb.co/m5GRZQZ/91-10.jpg",
+    "nama": "REGINA MUABUAY, S.Pd.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA JAYAPURA / P A P U A",
+    "profile": {
+      "ID_CANDIDATE": "edb459fbb9d54821484e1c5a42c651412ae84e14768dcde3ea2831860d3a030f464ba4ef2935de2ba339afd7d3858529cb4b51633eea20737458253e0d1ee88fdXCOuVGZfLZaHi64SeIoh0brAVjHs4VhQ0wr0I330LM=",
+      "pilihan_publikasi": "BERSEDIA"
+    },
+    "kode_propinsi": "91"
+  },
+  {
+    "nomor_urut": 11,
+    "foto": "https://i.ibb.co/dr0R3bZ/91-11.jpg",
+    "nama": "YAKONIAS WABRAR",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB. SARMI / P A P U A",
+    "profile": {},
+    "kode_propinsi": "91"
+  }
+]

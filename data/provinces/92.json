@@ -1,1 +1,30 @@
-[{"id":9202,"name":"MANOKWARI"},{"id":9203,"name":"FAK FAK"},{"id":9206,"name":"TELUK BINTUNI"},{"id":9207,"name":"TELUK WONDAMA"},{"id":9208,"name":"KAIMANA"},{"id":9211,"name":"MANOKWARI SELATAN"},{"id":9212,"name":"PEGUNUNGAN ARFAK"}]
+[
+  {
+    "id": 9202,
+    "name": "MANOKWARI"
+  },
+  {
+    "id": 9203,
+    "name": "FAK FAK"
+  },
+  {
+    "id": 9206,
+    "name": "TELUK BINTUNI"
+  },
+  {
+    "id": 9207,
+    "name": "TELUK WONDAMA"
+  },
+  {
+    "id": 9208,
+    "name": "KAIMANA"
+  },
+  {
+    "id": 9211,
+    "name": "MANOKWARI SELATAN"
+  },
+  {
+    "id": 9212,
+    "name": "PEGUNUNGAN ARFAK"
+  }
+]

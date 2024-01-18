@@ -1,1 +1,38 @@
-[{"id":121001,"name":" RANTAU UTARA"},{"id":121002,"name":" RANTAU SELATAN"},{"id":121007,"name":" BILAH BARAT"},{"id":121008,"name":" BILAH HILIR"},{"id":121009,"name":" BILAH HULU"},{"id":121014,"name":" PANGKATAN"},{"id":121018,"name":" PANAI TENGAH"},{"id":121019,"name":" PANAI HILIR"},{"id":121020,"name":" PANAI HULU"}]
+[
+  {
+    "id": 121001,
+    "name": " RANTAU UTARA"
+  },
+  {
+    "id": 121002,
+    "name": " RANTAU SELATAN"
+  },
+  {
+    "id": 121007,
+    "name": " BILAH BARAT"
+  },
+  {
+    "id": 121008,
+    "name": " BILAH HILIR"
+  },
+  {
+    "id": 121009,
+    "name": " BILAH HULU"
+  },
+  {
+    "id": 121014,
+    "name": " PANGKATAN"
+  },
+  {
+    "id": 121018,
+    "name": " PANAI TENGAH"
+  },
+  {
+    "id": 121019,
+    "name": " PANAI HILIR"
+  },
+  {
+    "id": 121020,
+    "name": " PANAI HULU"
+  }
+]

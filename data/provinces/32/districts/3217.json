@@ -1,1 +1,66 @@
-[{"id":321701,"name":" LEMBANG"},{"id":321702,"name":" PARONGPONG"},{"id":321703,"name":" CISARUA"},{"id":321704,"name":" CIKALONGWETAN"},{"id":321705,"name":" CIPEUNDEUY"},{"id":321706,"name":" NGAMPRAH"},{"id":321707,"name":" CIPATAT"},{"id":321708,"name":" PADALARANG"},{"id":321709,"name":" BATUJAJAR"},{"id":321710,"name":" CIHAMPELAS"},{"id":321711,"name":" CILILIN"},{"id":321712,"name":" CIPONGKOR"},{"id":321713,"name":" RONGGA"},{"id":321714,"name":" SINDANGKERTA"},{"id":321715,"name":" GUNUNGHALU"},{"id":321716,"name":" SAGULING"}]
+[
+  {
+    "id": 321701,
+    "name": " LEMBANG"
+  },
+  {
+    "id": 321702,
+    "name": " PARONGPONG"
+  },
+  {
+    "id": 321703,
+    "name": " CISARUA"
+  },
+  {
+    "id": 321704,
+    "name": " CIKALONGWETAN"
+  },
+  {
+    "id": 321705,
+    "name": " CIPEUNDEUY"
+  },
+  {
+    "id": 321706,
+    "name": " NGAMPRAH"
+  },
+  {
+    "id": 321707,
+    "name": " CIPATAT"
+  },
+  {
+    "id": 321708,
+    "name": " PADALARANG"
+  },
+  {
+    "id": 321709,
+    "name": " BATUJAJAR"
+  },
+  {
+    "id": 321710,
+    "name": " CIHAMPELAS"
+  },
+  {
+    "id": 321711,
+    "name": " CILILIN"
+  },
+  {
+    "id": 321712,
+    "name": " CIPONGKOR"
+  },
+  {
+    "id": 321713,
+    "name": " RONGGA"
+  },
+  {
+    "id": 321714,
+    "name": " SINDANGKERTA"
+  },
+  {
+    "id": 321715,
+    "name": " GUNUNGHALU"
+  },
+  {
+    "id": 321716,
+    "name": " SAGULING"
+  }
+]

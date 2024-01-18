@@ -1,1 +1,42 @@
-[{"id":621201,"name":" MURUNG"},{"id":621202,"name":" TANAH SIANG"},{"id":621203,"name":" LAUNG TUHUP"},{"id":621204,"name":" PERMATA INTAN"},{"id":621205,"name":" SUMBER BARITO"},{"id":621206,"name":" BARITO TUHUP RAYA"},{"id":621207,"name":" TANAH SIANG SELATAN"},{"id":621208,"name":" SUNGAI BABUAT"},{"id":621209,"name":" SERIBU RIAM"},{"id":621210,"name":" UUT MURUNG"}]
+[
+  {
+    "id": 621201,
+    "name": " MURUNG"
+  },
+  {
+    "id": 621202,
+    "name": " TANAH SIANG"
+  },
+  {
+    "id": 621203,
+    "name": " LAUNG TUHUP"
+  },
+  {
+    "id": 621204,
+    "name": " PERMATA INTAN"
+  },
+  {
+    "id": 621205,
+    "name": " SUMBER BARITO"
+  },
+  {
+    "id": 621206,
+    "name": " BARITO TUHUP RAYA"
+  },
+  {
+    "id": 621207,
+    "name": " TANAH SIANG SELATAN"
+  },
+  {
+    "id": 621208,
+    "name": " SUNGAI BABUAT"
+  },
+  {
+    "id": 621209,
+    "name": " SERIBU RIAM"
+  },
+  {
+    "id": 621210,
+    "name": " UUT MURUNG"
+  }
+]

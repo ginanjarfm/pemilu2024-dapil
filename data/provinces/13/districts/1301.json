@@ -1,1 +1,62 @@
-[{"id":130101,"name":" PANCUNG SOAL"},{"id":130102,"name":" RANAH PESISIR"},{"id":130103,"name":" LENGAYANG"},{"id":130104,"name":" BATANG KAPAS"},{"id":130105,"name":" IV JURAI"},{"id":130106,"name":" BAYANG"},{"id":130107,"name":" KOTO XI TARUSAN"},{"id":130108,"name":" SUTERA"},{"id":130109,"name":" LINGGO SARI BAGANTI"},{"id":130110,"name":" LUNANG"},{"id":130111,"name":" BASA AMPEK BALAI TAPAN"},{"id":130112,"name":" IV NAGARI BAYANG UTARA"},{"id":130113,"name":" AIRPURA"},{"id":130114,"name":" RANAH AMPEK HULU TAPAN"},{"id":130115,"name":" SILAUT"}]
+[
+  {
+    "id": 130101,
+    "name": " PANCUNG SOAL"
+  },
+  {
+    "id": 130102,
+    "name": " RANAH PESISIR"
+  },
+  {
+    "id": 130103,
+    "name": " LENGAYANG"
+  },
+  {
+    "id": 130104,
+    "name": " BATANG KAPAS"
+  },
+  {
+    "id": 130105,
+    "name": " IV JURAI"
+  },
+  {
+    "id": 130106,
+    "name": " BAYANG"
+  },
+  {
+    "id": 130107,
+    "name": " KOTO XI TARUSAN"
+  },
+  {
+    "id": 130108,
+    "name": " SUTERA"
+  },
+  {
+    "id": 130109,
+    "name": " LINGGO SARI BAGANTI"
+  },
+  {
+    "id": 130110,
+    "name": " LUNANG"
+  },
+  {
+    "id": 130111,
+    "name": " BASA AMPEK BALAI TAPAN"
+  },
+  {
+    "id": 130112,
+    "name": " IV NAGARI BAYANG UTARA"
+  },
+  {
+    "id": 130113,
+    "name": " AIRPURA"
+  },
+  {
+    "id": 130114,
+    "name": " RANAH AMPEK HULU TAPAN"
+  },
+  {
+    "id": 130115,
+    "name": " SILAUT"
+  }
+]

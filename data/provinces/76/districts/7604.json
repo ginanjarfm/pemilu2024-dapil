@@ -1,1 +1,66 @@
-[{"id":760401,"name":" TINAMBUNG"},{"id":760402,"name":" CAMPALAGIAN"},{"id":760403,"name":" WONOMULYO"},{"id":760404,"name":" POLEWALI"},{"id":760405,"name":" TUTAR"},{"id":760406,"name":" BINUANG"},{"id":760407,"name":" TAPANGO"},{"id":760408,"name":" MAPILLI"},{"id":760409,"name":" MATANGNGA"},{"id":760410,"name":" LUYO"},{"id":760411,"name":" LIMBORO"},{"id":760412,"name":" BALANIPA"},{"id":760413,"name":" ANREAPI"},{"id":760414,"name":" MATAKALI"},{"id":760415,"name":" ALLU"},{"id":760416,"name":" BULO"}]
+[
+  {
+    "id": 760401,
+    "name": " TINAMBUNG"
+  },
+  {
+    "id": 760402,
+    "name": " CAMPALAGIAN"
+  },
+  {
+    "id": 760403,
+    "name": " WONOMULYO"
+  },
+  {
+    "id": 760404,
+    "name": " POLEWALI"
+  },
+  {
+    "id": 760405,
+    "name": " TUTAR"
+  },
+  {
+    "id": 760406,
+    "name": " BINUANG"
+  },
+  {
+    "id": 760407,
+    "name": " TAPANGO"
+  },
+  {
+    "id": 760408,
+    "name": " MAPILLI"
+  },
+  {
+    "id": 760409,
+    "name": " MATANGNGA"
+  },
+  {
+    "id": 760410,
+    "name": " LUYO"
+  },
+  {
+    "id": 760411,
+    "name": " LIMBORO"
+  },
+  {
+    "id": 760412,
+    "name": " BALANIPA"
+  },
+  {
+    "id": 760413,
+    "name": " ANREAPI"
+  },
+  {
+    "id": 760414,
+    "name": " MATAKALI"
+  },
+  {
+    "id": 760415,
+    "name": " ALLU"
+  },
+  {
+    "id": 760416,
+    "name": " BULO"
+  }
+]

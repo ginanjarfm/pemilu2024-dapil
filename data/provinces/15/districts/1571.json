@@ -1,1 +1,46 @@
-[{"id":157101,"name":" TELANAIPURA"},{"id":157102,"name":" JAMBI SELATAN"},{"id":157103,"name":" JAMBI TIMUR"},{"id":157104,"name":" PASAR JAMBI"},{"id":157105,"name":" PELAYANGAN"},{"id":157106,"name":" DANAU TELUK"},{"id":157107,"name":" KOTA BARU"},{"id":157108,"name":" JELUTUNG"},{"id":157109,"name":" ALAM BARAJO"},{"id":157110,"name":" DANAU SIPIN"},{"id":157111,"name":" PAAL MERAH"}]
+[
+  {
+    "id": 157101,
+    "name": " TELANAIPURA"
+  },
+  {
+    "id": 157102,
+    "name": " JAMBI SELATAN"
+  },
+  {
+    "id": 157103,
+    "name": " JAMBI TIMUR"
+  },
+  {
+    "id": 157104,
+    "name": " PASAR JAMBI"
+  },
+  {
+    "id": 157105,
+    "name": " PELAYANGAN"
+  },
+  {
+    "id": 157106,
+    "name": " DANAU TELUK"
+  },
+  {
+    "id": 157107,
+    "name": " KOTA BARU"
+  },
+  {
+    "id": 157108,
+    "name": " JELUTUNG"
+  },
+  {
+    "id": 157109,
+    "name": " ALAM BARAJO"
+  },
+  {
+    "id": 157110,
+    "name": " DANAU SIPIN"
+  },
+  {
+    "id": 157111,
+    "name": " PAAL MERAH"
+  }
+]

@@ -1,1 +1,190 @@
-[{"id":320201,"name":" PALABUHANRATU"},{"id":320202,"name":" SIMPENAN"},{"id":320203,"name":" CIKAKAK"},{"id":320204,"name":" BANTARGADUNG"},{"id":320205,"name":" CISOLOK"},{"id":320206,"name":" CIKIDANG"},{"id":320207,"name":" LENGKONG"},{"id":320208,"name":" JAMPANGTENGAH"},{"id":320209,"name":" WARUNGKIARA"},{"id":320210,"name":" CIKEMBAR"},{"id":320211,"name":" CIBADAK"},{"id":320212,"name":" NAGRAK"},{"id":320213,"name":" PARUNGKUDA"},{"id":320214,"name":" BOJONGGENTENG"},{"id":320215,"name":" PARAKANSALAK"},{"id":320216,"name":" CICURUG"},{"id":320217,"name":" CIDAHU"},{"id":320218,"name":" KALAPANUNGGAL"},{"id":320219,"name":" KABANDUNGAN"},{"id":320220,"name":" WALURAN"},{"id":320221,"name":" JAMPANGKULON"},{"id":320222,"name":" CIEMAS"},{"id":320223,"name":" KALIBUNDER"},{"id":320224,"name":" SURADE"},{"id":320225,"name":" CIBITUNG"},{"id":320226,"name":" CIRACAP"},{"id":320227,"name":" GUNUNGGURUH"},{"id":320228,"name":" CICANTAYAN"},{"id":320229,"name":" CISAAT"},{"id":320230,"name":" KADUDAMPIT"},{"id":320231,"name":" CARINGIN"},{"id":320232,"name":" SUKABUMI"},{"id":320233,"name":" SUKARAJA"},{"id":320234,"name":" KEBONPEDES"},{"id":320235,"name":" CIREUNGHAS"},{"id":320236,"name":" SUKALARANG"},{"id":320237,"name":" PABUARAN"},{"id":320238,"name":" PURABAYA"},{"id":320239,"name":" NYALINDUNG"},{"id":320240,"name":" GEGERBITUNG"},{"id":320241,"name":" SAGARANTEN"},{"id":320242,"name":" CURUGKEMBAR"},{"id":320243,"name":" CIDOLOG"},{"id":320244,"name":" CIDADAP"},{"id":320245,"name":" TEGALBULEUD"},{"id":320246,"name":" CIMANGGU"},{"id":320247,"name":" CIAMBAR"}]
+[
+  {
+    "id": 320201,
+    "name": " PALABUHANRATU"
+  },
+  {
+    "id": 320202,
+    "name": " SIMPENAN"
+  },
+  {
+    "id": 320203,
+    "name": " CIKAKAK"
+  },
+  {
+    "id": 320204,
+    "name": " BANTARGADUNG"
+  },
+  {
+    "id": 320205,
+    "name": " CISOLOK"
+  },
+  {
+    "id": 320206,
+    "name": " CIKIDANG"
+  },
+  {
+    "id": 320207,
+    "name": " LENGKONG"
+  },
+  {
+    "id": 320208,
+    "name": " JAMPANGTENGAH"
+  },
+  {
+    "id": 320209,
+    "name": " WARUNGKIARA"
+  },
+  {
+    "id": 320210,
+    "name": " CIKEMBAR"
+  },
+  {
+    "id": 320211,
+    "name": " CIBADAK"
+  },
+  {
+    "id": 320212,
+    "name": " NAGRAK"
+  },
+  {
+    "id": 320213,
+    "name": " PARUNGKUDA"
+  },
+  {
+    "id": 320214,
+    "name": " BOJONGGENTENG"
+  },
+  {
+    "id": 320215,
+    "name": " PARAKANSALAK"
+  },
+  {
+    "id": 320216,
+    "name": " CICURUG"
+  },
+  {
+    "id": 320217,
+    "name": " CIDAHU"
+  },
+  {
+    "id": 320218,
+    "name": " KALAPANUNGGAL"
+  },
+  {
+    "id": 320219,
+    "name": " KABANDUNGAN"
+  },
+  {
+    "id": 320220,
+    "name": " WALURAN"
+  },
+  {
+    "id": 320221,
+    "name": " JAMPANGKULON"
+  },
+  {
+    "id": 320222,
+    "name": " CIEMAS"
+  },
+  {
+    "id": 320223,
+    "name": " KALIBUNDER"
+  },
+  {
+    "id": 320224,
+    "name": " SURADE"
+  },
+  {
+    "id": 320225,
+    "name": " CIBITUNG"
+  },
+  {
+    "id": 320226,
+    "name": " CIRACAP"
+  },
+  {
+    "id": 320227,
+    "name": " GUNUNGGURUH"
+  },
+  {
+    "id": 320228,
+    "name": " CICANTAYAN"
+  },
+  {
+    "id": 320229,
+    "name": " CISAAT"
+  },
+  {
+    "id": 320230,
+    "name": " KADUDAMPIT"
+  },
+  {
+    "id": 320231,
+    "name": " CARINGIN"
+  },
+  {
+    "id": 320232,
+    "name": " SUKABUMI"
+  },
+  {
+    "id": 320233,
+    "name": " SUKARAJA"
+  },
+  {
+    "id": 320234,
+    "name": " KEBONPEDES"
+  },
+  {
+    "id": 320235,
+    "name": " CIREUNGHAS"
+  },
+  {
+    "id": 320236,
+    "name": " SUKALARANG"
+  },
+  {
+    "id": 320237,
+    "name": " PABUARAN"
+  },
+  {
+    "id": 320238,
+    "name": " PURABAYA"
+  },
+  {
+    "id": 320239,
+    "name": " NYALINDUNG"
+  },
+  {
+    "id": 320240,
+    "name": " GEGERBITUNG"
+  },
+  {
+    "id": 320241,
+    "name": " SAGARANTEN"
+  },
+  {
+    "id": 320242,
+    "name": " CURUGKEMBAR"
+  },
+  {
+    "id": 320243,
+    "name": " CIDOLOG"
+  },
+  {
+    "id": 320244,
+    "name": " CIDADAP"
+  },
+  {
+    "id": 320245,
+    "name": " TEGALBULEUD"
+  },
+  {
+    "id": 320246,
+    "name": " CIMANGGU"
+  },
+  {
+    "id": 320247,
+    "name": " CIAMBAR"
+  }
+]

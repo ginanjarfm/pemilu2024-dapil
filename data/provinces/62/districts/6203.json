@@ -1,1 +1,70 @@
-[{"id":620301,"name":" SELAT"},{"id":620302,"name":" KAPUAS HILIR"},{"id":620303,"name":" KAPUAS TIMUR"},{"id":620304,"name":" KAPUAS KUALA"},{"id":620305,"name":" KAPUAS BARAT"},{"id":620306,"name":" PULAU PETAK"},{"id":620307,"name":" KAPUAS MURUNG"},{"id":620308,"name":" BASARANG"},{"id":620309,"name":" MANTANGAI"},{"id":620310,"name":" TIMPAH"},{"id":620311,"name":" KAPUAS TENGAH"},{"id":620312,"name":" KAPUAS HULU"},{"id":620313,"name":" TAMBAN CATUR"},{"id":620314,"name":" PASAK TALAWANG"},{"id":620315,"name":" MANDAU TALAWANG"},{"id":620316,"name":" DADAHUP"},{"id":620317,"name":" BATAGUH"}]
+[
+  {
+    "id": 620301,
+    "name": " SELAT"
+  },
+  {
+    "id": 620302,
+    "name": " KAPUAS HILIR"
+  },
+  {
+    "id": 620303,
+    "name": " KAPUAS TIMUR"
+  },
+  {
+    "id": 620304,
+    "name": " KAPUAS KUALA"
+  },
+  {
+    "id": 620305,
+    "name": " KAPUAS BARAT"
+  },
+  {
+    "id": 620306,
+    "name": " PULAU PETAK"
+  },
+  {
+    "id": 620307,
+    "name": " KAPUAS MURUNG"
+  },
+  {
+    "id": 620308,
+    "name": " BASARANG"
+  },
+  {
+    "id": 620309,
+    "name": " MANTANGAI"
+  },
+  {
+    "id": 620310,
+    "name": " TIMPAH"
+  },
+  {
+    "id": 620311,
+    "name": " KAPUAS TENGAH"
+  },
+  {
+    "id": 620312,
+    "name": " KAPUAS HULU"
+  },
+  {
+    "id": 620313,
+    "name": " TAMBAN CATUR"
+  },
+  {
+    "id": 620314,
+    "name": " PASAK TALAWANG"
+  },
+  {
+    "id": 620315,
+    "name": " MANDAU TALAWANG"
+  },
+  {
+    "id": 620316,
+    "name": " DADAHUP"
+  },
+  {
+    "id": 620317,
+    "name": " BATAGUH"
+  }
+]

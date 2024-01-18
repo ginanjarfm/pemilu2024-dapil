@@ -1,1 +1,26 @@
-[{"id":317203,"name":" KOJA"},{"id":317204,"name":" CILINCING"},{"id":317206,"name":" KELAPA GADING"},{"id":317201,"name":" PENJARINGAN"},{"id":317202,"name":" TANJUNG PRIOK"},{"id":317205,"name":" PADEMANGAN"}]
+[
+  {
+    "id": 317203,
+    "name": " KOJA"
+  },
+  {
+    "id": 317204,
+    "name": " CILINCING"
+  },
+  {
+    "id": 317206,
+    "name": " KELAPA GADING"
+  },
+  {
+    "id": 317201,
+    "name": " PENJARINGAN"
+  },
+  {
+    "id": 317202,
+    "name": " TANJUNG PRIOK"
+  },
+  {
+    "id": 317205,
+    "name": " PADEMANGAN"
+  }
+]

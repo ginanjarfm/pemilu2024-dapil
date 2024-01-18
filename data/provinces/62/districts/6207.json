@@ -1,1 +1,42 @@
-[{"id":620701,"name":" SERUYAN HILIR"},{"id":620702,"name":" SERUYAN TENGAH"},{"id":620703,"name":" DANAU SEMBULUH"},{"id":620704,"name":" HANAU"},{"id":620705,"name":" SERUYAN HULU"},{"id":620706,"name":" SERUYAN HILIR TIMUR"},{"id":620707,"name":" SERUYAN RAYA"},{"id":620708,"name":" DANAU SELULUK"},{"id":620709,"name":" BATU AMPAR"},{"id":620710,"name":" SULING TAMBUN"}]
+[
+  {
+    "id": 620701,
+    "name": " SERUYAN HILIR"
+  },
+  {
+    "id": 620702,
+    "name": " SERUYAN TENGAH"
+  },
+  {
+    "id": 620703,
+    "name": " DANAU SEMBULUH"
+  },
+  {
+    "id": 620704,
+    "name": " HANAU"
+  },
+  {
+    "id": 620705,
+    "name": " SERUYAN HULU"
+  },
+  {
+    "id": 620706,
+    "name": " SERUYAN HILIR TIMUR"
+  },
+  {
+    "id": 620707,
+    "name": " SERUYAN RAYA"
+  },
+  {
+    "id": 620708,
+    "name": " DANAU SELULUK"
+  },
+  {
+    "id": 620709,
+    "name": " BATU AMPAR"
+  },
+  {
+    "id": 620710,
+    "name": " SULING TAMBUN"
+  }
+]

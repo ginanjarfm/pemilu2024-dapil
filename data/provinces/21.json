@@ -1,1 +1,30 @@
-[{"id":2101,"name":"BINTAN"},{"id":2102,"name":"KARIMUN"},{"id":2103,"name":"NATUNA"},{"id":2104,"name":"LINGGA"},{"id":2105,"name":"KEPULAUAN ANAMBAS"},{"id":2171,"name":"KOTA BATAM"},{"id":2172,"name":"KOTA TANJUNG PINANG"}]
+[
+  {
+    "id": 2101,
+    "name": "BINTAN"
+  },
+  {
+    "id": 2102,
+    "name": "KARIMUN"
+  },
+  {
+    "id": 2103,
+    "name": "NATUNA"
+  },
+  {
+    "id": 2104,
+    "name": "LINGGA"
+  },
+  {
+    "id": 2105,
+    "name": "KEPULAUAN ANAMBAS"
+  },
+  {
+    "id": 2171,
+    "name": "KOTA BATAM"
+  },
+  {
+    "id": 2172,
+    "name": "KOTA TANJUNG PINANG"
+  }
+]

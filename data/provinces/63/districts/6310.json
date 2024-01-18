@@ -1,1 +1,50 @@
-[{"id":631001,"name":" BATU LICIN"},{"id":631002,"name":" KUSAN HILIR"},{"id":631003,"name":" SUNGAI LOBAN"},{"id":631004,"name":" SATUI"},{"id":631005,"name":" KUSAN HULU"},{"id":631006,"name":" SIMPANG EMPAT"},{"id":631007,"name":" KARANG BINTANG"},{"id":631008,"name":" MANTEWE"},{"id":631009,"name":" ANGSANA"},{"id":631010,"name":" KURANJI"},{"id":631011,"name":" KUSAN TENGAH"},{"id":631012,"name":" TELUK KEPAYANG"}]
+[
+  {
+    "id": 631001,
+    "name": " BATU LICIN"
+  },
+  {
+    "id": 631002,
+    "name": " KUSAN HILIR"
+  },
+  {
+    "id": 631003,
+    "name": " SUNGAI LOBAN"
+  },
+  {
+    "id": 631004,
+    "name": " SATUI"
+  },
+  {
+    "id": 631005,
+    "name": " KUSAN HULU"
+  },
+  {
+    "id": 631006,
+    "name": " SIMPANG EMPAT"
+  },
+  {
+    "id": 631007,
+    "name": " KARANG BINTANG"
+  },
+  {
+    "id": 631008,
+    "name": " MANTEWE"
+  },
+  {
+    "id": 631009,
+    "name": " ANGSANA"
+  },
+  {
+    "id": 631010,
+    "name": " KURANJI"
+  },
+  {
+    "id": 631011,
+    "name": " KUSAN TENGAH"
+  },
+  {
+    "id": 631012,
+    "name": " TELUK KEPAYANG"
+  }
+]

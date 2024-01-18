@@ -1,1 +1,38 @@
-[{"id":141001,"name":" TEBING TINGGI"},{"id":141002,"name":" RANGSANG BARAT"},{"id":141003,"name":" RANGSANG"},{"id":141004,"name":" TEBING TINGGI BARAT"},{"id":141005,"name":" MERBAU"},{"id":141006,"name":" PULAUMERBAU"},{"id":141007,"name":" TEBING TINGGI TIMUR"},{"id":141008,"name":" TASIK PUTRI PUYU"},{"id":141009,"name":" RANGSANG PESISIR"}]
+[
+  {
+    "id": 141001,
+    "name": " TEBING TINGGI"
+  },
+  {
+    "id": 141002,
+    "name": " RANGSANG BARAT"
+  },
+  {
+    "id": 141003,
+    "name": " RANGSANG"
+  },
+  {
+    "id": 141004,
+    "name": " TEBING TINGGI BARAT"
+  },
+  {
+    "id": 141005,
+    "name": " MERBAU"
+  },
+  {
+    "id": 141006,
+    "name": " PULAUMERBAU"
+  },
+  {
+    "id": 141007,
+    "name": " TEBING TINGGI TIMUR"
+  },
+  {
+    "id": 141008,
+    "name": " TASIK PUTRI PUYU"
+  },
+  {
+    "id": 141009,
+    "name": " RANGSANG PESISIR"
+  }
+]

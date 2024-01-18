@@ -1,1 +1,50 @@
-[{"id":760101,"name":" BAMBALAMOTU"},{"id":760102,"name":" PASANGKAYU"},{"id":760103,"name":" BARAS"},{"id":760104,"name":" SARUDU"},{"id":760105,"name":" DAPURANG"},{"id":760106,"name":" DURIPOKU"},{"id":760107,"name":" BULU TABA"},{"id":760108,"name":" TIKKE RAYA"},{"id":760109,"name":" PEDONGGA"},{"id":760110,"name":" BAMBAIRA"},{"id":760111,"name":" SARJO"},{"id":760112,"name":" LARIANG"}]
+[
+  {
+    "id": 760101,
+    "name": " BAMBALAMOTU"
+  },
+  {
+    "id": 760102,
+    "name": " PASANGKAYU"
+  },
+  {
+    "id": 760103,
+    "name": " BARAS"
+  },
+  {
+    "id": 760104,
+    "name": " SARUDU"
+  },
+  {
+    "id": 760105,
+    "name": " DAPURANG"
+  },
+  {
+    "id": 760106,
+    "name": " DURIPOKU"
+  },
+  {
+    "id": 760107,
+    "name": " BULU TABA"
+  },
+  {
+    "id": 760108,
+    "name": " TIKKE RAYA"
+  },
+  {
+    "id": 760109,
+    "name": " PEDONGGA"
+  },
+  {
+    "id": 760110,
+    "name": " BAMBAIRA"
+  },
+  {
+    "id": 760111,
+    "name": " SARJO"
+  },
+  {
+    "id": 760112,
+    "name": " LARIANG"
+  }
+]

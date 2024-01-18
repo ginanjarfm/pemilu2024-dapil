@@ -1,1 +1,22 @@
-[{"id":190201,"name":" TANJUNG PANDAN A"},{"id":190202,"name":" MEMBALONG"},{"id":190203,"name":" SELAT NASIK"},{"id":190204,"name":" SIJUK"},{"id":190205,"name":" BADAU"}]
+[
+  {
+    "id": 190201,
+    "name": " TANJUNG PANDAN A"
+  },
+  {
+    "id": 190202,
+    "name": " MEMBALONG"
+  },
+  {
+    "id": 190203,
+    "name": " SELAT NASIK"
+  },
+  {
+    "id": 190204,
+    "name": " SIJUK"
+  },
+  {
+    "id": 190205,
+    "name": " BADAU"
+  }
+]

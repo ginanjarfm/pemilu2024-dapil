@@ -1,1 +1,34 @@
-[{"id":717201,"name":" LEMBEH SELATAN"},{"id":717202,"name":" MADIDIR"},{"id":717203,"name":" RANOWULU"},{"id":717204,"name":" AERTEMBAGA"},{"id":717205,"name":" MATUARI"},{"id":717206,"name":" GIRIAN"},{"id":717207,"name":" MAESA"},{"id":717208,"name":" LEMBEH UTARA"}]
+[
+  {
+    "id": 717201,
+    "name": " LEMBEH SELATAN"
+  },
+  {
+    "id": 717202,
+    "name": " MADIDIR"
+  },
+  {
+    "id": 717203,
+    "name": " RANOWULU"
+  },
+  {
+    "id": 717204,
+    "name": " AERTEMBAGA"
+  },
+  {
+    "id": 717205,
+    "name": " MATUARI"
+  },
+  {
+    "id": 717206,
+    "name": " GIRIAN"
+  },
+  {
+    "id": 717207,
+    "name": " MAESA"
+  },
+  {
+    "id": 717208,
+    "name": " LEMBEH UTARA"
+  }
+]

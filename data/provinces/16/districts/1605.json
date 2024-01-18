@@ -1,1 +1,58 @@
-[{"id":160501,"name":" TUGUMULYO"},{"id":160502,"name":" MUARA LAKITAN"},{"id":160503,"name":" MUARA KELINGI"},{"id":160508,"name":" JAYALOKA"},{"id":160509,"name":" MUARA BELITI"},{"id":160510,"name":" STL ULU TERAWAS"},{"id":160511,"name":" SELANGIT"},{"id":160512,"name":" MEGANG SAKTI"},{"id":160513,"name":" PURWODADI"},{"id":160514,"name":" BTS. ULU"},{"id":160518,"name":" TIANG PUMPUNG KEPUNGUT"},{"id":160519,"name":" SUMBER HARTA"},{"id":160520,"name":" TUAH NEGERI"},{"id":160521,"name":" SUKA KARYA"}]
+[
+  {
+    "id": 160501,
+    "name": " TUGUMULYO"
+  },
+  {
+    "id": 160502,
+    "name": " MUARA LAKITAN"
+  },
+  {
+    "id": 160503,
+    "name": " MUARA KELINGI"
+  },
+  {
+    "id": 160508,
+    "name": " JAYALOKA"
+  },
+  {
+    "id": 160509,
+    "name": " MUARA BELITI"
+  },
+  {
+    "id": 160510,
+    "name": " STL ULU TERAWAS"
+  },
+  {
+    "id": 160511,
+    "name": " SELANGIT"
+  },
+  {
+    "id": 160512,
+    "name": " MEGANG SAKTI"
+  },
+  {
+    "id": 160513,
+    "name": " PURWODADI"
+  },
+  {
+    "id": 160514,
+    "name": " BTS. ULU"
+  },
+  {
+    "id": 160518,
+    "name": " TIANG PUMPUNG KEPUNGUT"
+  },
+  {
+    "id": 160519,
+    "name": " SUMBER HARTA"
+  },
+  {
+    "id": 160520,
+    "name": " TUAH NEGERI"
+  },
+  {
+    "id": 160521,
+    "name": " SUKA KARYA"
+  }
+]

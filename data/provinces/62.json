@@ -1,1 +1,58 @@
-[{"id":6201,"name":"KOTAWARINGIN BARAT"},{"id":6202,"name":"KOTAWARINGIN TIMUR"},{"id":6203,"name":"KAPUAS"},{"id":6204,"name":"BARITO SELATAN"},{"id":6205,"name":"BARITO UTARA"},{"id":6206,"name":"KATINGAN"},{"id":6207,"name":"SERUYAN"},{"id":6208,"name":"SUKAMARA"},{"id":6209,"name":"LAMANDAU"},{"id":6210,"name":"GUNUNG MAS"},{"id":6211,"name":"PULANG PISAU"},{"id":6212,"name":"MURUNG RAYA"},{"id":6213,"name":"BARITO TIMUR"},{"id":6271,"name":"KOTA PALANGKARAYA"}]
+[
+  {
+    "id": 6201,
+    "name": "KOTAWARINGIN BARAT"
+  },
+  {
+    "id": 6202,
+    "name": "KOTAWARINGIN TIMUR"
+  },
+  {
+    "id": 6203,
+    "name": "KAPUAS"
+  },
+  {
+    "id": 6204,
+    "name": "BARITO SELATAN"
+  },
+  {
+    "id": 6205,
+    "name": "BARITO UTARA"
+  },
+  {
+    "id": 6206,
+    "name": "KATINGAN"
+  },
+  {
+    "id": 6207,
+    "name": "SERUYAN"
+  },
+  {
+    "id": 6208,
+    "name": "SUKAMARA"
+  },
+  {
+    "id": 6209,
+    "name": "LAMANDAU"
+  },
+  {
+    "id": 6210,
+    "name": "GUNUNG MAS"
+  },
+  {
+    "id": 6211,
+    "name": "PULANG PISAU"
+  },
+  {
+    "id": 6212,
+    "name": "MURUNG RAYA"
+  },
+  {
+    "id": 6213,
+    "name": "BARITO TIMUR"
+  },
+  {
+    "id": 6271,
+    "name": "KOTA PALANGKARAYA"
+  }
+]

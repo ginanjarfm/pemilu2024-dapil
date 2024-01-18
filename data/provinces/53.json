@@ -1,1 +1,90 @@
-[{"id":5301,"name":"KUPANG"},{"id":5302,"name":"TIMOR TENGAH SELATAN"},{"id":5303,"name":"TIMOR TENGAH UTARA"},{"id":5304,"name":"BELU"},{"id":5305,"name":"ALOR"},{"id":5306,"name":"FLORES TIMUR"},{"id":5307,"name":"SIKKA"},{"id":5308,"name":"ENDE"},{"id":5309,"name":"NGADA"},{"id":5310,"name":"MANGGARAI"},{"id":5311,"name":"SUMBA TIMUR"},{"id":5312,"name":"SUMBA BARAT"},{"id":5313,"name":"LEMBATA"},{"id":5314,"name":"ROTE NDAO"},{"id":5315,"name":"MANGGARAI BARAT"},{"id":5316,"name":"NAGEKEO"},{"id":5317,"name":"SUMBA TENGAH"},{"id":5318,"name":"SUMBA BARAT DAYA"},{"id":5319,"name":"MANGGARAI TIMUR"},{"id":5320,"name":"SABU RAIJUA"},{"id":5321,"name":"MALAKA"},{"id":5371,"name":"KOTA KUPANG"}]
+[
+  {
+    "id": 5301,
+    "name": "KUPANG"
+  },
+  {
+    "id": 5302,
+    "name": "TIMOR TENGAH SELATAN"
+  },
+  {
+    "id": 5303,
+    "name": "TIMOR TENGAH UTARA"
+  },
+  {
+    "id": 5304,
+    "name": "BELU"
+  },
+  {
+    "id": 5305,
+    "name": "ALOR"
+  },
+  {
+    "id": 5306,
+    "name": "FLORES TIMUR"
+  },
+  {
+    "id": 5307,
+    "name": "SIKKA"
+  },
+  {
+    "id": 5308,
+    "name": "ENDE"
+  },
+  {
+    "id": 5309,
+    "name": "NGADA"
+  },
+  {
+    "id": 5310,
+    "name": "MANGGARAI"
+  },
+  {
+    "id": 5311,
+    "name": "SUMBA TIMUR"
+  },
+  {
+    "id": 5312,
+    "name": "SUMBA BARAT"
+  },
+  {
+    "id": 5313,
+    "name": "LEMBATA"
+  },
+  {
+    "id": 5314,
+    "name": "ROTE NDAO"
+  },
+  {
+    "id": 5315,
+    "name": "MANGGARAI BARAT"
+  },
+  {
+    "id": 5316,
+    "name": "NAGEKEO"
+  },
+  {
+    "id": 5317,
+    "name": "SUMBA TENGAH"
+  },
+  {
+    "id": 5318,
+    "name": "SUMBA BARAT DAYA"
+  },
+  {
+    "id": 5319,
+    "name": "MANGGARAI TIMUR"
+  },
+  {
+    "id": 5320,
+    "name": "SABU RAIJUA"
+  },
+  {
+    "id": 5321,
+    "name": "MALAKA"
+  },
+  {
+    "id": 5371,
+    "name": "KOTA KUPANG"
+  }
+]

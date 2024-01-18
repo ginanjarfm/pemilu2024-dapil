@@ -1,1 +1,34 @@
-[{"id":367201,"name":" CIBEBER"},{"id":367202,"name":" CILEGON"},{"id":367203,"name":" PULOMERAK"},{"id":367204,"name":" CIWANDAN"},{"id":367205,"name":" JOMBANG"},{"id":367206,"name":" GEROGOL"},{"id":367207,"name":" PURWAKARTA"},{"id":367208,"name":" CITANGKIL"}]
+[
+  {
+    "id": 367201,
+    "name": " CIBEBER"
+  },
+  {
+    "id": 367202,
+    "name": " CILEGON"
+  },
+  {
+    "id": 367203,
+    "name": " PULOMERAK"
+  },
+  {
+    "id": 367204,
+    "name": " CIWANDAN"
+  },
+  {
+    "id": 367205,
+    "name": " JOMBANG"
+  },
+  {
+    "id": 367206,
+    "name": " GEROGOL"
+  },
+  {
+    "id": 367207,
+    "name": " PURWAKARTA"
+  },
+  {
+    "id": 367208,
+    "name": " CITANGKIL"
+  }
+]

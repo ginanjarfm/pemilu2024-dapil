@@ -1,1 +1,30 @@
-[{"id":147201,"name":" DUMAI BARAT"},{"id":147202,"name":" DUMAI TIMUR"},{"id":147203,"name":" BUKIT KAPUR"},{"id":147204,"name":" SUNGAI SEMBILAN"},{"id":147205,"name":" MEDANG KAMPAI"},{"id":147206,"name":" DUMAI KOTA"},{"id":147207,"name":" DUMAI SELATAN"}]
+[
+  {
+    "id": 147201,
+    "name": " DUMAI BARAT"
+  },
+  {
+    "id": 147202,
+    "name": " DUMAI TIMUR"
+  },
+  {
+    "id": 147203,
+    "name": " BUKIT KAPUR"
+  },
+  {
+    "id": 147204,
+    "name": " SUNGAI SEMBILAN"
+  },
+  {
+    "id": 147205,
+    "name": " MEDANG KAMPAI"
+  },
+  {
+    "id": 147206,
+    "name": " DUMAI KOTA"
+  },
+  {
+    "id": 147207,
+    "name": " DUMAI SELATAN"
+  }
+]

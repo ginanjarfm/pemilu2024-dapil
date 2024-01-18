@@ -1,1 +1,70 @@
-[{"id":340401,"name":" GAMPING"},{"id":340402,"name":" GODEAN"},{"id":340403,"name":" MOYUDAN"},{"id":340404,"name":" MINGGIR"},{"id":340405,"name":" SEYEGAN"},{"id":340406,"name":" MLATI"},{"id":340407,"name":" DEPOK"},{"id":340408,"name":" BERBAH"},{"id":340409,"name":" PRAMBANAN"},{"id":340410,"name":" KALASAN"},{"id":340411,"name":" NGEMPLAK"},{"id":340412,"name":" NGAGLIK"},{"id":340413,"name":" SLEMAN"},{"id":340414,"name":" TEMPEL"},{"id":340415,"name":" TURI"},{"id":340416,"name":" PAKEM"},{"id":340417,"name":" CANGKRINGAN"}]
+[
+  {
+    "id": 340401,
+    "name": " GAMPING"
+  },
+  {
+    "id": 340402,
+    "name": " GODEAN"
+  },
+  {
+    "id": 340403,
+    "name": " MOYUDAN"
+  },
+  {
+    "id": 340404,
+    "name": " MINGGIR"
+  },
+  {
+    "id": 340405,
+    "name": " SEYEGAN"
+  },
+  {
+    "id": 340406,
+    "name": " MLATI"
+  },
+  {
+    "id": 340407,
+    "name": " DEPOK"
+  },
+  {
+    "id": 340408,
+    "name": " BERBAH"
+  },
+  {
+    "id": 340409,
+    "name": " PRAMBANAN"
+  },
+  {
+    "id": 340410,
+    "name": " KALASAN"
+  },
+  {
+    "id": 340411,
+    "name": " NGEMPLAK"
+  },
+  {
+    "id": 340412,
+    "name": " NGAGLIK"
+  },
+  {
+    "id": 340413,
+    "name": " SLEMAN"
+  },
+  {
+    "id": 340414,
+    "name": " TEMPEL"
+  },
+  {
+    "id": 340415,
+    "name": " TURI"
+  },
+  {
+    "id": 340416,
+    "name": " PAKEM"
+  },
+  {
+    "id": 340417,
+    "name": " CANGKRINGAN"
+  }
+]

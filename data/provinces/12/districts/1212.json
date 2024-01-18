@@ -1,1 +1,66 @@
-[{"id":121201,"name":" BALIGE"},{"id":121202,"name":" LAGUBOTI"},{"id":121203,"name":" SILAEN"},{"id":121204,"name":" HABINSARAN"},{"id":121205,"name":" PINTU POHAN MERANTI"},{"id":121206,"name":" BORBOR"},{"id":121207,"name":" PORSEA"},{"id":121208,"name":" AJIBATA"},{"id":121209,"name":" LUMBAN JULU"},{"id":121210,"name":" ULUAN"},{"id":121219,"name":" SIGUMPAR"},{"id":121220,"name":" SIANTAR NARUMONDA"},{"id":121221,"name":" NASSAU"},{"id":121222,"name":" TAMPAHAN"},{"id":121223,"name":" BONATUA LUNASI"},{"id":121224,"name":" PARMAKSIAN"}]
+[
+  {
+    "id": 121201,
+    "name": " BALIGE"
+  },
+  {
+    "id": 121202,
+    "name": " LAGUBOTI"
+  },
+  {
+    "id": 121203,
+    "name": " SILAEN"
+  },
+  {
+    "id": 121204,
+    "name": " HABINSARAN"
+  },
+  {
+    "id": 121205,
+    "name": " PINTU POHAN MERANTI"
+  },
+  {
+    "id": 121206,
+    "name": " BORBOR"
+  },
+  {
+    "id": 121207,
+    "name": " PORSEA"
+  },
+  {
+    "id": 121208,
+    "name": " AJIBATA"
+  },
+  {
+    "id": 121209,
+    "name": " LUMBAN JULU"
+  },
+  {
+    "id": 121210,
+    "name": " ULUAN"
+  },
+  {
+    "id": 121219,
+    "name": " SIGUMPAR"
+  },
+  {
+    "id": 121220,
+    "name": " SIANTAR NARUMONDA"
+  },
+  {
+    "id": 121221,
+    "name": " NASSAU"
+  },
+  {
+    "id": 121222,
+    "name": " TAMPAHAN"
+  },
+  {
+    "id": 121223,
+    "name": " BONATUA LUNASI"
+  },
+  {
+    "id": 121224,
+    "name": " PARMAKSIAN"
+  }
+]

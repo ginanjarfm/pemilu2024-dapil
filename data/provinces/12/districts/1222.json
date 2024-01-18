@@ -1,1 +1,22 @@
-[{"id":122201,"name":" KOTAPINANG"},{"id":122202,"name":" KAMPUNG RAKYAT"},{"id":122203,"name":" TORGAMBA A"},{"id":122204,"name":" SUNGAI KANAN"},{"id":122205,"name":" SILANGKITANG"}]
+[
+  {
+    "id": 122201,
+    "name": " KOTAPINANG"
+  },
+  {
+    "id": 122202,
+    "name": " KAMPUNG RAKYAT"
+  },
+  {
+    "id": 122203,
+    "name": " TORGAMBA A"
+  },
+  {
+    "id": 122204,
+    "name": " SUNGAI KANAN"
+  },
+  {
+    "id": 122205,
+    "name": " SILANGKITANG"
+  }
+]

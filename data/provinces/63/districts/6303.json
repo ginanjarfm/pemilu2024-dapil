@@ -1,1 +1,82 @@
-[{"id":630301,"name":" ALUH ALUH"},{"id":630302,"name":" KERTAK HANYAR"},{"id":630303,"name":" GAMBUT"},{"id":630304,"name":" SUNGAI TABUK"},{"id":630305,"name":" MARTAPURA"},{"id":630306,"name":" KARANG INTAN"},{"id":630307,"name":" ASTAMBUL"},{"id":630308,"name":" SIMPANG EMPAT"},{"id":630309,"name":" PENGARON"},{"id":630310,"name":" SUNGAI PINANG"},{"id":630311,"name":" ARANIO"},{"id":630312,"name":" MATARAMAN"},{"id":630313,"name":" BERUNTUNG BARU"},{"id":630314,"name":" MARTAPURA BARAT"},{"id":630315,"name":" MARTAPURA TIMUR"},{"id":630316,"name":" SAMBUNG MAKMUR"},{"id":630317,"name":" PARAMASAN"},{"id":630318,"name":" TELAGA BAUNTUNG"},{"id":630319,"name":" TATAH MAKMUR"},{"id":630320,"name":" CINTAPURI DARUSSALAM"}]
+[
+  {
+    "id": 630301,
+    "name": " ALUH ALUH"
+  },
+  {
+    "id": 630302,
+    "name": " KERTAK HANYAR"
+  },
+  {
+    "id": 630303,
+    "name": " GAMBUT"
+  },
+  {
+    "id": 630304,
+    "name": " SUNGAI TABUK"
+  },
+  {
+    "id": 630305,
+    "name": " MARTAPURA"
+  },
+  {
+    "id": 630306,
+    "name": " KARANG INTAN"
+  },
+  {
+    "id": 630307,
+    "name": " ASTAMBUL"
+  },
+  {
+    "id": 630308,
+    "name": " SIMPANG EMPAT"
+  },
+  {
+    "id": 630309,
+    "name": " PENGARON"
+  },
+  {
+    "id": 630310,
+    "name": " SUNGAI PINANG"
+  },
+  {
+    "id": 630311,
+    "name": " ARANIO"
+  },
+  {
+    "id": 630312,
+    "name": " MATARAMAN"
+  },
+  {
+    "id": 630313,
+    "name": " BERUNTUNG BARU"
+  },
+  {
+    "id": 630314,
+    "name": " MARTAPURA BARAT"
+  },
+  {
+    "id": 630315,
+    "name": " MARTAPURA TIMUR"
+  },
+  {
+    "id": 630316,
+    "name": " SAMBUNG MAKMUR"
+  },
+  {
+    "id": 630317,
+    "name": " PARAMASAN"
+  },
+  {
+    "id": 630318,
+    "name": " TELAGA BAUNTUNG"
+  },
+  {
+    "id": 630319,
+    "name": " TATAH MAKMUR"
+  },
+  {
+    "id": 630320,
+    "name": " CINTAPURI DARUSSALAM"
+  }
+]

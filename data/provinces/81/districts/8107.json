@@ -1,1 +1,42 @@
-[{"id":810701,"name":" PULAU-PULAU ARU"},{"id":810702,"name":" ARU SELATAN"},{"id":810703,"name":" ARU TENGAH"},{"id":810704,"name":" ARU UTARA"},{"id":810705,"name":" ARU UTARA TIMUR BATULEY"},{"id":810706,"name":" SIR-SIR"},{"id":810707,"name":" ARU TENGAH TIMUR"},{"id":810708,"name":" ARU TENGAH SELATAN"},{"id":810709,"name":" ARU SELATAN TIMUR"},{"id":810710,"name":" ARU SELATAN UTARA"}]
+[
+  {
+    "id": 810701,
+    "name": " PULAU-PULAU ARU"
+  },
+  {
+    "id": 810702,
+    "name": " ARU SELATAN"
+  },
+  {
+    "id": 810703,
+    "name": " ARU TENGAH"
+  },
+  {
+    "id": 810704,
+    "name": " ARU UTARA"
+  },
+  {
+    "id": 810705,
+    "name": " ARU UTARA TIMUR BATULEY"
+  },
+  {
+    "id": 810706,
+    "name": " SIR-SIR"
+  },
+  {
+    "id": 810707,
+    "name": " ARU TENGAH TIMUR"
+  },
+  {
+    "id": 810708,
+    "name": " ARU TENGAH SELATAN"
+  },
+  {
+    "id": 810709,
+    "name": " ARU SELATAN TIMUR"
+  },
+  {
+    "id": 810710,
+    "name": " ARU SELATAN UTARA"
+  }
+]

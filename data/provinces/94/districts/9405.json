@@ -1,1 +1,102 @@
-[{"id":940501,"name":" ILAGA"},{"id":940502,"name":" WANGBE"},{"id":940503,"name":" BEOGA"},{"id":940504,"name":" DOUFO"},{"id":940505,"name":" POGOMA"},{"id":940506,"name":" SINAK"},{"id":940507,"name":" AGANDUGUME"},{"id":940508,"name":" GOME"},{"id":940509,"name":" DERVOS"},{"id":940510,"name":" BEOGA BARAT"},{"id":940511,"name":" BEOGA TIMUR"},{"id":940512,"name":" OGAMANIM"},{"id":940513,"name":" KEMBRU"},{"id":940514,"name":" BINA"},{"id":940515,"name":" SINAK BARAT"},{"id":940516,"name":" MAGE/ABUME"},{"id":940517,"name":" YUGUMUAK"},{"id":940518,"name":" ILAGA UTARA"},{"id":940519,"name":" MABUGI"},{"id":940520,"name":" OMUKIA"},{"id":940521,"name":" LAMBEWI"},{"id":940522,"name":" ONERI"},{"id":940523,"name":" AMUNGKALPIA"},{"id":940524,"name":" GOME UTARA"},{"id":940525,"name":" ERELMAKAWIA"}]
+[
+  {
+    "id": 940501,
+    "name": " ILAGA"
+  },
+  {
+    "id": 940502,
+    "name": " WANGBE"
+  },
+  {
+    "id": 940503,
+    "name": " BEOGA"
+  },
+  {
+    "id": 940504,
+    "name": " DOUFO"
+  },
+  {
+    "id": 940505,
+    "name": " POGOMA"
+  },
+  {
+    "id": 940506,
+    "name": " SINAK"
+  },
+  {
+    "id": 940507,
+    "name": " AGANDUGUME"
+  },
+  {
+    "id": 940508,
+    "name": " GOME"
+  },
+  {
+    "id": 940509,
+    "name": " DERVOS"
+  },
+  {
+    "id": 940510,
+    "name": " BEOGA BARAT"
+  },
+  {
+    "id": 940511,
+    "name": " BEOGA TIMUR"
+  },
+  {
+    "id": 940512,
+    "name": " OGAMANIM"
+  },
+  {
+    "id": 940513,
+    "name": " KEMBRU"
+  },
+  {
+    "id": 940514,
+    "name": " BINA"
+  },
+  {
+    "id": 940515,
+    "name": " SINAK BARAT"
+  },
+  {
+    "id": 940516,
+    "name": " MAGE/ABUME"
+  },
+  {
+    "id": 940517,
+    "name": " YUGUMUAK"
+  },
+  {
+    "id": 940518,
+    "name": " ILAGA UTARA"
+  },
+  {
+    "id": 940519,
+    "name": " MABUGI"
+  },
+  {
+    "id": 940520,
+    "name": " OMUKIA"
+  },
+  {
+    "id": 940521,
+    "name": " LAMBEWI"
+  },
+  {
+    "id": 940522,
+    "name": " ONERI"
+  },
+  {
+    "id": 940523,
+    "name": " AMUNGKALPIA"
+  },
+  {
+    "id": 940524,
+    "name": " GOME UTARA"
+  },
+  {
+    "id": 940525,
+    "name": " ERELMAKAWIA"
+  }
+]

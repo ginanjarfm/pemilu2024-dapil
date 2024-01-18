@@ -1,1 +1,50 @@
-[{"id":740101,"name":" WUNDULAKO"},{"id":740104,"name":" KOLAKA"},{"id":740107,"name":" POMALAA"},{"id":740108,"name":" WATUBANGGA"},{"id":740110,"name":" WOLO"},{"id":740112,"name":" BAULA"},{"id":740114,"name":" LATAMBAGA"},{"id":740118,"name":" TANGGETADA"},{"id":740120,"name":" SAMATURU"},{"id":740124,"name":" TOARI"},{"id":740125,"name":" POLINGGONA"},{"id":740127,"name":" IWOIMENDAA"}]
+[
+  {
+    "id": 740101,
+    "name": " WUNDULAKO"
+  },
+  {
+    "id": 740104,
+    "name": " KOLAKA"
+  },
+  {
+    "id": 740107,
+    "name": " POMALAA"
+  },
+  {
+    "id": 740108,
+    "name": " WATUBANGGA"
+  },
+  {
+    "id": 740110,
+    "name": " WOLO"
+  },
+  {
+    "id": 740112,
+    "name": " BAULA"
+  },
+  {
+    "id": 740114,
+    "name": " LATAMBAGA"
+  },
+  {
+    "id": 740118,
+    "name": " TANGGETADA"
+  },
+  {
+    "id": 740120,
+    "name": " SAMATURU"
+  },
+  {
+    "id": 740124,
+    "name": " TOARI"
+  },
+  {
+    "id": 740125,
+    "name": " POLINGGONA"
+  },
+  {
+    "id": 740127,
+    "name": " IWOIMENDAA"
+  }
+]

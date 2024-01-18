@@ -1,1 +1,62 @@
-[{"id":737101,"name":" MARISO"},{"id":737102,"name":" MAMAJANG"},{"id":737103,"name":" MAKASSAR"},{"id":737104,"name":" UJUNG PANDANG"},{"id":737105,"name":" WAJO"},{"id":737106,"name":" BONTOALA"},{"id":737107,"name":" TALLO"},{"id":737108,"name":" UJUNG TANAH"},{"id":737109,"name":" PANAKKUKANG"},{"id":737110,"name":" TAMALATE"},{"id":737111,"name":" BIRINGKANAYA"},{"id":737112,"name":" MANGGALA"},{"id":737113,"name":" RAPPOCINI"},{"id":737114,"name":" TAMALANREA"},{"id":737115,"name":" KEPULAUAN SANGKARRANG"}]
+[
+  {
+    "id": 737101,
+    "name": " MARISO"
+  },
+  {
+    "id": 737102,
+    "name": " MAMAJANG"
+  },
+  {
+    "id": 737103,
+    "name": " MAKASSAR"
+  },
+  {
+    "id": 737104,
+    "name": " UJUNG PANDANG"
+  },
+  {
+    "id": 737105,
+    "name": " WAJO"
+  },
+  {
+    "id": 737106,
+    "name": " BONTOALA"
+  },
+  {
+    "id": 737107,
+    "name": " TALLO"
+  },
+  {
+    "id": 737108,
+    "name": " UJUNG TANAH"
+  },
+  {
+    "id": 737109,
+    "name": " PANAKKUKANG"
+  },
+  {
+    "id": 737110,
+    "name": " TAMALATE"
+  },
+  {
+    "id": 737111,
+    "name": " BIRINGKANAYA"
+  },
+  {
+    "id": 737112,
+    "name": " MANGGALA"
+  },
+  {
+    "id": 737113,
+    "name": " RAPPOCINI"
+  },
+  {
+    "id": 737114,
+    "name": " TAMALANREA"
+  },
+  {
+    "id": 737115,
+    "name": " KEPULAUAN SANGKARRANG"
+  }
+]

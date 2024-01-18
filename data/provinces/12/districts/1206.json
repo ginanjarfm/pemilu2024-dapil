@@ -1,1 +1,70 @@
-[{"id":120601,"name":" KABANJAHE"},{"id":120602,"name":" BERASTAGI"},{"id":120603,"name":" BARUSJAHE"},{"id":120604,"name":" TIGAPANAH"},{"id":120605,"name":" MEREK"},{"id":120606,"name":" MUNTE"},{"id":120607,"name":" JUHAR"},{"id":120608,"name":" TIGABINANGA"},{"id":120609,"name":" LAUBALENG"},{"id":120610,"name":" MARDINGDING"},{"id":120611,"name":" PAYUNG"},{"id":120612,"name":" SIMPANG EMPAT"},{"id":120613,"name":" KUTABULUH"},{"id":120614,"name":" DOLAT RAYAT"},{"id":120615,"name":" MERDEKA"},{"id":120616,"name":" NAMAN TERAN"},{"id":120617,"name":" TIGANDERKET"}]
+[
+  {
+    "id": 120601,
+    "name": " KABANJAHE"
+  },
+  {
+    "id": 120602,
+    "name": " BERASTAGI"
+  },
+  {
+    "id": 120603,
+    "name": " BARUSJAHE"
+  },
+  {
+    "id": 120604,
+    "name": " TIGAPANAH"
+  },
+  {
+    "id": 120605,
+    "name": " MEREK"
+  },
+  {
+    "id": 120606,
+    "name": " MUNTE"
+  },
+  {
+    "id": 120607,
+    "name": " JUHAR"
+  },
+  {
+    "id": 120608,
+    "name": " TIGABINANGA"
+  },
+  {
+    "id": 120609,
+    "name": " LAUBALENG"
+  },
+  {
+    "id": 120610,
+    "name": " MARDINGDING"
+  },
+  {
+    "id": 120611,
+    "name": " PAYUNG"
+  },
+  {
+    "id": 120612,
+    "name": " SIMPANG EMPAT"
+  },
+  {
+    "id": 120613,
+    "name": " KUTABULUH"
+  },
+  {
+    "id": 120614,
+    "name": " DOLAT RAYAT"
+  },
+  {
+    "id": 120615,
+    "name": " MERDEKA"
+  },
+  {
+    "id": 120616,
+    "name": " NAMAN TERAN"
+  },
+  {
+    "id": 120617,
+    "name": " TIGANDERKET"
+  }
+]

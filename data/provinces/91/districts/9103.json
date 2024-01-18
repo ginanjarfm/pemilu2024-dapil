@@ -1,1 +1,78 @@
-[{"id":910301,"name":" SENTANI A"},{"id":910302,"name":" SENTANI TIMUR"},{"id":910303,"name":" DEPAPRE"},{"id":910304,"name":" SENTANI BARAT"},{"id":910305,"name":" KEMTUK"},{"id":910306,"name":" KEMTUK GRESI"},{"id":910307,"name":" NIMBORAN"},{"id":910308,"name":" NIMBOKRANG"},{"id":910309,"name":" UNURUM GUAY"},{"id":910310,"name":" DEMTA"},{"id":910311,"name":" KAUREH"},{"id":910312,"name":" EBUNGFAO"},{"id":910313,"name":" WAIBU"},{"id":910314,"name":" NAMBLUONG"},{"id":910315,"name":" YAPSI"},{"id":910316,"name":" AIRU"},{"id":910317,"name":" RAVENI RARA"},{"id":910318,"name":" GRESI SELATAN"},{"id":910319,"name":" YOKARI"}]
+[
+  {
+    "id": 910301,
+    "name": " SENTANI A"
+  },
+  {
+    "id": 910302,
+    "name": " SENTANI TIMUR"
+  },
+  {
+    "id": 910303,
+    "name": " DEPAPRE"
+  },
+  {
+    "id": 910304,
+    "name": " SENTANI BARAT"
+  },
+  {
+    "id": 910305,
+    "name": " KEMTUK"
+  },
+  {
+    "id": 910306,
+    "name": " KEMTUK GRESI"
+  },
+  {
+    "id": 910307,
+    "name": " NIMBORAN"
+  },
+  {
+    "id": 910308,
+    "name": " NIMBOKRANG"
+  },
+  {
+    "id": 910309,
+    "name": " UNURUM GUAY"
+  },
+  {
+    "id": 910310,
+    "name": " DEMTA"
+  },
+  {
+    "id": 910311,
+    "name": " KAUREH"
+  },
+  {
+    "id": 910312,
+    "name": " EBUNGFAO"
+  },
+  {
+    "id": 910313,
+    "name": " WAIBU"
+  },
+  {
+    "id": 910314,
+    "name": " NAMBLUONG"
+  },
+  {
+    "id": 910315,
+    "name": " YAPSI"
+  },
+  {
+    "id": 910316,
+    "name": " AIRU"
+  },
+  {
+    "id": 910317,
+    "name": " RAVENI RARA"
+  },
+  {
+    "id": 910318,
+    "name": " GRESI SELATAN"
+  },
+  {
+    "id": 910319,
+    "name": " YOKARI"
+  }
+]
