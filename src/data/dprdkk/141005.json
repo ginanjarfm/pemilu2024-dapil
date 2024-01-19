@@ -1,0 +1,757 @@
+[
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/114697/pas_foto/1688405210_a24d9a68-7420-4727-b81b-a865c14b2cd6.jpeg",
+    "nama": "SUTRISNO, M.M.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEPULAUAN MERANTI",
+    "profile": {},
+    "id_partai": 8,
+    "kode_dapil": "141005"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/483513/pas_foto/1696052585_ba0cc6ff-411f-4270-9cf3-affc850075da.jpeg",
+    "nama": "ISMAWARNI, S.Pd.I.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KEPULAUAN MERANTI",
+    "profile": {},
+    "id_partai": 8,
+    "kode_dapil": "141005"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/114695/pas_foto/1688405584_118dc7ef-80ed-4ca0-a357-28f90773e09e.jpeg",
+    "nama": "SELAMAT, S.Pd.I.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEPULAUAN MERANTI",
+    "profile": {},
+    "id_partai": 8,
+    "kode_dapil": "141005"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/114694/pas_foto/1688405537_e6cfbd6e-8981-4da4-9b89-9ceb768ab1d3.jpeg",
+    "nama": "SITI HARTINAH, S.Hum.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "INDRAGIRI HILIR",
+    "profile": {},
+    "id_partai": 8,
+    "kode_dapil": "141005"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/114698/pas_foto/1688405484_5aff5fe6-6dac-4a84-98f3-07ce2b5d6c05.jpeg",
+    "nama": "INDRA SAPUTRA, S.E.Sy.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BENGKALIS",
+    "profile": {},
+    "id_partai": 8,
+    "kode_dapil": "141005"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/264387/pas_foto/1683816180_c04034b4-423d-4e56-8329-cf31cd0c5220.jpeg",
+    "nama": "BASIRAN, S.E., M.M.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEPULAUAN MERANTI",
+    "profile": {},
+    "id_partai": 10,
+    "kode_dapil": "141005"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/265199/pas_foto/1683859965_de7cd756-7dd2-4e32-a418-f66c6ff10cb6.jpeg",
+    "nama": "JUNAIDI PUTRA, S.Pd.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEPULAUAN MERANTI",
+    "profile": {},
+    "id_partai": 10,
+    "kode_dapil": "141005"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/484942/pas_foto/1696213936_9c548652-e694-4014-a83c-bb292244db01.jpeg",
+    "nama": "ARSIAH, S.Pd.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KEPULAUAN MERANTI",
+    "profile": {},
+    "id_partai": 10,
+    "kode_dapil": "141005"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/266325/pas_foto/1683860628_f34deaad-cf6f-4e92-ba88-e74ea12d415c.jpeg",
+    "nama": "MUHD. MURSOLEH",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEPULAUAN MERANTI",
+    "profile": {},
+    "id_partai": 10,
+    "kode_dapil": "141005"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/448427/pas_foto/1688750292_0c8aed37-369f-415f-954d-069401ce3111.jpeg",
+    "nama": "PRAJA NENGSIH MARETNA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KEPULAUAN MERANTI",
+    "profile": {},
+    "id_partai": 10,
+    "kode_dapil": "141005"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/163576/pas_foto/1683691871_97f3395e-c901-4a62-b7e2-daa1b69e4466.jpeg",
+    "nama": "H. KHALID ALI, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEPULAUAN MERANTI",
+    "profile": {
+      "id_calon_dpr": "eb32e92b3e84d48588a55dfe8d545781cba11964c3e0462f93321a99db35d7c06d6940d3dc379ee4d4f5bcc580eed2f6556a232de5275c8a87f71c87711c96435V3+UqRVUY68QPy9A30UH7jzeG20vdeZBlxmd2hhu64=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "141005"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/163579/pas_foto/1683691135_97ab48fb-9c08-4b00-9307-989b0dfe593f.jpeg",
+    "nama": "ABD. MUKHTI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEPULAUAN MERANTI",
+    "profile": {
+      "id_calon_dpr": "c0723129c297aff5cc19f081679c3f8754689d5a984614a4347b1c4e2e54246c44452b7266f3b40be9c859e54c85f3a04675aa3148ef3064da43d7d74d194649eKMoLMQqKf6kvmvx6ySzx+Wn0yZlNQa1MSf9ZeQhUaY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "141005"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/163581/pas_foto/1683690068_a4223657-2617-4986-b9f7-72105e855594.jpeg",
+    "nama": "EKA SUSANTI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KEPULAUAN MERANTI",
+    "profile": {
+      "id_calon_dpr": "c8e2620931386c2bc9bf9099319340a58e685e6e1549fabfb25184692ddd0458f073225c3f968f9350308a9f2ade67a129fb45f5bc2fb9d474ad6e50af87499bW2eY94njmV7q2APBqNpC8AJbLmfoE/uC+yUFi7q5Jio=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "141005"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/163582/pas_foto/1683691257_7cbcbde9-87c9-4706-ac13-a87fbe234e15.jpeg",
+    "nama": "BUDIYANTO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEPULAUAN MERANTI",
+    "profile": {
+      "id_calon_dpr": "67d01a36a2216882c6a74ffbf57515dea86e7d71e38bcf82d1acfc62ba9bfc4039e55183c912372a051ed0e1d32b6a19be504f1c125c7bb2f92d3380e1354260z9QrXUn7F+QHtkzuA0/ZsrMXBcC2U5Yuz8WJgNNnCDc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "141005"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/163584/pas_foto/1683690254_0e7a8533-12f2-4f18-b22c-411532b8e4e5.jpeg",
+    "nama": "MARIA SOPIANI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KEPULAUAN MERANTI",
+    "profile": {
+      "id_calon_dpr": "f5d0c605ae4e933668d04801127f8cfc31f609954bd44ece3de28ccf01ef9235ffcb5f3555088d09374c7bbf0880a4706d29fad83f7e2886b4123673971a1b21RmpJbMM90Ql9MOUvrVncaNITA5v9y2kdABt+fhipyB4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "141005"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/261611/pas_foto/1683813465_471e2c45-f8b8-42c2-bbf5-c99a5a9b11f2.jpeg",
+    "nama": "PAUZI, S.E., M.I.Kom.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEPULAUAN MERANTI",
+    "profile": {
+      "id_calon_dpr": "1e61a12aa3f688c877e6d84028e6c85d4de610ff2f9b68a0521de32070130c5dc86d33fb7af0b36228722104dd25b23fc424f9296754b2f55d1fd78ce27c3e80DXXwHFDwFOsogKbwUWFGelEd7sCR6p/xEFEOTNoGcnU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "141005"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/261974/pas_foto/1683812518_ff532b25-778c-4f58-9983-e4e6ac56bce3.jpeg",
+    "nama": "TAUFIK HIDAYAT, S.S.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PEKANBARU",
+    "profile": {
+      "id_calon_dpr": "3f718db4adc0672595ad566dbbbacbdddf0d3fc63791be271c5824f26e231013d40911b47b467e47468ddd6cb8fc938a05064cec5b6765eefd12da2da1972f34Ci9XHu7F4FDHHK2vICG9gdduPXC7qAWOPp98dW6FTTU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "141005"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/261330/pas_foto/1683859175_6f4bfcbe-b999-47aa-b98d-c48cec6a77c1.jpeg",
+    "nama": "RIA HARYANI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KEPULAUAN MERANTI",
+    "profile": {
+      "id_calon_dpr": "1815c7c1a3507527ff01fad0aee3573269b801411d91341ea7eaea17775fdc15aff33424208681e469a4bd3a64c8c9b81c4359245f18a54bce01977b32a4fe0e7bce87UIMgD2zyCY8ULtq29KzmBdEV9ZghX9wNpEIbQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "141005"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/261544/pas_foto/1683814261_c92569a5-bfab-4bd7-afe7-66e620ba3241.jpeg",
+    "nama": "DASUKI, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEPULAUAN MERANTI",
+    "profile": {
+      "id_calon_dpr": "72ccac998152a9929547050822fcc7a3450692a409808ee50516ad1575d2b36c8ce21c0347ffbcc7cbb56ad227190f515fcc476ad16b5335f9b8bba12069c986tqjeTJdm7HjQ4fifGMPcEe8J8TnBG2OOYxsfJVCymP4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "141005"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/261794/pas_foto/1683790339_f2d2dcc3-d5ac-4ffb-961d-e3bd5d66514c.jpeg",
+    "nama": "MELA PERMATA SARI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KEPULAUAN MERANTI",
+    "profile": {
+      "id_calon_dpr": "e0a96a839f03a95fac79a4c824723444a25dea35e45c45101f489ca5180627b1ae8d5ffa9272352affa5ebf0cfdb8b97ea82e7b6e0e0cb2c21afbfdf371c733cUnka2qpXAezESMdFGNc7CovP4YPAJDbtNANs4jUtk0k=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "141005"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/461793/pas_foto/1688885487_3d03b895-9d46-4cbc-a13e-91dee13f94ff.jpeg",
+    "nama": "MUHAMMAD SYAFII",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEPULAUAN MERANTI",
+    "profile": {
+      "id_calon_dpr": "f4a3b7e8db7142b785a85449296ec866870acd92a0994202aaf137ec944b878d05e2d3e1c02a630c954aea6adbffb970c6d9a3102b77e5caffe6f19b91a829247+ZsEkGIchSvWpj6sgn+x9wod5wp9YgJEzRt+lsXgSA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "141005"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/66028/pas_foto/1683605017_9c3c9dad-0080-4067-8a9f-1fd4bcce2604.jpeg",
+    "nama": "SARWANI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEPULAUAN MERANTI",
+    "profile": {
+      "id_calon_dpr": "ab2d69e4f211a421faae4958f98d151ba3e4f1b88d203089ccac0478e73116a684ce3d77a1ae93ac743608c5316eeaaccaab39dddaedf745a4f9ff87c68a2979lrt5om2DqTYa/t0nzk7RVkKBrlJnvdE3/OAvw44xRpA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "141005"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/87802/pas_foto/1683540924_a930fe09-453f-49fd-9265-3de1e55f8f61.jpeg",
+    "nama": "RINI SAFITRI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KEPULAUAN MERANTI",
+    "profile": {
+      "id_calon_dpr": "e6a62024a3d1e36bdc763853e697b8e1695866f41d6eb78e7beb104b73cfd513f4e18880848a66bd3f826464c95aa75db470e21151ac6393dc14f033114879e5+YDzOA5BUYsyefwZBJEb/Hbolr84c8Qr73CwIArFfMQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "141005"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/66140/pas_foto/1683608929_7fce1bb2-2f6c-40bc-8635-b0fc1e3a0006.jpeg",
+    "nama": "NURAINI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KEPULAUAN MERANTI",
+    "profile": {
+      "id_calon_dpr": "32d93914ee60dd2112586af9a94c01c62e9a0d07f2c5356f470cd2f8886c7816d5e3901d93e82c2363a5e08a4e932b848a8b8f35bca6738dd61bdbe627db8fd4fqc40x+8JcT396to3l2ZjeR38OFitc8L9pAXk8O1Hig=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "141005"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/66071/pas_foto/1683531617_1a21d6de-1d08-475b-9f62-f63db5ce1c61.jpeg",
+    "nama": "DESMA HARMAIDI, S.E., M.Si.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEPULAUAN MERANTI",
+    "profile": {
+      "id_calon_dpr": "db4ab094a0d300aed3c846c3bc031f012be3f192f02dbe80745272a7d0b823119b7b030815ab790e87a85bf4d3819e091fa414843a0f1b50d56a4ab38f26e9d3tIobrwyJ0DCFzFSnMO8x2O1bzVD6/zToUYXIaT2fPzg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "141005"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/394176/pas_foto/1684156700_02517116-adb8-4b9c-9e41-95e2d2822db1.jpeg",
+    "nama": "AKBAR ABDUL HAKIM",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEPULAUAN MERANTI",
+    "profile": {
+      "id_calon_dpr": "bee1c4489e3e983ced5cf8d1c30c906083b060a5ff0df3462656641696f28f5d7ee7d7fdc8fdef97115316501ca1fb754dd34e20434d1277d9b5893e4f7c6bedGxRSg5pXtq3jsudsBVnhQ7luQ/sXol9kG89Xi7RsosI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "141005"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/394178/pas_foto/1684156754_9d2a3bf9-3585-420c-ae09-136e14c50c1f.jpeg",
+    "nama": "ZULFARIDA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KEPULAUAN MERANTI",
+    "profile": {
+      "id_calon_dpr": "bdd7cd7500aad2f377386dd845e2e31b6588a46cd33c18a12ca1a185af9f5806e9b830b0c457430d839860d8d3ca0ab870d8d744f43797f1d71012d25bcb99b6Q8pV9fHul/DF3OBskoevw52C33lsAy03ydye91OOC4g=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "141005"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/433474/pas_foto/1688531342_d1137a35-4e77-4430-b283-26e4d87d66a6.jpeg",
+    "nama": "PAZRUL AMRAINI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEPULAUAN MERANTI",
+    "profile": {
+      "id_calon_dpr": "faf4700d77364db042e73722e0575f7d4f81c2255f2498d214a308d9987c4e534733b945eda6050e891e9b30c40eff11935af18dea2689bd40a9d642037a2d1aN6/vZqnB+F+d+h7R5gB/4tlX2Z5Om45OMwXYi/EXFEU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,riwayatpekerjaan,motivasi",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 6,
+    "kode_dapil": "141005"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/71575/pas_foto/1683560601_a0a7f3bd-8d6a-4f3e-94a4-89729ac7218b.jpeg",
+    "nama": "CHANDRA NOPENDRA, A.Md.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEPULAUAN MERANTI",
+    "profile": {
+      "id_calon_dpr": "0419399738789c46a5283ae9c4a12635214e45faf958cc465a697fa51ad0c8943134bd4cbb2849b65d89d11089923b1b003f0b48db96d7dcffb79b988642aff6rp0cfVZzcwZZldlz/UnSkBcj0tvzMSAOZlnqbcElIlo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "pilihan_publikasi": "datadiri,alamat,hukum,pasangan,pendidikan,motivasi",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 6,
+    "kode_dapil": "141005"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/73049/pas_foto/1683712531_7663fe5e-b874-45c0-8072-b7d748aea178.jpeg",
+    "nama": "RAHIMAH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KEPULAUAN MERANTI",
+    "profile": {
+      "id_calon_dpr": "af465740666f07e542032530da292d373ec87bf6dded53f314cb8bbec2f28d7f1300255d637ebaa5b12c5259c77f7ebceb4588c142e29117c967d5c0aca280eaxPsA2mCQoQd6OYnGzK21qvm53ltymIXLLRPxuSCNdkc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pendidikan,motivasi",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 6,
+    "kode_dapil": "141005"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/72764/pas_foto/1683560761_67ce06f0-dfdf-4a6f-84a1-638cf3da63f9.jpeg",
+    "nama": "ABD. HAMIDI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEPULAUAN MERANTI",
+    "profile": {
+      "id_calon_dpr": "fb788e1e3b4bbc4cbc41ee1754ce10dfc67dbcd6d762704919e5d0b9b5308c965e1dd44b9543b92b5b8d62c914325a15bc667273754be375f08de45e3ea8a247t73yYjsu+qKtNLxpqWHl3w5iYKrE7uZYOys6Od5Q+es=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "pilihan_publikasi": "datadiri,alamat,hukum,pasangan,pendidikan,motivasi",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 6,
+    "kode_dapil": "141005"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/55839/pas_foto/1691642420_c014f982-fc68-474b-a1fd-dc9413811ec1.jpeg",
+    "nama": "RUBIAH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KEPULAUAN MERANTI",
+    "profile": {
+      "id_calon_dpr": "b9d6d094f23ff47ae76193c3c6a3c13dab50ef60cde63fd9ae0d3e905d6d1cca6ec3498eea0049c8df4c0fd6a56f20c178248e1e23e64fc804d7c402be0b86a6+ef8B6cZoPg3I8fCRJESYcsqr8EPLcDVTqOS7Bj28us=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,pendidikan,motivasi",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 6,
+    "kode_dapil": "141005"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/455416/pas_foto/1688820106_447501f1-ef82-4369-92d1-6dc2b8f5c57c.jpeg",
+    "nama": "EFFENDI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEPULAUAN MERANTI",
+    "profile": {},
+    "id_partai": 26,
+    "kode_dapil": "141005"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/383899/pas_foto/1696139673_25164fef-d044-4d41-b3e5-4fb3891339d3.jpeg",
+    "nama": "MUHAMMAD ALI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEPULAUAN MERANTI",
+    "profile": {},
+    "id_partai": 26,
+    "kode_dapil": "141005"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/383900/pas_foto/1688808087_0d234454-ae43-410f-bee2-2d0f2339d0b3.jpeg",
+    "nama": "DESI FITRIA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KEPULAUAN MERANTI",
+    "profile": {},
+    "id_partai": 26,
+    "kode_dapil": "141005"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/455710/pas_foto/1688822282_c6c84130-83fd-41df-bf6c-ca6217555d1f.jpeg",
+    "nama": "BUYADI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEPULAUAN MERANTI",
+    "profile": {},
+    "id_partai": 26,
+    "kode_dapil": "141005"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/472486/pas_foto/1691650293_bffe33e7-33e6-4144-bc58-40a8950686f2.jpeg",
+    "nama": "MURNI CAHNIA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KEPULAUAN MERANTI",
+    "profile": {},
+    "id_partai": 26,
+    "kode_dapil": "141005"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/135104/pas_foto/1683654021_64d818cc-4f9d-4214-8dd9-b5eddd5dd9e9.jpeg",
+    "nama": "SARBAINI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEPULAUAN MERANTI",
+    "profile": {
+      "id_calon_dpr": "e22eb7a114027671b07b9aaaa3534b80fd88c99c817f40848f57b6671d8127c0d5b2686981ea229442b04d38229217e1563344712291c1a84551af9e1c782077ViG0o9ffXVTruSYMIynFxiODHC4I0LgVgWPgRuyLjp4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 5,
+    "kode_dapil": "141005"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/470570/pas_foto/1691578391_57345d8b-5ae5-439f-a6f4-0149072ce9d9.jpeg",
+    "nama": "ELI KASMAWATI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KEPULAUAN MERANTI",
+    "profile": {
+      "id_calon_dpr": "fa5ef179c965ca737813abceb775f9760a851bf578d5bb433145e58babecfcc5415ad6764c4343213d015f7c3946500a6d2737c67f8740bd27bfdcc049c2cb4bBZAlBLDeTlIMgTOD3jZJMvwMfkny+PYxTpNH6zl1rzw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pendidikan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 5,
+    "kode_dapil": "141005"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/134566/pas_foto/1683655418_107b16a5-e093-4ba7-bc69-d0fee75baea0.jpeg",
+    "nama": "APIZAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEPULAUAN MERANTI",
+    "profile": {
+      "id_calon_dpr": "5af95f71c556f56bfe6174d508fef4be31f9dcd70e5543e4cd67aeafa4121c4382ae44bcf572d4423a5b7c6a9e613eb3c13d8664a847afa0927525177343ed75T+xRWmmHGd0LhN0/4G/pH6v+N2u5ACCfleZkCkXE7pc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pendidikan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 5,
+    "kode_dapil": "141005"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/201126/pas_foto/1687796504_4ffed315-15a9-41d0-9fd3-faf935e18644.jpeg",
+    "nama": "FITRIATUL LAILI, S.E.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KEPULAUAN MERANTI",
+    "profile": {
+      "id_calon_dpr": "b99a6223678eea5395129fd58458ccc03035928c2da7ef30c13190ef896cce66dc261030617686ff288751a7e8520fe2b946c537a2c80a1c666d060ef2b46ac0+37DAj4cTuAltOQakJBrNdDSJBULEQMKTY9js/iT2Vo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pendidikan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 5,
+    "kode_dapil": "141005"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/21013/pas_foto/1695637240_8c46e6a0-f0d4-4288-8266-a67b5d64b4f3.jpeg",
+    "nama": "RAJIONO, S.Pd.I.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEPULAUAN MERANTI",
+    "profile": {
+      "id_calon_dpr": "eb9e439af3a036d345a5bde34a441a924ae212a17d22be88153f6b6bec77a1c8569cb58e5839ba349e14989f08c0e4e7fd84e77e4f5760276d931b2c80d5e268lO6HgXT5dcrQiqDw1iQS1JcN68Lh+DmAoSR6POwqQdg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "141005"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/21008/pas_foto/1683358892_6f4dd533-35f6-477c-bd8d-1dd3894581ba.jpeg",
+    "nama": "SUPARJO Alias ACONG",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEPULAUAN MERANTI",
+    "profile": {
+      "id_calon_dpr": "d627058bb9024f7de77e12532c58aa5fcb55de7e3592cf6274f3ad091d4eb8776f41e029dac1110c9d3d45fa9b8fc6640aa6227396e00bb3fa8a4b5b347074b8ZNDkgqg61qrSx5LRmMEzsgPmSKI+XTlGYCbFgbokY18=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "141005"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/452831/pas_foto/1688802530_00cdb0a0-33ff-4d44-bba6-3b40f14ca8a9.jpeg",
+    "nama": "EKA YUSNITA, S.H.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KEPULAUAN MERANTI",
+    "profile": {
+      "id_calon_dpr": "c7f49cd5248d64993f2f8f84cc9dd2503136795b33575e6b06aa3b1df67df9479a28ee56d50e55eefbaf24ce42e1dc89032f393f88f375e72ec137694b18dbc6Krjb6F602PsCyfVo0Vyge916fizsoul6nmGb5jJKFnM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "141005"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/486716/pas_foto/1696261881_d252f795-ba6d-4da0-9d5e-54cf34ed0349.jpeg",
+    "nama": "BADARIAH, S.A.P.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KEPULAUAN MERANTI",
+    "profile": {},
+    "id_partai": 7,
+    "kode_dapil": "141005"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/267406/pas_foto/1688787256_405dda2c-daac-47a4-a586-f0c531e7f871.jpeg",
+    "nama": "MUHAMAD ARIF",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEPULAUAN MERANTI",
+    "profile": {},
+    "id_partai": 74,
+    "kode_dapil": "141005"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/116029/pas_foto/1683794785_28eaa24b-1f3c-46b0-b500-7c9cf62c3164.jpeg",
+    "nama": "DARSINI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KEPULAUAN MERANTI",
+    "profile": {
+      "id_calon_dpr": "8710e7a80c9be943a7800022faabbc9bb0a32087128465cb500c06c8719e6235739148ae4f370ed5bd8d6788014411d183180dd2e081ac31bc081e12feee79eeidOJkmmKWfKTxkxASLXipPjwpD+o9AZW6hJ5gFIgFIg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "141005"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/116030/pas_foto/1683793325_f77f7530-2afd-41f7-8e86-148a9f9274b9.jpeg",
+    "nama": "RENDI SAPUTRA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEPULAUAN MERANTI",
+    "profile": {
+      "id_calon_dpr": "0b14ddd3fbc5b8a1735747c746dfc48b61f3a195c33c71315ba042dd094ca47a5f35a377c7c7cde5b356e04ca985e24d9e8cb6b64075a97e6efe0cfca92efb8bbMXs3VNGD+NIvX0E4xlETFiXpB9PdDmVZYXly//VBok=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "141005"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/116031/pas_foto/1683794432_53b8de64-9741-4de0-b84f-4ec593ea64fc.jpeg",
+    "nama": "MIKWAN, A.Md.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEPULAUAN MERANTI",
+    "profile": {
+      "id_calon_dpr": "587c0ec64bb1724ad2f60ee13cedbdc246d7f4734c2b6c31bc4198f4083b7081467e6d642356fd5009da6d3e6e4dcd0feae2154060432e4503598c8cb6176f13GuO2QJKcyr1nI1kDqHuZ/lwEW/3k5sNeSsnyEG10rAk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "141005"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/116024/pas_foto/1683793138_59342297-41a6-4786-a1eb-fc2909042925.jpeg",
+    "nama": "ASHA RIKA MULYANA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KEPULAUAN MERANTI",
+    "profile": {
+      "id_calon_dpr": "2b7987c9967e564745f314776dc537f5ff298d632425a9dce13fbd85d30ffca4118aa408dc41064634502589dffa2c6f999983ba23d6c569ee9bd6f9d8641f83EaB8gYsgBgxShEl3mdBWGEOF5IGanuBmi7h7vBNPQ1A=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "141005"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/116033/pas_foto/1683794224_cfd7e6de-e82a-4a35-9e9d-44f1e17b1c81.jpeg",
+    "nama": "IZWAN BUDIANA, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEPULAUAN MERANTI",
+    "profile": {
+      "id_calon_dpr": "fec3303ec9aa80c628bec905e06849ffa7e8c61be4179ab1b311c2b799c8c199a129cddfde6d08048c904956470b6af38518a8ededd25ce0ff6eb5d6ec807000qlcvOekgNTfYrv8sVQCUoYwCKDTavdRF/wqPfp3zRpo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "141005"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/16956/pas_foto/1682993054_ba8d0093-7470-44df-8247-caa8bc58d1ef.jpeg",
+    "nama": "YUFENDI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEPULAUAN MERANTI",
+    "profile": {},
+    "id_partai": 76,
+    "kode_dapil": "141005"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/17275/pas_foto/1682995197_9cfa3077-fe51-4ccd-be66-22391154d65e.jpeg",
+    "nama": "PONIATUN",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KEPULAUAN MERANTI",
+    "profile": {},
+    "id_partai": 76,
+    "kode_dapil": "141005"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/47438/pas_foto/1683680814_720da69f-6e06-439a-8737-d410c86ee954.jpeg",
+    "nama": "ABAS",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEPULAUAN MERANTI",
+    "profile": {},
+    "id_partai": 76,
+    "kode_dapil": "141005"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/421802/pas_foto/1687710391_4a5458c5-f482-480b-93d5-48a7e5181732.jpeg",
+    "nama": "DEWI SARTIKA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KEPULAUAN MERANTI",
+    "profile": {},
+    "id_partai": 76,
+    "kode_dapil": "141005"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/421810/pas_foto/1687711887_5c204d2a-5e84-4e82-b172-754ec3859745.jpeg",
+    "nama": "SALMAH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KEPULAUAN MERANTI",
+    "profile": {},
+    "id_partai": 76,
+    "kode_dapil": "141005"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/52970/pas_foto/1683739295_07bd8f24-9c92-48bf-a89f-0e297cd2de68.jpeg",
+    "nama": "Drs. ESWELI, M.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PEKANBARU",
+    "profile": {},
+    "id_partai": 11,
+    "kode_dapil": "141005"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/53129/pas_foto/1683739329_3617e987-b19f-4459-98e9-b85613decdaf.jpeg",
+    "nama": "ABDUL AZIZ, S.Pd.I.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEPULAUAN MERANTI",
+    "profile": {},
+    "id_partai": 11,
+    "kode_dapil": "141005"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/53037/pas_foto/1683739370_7f7330f5-ca29-4b5b-ab21-6b662e7e450f.jpeg",
+    "nama": "MASDIANA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KEPULAUAN MERANTI",
+    "profile": {},
+    "id_partai": 11,
+    "kode_dapil": "141005"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/446547/pas_foto/1688735605_f198ac4d-c1e4-457f-acb1-c3dadb6ab5a4.jpeg",
+    "nama": "REVIRIANTO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BENGKALIS",
+    "profile": {},
+    "id_partai": 11,
+    "kode_dapil": "141005"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/53091/pas_foto/1683739496_fdadbcdb-b4b2-4b33-8981-176be937eca5.jpeg",
+    "nama": "RAKA YUDIANTI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KEPULAUAN MERANTI",
+    "profile": {},
+    "id_partai": 11,
+    "kode_dapil": "141005"
+  }
+]

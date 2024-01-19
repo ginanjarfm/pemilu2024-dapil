@@ -1,0 +1,891 @@
+[
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/78575/pas_foto/1673016208680002.jpeg",
+    "nama": "EMPI DARNIS",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LUBUK LINGGAU",
+    "profile": {},
+    "id_partai": 8,
+    "kode_dapil": "167303"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/78575/pas_foto/1673012701630003.png",
+    "nama": "AH. MUSTAIN, S.Sos.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LUBUK LINGGAU",
+    "profile": {},
+    "id_partai": 8,
+    "kode_dapil": "167303"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/78575/pas_foto/1673032908790001.jpeg",
+    "nama": "JAMADI EFENDI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LUBUK LINGGAU",
+    "profile": {},
+    "id_partai": 8,
+    "kode_dapil": "167303"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/78575/pas_foto/1673026104810002.jpeg",
+    "nama": "EFRILISA PRIMADONA, S.E.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LUBUK LINGGAU",
+    "profile": {},
+    "id_partai": 8,
+    "kode_dapil": "167303"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/78575/pas_foto/1673073103630002.jpeg",
+    "nama": "EFFENDI, SH, M.Si.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LUBUK LINGGAU",
+    "profile": {},
+    "id_partai": 8,
+    "kode_dapil": "167303"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/78575/pas_foto/1673070809790003.png",
+    "nama": "MOHAMAD ZAINI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LUBUK LINGGAU",
+    "profile": {},
+    "id_partai": 8,
+    "kode_dapil": "167303"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/46606/pas_foto/1683180373_918e838b-f69e-4454-a419-8917e18fb6b8.jpeg",
+    "nama": "MUHAMAD AMIN,S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LUBUK LINGGAU",
+    "profile": {
+      "id_calon_dpr": "49325ea39197768fe8fbf6a1de8c1c033061971fcafa7c368ddb204f7d6e4e2ee266f8b457c6c1ec80ba34a90a02c13539a570984c8dfcdee3d4ca38ed702228uRw9txmLbwwvnluGkHecH9ri4ZBNQqWDrR0rrfSXHpk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "167303"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/480869/pas_foto/1695732616_9535656e-c468-4676-9181-c2b49bd9fbdc.jpeg",
+    "nama": "TRIA SEFRIDA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LUBUK LINGGAU",
+    "profile": {
+      "id_calon_dpr": "90cd0357a179bd9a087cbbb6cbe7df7264dd76532cd851deaecab8d5e55b606a0999861fb8827d0153a994fadc17c0ed8c73050a79dc85b2e809564ac068d5c7VeKlF1crw0fbozJvrB9gL9PD4Klxi8VdWOz9bLaH2uw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "167303"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/46195/pas_foto/1683179398_bd099133-3a70-4ded-8d99-32f7aa0cc735.jpeg",
+    "nama": "SITI MASRIAH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LUBUK LINGGAU",
+    "profile": {
+      "id_calon_dpr": "0bf88f8e1c8e43efc56cd20c658350128d97c9006f52324088d25e6cf0c662f7f9f11240b044ccd66c96a8e9af2a653fa6b08445782181a367432f7cd0c4d395f2D9AmO1RL5K1wrFJszenQ7v8u7NRgt24ekeLk2gwww=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "167303"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/47280/pas_foto/1683188569_624806d1-d0aa-4b59-abf4-5766805bca8d.jpeg",
+    "nama": "HENDRA SETIAWAN,S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LUBUK LINGGAU",
+    "profile": {
+      "id_calon_dpr": "260d9be0752642ed9cd56d05045dc8366938b432f62f9df5e3e2e9a4dbd36b69b35ffd545b193b0a41c71098ac502bfa758d5e4a176e0ab48821a3c783aff3e6w2evQ9/n4HsUbhReUXqPJb28PpQHbA8ALnbK4INYp3E=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "167303"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/47651/pas_foto/1683191763_fc49e25f-2a18-4a5c-a477-335b9211adc3.jpeg",
+    "nama": "RIZAL",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LUBUK LINGGAU",
+    "profile": {
+      "id_calon_dpr": "c0ef483785f04da7a0e030d98d0de40677475b9c2885754a01c8411d1c12f56ad6ee0c306092449251852b800b18523ca84395699883b136bb7fe0e17ee08de9f7FHrp/HzmCzlZT/k4q9AfmmFG0GQt8Z85n0ypIyAbw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "167303"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/47106/pas_foto/1683188787_9e11716a-39f7-488f-9bd6-d18cb3e79270.jpeg",
+    "nama": "YANA EKA WINARNI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LUBUK LINGGAU",
+    "profile": {
+      "id_calon_dpr": "f56f7d7b6e1fb4851c2271cfc13c88b4e19752b9b6b4d2c2e4fbcd59b2e77af0e9f9de419881c22877e0bb2769194a98d58aec993d3ca70d182e4448555b7426YhWzZUoieCRSSZVSTu5UT0R6ve+J+cgisBPGB75iXiU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "167303"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/219872/pas_foto/1683726330_2ecc91a7-67ae-4c29-8f78-5d61036d95c6.jpeg",
+    "nama": "HAMBALI LUKMAN, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LUBUK LINGGAU",
+    "profile": {
+      "id_calon_dpr": "2efcaac76ea80e478124a9b2591adc7e5fe2dbd55580633b776556560bea7118fc56bf51378edeea7f0dfc96904b307fcc15c64b1cf5478051f0902f78725238l71i+n+OCDJd4TTyjj/+yVhBzT/dLDlu9FnuUjBELZU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pendidikan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 12,
+    "kode_dapil": "167303"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/220625/pas_foto/1683726375_1707858b-6650-4110-9b89-5cd8a11ef9f6.jpeg",
+    "nama": "DEWI ANGGRAINI, S.E., M.Si.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LUBUK LINGGAU",
+    "profile": {
+      "id_calon_dpr": "225864f5ec681daa368969f22440cbdbb0e0831b1fbe7d64dfc2c562a1e4401e54c2dd49d1d91470098cf6492589896e04bd8945f019e14ccaa6fd833b972b55GNc5HQJnnT6UwTrBQlBNYsdlI8beICP0F+Nz4urDGgY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pendidikan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 12,
+    "kode_dapil": "167303"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/222948/pas_foto/1683726424_0eb8022e-4cfb-4f58-9f4d-045dfa2fbd70.jpeg",
+    "nama": "ORBAYANI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LUBUK LINGGAU",
+    "profile": {
+      "id_calon_dpr": "8426635da108ec6815582de5175aa3da039d79a821e481f4696d0326591ff739d1cc23c1a399e9cfb0b60fbf4398d8d4921cc68cb0ef87ed2ebd9ff0ab1822c8AosOarthWiRMglTmMKSdVQAOKJXnxeBeTBa6/PGVhRg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pendidikan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 12,
+    "kode_dapil": "167303"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/221280/pas_foto/1683726453_cd146e2b-bdac-496e-a7e7-6209ab08c40e.jpeg",
+    "nama": "SUPRIADIN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LUBUK LINGGAU",
+    "profile": {
+      "id_calon_dpr": "b055d7f8db8d80cfb0ee9e281d05178218a8d89612623c7dbb079e3c6b50504fcac26303b89947c7245cec48d85c3b3d234ce8c6faa7baa6ba87e1111d07818agzPxmp+8J7d1dpid0fQiBYu4ngJ6jPmcJadf3XQzL7E=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pendidikan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 12,
+    "kode_dapil": "167303"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/222500/pas_foto/1683726482_650e0390-8fda-45fd-b419-e071c142e916.jpeg",
+    "nama": "INDAH SEP VIKSI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LUBUK LINGGAU",
+    "profile": {
+      "id_calon_dpr": "7d98f135efe61c757d9f30d96947171df0e107857e099d85be9f11123d9a56174027ac8333ac6791e94d921c14d3484d2b6d7ff491a39121c9c39f0db72a958emZuqD2zXsnLv7Es52iSKGpcOrAf7U05uxNcrZGUz4QI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pendidikan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 12,
+    "kode_dapil": "167303"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/221949/pas_foto/1683727492_1312395c-0aaf-49b4-a1c8-94e72777bf49.jpeg",
+    "nama": "UPITRI YANTI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LUBUK LINGGAU",
+    "profile": {
+      "id_calon_dpr": "93a4a7fccbeec23b762190ffb159289b1768e85bcbd35c5100c07f6eace7daa1930de32251a86a01769c91f0095dace2ac932a334e12fa3e4563dd330a1151cbmI2NpiJ+pPWfDcBJDe6beHQigRLh/nVHc+BpZ/G14Pc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pendidikan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 12,
+    "kode_dapil": "167303"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/241395/pas_foto/1683810718_dc5e834c-6fa5-4398-a975-13361e7eb069.jpeg",
+    "nama": "REZA ASHABUL KAHFI, S.T.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LUBUK LINGGAU",
+    "profile": {
+      "id_calon_dpr": "1618bd6c34358fa4b2c0e176112356cb2bc6b764b6ed7260814a88440c969478dfed70b3e442126684987563e704cd9759c02054bca2c67eaceba753dec61b1eDcuTwdBd2OYJd2eqY4cUj0eW8s6ShkX4fRynsEQoDSk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "167303"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/276731/pas_foto/1683812296_6a29a427-9ced-4484-85e7-6e18166a3f47.jpeg",
+    "nama": "ANDERSA FEBRIAN, S.H",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LUBUK LINGGAU",
+    "profile": {
+      "id_calon_dpr": "7660919778c7ecef6f395d3fe77b37e3d97180c722c94a8d4e19df6e7db941eee43c01de0ca5a5e84d4210fbf5098d8a9aff7e155b292900e6391ebe418d0106C654M8hjqfW4GMk7ovvjKIK+NnCAshqJMOkiXLHL4+Q=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "167303"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/241433/pas_foto/1687760775_b115be52-a1e2-45dd-b9c4-74d0a238b799.jpeg",
+    "nama": "ASRI RETNO NURYENI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LUBUK LINGGAU",
+    "profile": {
+      "id_calon_dpr": "78ab0a4f44b18c9ecaf0469bb8c7513bc09e6ed9b46289ac7b775e5a3d4947596458e978793ae45c5a8fb322affebd15460bab147d1e31b35ce90ce7b76c61e2x5UjdSy3BCXsw9YUINxX4jpGPXwYjXQRud5Wom6tcn8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "167303"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/241406/pas_foto/1683811348_552657c1-5695-44d5-847a-0a8f53919eb1.jpeg",
+    "nama": "SANDY KARYA PERMANA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LUBUK LINGGAU",
+    "profile": {
+      "id_calon_dpr": "dea209609dbb61ee9056fa3e38900fb9934fc913352e42e6caf99aad0723ac5eaa01568d27988d25737d39ddce5eb61a5df865582dadf24b314223877874569el2TMvGB9Z/kE3OR9QgIzxO3xYoZOGQmVnbyiN51eBW8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "167303"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/241451/pas_foto/1688628928_6d3360ee-cb59-4fc4-a89a-ced17ababb31.jpeg",
+    "nama": "EDY HUMAIDI, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "3c8cf5e93e580bb8da10ab6cf30c347ae39be19e249aa6d28573fceee6cc7b13cf980494e6abbc016406e896dc3a3afa7c42890bd628d15d2875b1fe53fd19426OsoY6R8TEp8+lRCRb6wxSsGH3SroJrZ+VV96AA6xyY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "167303"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/241463/pas_foto/1683811114_c6309d60-3614-4b5a-aa11-d6f2bcd056d8.jpeg",
+    "nama": "YESI ANDRAYANI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LUBUK LINGGAU",
+    "profile": {
+      "id_calon_dpr": "480f7e70d3f4748b99892541b67d03524a0399e661a36e208f5211dc13b65ae1f5c85df8d577d49bb01ca4a168202371bd71c1e714fd0faade01e2ccffbe59a0Zbtmgw+wVXqjRtuqXcFYDxJ4VLuH9ffg00YwffiqPx0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "167303"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/36124/pas_foto/1683106626_931e31bd-3701-4717-baac-91b809b2e3dd.jpeg",
+    "nama": "HARIEN APERI,A.Md",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LUBUK LINGGAU",
+    "profile": {
+      "id_calon_dpr": "c52a90c04064252b9a59e52e6a63687b071315c556de2fa02e075004d28c4693dacceefadcca5693d9fb9c3aeb68b7b8e0d90e8675f1914357eaa8b5526911467j9HCVnvwI3Ie0dLvUpupfWwAHYgROjYg6b54gy/HAk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "167303"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/142792/pas_foto/1683513929_cef948e2-9ff7-43cb-ba27-52630602a7c7.jpeg",
+    "nama": "SEPTRIAN NUGRAHA GUNAWAN,S.H,.M.H",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LUBUK LINGGAU",
+    "profile": {
+      "id_calon_dpr": "2378fff825d69fe063668e21486df09085acc748f869f818cdb3e4949ffb18810730bd350b06ff6f0f8c3d3de6eaa5aca0f789944844f1adeeb1b0edbbb14950Jcl1US4PhezIZvSIP/GgsGFyQ1KIQ04XtPHnxVunLe0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "167303"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/36401/pas_foto/1683107716_c565e78b-1538-4d54-97e4-1b8cc9912915.jpeg",
+    "nama": "BERTHA ADITYA M.W",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LUBUK LINGGAU",
+    "profile": {
+      "id_calon_dpr": "577b18195941626554b2317aba2b09ee8b8f729bb6738953f1d3ed3d2b07c47365e13002845b48d02a2c89a2b1795e24b268b89c7a8302aac3cb9adcf874a355LTRHqxE5uJwgVIMFd2pdjQnibCsaEBcKo22dn99ZwEI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "167303"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/427874/pas_foto/1688796562_7cdc6d0c-3415-4596-8e22-b3c64b5f43f7.jpeg",
+    "nama": "RHUPIT SINTA BAROQIATI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LUBUK LINGGAU",
+    "profile": {
+      "id_calon_dpr": "19a965a993dcd7ffcaaee396a11f47500042928f9b8c3d2ec589541cad887bd4316209ccd5df3a780428de74a6e12a42e094058009674cb3904656e36d8a0727uAQ/d/eXPWnqkrjR0zppo4Ccli+Q+1r+umfTa/ONnSA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "167303"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/36250/pas_foto/1683107198_d9417d99-b287-4850-9aac-47c4de55b176.jpeg",
+    "nama": "BUDI PRAYITNO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LUBUK LINGGAU",
+    "profile": {
+      "id_calon_dpr": "a0da03e9d4e6da0b4e6e42e2a152fe252eea93e8a58832041a58c2989227c37729cdf3b5e591c4589f9cd10567a50adf283dc260f25b2b2df633c16f61ede0feB9RWB7lcsSYEP4MV+/Q6U5Tf7MICc9ENE+vL8MXKOz0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "167303"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/36570/pas_foto/1683108554_dd6b9357-0e5e-407f-819c-313289f6662e.jpeg",
+    "nama": "ENDRIK PRASETYO,S.Pd.,M.Pd",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LUBUK LINGGAU",
+    "profile": {
+      "id_calon_dpr": "44bb5d19809d3fdcd9374ea438c6ff9db267db9fbdd48b44a5fd4656bd99ac8e9267c99df81d97c3b592561d29eca9a93331197b1118df1e707e9876376ed022LSjsWRXTd65e7K1uC5FhtTFkmRPwKuOceG5ZA/vJcgQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "167303"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/418129/pas_foto/1687869435_51ef56e6-4b23-428f-8584-12287f99d057.jpeg",
+    "nama": "NAWAWI, S.IP,M.Si.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LUBUK LINGGAU",
+    "profile": {
+      "id_calon_dpr": "0aaada94f59cc0e20746e5e0a64ed1ef538c89448370fb238a4af15f226735a6b6ff67d532d6bbd71f880767352f8230531eacfdd5cb01c8c1b1096111155295464O8JQnsgbSD7JkiMt9TF0WPLiW2A7/crlq/R1sy94=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659959325_LOGO%20RESMI%20PB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 41,
+    "kode_dapil": "167303"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/401050/pas_foto/1687760093_f3e6017d-4788-42b3-bb20-25a0bf882e72.jpeg",
+    "nama": "AGUSTA HOLA, S.Pd.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LUBUK LINGGAU",
+    "profile": {
+      "id_calon_dpr": "925877a1cec55477be432d1e018fdfa8cb49fd1175cdc4128b27421266632766680c8238d4a82fa34a1004939d70d88483dca5669986bc80fe2c78cc352ea8f1wSkUY3M/jjg7u532hvbKOP3NWO4CSF7eBiYxtEGO8Cw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "pilihan_publikasi": "datadiri,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 77,
+    "kode_dapil": "167303"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/485085/pas_foto/1696217777_06e54302-6362-4319-a477-43bdbdca02f9.jpeg",
+    "nama": "ARYO SAPUTRA GUMAY, S.Pd.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LUBUK LINGGAU",
+    "profile": {
+      "id_calon_dpr": "889cce5ab5f0b9b8285c867e20b60ca6c5fecc510440b7663e8c8118ee4c84416e3cf8e3abe563a2734e4a36516b3125649c6b4f0bbdeaf9bcb462874cac2cc8pSe2IrQE5p6tnBU8g6Tqra++4P7A6e/eMDxPKfBjjwo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "pilihan_publikasi": "motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 77,
+    "kode_dapil": "167303"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/485121/pas_foto/1696218918_c3c01eda-40aa-4296-83e9-067efe19b894.jpeg",
+    "nama": "DARSINA WATI, S.E.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MUSI RAWAS",
+    "profile": {
+      "id_calon_dpr": "380457adfa9c24170f4ad7a660e988c1f0d22d412dacbc9a1ec9b31671c3cf15bf51a5749aee2caf3ffaf9d59e620e3c7fd17621dcbc7a023e5c9112f917f5e4YZzAplMCqUbkEhsIvBLDfCk5611s89+y3Va4v5zd0O0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "pilihan_publikasi": "motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 77,
+    "kode_dapil": "167303"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/10379/pas_foto/1682934309_c370671b-4331-493a-9f48-b9636d754505.jpeg",
+    "nama": "SYAMSUYEN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LUBUK LINGGAU",
+    "profile": {
+      "id_calon_dpr": "0581bc853a60b74a0a42f5a9c4ea37313ead6946af80174fdd4ae88b02daa9e0d5913c5c532c074767f987b908b47bb8471f9df37e4f3e07325bceaeb5672201oHEtMXIQJGMVDVPhvxnnRlNgxJXv10yBMTLor4aXU3M=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "167303"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/10399/pas_foto/1682934559_f0c7b8f7-3759-4d96-913c-97eaa7f6f94f.jpeg",
+    "nama": "TABRANI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LUBUK LINGGAU",
+    "profile": {
+      "id_calon_dpr": "29ed4fc1901b074fe398560c54b769582f788513e5feda597f5f9cc22d81a5841efe5a4adabebd8c7a1ac9ed1896cef2f8cf717850cde13517bd57804c4a1efbkxVLYSI1stEw20EdcG+cqE+T0hmSh8AsFX3W5VUUjXY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "167303"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/10420/pas_foto/1683274463_1d720ab4-5dc7-4179-8d0e-a330af255747.jpeg",
+    "nama": "Hj. NEVI AGUSSUSWATI, M.Si",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LUBUK LINGGAU",
+    "profile": {
+      "id_calon_dpr": "75c28f59418deb743dcdf36c4375f66c4cae5812d84ecb41747cbfe70dbcdcb9968e27c2366a45ed02e641552e473778d5b053bf4f7517dc0385bb8e75681ecd4lnYmlzstjm9vgsE0eeNX8bSpXkNERDUy6lcHxLZVbM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "167303"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/10453/pas_foto/1682934293_7953935d-082b-4516-b5b6-1adcaec64609.jpeg",
+    "nama": "APRIANSYAH",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LUBUK LINGGAU",
+    "profile": {
+      "id_calon_dpr": "c6a8c71f35c83a4e5b921449133842043463ca60e9987af563d703c6f26bd568f219c8aa5259504737bb13e939d3a35f8d5372172a0ce246e3a61d579bbef0d6kPpa3pW4CsRmieRF9vid4XAfg3Rsio1Xr5DJNzzJmEc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "167303"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/10534/pas_foto/1682934697_c54ee173-e801-4a1d-bd3b-506101b55c28.jpeg",
+    "nama": "HERLENSI ZESTI, S.Pd",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LUBUK LINGGAU",
+    "profile": {
+      "id_calon_dpr": "45b37db0cb0856e43c610dd7caae2a3a94d0db096bb2f9d7cfc237bc07b557f843ec55c5b92e4f32c113fe94bba576546ee7699ce49961fa22838f4d3cee4117wVt+uYQPA1YncswVnV1CyD6pJW6tMBdXSvZnyFvjIVY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "167303"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/10550/pas_foto/1682934439_9f3e12aa-dfaf-4ba7-8df2-ea77d2ec6334.jpeg",
+    "nama": "OSCAR DINATA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LUBUK LINGGAU",
+    "profile": {
+      "id_calon_dpr": "da04e22e78a478339a0e8138268664c3b2f00ce256907a60909ea341c69282d15869a92a7819943efb99b08c7ab9287c030df63452e421da97e7c25936412b78XTGaFViRH8QzxRcUuqE52mM0ltbEXu3BRCOkUDST16s=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "167303"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/94390/pas_foto/1683795065_d617b418-2dc3-4d58-85ae-2aa575638516.jpeg",
+    "nama": "BASTARI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LUBUK LINGGAU",
+    "profile": {},
+    "id_partai": 26,
+    "kode_dapil": "167303"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/95475/pas_foto/1683728292_fca645fa-e97f-43dd-a6a0-6c210b3f1993.jpeg",
+    "nama": "DINA GUSISMI, Amd.Kep",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LUBUK LINGGAU",
+    "profile": {},
+    "id_partai": 26,
+    "kode_dapil": "167303"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/181787/pas_foto/1683883124_c83391d2-2594-4b48-bf5b-a5b2dc488591.jpeg",
+    "nama": "Drs. EDI ROGIANSYAH",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LUBUK LINGGAU",
+    "profile": {
+      "id_calon_dpr": "45f110ab98efa2a67f9f186c9d3f1dfbb2fdac60ed71af52920be15e9c886491313a84f52b29c0ab574dc861baf050425e29aa267967f89e73a2645f3302f966UngF4vyBFLmezFWj5scVRlS3WVA3VJjVBj0SzOpJ57k=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 5,
+    "kode_dapil": "167303"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/175706/pas_foto/1683647832_e633498b-08ce-4e5a-8b59-0c02a2d2adf7.jpeg",
+    "nama": "ARIFIN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LUBUK LINGGAU",
+    "profile": {
+      "id_calon_dpr": "4f1cc398423807404bf82f136966a7751e1c48b35e690900cf6f24b68eac4c246f1db3b3254d1bcb8949a3d364a1964081e044f883222ceb97cba82b77a69a10qgC62A2tTrJldzMVQxi00FQb4tZQPAERxVpGJDCAEjo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 5,
+    "kode_dapil": "167303"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/464744/pas_foto/1689230973_84f6c4c0-4661-4109-a4fc-c1ae0db6a2c1.jpeg",
+    "nama": "JELLINA RIDWAN",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LUBUK LINGGAU",
+    "profile": {
+      "id_calon_dpr": "77000962596039a61ef1c292a6d80ff44cadcb7e6cbef8d47198525f4e8a19c6c3cca6d894ace02c751cf4539b308775497ddb5402beaad4b30dc4fa53d8fbd3mjD1UiEUItD5Ch6GHSk0xDFRL/YjxFbsoRYhP+OzDpw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 5,
+    "kode_dapil": "167303"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/148282/pas_foto/1683527461_8aba774e-b1c9-4bdc-9f42-3447b3543565.jpeg",
+    "nama": "SUHARJATI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LUBUK LINGGAU",
+    "profile": {
+      "id_calon_dpr": "6348f22839e6a36a90d8f22323c09dc644f34e6a102dd762b3decf5fd26064dca8a5572a3fff4ea4ce54f0f3c6a78ae482d2cda858c59f2668528375b8a89595nESQkKX19S3YvHu8GRgPHoP1juhAL34SnSse/AV/Ivw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 5,
+    "kode_dapil": "167303"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/175012/pas_foto/1683689129_ddf04f3c-f953-4b91-a504-6e42fcbe1aa7.jpeg",
+    "nama": "SRI JULIATI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LUBUK LINGGAU",
+    "profile": {
+      "id_calon_dpr": "b34c92968cb2c0ee9d0ec9d8bc3c39f8d1b39b12a777fa52c22986d5c3dc7bed035e29374be0d6b2e53308c1b4f7b866d741b93372de02281360d14897d7a96fK0Bk68ZCf8LhgWUdRMBlnxNULjo5iSbSuk3FBl6fupU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 5,
+    "kode_dapil": "167303"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/84572/pas_foto/1683719443_0963ccc9-103b-43ac-a991-46ed742e3e75.jpeg",
+    "nama": "MELLY YANA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LUBUK LINGGAU",
+    "profile": {},
+    "id_partai": 7,
+    "kode_dapil": "167303"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/313460/pas_foto/1688858509_057b8db7-acd6-47bd-b2da-5e041efadbd2.jpeg",
+    "nama": "MEDI DAPIT SAPUTRA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LUBUK LINGGAU",
+    "profile": {
+      "id_calon_dpr": "eb99b8f0fb69af0d3de965318960280fbfe83de3143df189f29d85e59d4026ffedd3fbbd13abdc587075727fe3301d8076bf763e0559fc3298896a338ad26c65pNT/cXTmGwhaRoMJPP8RsUoAd9hlCX7iJ1/q0miFAYA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659262742_LOGO%20PBB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 74,
+    "kode_dapil": "167303"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/313461/pas_foto/1688858726_0edf41f9-2827-489c-9320-8f69879fc65a.jpeg",
+    "nama": "AFRIANSYAH",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LUBUK LINGGAU",
+    "profile": {
+      "id_calon_dpr": "0efb96da7cfc1c12752209c60412a285ef7bf28702e7225181b052410d24e3dadfe4411897d0ded71159680db227f0ff90ca5f4a94d19b78dbf21d511baa4d88YtFWINRkQupxyqk2nxoscTc+PIIkxPwhJTghfcDt4Z4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659262742_LOGO%20PBB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 74,
+    "kode_dapil": "167303"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/313463/pas_foto/1689207306_328b15bc-7bcd-4285-b693-6103ec8973cc.jpeg",
+    "nama": "DESSI MAIRISA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LUBUK LINGGAU",
+    "profile": {
+      "id_calon_dpr": "970ddd2ce77229f0841e2596ad7ae19bbed1246c8be563571d1b402db8defbc0563386b213eb5e8278ce83684e5bbd742fd29ace9c9c31a7397d8462e08d7c9a0QBTK5aT3ok9j5JcCL5VOsMagTle5AffiQ7RmvtyppQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659262742_LOGO%20PBB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 74,
+    "kode_dapil": "167303"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/464989/pas_foto/1689330040_0d2046e2-7b89-4105-9944-300b80260f70.jpeg",
+    "nama": "SULAIMANSYAH",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LUBUK LINGGAU",
+    "profile": {
+      "id_calon_dpr": "6740e43fda138df50c35f70e384da46eb4d4526ba4b71cafc551f344f50a1605cf05bf968ade54fcfab117c5eadb64890df22bb62c304d91929a8057e196fea9tJC6mWgj1ZKwumE+YUDXOqHUDsLzaMKM6ia4KN+2aqc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659262742_LOGO%20PBB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 74,
+    "kode_dapil": "167303"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/464982/pas_foto/1689328027_4eefb141-1858-44f9-9d0d-e05adb68bd33.jpeg",
+    "nama": "NARZALIA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LUBUK LINGGAU",
+    "profile": {
+      "id_calon_dpr": "492c03571fed9ec142d89764f59520341118ed422edf523788e48a20e49772d1dcbce2c3eb32e7e5722df6820464c266023c2663fa79b6b4804c3610a297fb8eOx4Bm8X0pD46F9Exkk/ClL7BoC+ihZkm5wrKSLQwR34=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659262742_LOGO%20PBB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 74,
+    "kode_dapil": "167303"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/464983/pas_foto/1689328641_8a968c64-9cee-4402-ad6f-c7732b0eae03.jpeg",
+    "nama": "RICKES FERDIANSYAH",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LUBUK LINGGAU",
+    "profile": {
+      "id_calon_dpr": "cbe11cbc29e7be8f5faac8f069c100ee05005ebe47ef392da2b98f9522449f2b656dab07985ad32dbd3b8de47610d74abc23ac6a5bfa2c4f3d0333c0e3f16de3xW5pu4D/EuRkZf1n/ugjnNyg0ifogFAXpg/cpWHhmo0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659262742_LOGO%20PBB.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 74,
+    "kode_dapil": "167303"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/32282/pas_foto/1673032810730003.jpg",
+    "nama": "MUHAMAD SEH YAMIN EFFENDI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LUBUK LINGGAU",
+    "profile": {},
+    "id_partai": 13,
+    "kode_dapil": "167303"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/32285/pas_foto/1673071501620001.jpg",
+    "nama": "AL IMRON",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LUBUK LINGGAU",
+    "profile": {},
+    "id_partai": 13,
+    "kode_dapil": "167303"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/32296/pas_foto/1673056710630001.jpg",
+    "nama": "YULI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LUBUK LINGGAU",
+    "profile": {},
+    "id_partai": 13,
+    "kode_dapil": "167303"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/32300/pas_foto/1671082806640005.jpg",
+    "nama": "MANSYUR HUSIN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MUSI RAWAS",
+    "profile": {},
+    "id_partai": 13,
+    "kode_dapil": "167303"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/32303/pas_foto/1673060212880001.jpg",
+    "nama": "DERILIANSYAH",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LUBUK LINGGAU",
+    "profile": {},
+    "id_partai": 13,
+    "kode_dapil": "167303"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/32316/pas_foto/1673034108680001.jpg",
+    "nama": "HUSNAWATI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LUBUK LINGGAU",
+    "profile": {},
+    "id_partai": 13,
+    "kode_dapil": "167303"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/470099/pas_foto/1691568650_79ba7b9e-9377-4a41-a490-3056c9628c7f.jpeg",
+    "nama": "DINA TRISTIANI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "BANYUASIN",
+    "profile": {
+      "id_calon_dpr": "1420c012525b049a5f977e62251a6638e3d87baec79891dfc5842cc56ec2c29b5bc102de0d6b047c1db7624ebc69d58a3658764e9ffa4bfd03d0f97f0b056be8CvZ10WGYyzY1LZhNA8mYWVkXJmF2GRpawCCuHoOOlHM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656419883_logo-10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 76,
+    "kode_dapil": "167303"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/325010/pas_foto/1683889146_5342ea04-7ad1-4c87-a1a3-faba724e52f6.jpeg",
+    "nama": "LINDA ARIYANI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LUBUK LINGGAU",
+    "profile": {},
+    "id_partai": 18,
+    "kode_dapil": "167303"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/362885/pas_foto/1683967374_4fb5c21a-e411-437c-a529-8248e1734214.jpeg",
+    "nama": "BUDI APRIANTO, S.Kom.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LUBUK LINGGAU",
+    "profile": {},
+    "id_partai": 18,
+    "kode_dapil": "167303"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/246020/pas_foto/1683901263_0b740827-b6ae-4572-9f58-6f4dc4cefa5f.jpeg",
+    "nama": "HERMAN SAWIRAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LUBUK LINGGAU",
+    "profile": {},
+    "id_partai": 11,
+    "kode_dapil": "167303"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/224926/pas_foto/1683713591_5bef9bf3-1f72-4353-bdcb-b985ca111590.jpeg",
+    "nama": "Dr.H. SAMBAS, S.IP,SH,MH.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LUBUK LINGGAU",
+    "profile": {},
+    "id_partai": 78,
+    "kode_dapil": "167303"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/226374/pas_foto/1683716264_b4790cc7-285a-4ea6-91ff-3a8fa9654166.jpeg",
+    "nama": "TRY HARTINA, S.Kep",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LUBUK LINGGAU",
+    "profile": {},
+    "id_partai": 78,
+    "kode_dapil": "167303"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/227120/pas_foto/1688425964_386e7243-1dca-4ee4-9bc8-7d73c250bce1.jpeg",
+    "nama": "H. MARZULIAN GUMAY, S. H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LUBUK LINGGAU",
+    "profile": {},
+    "id_partai": 78,
+    "kode_dapil": "167303"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/254247/pas_foto/1683759207_af5ca4b9-d4af-4f1f-a5d1-f710ca9ffda0.jpeg",
+    "nama": "NOVI PURNAMA SARI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LUBUK LINGGAU",
+    "profile": {},
+    "id_partai": 78,
+    "kode_dapil": "167303"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/254327/pas_foto/1688426159_7aa39d61-9588-4e82-9f66-3e4261282a5e.jpeg",
+    "nama": "RIA SINTA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LUBUK LINGGAU",
+    "profile": {},
+    "id_partai": 78,
+    "kode_dapil": "167303"
+  }
+]

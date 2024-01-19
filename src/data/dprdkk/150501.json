@@ -1,0 +1,1399 @@
+[
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/32177/pas_foto/1505021505750006.png",
+    "nama": "JURJANI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "dad252adca7b644b4b7ad06eab9bf89ab67e353fd73e6a2334a212f28c0e6c3b4ad8bc8684404bbe2976fe1d05f0e9910b2dbe8eb04c72301758190abf38c7eeu5sv5RvVmS7uKxAitZl8se5U73It/NpD+JyO/9H3P0Q=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/115501/pas_foto/1688565033_6d17c259-4229-4c86-96aa-b2b0c36c6323.jpeg",
+    "nama": "FITRI YANTI, S.Kom.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "52d89e5e73de682d7a06ebe3f7366bfa794606349595eb5ccf684dae3d8b781bf19f8657643a018514d1ecfa12e2c8b45b12c6024db9c24107f81f773988643espIcmiZOWPs6MdUjl5dy0uIPenEwDTVQxrvW36+lLls=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/115504/pas_foto/1688573749_cd6a4dac-363e-49c0-8cd6-989353e8c8a0.jpeg",
+    "nama": "RIDO SEPTIAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "c8ad6b7767c3101f29a8dcba8ab6029a8035d09ab68054bad475d6975a3c96e56b36f6a8cf6b3a324bd63ef27c5bb8aa28d1964be5167ff632ca6d720e994356Z5Ai4bSL5gVQWQVyUCKmlJiSQslgECQHpKlhE+T02cg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/115499/pas_foto/1688569450_4aa377d7-77a1-4e07-8f1f-e00de855dfad.jpeg",
+    "nama": "RISMA YANI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "b97c4099814977d724a94ff7f50303d73705922e89a0cfbf6adccb5da7611aa7cefe7d05f868bdf7c1331b445e1ff113390640ac69c9f267f802228e899fc93fSb5sBGqGrjE4Gk3AQBBBzqxsCcVxzD8eK1Xvr/H3gWc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/488201/pas_foto/1696331404_5aff6d7e-1202-481f-91c3-63c9a2570480.jpeg",
+    "nama": "SRI ASTUTI NINGSIH, S.I.P.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "4d9c7a043c4fdd51601bf0e689cf5501bfd8ae46533f026d953866b1ef12343c1d4c8dd52b80737e8f01752d530f69fc155b30b8c69cc8d8f2075136efdb5578b+qHfAq9RSbiuQ90GLRXB5Wu09jql58NLCQsKkTE6g8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/445779/pas_foto/1688727693_57856e06-9090-4168-8214-15a048df2da9.jpeg",
+    "nama": "KHAIRUL JULHANDRI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "fa4e1149a912a7e7dadfeb77d6680edb944f4dcbd936f274bbf083f6f6cdfc5e3ca5f8c22ca518f45b0164989912619ded4e0e3c7535b55981dc56d946f689aeV7dJhiWu05tZgqoV6PBZmo/sIrhD67+5+NZxBLKiHjw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/115503/pas_foto/1688612562_a12e2271-e46f-40a3-a32b-7cc7975445d4.jpeg",
+    "nama": "UBAIDILLAH, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "b11490e92b50b859b014444d2de987b9f281019dc388552c9e4bd9b0ded69fed03e1e1b34465c7108722a0c3c1cfdddef585b34a0086e5807e84d16374f8beaavxml1lblyqUSDQ3gKtA1v1+7qvCtiN0cYUfJ7xSqcow=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/10015/pas_foto/1683715460_1511e588-a0c0-437d-8891-2b08117d02cb.jpeg",
+    "nama": "HASANUDDIN LUBIS",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA JAMBI",
+    "profile": {
+      "id_calon_dpr": "cfa3e9b8b659d37ff18c18efcaee61c8787cff543885f74c1a9d2c7bc3e9bf0dbc58e750f31ebb62030fdd28c1a3b546fb7571a3acb4d624e75eea0cbfbd6f688FJ6HcLjJCEDAmjfxY5arAkXv2EmV8iBxjBE58bkyOY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/26651/pas_foto/1683775842_d7afe853-66b3-482f-b638-61bb893185f3.jpeg",
+    "nama": "BASRI, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "d5565079b143c1f61c5d8ec3db4f61bc359c2a3eceb2c520848a266775b15e7fecc3b4caf0b84261e0f4816a54e9bbf34395ddc0ea7db0c36714df5b29d0d889ZUjZGHph7y3Wl9pGNtHD8waZwuowzbhuKXs4mUgYIuk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/25550/pas_foto/1683689017_aa365076-9c16-42f9-a06b-5ef89e0d6939.jpeg",
+    "nama": "IIS INDAH SARI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "3284803044354bb3cc76ed8dbfc8481666ce7a878a0784deff6ccdd860ebcfd18a280b8c2459241da867716f23408dcbef1afbc9252874999e80ca191570ec5fc39RrRtH30UAMf90hx/Kg9TkN1megSeod5BGQ03AAQ8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/29335/pas_foto/1683349494_c8cbbac6-7d92-41bd-a1be-6b5f24544ead.jpeg",
+    "nama": "SALPANDRI, S.E., M.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "6c957b376e55e51b0b7ccd0b0e5f66215d81fb930433f72afb836f3d96bfb2635ba971c2d6389f476e2a9f29eb19a4f5a951348143d964b72e20ab4cf60f36d8/RxP2uyNmsfxJuXHF80wlC2ho0Ue9y7W4Y+G5PTHQRI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/26504/pas_foto/1683711929_6bac53ce-b353-44e1-86d5-f6a4ff8df833.jpeg",
+    "nama": "ERNI RAHAYU",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "f356c3b32326309fa83c4707a49882c6897b4a98d1d99a35a602975e36063521a33bccbed67b07b35cf669c2d216d7316387d6ee682694166ba9219babb290feYRQnV4uwlwCU2BaNg5zDLR7yA6rGs2bGia683vSZSqY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/30572/pas_foto/1683292067_c3531275-8195-4218-afc3-e5f2d2ccede3.jpeg",
+    "nama": "ROBI FIKRA MAULANA, S.Pd.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "5c67f8a63b522a3843273cd900113c44013ed95f9cc77271cc8facb4c3c2a62a30a63c93c55554eb37ae6cec037973150d0bc7b8fa64413d315bc6533976349cO1ZN4zLihe+SRyJAoPNfP9au8Xdq/PcCHYxMC7wt3OE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/26784/pas_foto/1683688825_10bfaf37-ecbb-4013-a7e3-03f3116c8d06.jpeg",
+    "nama": "SITI FATIMAH, S.Kep., Ns.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "4fe94e4f7556693acdae2c4faa4578748693c15598e93a2868b642733004c182ed307dea52c5dbeb465ce0f6acd526929715d62f6a78b65e41cdd51d5f0b9f06GpOtq2RvzX4WfUMC0D6GoB7lPa99drR0Wykg+ASovJY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/26100/pas_foto/1683353378_fc0d48c1-0115-4393-aa05-724886f9da8d.jpeg",
+    "nama": "EKO GUNAWAN PUTRA, S.S.T.Pi.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "4d0b7bcfa3f577470bb47eeff4465bdf2e387e7c1eb360185323b76ecb17292b1ff454233d77a92c6c540be137eca841bbac08d9a7851c94111fd58a2632c343IzlnJwJUjPec3twVTu0JCAN7ubhGH/zbln0A/KfqZcM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/219407/pas_foto/1683710628_af48c7fd-9c99-4386-98ab-568b472cebec.jpeg",
+    "nama": "SUNAR",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "d7f85d86d436f4e0375573112a376033f24e152e188e02783f5b18f2630e92f1eefe15dabe8600865cff0eadd1ef6852a0893a092305169f505217df611ca81cppmILCtkLLBd9VWX4YavhQluqvFB4Ha/UQFnMRyee04=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/219408/pas_foto/1683711640_184fd4b0-f01f-46b9-b690-7de4de7b48e4.jpeg",
+    "nama": "BAIJURI, S.Ag.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "85c68064bdd16ad452834723013d909ac6e0cb70d1eeb1850c26ecdaa29f94dc40321f192c8182427f8ea24c2c74812fe9848e94353074d28edd1443079368153NA4Z+jOiqrYCJgTogSH4KdKGqfeQg7gjJxzacmKcqY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/219409/pas_foto/1683711730_e558ef43-0edb-4d02-9411-8295c5f1b843.jpeg",
+    "nama": "SUSANTI, S.H.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "771f33af1ab1cd58857f09fc80cc3aad408589e4ac0c505761f48a1610135892ab3f6500f516790c1da37d00d7c13f136a1bf27907ee36c173dea1adb987409bBUwmaRRWDPAtGGFkfbFeWrH5ZkBdK7DvR7LjrEwfw38=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/468381/pas_foto/1691484584_09d7f111-a094-444a-ba84-3c1a891b44d1.jpeg",
+    "nama": "SUTRIANDI, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "1a559762c3d9ea372afb22d9e7525b09b71db6b31b4b1c4cf1cf02df772c3462b6805a215d4adc85a1a31c8070522ca2d2647aa5aaafa60681f5a3cbdfa43ccfbyafBm16ajEliZmip7s+jde9Xw+l7s2jPhIZ1yorVE0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/468440/pas_foto/1691681086_3a0c479d-6df2-4de8-a55d-a5436a341673.jpeg",
+    "nama": "AISYAH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "1a3efe103399f24422dfe5410fdcc330737520ff2accafa0d92dbe57c0f02dff3b888351376a632094d0547f1f7419d67043f3a29e1cb5978749630b06484700TzqMacMZMjdsPy9DHHehnBLuVwL0vxzBPDTHnTkm3bM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/473706/pas_foto/1691680141_8073227a-eb05-48d6-9096-124925899b42.jpeg",
+    "nama": "ANOM TRENGINAS",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA JAMBI",
+    "profile": {
+      "id_calon_dpr": "184ac1d6e1f9dda756baac33b27ad0645a1da5d6185954db8eb5bb8ede1246c3b9bde12db10b90b9d8ec13f156dfa8e6203a83f7ea2f0d1e6053e66c00882b08oD6ozYlTMOvGyAJyfyFM+QCSq2SjDiSy6is0Yh5pNdk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/469218/pas_foto/1691664878_a16ffb89-93d8-4899-806a-d4b71b76b70f.jpeg",
+    "nama": "RIA REGGIANA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "65332165d4402e3611184b3143cce0a5d323249edc53ee8aeb360dc8ad5774d4fbfb05d607027b0ee3869fe3fe2bc09bab008744d0e6f5d17c0d5a6271854ed3ZoQMntqGY8E7odoSDwzTu/w/FSf+ul4j/4oZ094ADFw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/219412/pas_foto/1683712196_86a81c2d-8130-4e90-8024-572a77c9bae1.jpeg",
+    "nama": "PARTUNGGULAN SIMANJUNTAK",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA JAMBI",
+    "profile": {
+      "id_calon_dpr": "3178973d374b09a73a491deceb01ab1430f4ec4be9eedd737bd3fae753cd42346c2fbd6f09542d5b7441e8ff6d481308562d9c2396544dd844aba9dcc79e69d3Sgn7C5xlyLzciqO+sBHAL2F/O/mnNh+Xn9dVzOn1ZRQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/319898/pas_foto/1683908454_dda9b5fd-0156-4bfc-8c3a-5e342a23ded5.jpeg",
+    "nama": "EDISON, S.Sos.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "9781ff5680d146817b4cb6e08459b1dce318d2a9b1c900b65b09959b3e6d1c4042bfefbe32e41994e9e2b843e20f024be0d5eadefc47e5379e10fecbf60c91cd8Cgc8tTU59YpnGm8fhyGK8Iz4itR+DlHRDz5Lefa4qE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/320744/pas_foto/1696241147_f5e9d24a-18f5-453a-b6c3-ab99b23bab3e.jpeg",
+    "nama": "ALVIE RIDHO IVKA PRATAMA, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "941047bb30d706a91b9f56a8081de20143ca2c1768d7ef88bc2a88f13c17436f5617ee73cba3e7843078be83bf8da614ec5f6484bc256df0f9a28147f5abbcf07Vqmfox9eFgbYzjmUx4XA18WYvJWA/We3KVjj9v/KzU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/320790/pas_foto/1683973432_c2703fcb-bd17-44ca-acb4-0623d651b9db.jpeg",
+    "nama": "WENI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "51be3f066bead6b8926d384f2eda7cecf4fa782b6e2a12a0f3b57884b826f2146f2f43fcc605199dfd2eaa1905e589c02b61644b4e7595ea8cd1db72aef3e1b7ByWOc8MX6XLt8YvBWDOxwcS4UNHz4XXS4RrQhljWxGI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/320820/pas_foto/1683972956_99b1beca-3d5c-413d-9bd2-0a469524c8d6.jpeg",
+    "nama": "BUDI HANDOKO, S.P.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "22aa71da852311f1e2a62cbbf5b407bad77d4d0a8a20053db01dae4c7bc448c52f1b233bf6591420431af9f4b7ebc05ceb88c360c0aa1aaa9e88541a1052adbcC1lftk6QZ/gsSNRRlP3gjnVOnIYnF0w90UJKtP8cv9s=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/321160/pas_foto/1683892870_64d6495a-0dc2-4919-a200-26e774dc70a8.jpeg",
+    "nama": "ELSA PARADILA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "1cd028bcd12e681fe6c1bb755605cd431f792eb9e242bf351190167f9574df69b148252bc1192d80e77516d9d94542ded5cae8f66c69f578cb7546fb34ed48419S6wNWEqOMzOqhGBbOqH/SxRDsFsqDRiKTD6wDmxxL8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/321204/pas_foto/1683894983_fa11b97c-fe9c-4eb2-b954-14a7c44ed76f.jpeg",
+    "nama": "RAHMANTO WIBOWO, S.P.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "4ceb5d71fa366898b6a2c36816359a9e767af16543a14e451402022e67c4b964d91f808c11b1383ca61c33796b176ad1acd964d02494844b7624a550d87b8a96qm21P32+Kr97RV5HHkggQx8uOuJ1tqnNPpOQ+al3E94=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/321321/pas_foto/1683973834_1f8c6fe7-101a-48ec-9573-34b9798ca0df.jpeg",
+    "nama": "RITA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "6959185ba06ba427dc11d6a5c363edfa4daffb0ca29014c8612a4a4e38c54556fb69d9f14292d38466f17812004fe4f4a0d9e9173abab6333a7edc87bb5caa63iux70r52I85RZ219kqxtWG+XPyN42kfbGrl75pxDmnw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/460947/pas_foto/1688877974_f6a3ad0f-f7e6-493e-bb4c-3ed2c8795c0d.jpeg",
+    "nama": "FATHURRAHMAN, S.Sos.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "66535f6b769abd042c5e99a42dba7ddbcd6efa1de0997ae2926df1766b072b3b99c93ebeb791da1a522a136b177d9a89eb35b665ebe587dffe36b6ef60398e2f1yVCFSSSVpou2oPvhsXK5hdqAbfVt/8PjJA6InaZ7qg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/6877/pas_foto/1683609658_89615dff-029a-40d3-8691-cd8e2f4253d2.jpeg",
+    "nama": "AHMAD MURNI, S.H., M.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "357493faffca4b94e668e5a732aa2952b1b5c7a057c892f5efdd9fd0929e310b107f72949c70b0c694ec3612aef70691eef2bf3d0caed980c47bcd6ebce64542/973ifbne2QxWGqUzWr4OpU5I0vpnhW70ipOe/zeqNQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/11145/pas_foto/1683194992_d6e08774-d124-4afc-a3df-050ff6507e5f.jpeg",
+    "nama": "AMRADI, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA JAMBI",
+    "profile": {
+      "id_calon_dpr": "8fa9c1e43a7de7c6b05a85e565c75408a73e11f2e50dee0a4a3d3b46ad44a41bfdc4548ecfdfed2b3c556132721d7197856387347e018fad42b5e973f4742d3a6ccJEfALNrCNY8UEzxuZWUUomtxxX19CiemTyNCPgMY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/11188/pas_foto/1683275957_b16b667b-eba0-43bf-9809-25bcfadac19b.jpeg",
+    "nama": "DESIYANI, S.Pd.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "42652d1ddea1c4f72e8bd2860bed2854e70ce4b8b19d60f5a0398980d095c60938781bacf25af483352e1106840a2a7ed5c013ccdb7e8209d3341cb04070ef6bOWDd4LuUlDJ41nKDuvU/NQb6nYZT00evH2lwMhFC+w4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/11104/pas_foto/1683008324_86427ce0-cc81-403e-b9cd-6c2032a19151.jpeg",
+    "nama": "DARWISATA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "7f5c90ada499d0ffb3723eb42796549ef3d7eca88f1eacda02191a1f222524d32445890c2c17be54ada8e7232e3ec7e8243254afd160542319b35729b95401cfX5OcnoY5Yrl/+1qnTF10kv9uhOLp9ITCy0rM+yqVAYY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/422785/pas_foto/1687843214_1e49c4c2-4953-41cc-9dbd-408afca3965d.jpeg",
+    "nama": "ICA SRI WAHYUNI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "dc7441238ef50f6082d74ac2a8dba5916e2ef8fc8bb56fa42e479906b7a500e945dc2f9088b2c10060e06d4d97022dad9e8397d8ccb4af86a658be149c9782b7QPKdf6wYqqxuCdlel6uGppqUyx+x7YPa3ai6oRZ6Yys=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/424834/pas_foto/1688131498_d10020b2-0193-458d-b032-7b0fbc64e042.jpeg",
+    "nama": "NARENDRA DHUHITA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "649058bc6f2e55904d201197c6f280bb842dab9bddcbfc6cba26a7a2375635b3d1cef846fa123bccdd96b71670efda53204e585d58dae33e4d80c8f072ad40dcVSTgS4CPrlXajn3w6J3McUNM1nwD1/SynSRwar3ei2A=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/23101/pas_foto/1683021651_b4d1b45c-5112-40f0-b5bc-e6338c8cf22a.jpeg",
+    "nama": "JASMARA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "f9dfdf1b6407ec63c3849a85be24c0067112555423a35cbda6432d0d26af22b4b339860676f6f23c08e8de7cf189d8f9a11b3aed11ca6553ad1068f189b40714N8xyRCi5wUTxjpkMcZr5S/2Ctj5EXUfX2OIg/1NklXM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/11456/pas_foto/1683193591_73a19aff-595a-421d-bec0-0068a320f889.jpeg",
+    "nama": "MUHAMMAD JAIS, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "64734aa960275c3790fdee247fdfef0380ed838ea9a80d8c6110b24cc50283202d7ce75bb9621fd8517d058b41217e76d596c41bfe8d088286dd66bcf516f830ODMBZd5idafRinEjhUm/RwRAiBQvQ4ORE021fK4jo2Y=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/436238/pas_foto/1688653671_fe1764bf-3b89-40d8-9eee-eaa14488addb.jpeg",
+    "nama": "FEBRI MARTA ANANTA SARIF",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "66479b99841588cfe6e30ff1083ada5d1925a53b22a831019fa23cae2ee21f7b9d8e9864f0083df468547ccf1a832ad27374de2cd069ca791027f2eaec730daeIRuCx1EmzeIvfljR7chty//S0e4rM5Bnl/+94RMHte4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659959325_LOGO%20RESMI%20PB.png",
+      "pilihan_publikasi": "datadiri,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 41,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/431272/pas_foto/1688652289_a2aab85a-e15d-4a51-92b4-e7f2b9a39081.jpeg",
+    "nama": "YAYI KUSUMA DEWI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "eb417e3b1962912194515d7b51efd8da3cb99f060632a9ace875de50b2abcc81cb127399ab6365fe0fc9c06b212877752d2dde2a6b437e5b1f011c4d0908a8fe5nHT5w6HflrWwz8Ktrt90CcxAP2neMu5tgGqbk2ujEg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659959325_LOGO%20RESMI%20PB.png",
+      "pilihan_publikasi": "datadiri,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 41,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/405790/pas_foto/1688227142_3b42ad50-1003-418d-a5ec-48ffd48254c1.jpeg",
+    "nama": "JAMALLUDIN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "3d6b0b736888a49136fef0ff7dea2cf9b7f3653bf992f99ba8111e9f953150a0ded4bb901b081d8a2953a3c55991c894151646d8b573f2e8b5873a9c67dd47c6dNxNpy8AVBB11yu+9ak04np1hzves2w/UxyFoYGrYUM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 77,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/405791/pas_foto/1688227250_90db352c-b87d-4f56-b473-567fcc283999.jpeg",
+    "nama": "ASDI. B",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "9a5232fdf20117fda38eef7cc26f47da01e087c16ee8f37f9e7dc2867788ccce0e114cc1a353284fff3fad92bab9874e1e720aed08a0ba75d019ff2de0d3d292uF6GmfCAYrlkULdEhnC3FWuLUvwbwd+lgT4CW+Q7/Ow=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 77,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/79841/pas_foto/1571076204660001.jpeg",
+    "nama": "SARIFAH.H",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA JAMBI",
+    "profile": {
+      "id_calon_dpr": "6d044ba7bbe7d7a11dd2d68dba4736f3fa021c4489120aeff7529d2c9c0640522adb8face5a9a3bedfb489aae71bcc9895a77c63e7719de3b3f15235d4048bccphuZjS4VdbZox2LAedQaB2FQf9P9GWdtKonPruTf7GI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 77,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/3528/pas_foto/1683728794_dd25ae1f-1884-40c2-b076-f30a269cbf31.jpeg",
+    "nama": "MASKUR",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "55a252d548f1de0bcba64ac1a27fd676ece08f197cd13c7e02a278cd9fbdf87694c0fb8cbf4e6396f7527bef2e1f1ee80b7fb353c321305a2e500ef7dbf95b4fblWUbPfUe78qakIEs7r1abZgGOj85b2c/KivOxvyIYw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/4883/pas_foto/1696086773_30074569-b838-4e4f-93ca-00849c15a962.jpeg",
+    "nama": "JUNAIDI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "927480bcf84fa63a8a23c76ffcc54654b9a1a1bdfe9da2510fb9b5df4e3a51fa370f68defbc00d2cd45fdbf5fa6165941da2d2722215be6c8fbff204578e1d6937xvNaqTvZRgTHtwBxr/+1Rq+5r7TbJ3KHucRJYq3tc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/448635/pas_foto/1688749536_5fc42522-0d25-4410-8a29-bdcdd2f52aa7.jpeg",
+    "nama": "YANI FITRI YANI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "47f3908d939312ee87142a4f3777eb8a4c8dc3d3345361b43870bbc6bacc69e02c91bf38947c6532e2aa22692bfe97b55e95550ee0887e33e9fd9b90f3c69880vT+7CVL444sIlDmLGwj689Nwo+Nn/glEIN5JP6f5VRY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/3541/pas_foto/1683729128_76bb1122-0d6f-4ccb-8483-f1c3dcff27cc.jpeg",
+    "nama": "JONNI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "9e2c3eb8812e1647c0e4a5780da4b02f936427d726daa4f631aa440ae3fc11ecf6e8b9aae7d209d44a5815847c1ddb9fec51c9d7f1224e830ea57c25fc7a2eees7ZBlAbTL1dPaswa3zSZ3kd+Vp6X4Qm8FkiqdVp5CQU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/3549/pas_foto/1696145184_931a62ba-a6ac-43b3-96c8-b96698926c9c.jpeg",
+    "nama": "BAMBANG IRAWAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "d08955579052907fd6ff9497ef1864d2280629a434d06ce03403aa609184efe901fc6f4b731822c2e68d1e6b770dec641bae07cba84ac399254c7081743a4adewXcTv7mL2MP0ue8uJbg9aF2bvkdDmNgfR8WC3OWfPoM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/485924/pas_foto/1696239375_059f7075-3c96-4d5f-b3e0-56d68710aad1.jpeg",
+    "nama": "NOPI LIDYA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "4b034d9a3d4e34529207e7e8c8f689f79c360fc402493f24f9d70a1856a7132681269b9bd00370b6c77ee7846cacade0b4f09ed8f376ae14a57247281c545ea09mdMiJia6PdD2D9caoJVpVKZ4cUGVhrCQhrmS6p9GSs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/483950/pas_foto/1696083002_5a8a965d-e69b-441b-b630-140f5c89f592.jpeg",
+    "nama": "DEVI PUTRIANI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA JAMBI",
+    "profile": {
+      "id_calon_dpr": "e1dacbffd3c17d7a06bb098c5c6c1b016d176e359d7d49dbb1e94b1522ae74ac89951a34383259328b4fdd96d36b91ac92c2f8e5afe6d0c257cb3cc562c5e727ttVnkc4MShwbRLIfTBQxMgRs8FxwJLhCSnmvZt1Now0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/453723/pas_foto/1695606307_656e4fcd-9ff0-4de3-8119-6aaa666881cd.jpeg",
+    "nama": "EFENDI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "89f48834f2dfd60aee9f942db081e2204fea322658a2e571117873fa6c14daef0caec819104c487a9e91b5f7cefc5d198ecfa35f4927a13b07cd974be7494e54CETf7V0/OJ6706bw1EJWJWAWx3Bbm2AWi3GLHuw5JXU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/307658/pas_foto/1696210765_38fbc20b-2e36-46be-8ccb-920dca8d882a.jpeg",
+    "nama": "AZWAN, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "823d7cff0c00cfa9aee114d443c054de9823f2612224a67b7a8182f2f24c1e3ae1a0d616265f3d0b2a8e6fb23a18235447455620c78bc40e59c9e2c1b55ee3d8vvD1WCkQJ3pPaDvwYk40QjJVmmPgH9R6zke1rTkrrqs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656155242_logo%20PKN-.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 26,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/314663/pas_foto/1696225567_fca357bd-589e-4b0a-9237-d18b796cee74.jpeg",
+    "nama": "ZULMI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "4bed08ec571f39f0dee03def71cf75d92ede49c5f1bc3dffab0500dd9ec14bdacd53c3b221b49813159ac38f7782d7cd9d81bbc7dfcda8e181da0cbea2a20303oEiljNQcKNoel2tjIlPbYskDHzwS9u5J/ecZiWA3JpM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656155242_logo%20PKN-.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 26,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/328684/pas_foto/1683979566_cfb0e562-98dd-4de4-82bb-278657670df3.jpeg",
+    "nama": "SANDRA KIRANA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "ecc2b33a2c4fb76d0591718b6ac753ce5909fba956152e9163572ce62bbc0740e13ee5d5f152bc4767cb8f930de24d4e84803f6cbd52c106b1c98fb4082dbe04rcqgRrJI4wym6zNq0aYGQ2S5qIFsUvfepBdC/w4fhF4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656155242_logo%20PKN-.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 26,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/316997/pas_foto/1696211736_71c51d84-9bba-48ff-9f50-0c6bb2ef03da.jpeg",
+    "nama": "AGUS KURNIAWAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "4f113713a8419f5d3c3355a8a375867cbb43f1f4fee1ac10263504c9252f6b917a6bd935f1d15570bd4645d80716de149cd9e2b73a49ac7b83ab0a2fa13a2220AbCdxrviu75Uq+E13prMpnWe23A5Va6tVJQx7o38jJU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656155242_logo%20PKN-.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,pendidikan,riwayatpekerjaan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 26,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/474522/pas_foto/1691678368_92463cc8-1517-4ff8-8f5f-6c2551fa5072.jpeg",
+    "nama": "RIKA DAMAYANTY",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "81d9ccc3ae873bae99a1ff3a3773532bdecd5645e53712ac0825c0c33fafa74c9de0c7d58b78b82f699ba2ca77ee5bfcecac0160ba73f831b622c87007decffe8oqsyHr1TgAomQauoFq6FmL35GhOrGrQRFMgLhs2qe8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656155242_logo%20PKN-.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 26,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/476396/pas_foto/1691740063_fc964fd6-e7aa-4dc2-a15b-df3de8106736.jpeg",
+    "nama": "KOMARUN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {},
+    "id_partai": 26,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/318629/pas_foto/1683985176_01243863-05ec-48ba-a378-df0d64fe488c.jpeg",
+    "nama": "PATKUR RAHMAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "b019bd3a3630f23ffa9c2db48d9ffa9b09e78b778a428c39628323253ca5981982f1f9a75b6bf0d75cf075b877d8cc3e30b1cde28c8c9098a92d99e85fe7a134Ad1ys7QTrxqauG4PWDRVEuH/UePyHpLXjQrX6/KJJGo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656155242_logo%20PKN-.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 26,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/451395/pas_foto/1688794440_b2b450c2-f552-41a2-a072-f8a88c39894b.jpeg",
+    "nama": "LULU KARTIKA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "3734ec0f1e9e1b7a61149ce29d0215abd349a8969dff346dc9f119be09345cac5bdb07f6219158df2533d573fcd98ac572c2cd7b0449d7654d6f36bf95c054c0Oq2MJ86NlBDGkd88GGX1ZsRPbe8RklwY77SaVtCyXNo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656155242_logo%20PKN-.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pendidikan,riwayatpekerjaan,kursus,organisasi,penghargaan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 26,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/29143/pas_foto/1683716656_718b3525-fd47-4001-8ccb-cf64d8ecc62b.jpeg",
+    "nama": "SUDIRMAN ABDULLAH",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "ee2241b840a19f522ddf8ff1d2bf9cc210408e97f4c1063a0bb7d666b46f7f0746428b22e34786e4934f79da7491107d4bbe58a71089a22dbff77de2527754bbNlKg7xaN/fV7xWwPbpZMvjL3yW1sAlOMNgmqPFiDDAY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/29190/pas_foto/1683557784_dbff45bb-2fc7-43bc-8e4a-1c482fef21df.jpeg",
+    "nama": "SRI WAHYUNI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "93db1336674c5b7ed7598e15903c6d8c759863afd6ef66d05a41f5a9cf587b4466e196cbe03a142bc32aa036285104bad4b9326ca39204055a217c87189c691bn50c43ZwziniPe32thvDJnzsd2MfF0Q+FAcSm3apEPg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/58535/pas_foto/1695732388_a3b27010-16db-4702-a7f7-2fc0808d6e98.jpeg",
+    "nama": "Hj. SRIWARNI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "bc8336502b56749dcbb18c2eecbfad98d4cc2800f80a79af22e96eead53c87c22ac217e24a19f69a94ae6c57850a7e856f4a476ed3ffe5d9eb84901903a07fa2g14AYRVgPmshQwDZWlCcATyAZL2hY4QqRCulJ2Ls6W0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/474757/pas_foto/1695629620_57c7957c-719f-42e6-968c-e25669a14a13.jpeg",
+    "nama": "REDI, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "302db6459647fd0d6c5ce7673b45007f0bcf66773f141bcc9fbec466f478021a1d2f2f9d1bd1f3e573ac5b7aa9165118cad8505ed7985f9335a96c5fe72970f7MpLEbO7H5PVc2ry3BmECWeViac/Hf4wvDqYzkkrIbyU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/467577/pas_foto/1691465059_c95c129f-40da-45e0-8cdf-2f0d2a246c7f.jpeg",
+    "nama": "SEPTIANO MANDIRI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "817ace27a801f19b0e843016be2e78fedaa2499085225feed822ed6677fe69ab63feb525a8ccf0463b360ebead70701721d7835f877eec955d21e464e1068fcaPfsMftSjWc8iMHrwdv9CiM1gMBoIqck35yS9jVHECXQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/58649/pas_foto/1683624327_cb3f03bc-ed2b-4ec9-a0c4-17469ed68c5e.jpeg",
+    "nama": "NURHOTIPA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "401034f833546a7d75c98e07d8fa4a3ac0eb9d52efaead251f07ed32428685cfaca93c0f9f818ee33552f44ccabb48abb6de9dfe1a15cd01e08b6c201b3f5842SHT9n9Gm/ChWl7zeaD6geGbQFaA3qVRW+OehRm+Lzrk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/433567/pas_foto/1688532491_06d70744-8c24-463f-a5ad-ac227c03e8f3.jpeg",
+    "nama": "FILDZAH ZARYANI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "012fe7831f19d2271371c2a22d7a9a05faa3317e858d2b45f3021b429cbb91032205f4b0d39c17649d4672135df47261ac06fbc4d8da3a7808c1c969a03f4dc4q8Zfq9TqgVMrwSk3tsmogKfhRQqLOmj52fl7xJjIVFQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/22348/pas_foto/1683018226_3ce03119-4f98-449c-99dc-09cc1e2b7643.jpeg",
+    "nama": "JONIADI. P. NAINGGOLAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "86331ba3cd4e1555cfdd6da2a21c9fc3f6817d913e1b7a8ecd1c3133469766b12dc7ba50cbf7a21095b76b2c8fbbf20bf2c12fb9e21f7ac9543c46ffe5e7afb28o76PiUjTE5gtKLHKdcMUtkSoczc42RHN/Mzpmhgk4U=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/349500/pas_foto/1695931547_bb09eb32-ac0a-4333-b2ec-14f5850ce214.jpeg",
+    "nama": "MASRUL ACHMAD, S.Sos.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "a7027a509ea047b3faaa4b5156af41688a4bd759bce86e35d79a472d97d76732bf6323a9e6ca05354b5fed7ace9622d4151f367a48eab7e4c9aa0ce5f5780a423Hr5Gc1K9g1twxOGd3vTimUP6WCRTOeXYAuI1c8OOfQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659262742_LOGO%20PBB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 74,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/105378/pas_foto/1571010705750081.jpg",
+    "nama": "ASWANI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA JAMBI",
+    "profile": {
+      "id_calon_dpr": "7bd5119ae3fa531c45a401d340584c77183245876b2935cac852b48619f63eee6af3b053ab84cea09dddd54ba1640b9ad1b832ea968032a1d0441423e5d9c283eELvODVIdyZpoaGriTnaDRw7IGZzzuFxSoBa5f7ZSx8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659262742_LOGO%20PBB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 74,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/105412/pas_foto/1571035911760061.jpg",
+    "nama": "YANTI, S.E., M.M.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA JAMBI",
+    "profile": {
+      "id_calon_dpr": "d236edef9e8ca4fe190260fc6081f98e8a76f05bced7d8d79f3d9d9fa34b468891fc2db13718d6de2fbf2d5e9ef23c8f4bb327e6aef6fb27c8e060136491ea881lIFiEUp+WAO0l7hnHZLjbyXWxVauQ62a3HMDKUj7aA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659262742_LOGO%20PBB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 74,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/349503/pas_foto/1695931499_cb11a612-13b4-4b0c-b0ca-9c771fd13717.jpeg",
+    "nama": "JOHN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "a77f6e22312a7b9b313a756c87dfa9d8bae4b944215423d745a6ece1c06d27ce467f2f7f37104220746fd8ae036dbe7754d74d4ecd7c6194089aea8b783f96eagmENaRuu6NEfHWTLqse48sUpPoYbdB2p51DuANkWPWw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659262742_LOGO%20PBB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 74,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/105389/pas_foto/1571071503790141.jpg",
+    "nama": "SUGENG WIDODO, S.T.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA JAMBI",
+    "profile": {
+      "id_calon_dpr": "b1e54d1d778d5c8c3bfca8cfd3a14e3e207b3329f09a116207a8b493c2a716d7477d3f88ce6c29decbb917c7703f96b60b09d0d206e46b6742693fecf7b833afcsX+Jlg446xDI5jbr5gNbLq60EFjiOVeZxV7Og9dEXE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659262742_LOGO%20PBB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 74,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/349505/pas_foto/1691634843_4fe91fde-daba-4c28-bfc3-dbc907f83242.jpeg",
+    "nama": "WULAN LIANA SARI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "59889e4900fa14fc767d7e92e4e28efe6fb2eadd50d28dc1355fd4d1840d845ac291aed27b36a15f3e36d9c1a85ab2efd883bbbfdc39083c6b86d8fb5452b991ITFr/TRaKA5M1l/in6wZ237s/TUSQqq/E65CnrsvbYs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659262742_LOGO%20PBB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 74,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/166592/pas_foto/1505040406860002.jpg",
+    "nama": "AZWAR GAPUTRA, S.Pd.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "b1a123d30ce347162fac732c4bfd4a57e36aadefcd8ff440967131ce13e843b374d4159c39cacf52e7cad73537218c1e7ae6b12633c5c98972adbb312f436941jFeWK5Yj7k0vAHiEQgxbUvxlYsoz+2cFg055fEEA5Lw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659262742_LOGO%20PBB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 74,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/287977/pas_foto/1695702952_9399f969-4a85-46d8-9745-48d44fd810f7.jpeg",
+    "nama": "JUNAIDI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "dc7d080044048c6b44d14f50b31daba558d7c57320ee096cd3e3fa4ce19b11a3957756aee82aeb7ddcb9d4e70366ea9f244e38a01a826e09548940a1e1dc1dd05ZMghbgIkSSNLRugaXNWeTM6nkR0K0Qip4+OAJcxIvM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/287978/pas_foto/1688706547_b6cdf4ef-139d-4914-ad35-997d7a1bcbb8.jpeg",
+    "nama": "SIMUS HAMADI, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "e6281748be07154f3ec1ad6ada83b64a5c48073e4692eaaf0ae96606ee14970d7079f333f4683d387f9fc2c59ac6de0e4b62a2333f5147bb214257db9a774751v8lZnhX7WuQazk20gptpEXc8V7yPNNGiBcbtWVUXJTw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/435837/pas_foto/1688615044_ee17b390-2471-4a8c-858d-f438aabadb31.jpeg",
+    "nama": "ROHANA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "8e8699eab9468036abf37bc43d77958e356365ef6840df16a2f448ba34e83f32af42ab293318d9d096a58dc0687a399cbd2ff506bb7805267a27e73f5c9bfda0+8leX1gSK5F0Eaw///jqoarmgLaBS7NdJj/BmqW5DPk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/287980/pas_foto/1683857658_19240d34-9ca6-4e83-99fe-321f9e92daf4.jpeg",
+    "nama": "DIMAS ZULIANSYAH",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "80abb0e2ce67a595e8572c77aacf9770588e9514f345a688f953dc15c67b72c5f473436c0452250434924c71de9e2c44e6e063a316fea4e970adf239ed3d44506wqOSDLrtuglfp/rATcPLX9faBA82kgD3b3E8YjTf/8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/433137/pas_foto/1688524875_ddd8bed0-4921-4b81-b160-ecb66d86a833.jpeg",
+    "nama": "JANGCIK",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "4907d050d1a9f272ace87f0a3f02a2715fdc51edc39e1ff3ed3aeda27b4162295e659918b9352c636b0ff5f39c181b321d614126d1102e8874eec5728707f591r3LgfliImfprhn6QRvwPoeHhSTiXcGrXPtmTk/zzAsg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/287982/pas_foto/1689407163_0ffda504-e1f8-4b4a-b74d-bfa40bf4679b.jpeg",
+    "nama": "ANIK SWARI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "cf26560c637b6bd05bac72f14610edc5a241bc26dcd8470a2265b4b4d7777f72ebe1255300f70ad1a75048766ebd4a7073449ce9da59b9446c7e28bb2ca3da92YIvefB6OkxpC1qgiXmeC57iIzTPVdx1LmDd1Ex88f28=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/287979/pas_foto/1683857282_4f3d7468-7637-4058-80fa-e05f86c457ca.jpeg",
+    "nama": "RINA HOLAWRIAH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "01647bca16bd597007626b63bf3cc804d8b2a739e7fa15f33b650643847d8e5a32d61e9d94d7b3a943c33929dd0319907e503961c21bc322cd437a82a1d7a66amjMvgnuzZdw5M+Zk/50dZlG1LixiElZuXEk9at9Mpfg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/287984/pas_foto/1683860946_97b50739-f721-4327-be5a-e02b5c0bb812.jpeg",
+    "nama": "ADE ASMARA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "44a794f521a38c5316c1d6696cae64afa13dfd2f086316b0b39b468139ef850386689b97a7f477c3c8ae70957a2c7ff4823eadf6f7d9241c34980641fcb819dd5DDoynMPuP4f0zjWn976o49hwBRX7SzeU1FhtN/5xtg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/1855/pas_foto/1691336371_939cadcc-167f-4634-981b-85b23f5cff77.jpeg",
+    "nama": "MUHAMMAD RAMADHAN MAHIR",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "da8c3b2ca7db9e38459987706b7b4fdf7b8a5dfd6c660f04484c8715db2201d790ea10e4db2bbd02a559836d2501daef4171bfa79a48be08b649e139638d703dRj0hDIR8H0JCwP+z2i9JTuGsROISWMq7yBXyJxwihEI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/7998/pas_foto/1691336405_d4d162ca-2b67-47f4-9dfb-eab265b7a2bb.jpeg",
+    "nama": "AMRAN, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "54b2e6e3c0cdfecdc26c1b86ae23c82db1ea12cbabe5d6866c0227cf789f02a65c8f6db4dea360b5187699d5d82ba21c8dd22bef379e77a2ddc0b2b415053bcfH3kX2UYTkILOE1Xg6MmxXkP/l9CZLR3ZH4seltVAP0k=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/482564/pas_foto/1695958624_ef8060d3-dbdc-4d62-834a-28d44a5d1e5f.jpeg",
+    "nama": "AISAH NUR OCTAVIANI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "fc73ac675a49c90776dbb1e41483a05cb8199f2c6a7493377b7a0e0acc6a074809b57e41bbf6414a4cdb3f58fcfa7a7eef903f79b5c1fb5e815b036f7af8f0b41W8bU5qxNPJuclwPihptdc/0q4GHuw89hy2VayloLtM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/482597/pas_foto/1695960068_010f92cf-422b-4631-9ad7-42c72a60a8b5.jpeg",
+    "nama": "DODI. AG, S.Pd.I.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "5966c58fbae29534097c43df18d9f30792916419be0cf153ba7e08f4bf109e1841386449b6600442d662e53bcd756a7471f6658ab124217cda09d5d51942d7faGMsYiQj7HDsM6BbaE2ycYG6oKTFc8rvlKe9+dxOm6/g=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/476082/pas_foto/1691724018_633b512b-64ee-4b69-aa6c-9ff4de633fb5.jpeg",
+    "nama": "SUDIR PUTRA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "398d1e53f57c78342e33e09385e62463cfbb880ee3439891279af2825e803681ec6f5c814e22c22cad6aa1670d5ad82fd4d6a0b53ab1a6be0125be058a35f03cB8LJP7VBdA85WIbjCtjwVFpqgf6KFB2ibkzshkk/Dwo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/441370/pas_foto/1688660618_6054d790-2c6b-4cfb-b8b6-3a4e2345d82f.jpeg",
+    "nama": "HAMIMAH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "ccc4e981a0115e28f4c0fd5b1e5f3611066e69938b16c2d6004b2e783d472934bc19c063059ca9e895c9a88526f95abcd2e886a089d35985f34e47c370f34876Gimp1q0YTWyR517FBqa6Njp9S7HavXkrK1z7QSBVvUo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/41798/pas_foto/1683648565_92c989d0-d2a0-4e03-8b69-e6a775cb2ac4.jpeg",
+    "nama": "FACHRORROZI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "eb47b734b081e3176e4b4e3015dcfc51e0a4c783c330589a91750032f293794ec4a7f84ca84eac335ae745934d144ebd151801f9e790734900b476c9a77b5512iv002XWbVa4tbKV0ceY8BPqXl3nyv7ectkIzak9qHNo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/105868/pas_foto/1683739287_463a8b9c-9f2b-4a26-a398-8ebd99b471d0.jpeg",
+    "nama": "HEFZI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "49d5adc19aa46c1c8553cd71a42658c0c1ac7ada69ea40d7aee2b9b05860f1584a06a0a4c9fe0012395024d47223eaa53172c32fe91e4870121842cf41bfedb0sSW7T6NvvXnHX4Mv+pz/Zgy9zPA6UmrtXSKbUjqPypQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/16939/pas_foto/1683080946_74efe6e5-4a13-4b9d-adb8-6fa56342b346.jpeg",
+    "nama": "YUANITA WIDIASTUTI, S.E.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "dda592b06794a8e246917ad98860660b9ea219f4f5bd6da575cf42526e5affb9248691ce8dcce154dd4c489ec9116192e73f87e77a97f2595d8ddc6db54b421ev2oNUGL+st5DwMqtNp7B9Fdv1+yijqTu48a9U0xX/0E=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "pilihan_publikasi": "datadiri",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 11,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/16926/pas_foto/1683017483_2e9dd21e-f1f5-4430-b389-fc28bd556365.jpeg",
+    "nama": "M WIRANTO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "cdee4b84bdcab07f060e68297e397a25499139b5eb69c30890125aa6011d4b58334056b2aa8923c42912a078a32d017be9ec23a2b57ab0a38261d780baf10d5c7R6tgFO1zPo/b8iYBn9dquezLLXGoCB8pHR8hZCPaKE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "pilihan_publikasi": "datadiri",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 11,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/16991/pas_foto/1683080605_400739bb-0add-4cd8-80b4-7cbb4c770ace.jpeg",
+    "nama": "SUDIRMAN, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "6ed046f140c33fcc8b64ac2dd913f20a54979b9e1619bacb7e939ef8afc3c37b4d09b5df3eb1d083661f3870cb0348d742126695e0f1ce6d987905e820911805e5Xn6zmYHPSfgYKAPUX1iAS9msENKwYSb1VTmA/WAQs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "pilihan_publikasi": "datadiri",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 11,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/17054/pas_foto/1683096848_ae4c908e-8d19-49b5-87d8-beb767401e05.jpeg",
+    "nama": "NATASYA PRISKA AMANDA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "77b06f1cbf245ed5e7afc5f4c559beecb0a25797d9b3d1c5b3fd81f974dbee3ea1077d0c994f50ebc1e870aa30b993a15d342aeb76cbb55ca2489eec69e3b326Owk/caWumIOrJkvStlfWfrGFGSUD1BtXF1qiWrvfhyU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "pilihan_publikasi": "datadiri",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 11,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/17008/pas_foto/1683017691_8e89c33a-a3c4-4e7c-a83e-8a7d0d1fb70a.jpeg",
+    "nama": "SUDIRMAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "386d0009b92aab054d87cc05845b07ab3459a8411d554684e80220e66f28a2a36e41801b0624a8af29cf96ce6732dcbf3685f45eee372f5f6c6a72289197d761xpOJg/FTlBJDqd7ylxD52wgu3gAKvA0OZFY8jcFuBII=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "pilihan_publikasi": "datadiri",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 11,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/451131/pas_foto/1688791512_9f9a0e40-bb44-44d0-9fdb-ec23b812b7c2.jpeg",
+    "nama": "RIDWAN. YS",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BATANGHARI",
+    "profile": {
+      "id_calon_dpr": "608e00de35defafc3c98968d007229570c852204ad499a0f123c2b65082b8a01909051ae2fb4303f11dc4a1fe234bcb803d873d61eeb027c600f4d7704743394VEIYVy5ucZB3bTdR0oQGiVfUBZsOHEP7KoRPv2FvS0Y=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "pilihan_publikasi": "datadiri",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 11,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/17032/pas_foto/1687943461_74487a8e-8b9a-44fd-9eac-8d49d563d0e4.jpeg",
+    "nama": "NURHAYATI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "5287de18d7f1b568a86addcf182a23b2064bf9d93babefad321e407d27da28f09f66311e19f40e54632cac2ce4a73e337c3fb913e58915c63dda04fd2987167053EvcmuN9NPCT9R8v5sDbmtL/YQ8knScbBypCtPhOPs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "pilihan_publikasi": "datadiri",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 11,
+    "kode_dapil": "150501"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/209979/pas_foto/1696247827_eef24516-293e-4e73-819d-ac6b44cec23e.jpeg",
+    "nama": "RINA SETYADI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MUARO JAMBI",
+    "profile": {
+      "id_calon_dpr": "3cf432cb57acc009e00a5f710a0841739ceacf436b5170b6eb85147c6ac574ff76da7ea95240b4d343dfadc42ce8cdc8ce6306d92af52b36a532f61f95a62b9fWcsuSPVrXua5gY0RVVMgkswssTnvt2ihanKqMX+RzEI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "pilihan_publikasi": "datadiri",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 11,
+    "kode_dapil": "150501"
+  }
+]

@@ -1,0 +1,935 @@
+[
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/428818/pas_foto/1688445251_cf90c0e5-1551-475f-8e06-415f2acb14b9.jpeg",
+    "nama": "SANIYAH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TULANG BAWANG BARAT",
+    "profile": {
+      "id_calon_dpr": "11c47fd905976268d1c8440cded6cb1b3cf5fa0ec13402f945034822ee11cabd755c1028c17c6b3bef49e9516b7e839081cfffdcdbcaa29e2b511041829fb389zx3Dyefac6RQwFqY9qpRQqKWY/ubQkySVmN2dZrvs2c=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "181204"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/124200/pas_foto/1688786198_7ca58705-cea0-42e1-98f7-37a78fdceced.jpeg",
+    "nama": "JANJI SAPUTRO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TULANG BAWANG BARAT",
+    "profile": {
+      "id_calon_dpr": "bbe16aa7657b7781e11d091f564d2a4e796243dc0dd1789268fba4b8085f5d5b19336060864d1dece6af45b7463d3a7f619a6772258c049c1947631e4f52232cQ0H/walBWzlVmtVFMGhuUSKTNIySnPi+StEh81X1/7s=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "181204"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/124201/pas_foto/1688784962_67df0100-0e7d-43bf-b8e6-2c05235243dd.jpeg",
+    "nama": "MUHAMMAD BENY IRAWAN,S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TULANG BAWANG BARAT",
+    "profile": {
+      "id_calon_dpr": "269714ad750ee71c080207c2f41c6a3666f0ee28bf0f560bb1b4ad0e8738cb998067182a7ffd7d4f76f52d0be0d3293102eee858fd72bd7677dc739f6c90b941BD/zaX3nTUCgM8RL4N88efW75wCsX1+qSvRMYAW9/bM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "181204"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/294219/pas_foto/1688490772_671ac3df-58a0-4a3b-ad4b-c2e40da28b3d.jpeg",
+    "nama": "AGUS SALIM",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TULANG BAWANG BARAT",
+    "profile": {
+      "id_calon_dpr": "fb84abca01566583b814a193778a18c31340a30f14a46bb433a523a326cb1f47590232db56d2c2f96f4df33320f467f25f38f97c098a4084e1d5bbb94bfce90c8N7c5+CKvdIS1h1GTiGq6/r9lQrlqaYwdGnkYA+FjqQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "181204"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/293960/pas_foto/1688489880_9f078bd4-9913-4ed2-9e42-31bea8ed8dbd.jpeg",
+    "nama": "TRI NUR HIDAYAH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TULANG BAWANG BARAT",
+    "profile": {
+      "id_calon_dpr": "ad6d64ff869332a6a1149a77b01116bd0eaecb01ccfa3c7c897350cc3cf4db53b7c4af05537077fa4548fbe564529b3b96277dc65f53a81f1ee3f268fe191171kO3DaDwCo2It/6gsY5yQJphbayOyWOTAAhdL9Ova8Kw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "181204"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/429945/pas_foto/1688479538_0f40a5d6-4677-4f32-b7e3-62e8de31445a.jpeg",
+    "nama": "FILDA SEVIANA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TULANG BAWANG BARAT",
+    "profile": {
+      "id_calon_dpr": "3b547ad8b8614636cc7fbcee42e31daad049d02d0d0be44323c91e91f78518f3d4ef5020e99a355a1ff00528b935d2801bf39185f162c87ba111eedf2784ec9dBqfHQ+2dQyuiuTw/iJOnzCyAUJZf+TL6DC+YtGSFyrQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "181204"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/487682/pas_foto/1696318707_b72c0df2-59a7-441c-b350-9bbcab5665e5.jpeg",
+    "nama": "WASKITO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LAMPUNG UTARA",
+    "profile": {
+      "id_calon_dpr": "0834e0d0d548b2cd1951866aaab8845870c38543f422a931eb43173c409f8e8b788d3734a6fd6a9d4da3d2854952134dd9512c1a486f269abd567334e10e7bdaMKJa7EvyuP0YS//a9cL45C//L9eyHSJ/NOTRah0WhLc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "181204"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/36959/pas_foto/1683110010_01f89771-53c9-4732-90b9-601bdabd8dd5.jpeg",
+    "nama": "ARYA SAPUTRA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TULANG BAWANG BARAT",
+    "profile": {
+      "id_calon_dpr": "e9623e634daa8b9e0777d7f2a87235bd47d74e052c598884617c69821b3a8f1997baa5b9dc78b07cddb35201ecaa47eefca0bb0fe50dd73ec62e3c6af698bebf15PQSa6GAD/eBnJ2tdGWaf3H6K0LoOcwGrkmosXUViQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "181204"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/39425/pas_foto/1683516458_e78fcff1-3786-4fd6-a863-79069ebeb088.jpeg",
+    "nama": "HARRY ROY ERIKSON TAMPUBOLON",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TULANG BAWANG BARAT",
+    "profile": {
+      "id_calon_dpr": "0d5a123a1c0b5ddae7a3065e0803969fff0dd62aa119ef11e3cbf006baf093b995f10e1cb8a0b6349a4adeefef085485aa4898abe51e799d21a4ca4eb31db3ffqoqfEEfpUbzl8gxlvqggdHVjd60q8d3qlgvAiqq2S8Q=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "181204"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/39481/pas_foto/1683362932_f3a28209-0e2a-4923-b292-49fc17fa0f88.jpeg",
+    "nama": "SUPRIHATIN",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TULANG BAWANG BARAT",
+    "profile": {
+      "id_calon_dpr": "3dea43832b643c2f2c3e3b2a78d4b82d303827a0df5bd57435dcdf6830320d093ad91eaf960d1731fb941b04700a0599013fdbbb888465db27645c39cbf7d7bfWpnAlM+xOxCKShrY8zj/Id9MvxQE/vrU4krxx7ljyC0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "181204"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/37073/pas_foto/1683110393_4c44106b-4191-492e-ab3c-bcef2ee7c3dd.jpeg",
+    "nama": "AGUNG NURDIANSYAH",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TULANG BAWANG BARAT",
+    "profile": {
+      "id_calon_dpr": "dac70c85e3e2bbe43514a004f48d4a744ddb9eb3ee13207f4cb53cf97406bb5a4ec6c618ec042ab2a8621dc3f8152faf4764c13f8f822f63928ec04d05bfcd8fCMiBHN+cjH0gzLVF0KWWBrbVFL384csQKTUa0GS7H6g=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "181204"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/39460/pas_foto/1683535304_4b0ecb10-18b4-4f8f-a3b7-5a5eaceb395c.jpeg",
+    "nama": "ALI LUKMAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TULANG BAWANG BARAT",
+    "profile": {
+      "id_calon_dpr": "1c86fdeabbe095dae6147a3079948ac331744f170da3a128936cac22c063d12c7cf52df0dcc78688f21ddad28d0886c6f0f61fa2d1a425df5e2bd027427bd22aJExgiqNNZQiF7zUZLS5NwMRhAsrNuwEw/eiO5bTAwNU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "181204"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/39474/pas_foto/1683362981_61f3ceed-415c-4a78-8d92-1aa77218a4fd.jpeg",
+    "nama": "EKA WIDYA NINGSIH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TULANG BAWANG BARAT",
+    "profile": {
+      "id_calon_dpr": "426eda2aae3ce4841844360b4006dd7a33842fcf22693a664e004e47bf8323d07d5f805270e6afa427570e85a1fe4ea62918d614f30d7105e1501599d2fd0601/YUyYPX74+M1HWOn4wNwI9g9f9qptZ5/o34WTWQXncU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "181204"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/39445/pas_foto/1683380543_a141d347-911d-4b9d-b887-3c0453c54ef9.jpeg",
+    "nama": "JAMIN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TULANG BAWANG BARAT",
+    "profile": {
+      "id_calon_dpr": "d10616c2e9241c1d2c27e93094baf37ff0c65026d2d346efdc5aa09c2236aed826711ccb34e11b0b2f7881d77e63a8db6d30436f5b9ba28963979f2538cf062ed2U/qDkTqDVmOEEHQcBVfcY28ZLLBxc5dl9aCIeRlCE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "181204"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/297033/pas_foto/1683824361_e8fe81ed-6a3a-4e3f-8e09-80ac99e84bfa.jpeg",
+    "nama": "SUDARMI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TULANG BAWANG BARAT",
+    "profile": {
+      "id_calon_dpr": "758ae277c14ba970b9cd513a1e67cd7e720c9aedf027565a6edc8bf955436988fb434afa0012dfe3d56963f4997dd5f49be1c2deb34575f19424b8c6ab7e20c8gZj0bDjXSjKcKP2ux4dfk8HyGc066DNLsvjL4Vdh41o=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "181204"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/297616/pas_foto/1683824498_b46f6331-dfb5-4f76-ac5a-88fd06629c04.jpeg",
+    "nama": "RUBIONO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TULANG BAWANG BARAT",
+    "profile": {
+      "id_calon_dpr": "fe858c8938aeb9244c90ffd1aba98946100b6ec8805818e2fb5bce489d764bc8dd1c4a5df53d7946152653fe74a7c4e6c108cf0aee7eb8f9ce2cada4438b6670rNudZConxIlNf6WxNAcwSbEPiMnHD/CFsxO5LTmBRnk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "181204"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/298398/pas_foto/1683825997_33397049-e00e-4682-ac65-dcfb8c353b2b.jpeg",
+    "nama": "SOFYAN RADES",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TULANG BAWANG BARAT",
+    "profile": {
+      "id_calon_dpr": "24aed8386ad34615797f6685c951bf851bcf10a7f3d433725689d0bd8ad179198377381a9a183e8fbc71bc8e7c0d11d8b4a23b45f6e1c18b2229726b1a774623GPuK3hUy8yAN+0jgstacALeuGVKwHSJdpqh6KtOrnkM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "181204"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/298599/pas_foto/1683827475_cba389d6-af80-4f36-93fa-c8cffbdfc3e4.jpeg",
+    "nama": "WINDI NARULITA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TULANG BAWANG BARAT",
+    "profile": {
+      "id_calon_dpr": "d60a67d8fb7fd10a67d463d4c21728de8ed197737759fead524ba8ff62e8386f2f2096c3c6d39d6a4356737dd2a6d4a0500159272b0aac88e3f8c3c6b47f7c35n7Q0XeAWB7RPW6nBlo5nK/ZGmsNeqhsU1j0xTGTFPNk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "181204"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/300095/pas_foto/1683828975_1f776026-5632-4a2e-991b-cf9dd58a22bf.jpeg",
+    "nama": "ROY PRANOTO ADI, S.Kom.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TULANG BAWANG BARAT",
+    "profile": {
+      "id_calon_dpr": "5e80f00618f04d86d6db00160b07b3f9cb633acfee57c75dd8eb5ea8f5810e65e0d8129264c63701d30013735d0643ffdeb54806cb99de93737cd6d10eaa621cb0XlxOia+UWrnl+I7gFMmDmEWkiKADd/mGiW+FoDvNM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "181204"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/299660/pas_foto/1683828186_37dd8fa8-ee93-4b3f-b219-6194ec246661.jpeg",
+    "nama": "ADI SUNGKOWO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TULANG BAWANG",
+    "profile": {
+      "id_calon_dpr": "6665ee4530c600864fad96ffde9b2877d204b3a18b297dfdb749fac0505e30a6e9e2ebe673f5d874ab511282cbc464b4007209ac3062bf36c06a81d8fea73851neSlALg/45YyvzDwQJmGUjkUG+IBUjwt85AVfrISs1c=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "181204"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/298696/pas_foto/1683826710_e3d81025-55ea-4f71-a386-ad149483028b.jpeg",
+    "nama": "HENI BUDIANTI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TULANG BAWANG BARAT",
+    "profile": {
+      "id_calon_dpr": "9bee91de7216008eb2fb7d5afbe2ec123c2e268172427cbf32dd607c26591da3e7ccbf6e0764c8b248a64db49e1a5bccb7463de6df3f46152548e65fee467498pe9UPJC7jUffqB5hGlSnn2VJ0zjAZdMDBQbNUb8CDBo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "181204"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/331128/pas_foto/1688812834_1f6745f5-fc64-401a-9f34-78315917afa9.jpeg",
+    "nama": "AKHMAD RIO TEGUH, S.Sos.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA BANDAR LAMPUNG",
+    "profile": {},
+    "id_partai": 9,
+    "kode_dapil": "181204"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/211851/pas_foto/1688812945_06960df7-607f-4b5d-8bbd-e97d219cb302.jpeg",
+    "nama": "MISWANTO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TULANG BAWANG BARAT",
+    "profile": {},
+    "id_partai": 9,
+    "kode_dapil": "181204"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/447474/pas_foto/1688813068_29097d96-8d77-4894-bc14-a610b4491011.jpeg",
+    "nama": "NANDA ANJELA KOMALA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TULANG BAWANG BARAT",
+    "profile": {},
+    "id_partai": 9,
+    "kode_dapil": "181204"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/447498/pas_foto/1688812987_d06c52c6-eb6a-4330-b0e3-5e199eb4beb5.jpeg",
+    "nama": "ANITA SARI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TULANG BAWANG",
+    "profile": {},
+    "id_partai": 9,
+    "kode_dapil": "181204"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/447449/pas_foto/1688813178_35e20adf-d17d-4a2a-a392-48afd4108cbe.jpeg",
+    "nama": "HARYONO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TULANG BAWANG BARAT",
+    "profile": {},
+    "id_partai": 9,
+    "kode_dapil": "181204"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/447457/pas_foto/1688813138_f8ea16cc-e8db-42ba-9d53-efa981503d93.jpeg",
+    "nama": "DION DWI SUGONDO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TULANG BAWANG BARAT",
+    "profile": {},
+    "id_partai": 9,
+    "kode_dapil": "181204"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/318040/pas_foto/1688865284_2222e049-6154-4338-9c92-00322af19999.jpeg",
+    "nama": "JHONI PRATAMA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TULANG BAWANG BARAT",
+    "profile": {},
+    "id_partai": 9,
+    "kode_dapil": "181204"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/9926/pas_foto/1682917207_d158df50-71b9-44ed-b581-a54f1f0e56b2.jpeg",
+    "nama": "S. JOKO KUNCORO, S.I.Kom.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TULANG BAWANG BARAT",
+    "profile": {
+      "id_calon_dpr": "f55fcede30df4b2d0e7e9262480915717997d67c2c8eca0df6893ada883a2244b21bbfb340e6fad9e18a4a2176c98c9eec51e2fa75eda212de23dc58219e5642zBS9+/jbftjscuIudiqPrrC9mxYmgtwmK0Q3vk9yF/s=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "181204"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/464782/pas_foto/1689242000_3123978b-25f7-4372-8966-13dd64b6ae57.jpeg",
+    "nama": "NOVI LINDA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TULANG BAWANG BARAT",
+    "profile": {
+      "id_calon_dpr": "c76df3bb03a7c54a0e7b56cb2765183c8a1ed07dd1b6122cb5fc6286746b483158dab8f4db62e86820f4df351638f63b3f56c1ac80da9eff444d2c23988a22b57CdIihVAtKgk92dN80tx1z9VVjavDFzmVDo9+6R4jrk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "181204"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/9928/pas_foto/1682916927_16ced419-25c5-45fe-a4af-5f86e30882a0.jpeg",
+    "nama": "SUDIRMAN, S.Pd.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TULANG BAWANG BARAT",
+    "profile": {
+      "id_calon_dpr": "af271b7e2fb2261939334f9d3574afb91f54d8d16c368392be57fcdc14bab9adf3ecdc25da39370da9d4651c07d965682dbe45a1cfe3f0bc7ed1c4e81fe62b626P3nCiqqjL1LmTKHWWhxEdMhnw278a48a1kqZ9bc40Q=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "181204"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/9929/pas_foto/1682917868_df5b4780-ee3d-4de0-aa2b-a8c18f82fd1d.jpeg",
+    "nama": "SULARTO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TULANG BAWANG BARAT",
+    "profile": {
+      "id_calon_dpr": "87f326b6d9414ed75e674b990af51cbe89d358edd02a488620a5957f34d4aeb192ae39f55a4ab389e3512f79896cb9298bd05477e8cf467f8bcc619ee0614e02ihKlDabBkty7za1VLYRI8afCGrs9Q09WE6c85BWTxw8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "181204"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/9930/pas_foto/1682917329_2e19d30d-1a5e-4e68-9975-eb5cab2203ac.jpeg",
+    "nama": "MERI ANDINI PUTRI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TULANG BAWANG BARAT",
+    "profile": {
+      "id_calon_dpr": "c89ede1d4eca6f0bd62b75e3fec2e887d751d4496f06d72a2a45a79191738014db9bdcd8511088a460f049cdfdfb5304885300f860b50c7409ff106eccd1202cdk8+VoBz39K+gEKpCJHiwmlkouOX80CmKseG99lio9E=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "181204"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/9931/pas_foto/1682917402_83846681-13ee-4773-a2cf-7f114fed79b3.jpeg",
+    "nama": "MUHTAROM, S.Pd.I.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TULANG BAWANG BARAT",
+    "profile": {
+      "id_calon_dpr": "c6391acbfd882a1fa277091693f1c460d4d07fc7d715fcad397a44bd4ebb1685955a6f8d0c9b205cf77faeebcde04c14c7c665d75977cc1dff3591018ea37eb83+4MwtOoR3HEZLKytAVYNjMPrxAztYw0wXLvRCqce2M=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "181204"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/453627/pas_foto/1688808187_4d855889-576f-4e10-ae53-e3b929d6aecd.jpeg",
+    "nama": "FARID ANDRELIA PUTRI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TULANG BAWANG BARAT",
+    "profile": {
+      "id_calon_dpr": "d6111c4077dbef48f80576a75bef716f2596eaba86ccae1581d805320e913dccf493414a6b361df6a0cf91f42e6f450b9d5c65ed1eae93a06206fa1740049219bBgQ1bfcznBjygzk44U3J+mHs6XS8XN3PA9hdDuw500=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "181204"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/384163/pas_foto/1688580886_723c9c3f-7320-46d9-bb48-2999bc55c8aa.jpeg",
+    "nama": "EKO PRIHANTO, S. E",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TULANG BAWANG BARAT",
+    "profile": {
+      "id_calon_dpr": "0ad745fafb77ae6b48c4e31ae663eca7c74699960f27a94bba2c5d41ae9c0d2b3e3c30ebf5d9d383e779e7d9a3e6a67c34d35bb7a127f545e9023558dcf3edd6H89qRqpJgCZBjEz6spwSKlk8/flIKvZ9aKGaZ6AXA60=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659959325_LOGO%20RESMI%20PB.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 41,
+    "kode_dapil": "181204"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/384164/pas_foto/1688582388_0fe19516-5b87-42ca-9e15-4c7d24508370.jpeg",
+    "nama": "ANDRI FEBRI PRASETYA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TULANG BAWANG BARAT",
+    "profile": {
+      "id_calon_dpr": "33343a40e6dfcc2249e7f063a4c476ec12ece36dd072a2ea2fb23cb6371fb657806dd03661245479a93ed22875dfb5d8d42bf7b5c271f05a0fcdd5bfad4529c0OLswS3vs2UeVk/Me5hfbcSfLCGsRgMIW6ro7sWF8XMg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659959325_LOGO%20RESMI%20PB.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 41,
+    "kode_dapil": "181204"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/384165/pas_foto/1688581722_11aecff7-7fbe-4908-bddf-cf0fc812bf37.jpeg",
+    "nama": "IRA PUSPITA SARI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TULANG BAWANG BARAT",
+    "profile": {
+      "id_calon_dpr": "010df620af11d6ca19b9e550708775d9c1082def35692a4951c5cf2a018fe09324a22a76702846c4020270cc28f99ba1681671f7b2994fedd9c03d26b97aefceFw0keUHrntVuIUWdP6Sc95HgeXLzPV44TcfvIrwmMgA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659959325_LOGO%20RESMI%20PB.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 41,
+    "kode_dapil": "181204"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/73209/pas_foto/1683306439_b4937ebd-102d-4d2a-ae1f-ad54efd97cb2.jpeg",
+    "nama": "DHIA UL HAQ AL A' ZAMIE, S.E., M.M.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA ADM. JAKARTA SELATAN",
+    "profile": {
+      "id_calon_dpr": "2aa4d1e61b775a72df58064ba11e15c83829b6749d781a959cf48d4f53ca2dc1302299e0bfa5669c2692bb9827d3ca21b2df31e18de1b66976b0e0f4f9861796sREpSxvlLzS++mHA5kOBhIGhhrgduCJYoUnEM90cBtY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "181204"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/140242/pas_foto/1683486809_de5b4d54-1397-4db6-8e0d-ff2b3a5675ec.jpeg",
+    "nama": "ENDANG SUSANTI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TULANG BAWANG BARAT",
+    "profile": {
+      "id_calon_dpr": "cd6570bc94c2676c09cb77e90be1c8b11ca4fcd5094ddfe748d9cee4b326b219cb8fe61577106879adcefb2b1023c9253eda469ed1974c376a112065a1a415b4MEqpMzEtJeglSSqE+lZfkzuaeUkxXLksmY8bJJCYU0k=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "181204"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/457008/pas_foto/1688879434_5b83787d-e688-4c68-bf84-c022ac46722b.jpeg",
+    "nama": "INDAH RAHMAWATI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TULANG BAWANG BARAT",
+    "profile": {
+      "id_calon_dpr": "6fa1452a58ab2b7a009a8294ff73b7b01c4961e6a0b488ea22671f663cd58b56202368bfc8f670dbbba2bd5069447cf9da1636a53615f66b8f6320b981a0a490LxKNbtfPE1wXlXCTtZiDuCvJPG6nsa0BYadTcSVLfbI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "181204"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/169430/pas_foto/1683588582_79df9e2f-987f-4ddf-9044-aba35865e135.jpeg",
+    "nama": "YEYEN ANGGITA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TULANG BAWANG BARAT",
+    "profile": {
+      "id_calon_dpr": "2a8d5e233acf72f6b54cda87f7078ef9b4d9d4c888671f18501a485ecb81ded2c9078d7da308425ef97ccff378bc614957983e190e67a86813a34242f1c228cedjYE6EiMpsld09g9MGdG9lp18VeaCRvMbcbIMKjVfC8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "181204"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/111165/pas_foto/1683422379_27ff8c34-1c22-42a5-a203-b8c1beed2bca.jpeg",
+    "nama": "RISKO MUSTAQIM",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TULANG BAWANG",
+    "profile": {
+      "id_calon_dpr": "f8d0bb24de2741840a453a4571aa9902ac21e8c083f146e91fef28b737961b6493b11c06dea0ba0e1f4785dddd09013d88a28e7d5a1ac7e2ded3bb49188ee858IypYH+++04aNOK61hqE13yEwXWzeyXeJ1psZwPPYGHc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "181204"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/186558/pas_foto/1683970420_fadbbda2-33e6-4a2b-a9e6-99ee57b7bd62.jpeg",
+    "nama": "RONI, S.I.P.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TULANG BAWANG BARAT",
+    "profile": {
+      "id_calon_dpr": "2d73eb41b4f0141edfcb314ebdcfb6666b247014d42b04f8dbaec66853b272d78be3b4879962b8314d0ebb15b167141e0519fdb71be197e07c0822772898f2beY/qkrkRPTdvqFLpXzmZ6EMDi1ZlkEtEuWZryCLEPafc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 5,
+    "kode_dapil": "181204"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/191014/pas_foto/1683640242_6c155458-51fa-4cf2-80ed-61680c21a372.jpeg",
+    "nama": "FITRI RAHMAWATI, S.Tr.Keb.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TULANG BAWANG BARAT",
+    "profile": {
+      "id_calon_dpr": "119601a0046a40945ac1ba9b11f11e6a47cf7dc073ae2cf80a0372451a5991e968ceb86191453dd28f15db4cec83eb06e185b99b1f805f4b91f79fac0f782c0dnvIaIUcdC7eXy+pw5MfEZ9gksMUjtkv6Y5qSZsjAp18=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 5,
+    "kode_dapil": "181204"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/209628/pas_foto/1683896054_b44d79d9-bc12-4c71-8701-d807f2718f4d.jpeg",
+    "nama": "RAHMAD N",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TULANG BAWANG BARAT",
+    "profile": {
+      "id_calon_dpr": "92cd7d7b527d76e424109be6f5195b45d024108d8b241ef29ee51c150c38062a6520f66add3635257d278e5d3118a6136e1b88433ca564112f0892cf7ddb6b69sxz/8tvx80w3AT1coONoZVljj9gZ8bCxesBZTERGOMU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 5,
+    "kode_dapil": "181204"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/192166/pas_foto/1683727841_ed71712b-7fcf-4042-ae66-17b6b6a2baa8.jpeg",
+    "nama": "BETA LESTARI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TULANG BAWANG BARAT",
+    "profile": {
+      "id_calon_dpr": "1b10b1a037ebcaea3693beaedcf9e3d91af6005c38c2771df3c3c32a3800127ce94cc986da7a522ea688460e22fdb7fe3b3bda9329cfd3cecae6610f0a1420adfqlAIClREnJjNQ9+ZI2BbThYcDfrI2ODpFBczDDpwy4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 5,
+    "kode_dapil": "181204"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/352811/pas_foto/1683950903_0816e12b-a1f4-4430-9248-c5d74946e09c.jpeg",
+    "nama": "CACUK JASI PURNAMA SARI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TULANG BAWANG BARAT",
+    "profile": {},
+    "id_partai": 5,
+    "kode_dapil": "181204"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/192897/pas_foto/1683643300_f32cbc48-4ba1-4f74-81ac-f4b98f44d8fe.jpeg",
+    "nama": "PUTRI REZEKI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TULANG BAWANG BARAT",
+    "profile": {
+      "id_calon_dpr": "22c69800cdd06e4f91de98ee906b8acf33869f71b220a3a6d331104f69474e90e1bda5443c9b259983dcb824c499324a13d64e5abe0561c1183cb5b698c2388ce+7xQGrqvdF2YCETfz+yTa0+nhsqoQj+/WfoC3O6cGo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 5,
+    "kode_dapil": "181204"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/171525/pas_foto/1683601114_eb66a46f-70fb-4434-ad72-38fe78e4ab26.jpeg",
+    "nama": "RUSLI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TULANG BAWANG BARAT",
+    "profile": {
+      "id_calon_dpr": "420fba29a5a44e241e535a8a80b448f6ecbd6790af7a31e58715a5e53ba7924f6ce6060917a0a8669bb220213cdc0a0350bb5f8e72900904bd9292b62b3a9935vcefzqT1m7SwSK2OOs7W6k9mx6m4/AHXmMbfDNPuJ20=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "181204"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/172721/pas_foto/1683604545_68280ab8-c3ee-44bc-83e3-cd659d60e8e6.jpeg",
+    "nama": "SARNO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TULANG BAWANG BARAT",
+    "profile": {
+      "id_calon_dpr": "722ca67467941ae843d0efc24a1997ed3596d76d61002fdccbca73fff6ef7b5553577ef7156679f0f203cd214634547c52f20f41c4ebd26714996e686ba65416/Fu9CcZ72ANSRrkuKjAT6w3ZYhhAcobvtoYywkstd9Y=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "181204"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/442908/pas_foto/1688708796_2b3decec-a0ac-4b95-b52b-32ebf2bccaf5.jpeg",
+    "nama": "WIDIANA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TULANG BAWANG BARAT",
+    "profile": {
+      "id_calon_dpr": "72ec481e3d01589da5069f8dfe7ecf1d186ceb05070fb83f0279f717eb3fcfea25ac3bd44742d2471a4bc07fceb8ec4930f03ae0925e0acab6f8cfe9ba9d9b7c0iTQuPbOeHgcevjWqEF4ocJJWPeIIbhcqH1qyvTOdsI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "181204"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/442564/pas_foto/1688699869_cdd0d4c9-3647-43e8-a542-743cdbb98cf2.jpeg",
+    "nama": "AHMAD RIFA'I",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TULANG BAWANG BARAT",
+    "profile": {
+      "id_calon_dpr": "7d5e4c4505b499e72459ee8cc06034aa22f36edc424af47ca02e8aba776ff0e827498452db6209c6d2e55e28365e600cd00d5d52740f68746428d9813ab06ef8ecToh9XRa/w94l/3rT67VGV3+3gm/HrPMIhH8A9Py+A=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "181204"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/443546/pas_foto/1688709953_c07d222c-cfd6-4d0d-9f7f-1dbf22f01624.jpeg",
+    "nama": "ENI NUR INDAH SARI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TULANG BAWANG BARAT",
+    "profile": {
+      "id_calon_dpr": "25a6b8b61f90931ef5da33cc938be6c30ab3c6ea6f643960a2a87e00db41a0d6d0159b9629e5402f24e24344be653833707760ece57f50fab67bbf68dfc9bfbemCRiqhgrH7N41Sz/RngkShJChgBLL1RXf3gqFqgHIpI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "181204"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/186097/pas_foto/1688708754_8a6ea6db-993a-4fae-921d-ac4609d67d00.jpeg",
+    "nama": "REZA UTAMI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TULANG BAWANG BARAT",
+    "profile": {
+      "id_calon_dpr": "ff3badecd2e2410a8a42a81575c6a807497276b96baca53903983869bf8172e26bcb93b4c4ccdfd7b647c31de8936d4530c68531952afe4eb7980a68ad04b9adM5+kAh27m7NNDTZl8lb10Br021AtYZGbXLcYAziHTVU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "181204"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/443756/pas_foto/1688712150_e9eafc9e-b8e0-4d66-825f-a2f2edf9efce.jpeg",
+    "nama": "SUHARYONO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TULANG BAWANG BARAT",
+    "profile": {
+      "id_calon_dpr": "2a2e82fc007a0ffb21cf05721c858ec55434b89f9fb934679be27a2901d89af9ec28ebf95678200017a4a9f6d72d7fd14b060fea066fdaf0072276bab2408c20czxiqUTslfanf0jUF3G8UcRqoV7u29O3Uax4jP+AkrU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "181204"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/96729/pas_foto/1812060610770002.jpg",
+    "nama": "DIDIK SUBANDRIO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TULANG BAWANG BARAT",
+    "profile": {
+      "id_calon_dpr": "9c5c9c52962a9872e2fb3ab6a2e21ade5c05fd09fced04e0d41bb1e4dd5b9684a5ca0632f6ea1476b22490d29bf6dd799d0640996fbcbbe5a99ab7934c52bf49+SsaQxQF/w/59JMc4Rc9rNcaQngPo1xlOCcte6yqyuQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "181204"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/96729/pas_foto/1871120709850003.jpg",
+    "nama": "AGUNG PROBO SUTEJO, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA BANDAR LAMPUNG",
+    "profile": {
+      "id_calon_dpr": "9b6c8ac3e4857b1fde47591aa6bd2a72a585e2ad90285662f2a2fa11829af960a4067691bc1794636144e68b99202584035d70c2c0835f20b681086b44c0e6d1Cd1LC+ISUm+oqeFuafaDU0FKdFpej+Q05z8Xx/vHoLc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "181204"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/96729/pas_foto/1805084804650001.jpg",
+    "nama": "ROHMINI, S.Pd.,M.M.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TULANG BAWANG",
+    "profile": {
+      "id_calon_dpr": "40db331e8f4bfd7a39bfd6420b5fd677ec573e605a6a55b6bf0c37ea93fa3d739ac1086715e233b87fb2fcbbde703919a9a96806b48bebb73d0e9a25e809b920NDXqr/F9m0B8XtXIVYnVp7AXjePY2IDcDvImBpqPf1o=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "181204"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/108145/pas_foto/1812050303880001.jpg",
+    "nama": "DIDIK PURWADI, S.T.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TULANG BAWANG BARAT",
+    "profile": {
+      "id_calon_dpr": "dead8a48bbe301e860b47d14bcf8ec9b0eb2f8dd809a84ffd08cbb26a3362aeab08e02fecfeb76bd3b0b3ef64164b72a55852afa13a94e0453a60e735aebdef81hbbRuCzk28d5Zm3TKuqC6krl+FjMC7lTuoIOzc4H6w=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "181204"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/96729/pas_foto/1812055507770002.jpg",
+    "nama": "ASTUTI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TULANG BAWANG BARAT",
+    "profile": {
+      "id_calon_dpr": "ff9f8b349b3df2838af7faf236df714cbd6f10817f0714b920b2cad6c0f477089fdc1a5641e65bdb18c0d00173633caba67d2005739ba73bd76edcde79d902b0zMVteBAamqsGO3Z5xsAGl+SCY3rrHL5zYdMooI3mq/Y=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "181204"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/96729/pas_foto/1812066907880001.jpg",
+    "nama": "RIKA ANGGRAINI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TULANG BAWANG BARAT",
+    "profile": {
+      "id_calon_dpr": "d4ea397d0ee3cc70cd66ac69d0357ca99e5af0891b113ab5a2d88a25bc96cd6787df9900ad00bc7c78b6f045791620f0382711bff9aba0815bb79bad7681b3b2nmRqxs4YlgfQ8bJWfxQ4EeI/HTZrb4AjiT/XTRU9hrA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "181204"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/96729/pas_foto/1812056107810001.jpg",
+    "nama": "EKA SULISTIYOWATI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TULANG BAWANG BARAT",
+    "profile": {
+      "id_calon_dpr": "57262061c32ce96a614c0737620f8230fda927eff36720783c2168bb5dcb6a59b4dc58acb304e62cc9ad89a1c343df89d2f5964df8f794029fe29cc07b9a6c00PndiQNEJqCRU9qymd59hzo8KFow+40Vuovquqr4Tzp0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "181204"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/142886/pas_foto/1683514700_f556a0c1-698c-466c-ac2f-88d306fcd73b.jpeg",
+    "nama": "SANUDI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TULANG BAWANG BARAT",
+    "profile": {},
+    "id_partai": 18,
+    "kode_dapil": "181204"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/144357/pas_foto/1683524088_fef3a6b7-094c-416d-bd06-d01dbf0ddef1.jpeg",
+    "nama": "IWAN SYAHRONI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TULANG BAWANG BARAT",
+    "profile": {},
+    "id_partai": 18,
+    "kode_dapil": "181204"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/144231/pas_foto/1683521938_d7bbc4d2-421c-4d41-b930-ae2380a828ea.jpeg",
+    "nama": "DESTIANA RINTHA ISTANTI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TULANG BAWANG BARAT",
+    "profile": {},
+    "id_partai": 18,
+    "kode_dapil": "181204"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/143026/pas_foto/1683706156_c10b306d-6e30-4dec-8714-1a33696f411f.jpeg",
+    "nama": "SUNARYO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TULANG BAWANG BARAT",
+    "profile": {},
+    "id_partai": 18,
+    "kode_dapil": "181204"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/144502/pas_foto/1683524219_17266bfd-1176-48aa-a638-a928583f0c6a.jpeg",
+    "nama": "ATI SOLIHATI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TULANG BAWANG BARAT",
+    "profile": {},
+    "id_partai": 18,
+    "kode_dapil": "181204"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/424628/pas_foto/1688047237_dc8acfe5-93ca-43ac-9f3f-04e2ca7cd450.jpeg",
+    "nama": "UMI KHASANAH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TULANG BAWANG BARAT",
+    "profile": {},
+    "id_partai": 18,
+    "kode_dapil": "181204"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/278121/pas_foto/1683799786_cb6998be-2346-4bbd-9a5d-4c3dcb4521d1.jpeg",
+    "nama": "FETI IDA ROHANA, S.Pd.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "LAMPUNG TENGAH",
+    "profile": {},
+    "id_partai": 78,
+    "kode_dapil": "181204"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/284855/pas_foto/1688182511_4778d3c4-8749-4d5d-b213-c86339b881d5.jpeg",
+    "nama": "AMAD SAMBUDI, M.Pd.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TULANG BAWANG BARAT",
+    "profile": {},
+    "id_partai": 78,
+    "kode_dapil": "181204"
+  }
+]

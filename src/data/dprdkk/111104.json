@@ -1,0 +1,985 @@
+[
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/89621/pas_foto/1111110101840004.png",
+    "nama": "BUZARI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BIREUEN",
+    "profile": {
+      "id_calon_dpr": "c7e9e60fe136658b5be705b08628b7f337fa383c92a62029db495539341bb7d1d45b636651a66ce1e55838febcf675124ef9a398ab45b65ae4f07a8e4494277anZ6e2GGauiWnUi3M6wL7H5D0+z9fhfbrJ5V69R89CpE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "111104"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/89621/pas_foto/1111011608880001.png",
+    "nama": "ISMAIL",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BIREUEN",
+    "profile": {
+      "id_calon_dpr": "2700d68d6423c2cb28ecae8ba28434c3e0cff235a914d027d7cd3c407335923d659d3bb61ca733e23d3cb4f1a7433b750ef9b0c1ffa9b8be22e4f429862bc65a/IdlN/dkR+F4GcW3uaWcyvJxa+0VGed81YGWX6poy48=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "111104"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/89621/pas_foto/1111086711910001.png",
+    "nama": "RAHAYU, S.E.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "BIREUEN",
+    "profile": {
+      "id_calon_dpr": "e99d278b5a774083331a6c0c7f3271787e8c61b942d68a160ee8d1383b6f4b2440a50bc64306d3421b47c8fc99c851930de319a9f25e4c7b707dd2957ca15151Xr0dP30PaN1Q4lixrToLK69r+rD2Nvk9qw7GfNGu044=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "111104"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/89621/pas_foto/1111111603810001.jpeg",
+    "nama": "RIZAL FAJRI, S.Pd.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BIREUEN",
+    "profile": {
+      "id_calon_dpr": "37d821927977bc22c288bc7914480c57153dfe5b0b8a690e94c7f50259012b2d3e77e628f6580e3439248a412eb9715fde029a3fd44a5137d2a15b0ac13b7a55myDKqspxEqVTMKR+mTBwOKhD6Khjy0HgMXflQl70RAM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "111104"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/89621/pas_foto/1111134910710001.jpeg",
+    "nama": "LILIS SURYANI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "BIREUEN",
+    "profile": {
+      "id_calon_dpr": "c552dd6f17e0c4069a1de663d89f6c7d57368bcbd4b4cb8631231f6140329082834f245014c35d48035c692fc51c0d38e7f3b168b6190b72e40bab8fd037eae8gLrTMUp11s8hgRX/YiUcRoP3rKV9zAvPhOzKgY5g+q4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "111104"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/89621/pas_foto/1111010604870003.png",
+    "nama": "NAILUL MUNA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BIREUEN",
+    "profile": {
+      "id_calon_dpr": "b7c52f0144d4ba27aa555d5bb49a24e703b768348b4ba14fbb240916d9dffbdaaabb36c049dc548643c1d7b96a45d1bd6cd9a5798016efef4c6287830b4f355060JUbbJ1HgJHRp8itaIzy5rj+QxlthXlKTGwIs+jX/A=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "111104"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/109123/pas_foto/1683623335_b4dedb4f-9848-442a-b787-9d267b01c2d6.jpeg",
+    "nama": "SYAHRURRIDHA ZULMAR",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BIREUEN",
+    "profile": {
+      "id_calon_dpr": "0f3e02847256acefca62b1787deebe3262dbf07b24552c721ff469bdec195ad165be077e3de242b18d93762d7fe4236ac768cf32b18ea6a012bc31e1502f7fafiDdFei2hwGkCnMhk6YXcd8uUBAlzrwyi48+31dijgto=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pendidikan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 10,
+    "kode_dapil": "111104"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/449599/pas_foto/1688764319_d0b93b20-f807-4bcd-9a4b-a47de84feb49.jpeg",
+    "nama": "NURUL HAYATI IDRIS",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "BIREUEN",
+    "profile": {
+      "id_calon_dpr": "c8082b16c628926b1fd5ba497911065bab0a9194a0f92f9cabe3914627f002420e05796beb8e93c50fac14ff47b56dbd155e74f71a4b2b913a2c56a615f03e70BjJjZkWFVFacZ5xXR1joXMnHNf1M2cvmhFKUJ0igaqM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 10,
+    "kode_dapil": "111104"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/473265/pas_foto/1691659402_7cd8144e-4f9d-4709-8f3a-50ae41b8bd2c.jpeg",
+    "nama": "ISNA MAULIDIA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "BIREUEN",
+    "profile": {
+      "id_calon_dpr": "b84df11785b75fcd0cf3cfc157e5f157772b1f2251fe6fc241d7871ba1fa86acc3138e6f452770fc2d33a6de8773c1abe31c1dfd8986a5bd09ff4b95dd5c4d47dqsykzZGw+CFRZnbYtUFHBe7me0PIE+Hev6dj1Pj/4M=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pendidikan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 10,
+    "kode_dapil": "111104"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/279023/pas_foto/1688584306_ca0726a7-1d6b-4f0f-900c-0daf2df39bf8.jpeg",
+    "nama": "Ir. ASKARI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BIREUEN",
+    "profile": {},
+    "id_partai": 12,
+    "kode_dapil": "111104"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/469150/pas_foto/1691529474_ae993c5b-8ee4-4135-b8cf-d8d650b2aa1b.jpeg",
+    "nama": "IKHSAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BIREUEN",
+    "profile": {},
+    "id_partai": 12,
+    "kode_dapil": "111104"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/469160/pas_foto/1691531020_5991dd91-6855-452d-931b-795ff2761f57.jpeg",
+    "nama": "MELIDAWATI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "BIREUEN",
+    "profile": {},
+    "id_partai": 12,
+    "kode_dapil": "111104"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/279022/pas_foto/1691532186_6f3fc93d-7db6-4742-af4c-719960adf11b.jpeg",
+    "nama": "T. ABDUL GANI USMAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BIREUEN",
+    "profile": {},
+    "id_partai": 12,
+    "kode_dapil": "111104"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/469166/pas_foto/1691533090_ead91fd4-9564-4501-8ae8-4aca2a432463.jpeg",
+    "nama": "LIA ASTUTI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "BIREUEN",
+    "profile": {},
+    "id_partai": 12,
+    "kode_dapil": "111104"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/342492/pas_foto/1683957624_6f5bcf8b-c5d6-43f7-987e-142e49d51f20.jpeg",
+    "nama": "SYAUQI FUTAQI, M.M.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BIREUEN",
+    "profile": {},
+    "id_partai": 9,
+    "kode_dapil": "111104"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/342493/pas_foto/1683961434_454f50d2-8f79-4bc1-a99b-cc0bd9bae04f.jpeg",
+    "nama": "SYUKRI, S.Pd., M.M.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BIREUEN",
+    "profile": {},
+    "id_partai": 9,
+    "kode_dapil": "111104"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/342494/pas_foto/1683954839_9a31bf07-e241-4e8a-8a49-63f4aa3dfdf4.jpeg",
+    "nama": "MUTIAWATI, S.Pd.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "BIREUEN",
+    "profile": {},
+    "id_partai": 9,
+    "kode_dapil": "111104"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/342491/pas_foto/1683965047_c82d117a-1d21-459a-a726-3c82f5cf30ab.jpeg",
+    "nama": "MEULIZA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "BIREUEN",
+    "profile": {},
+    "id_partai": 9,
+    "kode_dapil": "111104"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/442576/pas_foto/1688704099_848072d4-81ac-4ccd-97f3-b9399d641ff6.jpeg",
+    "nama": "JAILANI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BIREUEN",
+    "profile": {},
+    "id_partai": 9,
+    "kode_dapil": "111104"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/342496/pas_foto/1683967425_0ef80357-ff42-437a-a065-97f8610773d0.jpeg",
+    "nama": "FARA ZIANNUR, S.T.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BIREUEN",
+    "profile": {},
+    "id_partai": 9,
+    "kode_dapil": "111104"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/56822/pas_foto/1683359194_58c86310-e5bb-47ed-8b92-84742930004f.jpeg",
+    "nama": "H. JAMALUDDIN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BIREUEN",
+    "profile": {
+      "id_calon_dpr": "baf841f1d92283af51db1da0aeaef87147f83589674cd4c587746066c0f03ef51ca5d761deda07dc5440284ac46bcb7e09bdd655897f69d06da6a9b279b5091bOAbKN+5gtXTzkl0N+/ujj263us6daAU7YQfPPEs5pms=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "111104"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/56860/pas_foto/1683446050_74c54ad4-568a-41be-a2e3-33092393a70c.jpeg",
+    "nama": "M. KAMIL, S.Kom.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BIREUEN",
+    "profile": {
+      "id_calon_dpr": "d0baadd560eaf45ae920639f59887c9b095362b9cd805eac29be5580052e05dbdece6930637bcf43c0c175119ace149c6f3298cdd3273355ee309cd2c146c979dXkeuS/8jKckHJhFZ5WiXV7gZBIi2WUHqqJPFAnV7zo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "111104"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/56916/pas_foto/1683358571_4fe4d2ce-1063-4863-b199-742df11f9fa2.jpeg",
+    "nama": "CUT FITRIA NADIA ASTUTI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "BIREUEN",
+    "profile": {
+      "id_calon_dpr": "f57129b26dc4e08b85b2a0d0581e0d463004449324ac3d3545294ad287924dc31a695e5de8dfd506509821707ef78fc3adeec4e5e552c7e0326d33092df340ffT0974Jy9t0Cmh8PPnV5stShqn/g09bT/MKdlDqzRrLk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "111104"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/436714/pas_foto/1688587402_e5764e1a-4b4f-4ad7-b0ba-7c025d333f27.jpeg",
+    "nama": "HENDRA, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BIREUEN",
+    "profile": {
+      "id_calon_dpr": "8203d124e2d640227e65c67703410ceede7ca686e9ad7f0d922813951a21887f73d89f068395000f1eeeee02cdd20630d8091d09173ca3c3d689afa435cf11e826LBnQOS5F9DfkM2rKALxs2hnEBthiqObBTkoDoxJ/8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "111104"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/436726/pas_foto/1688588919_e04b1d70-16a5-4caa-ab5e-5ba22cc3d9ac.jpeg",
+    "nama": "MUNAWIR EFENDI, S.Pd.I.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BIREUEN",
+    "profile": {
+      "id_calon_dpr": "6f5fad6a1dfb9e4da7e4a4467bbf91e8821c1a9eda259ca9db185f96d52778dcd016772ce41832f144aca233bf003ab8b198926b326c308f19f7d63985096c86jcuGxgygQ5NoZ5OJYBVD0kAqOVhdXWBZVelDFJtVPfw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "111104"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/231216/pas_foto/1683725482_d626e8bb-cb01-45bd-bcae-28c366b4ee07.jpeg",
+    "nama": "DEVI SARTIKA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "BIREUEN",
+    "profile": {
+      "id_calon_dpr": "610e23a682103d3d7641f1a4e2c4a84f21757708c08a6d336610822c2efa1cd2daabbe03fe850f7d321daaa6f67361650def98d4e07d2fdac2e91b831f398c4cd/o/OFKAjyKsmE6XsD3fjhgX1sJwGW+dPVxiS/8Z0e4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "111104"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/400945/pas_foto/1688804581_d13e1f73-4a80-4e69-8e27-d003514857c5.jpeg",
+    "nama": "MUHAMMAD NAZAR",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BIREUEN",
+    "profile": {
+      "id_calon_dpr": "a2478c577a45ca6b8b5349d96453802486c4eb45d661d15d3a1b3001aa8447430c2b66b297919cb99be10356fff883d060dd732c00ce2b313baecfec8b7b7679tLKqe2gjkeynlRw3xBrrZUbrr31VZ/OgZZ8lJFTAxLo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "111104"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/400944/pas_foto/1688758033_72738f55-f915-4a4e-a6ed-c8925f780574.jpeg",
+    "nama": "MAYZATUL AKMAL",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BIREUEN",
+    "profile": {
+      "id_calon_dpr": "3cbe659217b45bc13b7a19d9ad43fc6ab23a26abc4b2b5223043b3f8b7efb598daa49b83a019b7a508e77873190247a43c3c19e14b0627f20f65b31bd6dc6c16AhDm601vByIwoUfU6GchR7e5Kpb2mGh+Rt/6wXtMTuw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "111104"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/400950/pas_foto/1688760391_75e0acc9-d020-4d3b-8c1a-3efb06fcf6b5.jpeg",
+    "nama": "NELLY YANI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "BIREUEN",
+    "profile": {
+      "id_calon_dpr": "5acbdee5c8e429a01ac65b7d508a6139f3e398ebf424466c12557730d9fa94dadad55ac1595c5199572891dca0290138d1d8a02f8bf2afb02bfbc9c4c8b893c8sEikI32SsYf/FaOLLW0gGKkiyZahw/0N1Mvb8VVut0E=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "111104"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/400947/pas_foto/1688751642_130616bb-4134-4143-94ca-5bb995ee23ca.jpeg",
+    "nama": "NAINUNIS",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BIREUEN",
+    "profile": {
+      "id_calon_dpr": "5cff74f91bdaebe613c54a6e29e8de5808f695d4b4d3ddf42f1d1649b20dd29671c44d171b360da5cd528db18f2637d7035e3cbef9d9db31053f19d213d7d237x/isqZu0/KFyFM9qUJOxBBA0nT6w2eaq7M3QORNg9TU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "111104"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/400942/pas_foto/1684169640_43352824-383b-4868-a60b-b2139d953401.jpeg",
+    "nama": "DZAKIAH ADNANI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "BIREUEN",
+    "profile": {
+      "id_calon_dpr": "be6b3d3168034edebbccc395caa218a3dedd887b41c807cc401fde0504a092da64f84fe12c313902e54beef626826f9ce852494c455c0be57f45a7fdc04978a1N7a5I7/MVtNuug8U37CX4DCnByoRAeqW2dIFN1Uz9vg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "111104"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/289871/pas_foto/1683820242_0e6d0683-e59d-43f9-ae40-788051520fb0.jpeg",
+    "nama": "M. ISA, M.M.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BIREUEN",
+    "profile": {
+      "id_calon_dpr": "4dc78d7c5b668b6beed7207b8c09b23f90d8b1170d6b9c811c7dab445ea3db0d46a0ad00dd47cbb6d05304f2c23ae405fd29011ec059c53cc8fcc61ab3963a85Z9Z/FDXAuvwJu99rCY57mNrIvKCnDGQogOIVagNw5vM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "111104"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/278774/pas_foto/1683815354_60dcdc78-7639-4bed-872e-2cf50326dc2c.jpeg",
+    "nama": "AMAR FAHMI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BIREUEN",
+    "profile": {
+      "id_calon_dpr": "cfa3d8f6d7b4c7ce1a70d78706994dc4bb0be623f4b9022fcffdfcb5671335ab9dca666634429bb5fa062ebdad541f894dbceeee85ae5edac02afc58e3bd7a66Wut3l+wAo//O4+67qHKrNlIAkdUHfVyTwDZGmq4zj0U=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "111104"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/292571/pas_foto/1688794360_59c0e12a-5925-4cbd-bd3e-d139661bf646.jpeg",
+    "nama": "IDAWATI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "BIREUEN",
+    "profile": {
+      "id_calon_dpr": "805dc6f2ad61f261c4605f7c19d91a5d26010034c7022af34655828257e6bdb8784f54280d892058b737d2f29eaa59a83e324feb620d72d9c2b871d72402c030ernf/FXM1yhLBr74ro8SWD7ZX8FLHGX2iuRFaPKsp4Y=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "111104"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/289971/pas_foto/1683820609_98646644-56ee-47a7-bea6-9de281542271.jpeg",
+    "nama": "SYAHRURRAMADANI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BIREUEN",
+    "profile": {
+      "id_calon_dpr": "48ae8cbd7670c0e4c3342e231f618ec284d7465250c969261d4e7725251eddf13c13ac9aa3c6efc276b03e77a8aefcb5d07406c1aeb2387fa39664f19b28da72edLJOTD635XECL9/XBAhy2OAKADY8VdIxtMR2hJDXs8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "111104"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/445867/pas_foto/1688793838_f048f54f-b203-491c-a127-4a9e197efd8c.jpeg",
+    "nama": "AMRI, S.Kom.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BIREUEN",
+    "profile": {
+      "id_calon_dpr": "3553735aa205b7b475aaa5d94efce411d797138763be2e57861d33ff9694f62cae59d3584adb8388e7d61bb68ad5d8ffc61ab97c07db59314b07b1e72455516eOuVmM9i+knr/mF5wEB48JiDCfytQsgzSM2m1KvEevLU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "111104"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/293091/pas_foto/1688794393_ad9551c1-ddbc-4f8b-a941-a443cecc7902.jpeg",
+    "nama": "KHAIRUNNISA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "BIREUEN",
+    "profile": {
+      "id_calon_dpr": "6cc6a6fdf7f4ebf752b255d2269b289c5cb0fc524229d9e147bb45f84171c7b62595af3436d2874efdbe07eb66d03184e38d0f81429b3e2316fd741e9adf8dd4QmGnaoyrQkEF/RJKMY8+BbqJJJD66EOeMjcIOx2R6cw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "111104"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/178189/pas_foto/1683616985_0cb00443-a99d-4cd8-a903-3ec27f0c66c8.jpeg",
+    "nama": "MARINA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "BIREUEN",
+    "profile": {},
+    "id_partai": 7,
+    "kode_dapil": "111104"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/83288/pas_foto/1172021310750001.jpg",
+    "nama": "SAYUTI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BIREUEN",
+    "profile": {
+      "id_calon_dpr": "2918d968c706d05de3bc43c8c5296767e0016b1d849a94c59c9b070d0b3537fab7df958747ca9fcca3f94c23a8a4eddd59a455072f8ff9130cb6c7c07c8a8f5a7iC03rgXYzI7UZ7CIZgo8O0WT8+Wiv3OPr7wNVSxXqw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "111104"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/83288/pas_foto/1111110106690001.jpg",
+    "nama": "T. BURDANSYAH",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BIREUEN",
+    "profile": {
+      "id_calon_dpr": "41b844357adbe9fe67740413b6e1c906202d5c732c473ad61f9dc478c8bed9202d6029077244e458611134efd3d3d11cc07da09b1f9513fa95637953b53a6597x605mKhfIjJTLM9R8USmJ9R+xZS9sZThbQU6d1eczQQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "111104"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/83288/pas_foto/1111024712890002.jpg",
+    "nama": "SURYANI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "BIREUEN",
+    "profile": {
+      "id_calon_dpr": "562f082c54ce647698c135a90e24a296543701aec91fe958dfd8df4cf6bb4208b264eb350e8fd5cf059a0f1536605c357c24ec4f61fe804fb4b7b9289a7d2e415enTfOgyDNSQj1K3+ip+V/fAstIWWaunGS51G2xyqvA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "111104"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/83288/pas_foto/1171090911940001.jpg",
+    "nama": "RAHMAT ARFAZ, S.T.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA BANDA ACEH",
+    "profile": {
+      "id_calon_dpr": "b5704e672614e8f80ad5e0a55d00c639a629353783f0e2c88e9bdf5c8f3f6c1d549cbe66b076f4c18e06172b77b02b09ac1d6e1d77199d9ea0748e8b89a27bd7iXCyxjEgKWqFiiPBsZGNWXaJDOtzBsJhrMDTsFYp9S4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "111104"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/83288/pas_foto/1111014309890001.jpg",
+    "nama": "TI HAJAR",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "BIREUEN",
+    "profile": {
+      "id_calon_dpr": "6ce72775af700e70f5f21213715731202a1448a9e8da691246623fe6da2fdb0c473944546bd9e6afe8138922a709bb548bec67339d63b6c725e4d4a83e7842f8RnNptHr2X0ZtwTGb0MrBi4WsUcJPyzG+r2WV6IxbADg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "111104"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/83288/pas_foto/1111012412870001.jpg",
+    "nama": "UBAIZIL FAZIL",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BIREUEN",
+    "profile": {
+      "id_calon_dpr": "7dfa9e89eef253f3c0f2ebb35a24d6c4b9b20cb56b71075a45dd6e7901f349738601fbe0a1c2ac0418e06fe1c7813fe38608b31604327dd2c0df39225e0fa248Pddi1dO3a7Zyq2gSmlQJCKbk1f+pQFTCa7yjsCM5wig=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "111104"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/49323/pas_foto/1683711360_b2329f1e-64fe-43f3-9870-4c16e888f3d6.jpeg",
+    "nama": "ISNAINI, S.Sos., M.M.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BIREUEN",
+    "profile": {
+      "id_calon_dpr": "7e1b151a5fb7b34c5e3d5dde569306419f0616a1f8731b5336c1f68450ac7ba3a97700c14175b44a91402432abee044dbd4e566a52470cd2dc1556130c93005a5lPvG6hxsghxhKh6HoejfbvOg90WUoIlxFWZJDy+jmQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "111104"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/49442/pas_foto/1683188745_2e1d0df8-e225-4231-8531-c3df5a069b5c.jpeg",
+    "nama": "ASNAWI ISHAK",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BIREUEN",
+    "profile": {
+      "id_calon_dpr": "574245bc533f0ebebbf4cbdc9f572ef5305ac86951e89fb94f9c2a10e96d0ad0ca64bad80ba80eac540307e30c56c17e75e8bc40ad3d9aca734624e4cd2470456eFCnzxIZ4hlgfrsaPzDSz6ycIQtDI1fQL4BM+C4xUY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "111104"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/49532/pas_foto/1683899296_f72c4252-924a-4047-9b84-6c12bf0cece1.jpeg",
+    "nama": "SAFRINA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "BIREUEN",
+    "profile": {
+      "id_calon_dpr": "04cdd8d801d132ecd2a63ec2722c1f029a91afaccc25053eb35b5d6fb80b043f0685775c7230e061d3ecc03777f863f0d74ebe998d209f5dad906c27c4ec9a64o+zaNT4EuGx8w6BT5/9Yo3uoLUSOWyMZo7N+MxknZQo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "111104"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/49824/pas_foto/1683888842_3a8ea3a9-e22b-414f-82a5-4575dcf547b4.jpeg",
+    "nama": "KHAIRUN RIZAL, S.Pd.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BIREUEN",
+    "profile": {
+      "id_calon_dpr": "3a2648d154500be905b5f2a94efdcb8428198b1782a91f92680f3641ca060869296c8b57421dfa732ab401af709d6abc25dea1255346b0a686ee59d31e2dded62iodzuSZCkpv14vzl5TfcLME69ccfB0L87H4cszNxQc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "111104"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/224109/pas_foto/1683712510_e990bfed-cf2d-4ab3-b18f-802194bc6bd7.jpeg",
+    "nama": "IRWANSYAH",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BIREUEN",
+    "profile": {
+      "id_calon_dpr": "a05abe30b812d4d55e3951ca009ff7675acc38422ba924724b9bfd99ef0303250c9032f30be3e40806aafba9a5fb29c9caf8cc3c86d1d6ff859ce5d928096fc03MI0ecumd9Pye2UpRVOuqcW6h09ROUCxCdBqFfDIw3U=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "111104"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/230386/pas_foto/1683876527_4d8cd2a7-26aa-4518-9f2c-46477c38753a.jpeg",
+    "nama": "LUSIANA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "BIREUEN",
+    "profile": {
+      "id_calon_dpr": "2c5c642da4b6ee01002198129d6b45f7d274a068f616cf3a9c4e9fe76bb1ec7484f11207b2b1d58383bb311597ea0e757c62d4ae6949775a79c77fb6cd27d5b06g6q50TEV3oPnwnRu85gnWrBt2cpoQ6+kznf8csHYVU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "111104"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/270247/pas_foto/1684038538_97219632-65f6-468e-b055-5a17695f7aef.jpeg",
+    "nama": "USWATUL KHAIRAT",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "BIREUEN",
+    "profile": {},
+    "id_partai": 82,
+    "kode_dapil": "111104"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/395890/pas_foto/1684029862_27f4d134-6c19-43f7-9753-ecfa08382ff4.jpeg",
+    "nama": "SAIFUL ALI, A.Md.T.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BENER MERIAH",
+    "profile": {},
+    "id_partai": 82,
+    "kode_dapil": "111104"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/325692/pas_foto/1684036369_288aa9a4-45e3-4e88-b378-d53ff3ddcd19.jpeg",
+    "nama": "JARJANI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BIREUEN",
+    "profile": {},
+    "id_partai": 82,
+    "kode_dapil": "111104"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/362331/pas_foto/1683966073_69c280e7-872b-4704-89af-415bdb8390d5.jpeg",
+    "nama": "M. NUR SALEH",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BIREUEN",
+    "profile": {},
+    "id_partai": 82,
+    "kode_dapil": "111104"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/376869/pas_foto/1683982127_c037b7af-339d-4c55-a489-f6dfc898a0e0.jpeg",
+    "nama": "AZRINA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "BIREUEN",
+    "profile": {},
+    "id_partai": 82,
+    "kode_dapil": "111104"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/338638/pas_foto/1688908582_9d6eaa67-ba2f-472e-99a7-9f03502cbfbc.jpeg",
+    "nama": "Tgk. H. JUNAIDI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BIREUEN",
+    "profile": {
+      "id_calon_dpr": "79f104f69561a3e59611910696c61a65380bbf0c7346b68e7c14cc1877c9909faa13ac38ba90f5a6b3b6ce9650d11eaf28cef4b08b16ae5d763680a1cebf9fdfMF0155An41Bu1YE8qg5UT1flBLECaT993OvWFTy3Jgk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658110917_Gambar%20Partai%20Darul%20Aceh.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 93,
+    "kode_dapil": "111104"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/464041/pas_foto/1688913226_83062507-147c-4c4e-a84e-80713aac72a1.jpeg",
+    "nama": "AZHARI A. GANI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BIREUEN",
+    "profile": {
+      "id_calon_dpr": "5414b139960a97033dff4ce45c8555a3dc213798294c6ce539334666d6f33d1f578918a00e1a8a38c1034f5981fa0f9c4193ffba8eebb31e8be0fe75d4ff271dW+TZTh4ptyiR1lCzXNA1bcs4jBtFVx9JkKQXyUtQ480=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658110917_Gambar%20Partai%20Darul%20Aceh.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 93,
+    "kode_dapil": "111104"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/376855/pas_foto/1688908847_6f4ff1f5-bf5d-47dd-9361-dccd59229aa1.jpeg",
+    "nama": "SALMA YS.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "BIREUEN",
+    "profile": {
+      "id_calon_dpr": "38e65d0af815f9d0e927aa2fb985190385c5f04e74cb3f699ca628898db4a259905a03646fdac3d98a1eed86291c2c0fe975609fe329671997113149330b1124kTfmqoAjfpbQA4pt990M/nzoqI9cIvw8C/F3deyvwrI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658110917_Gambar%20Partai%20Darul%20Aceh.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 93,
+    "kode_dapil": "111104"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/338781/pas_foto/1688909181_d9fc85e9-0d2f-4c02-a125-58733b922a01.jpeg",
+    "nama": "ZULFAHMI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BIREUEN",
+    "profile": {
+      "id_calon_dpr": "e99bc89785812d14bff0caffe8c55ac2d847b77704f67dd79eb2f834145992a4cc771f736a4a06f1f9d9574b8947b9d165919e77fffa39c2ad449d4ee0a34e58l2PNcm8ZYcraTJZ4KIrruHs92HYZrpSv4BzkboixarQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658110917_Gambar%20Partai%20Darul%20Aceh.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 93,
+    "kode_dapil": "111104"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/464048/pas_foto/1688915004_6bcc042e-7d77-42fa-b7e7-a992d862c6e1.jpeg",
+    "nama": "NURSAFITRI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "BIREUEN",
+    "profile": {
+      "id_calon_dpr": "c6df41b2e23b8c5bc7d9cef7f5f39295034070ae8694ce7ba35772fda48f7a0cbbeaa009ca220a4c47f4a0cc9df3e6d9ad2a762eadcca02fad703c673e5109b8BoQGTyomNwVeOsm+nb9G7TSXbPh9jKVuy2tv3vAKmN4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658110917_Gambar%20Partai%20Darul%20Aceh.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 93,
+    "kode_dapil": "111104"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/464013/pas_foto/1688911820_262bb09c-f694-4bd1-9546-d1c0dfa46b22.jpeg",
+    "nama": "MUNAWAR",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BIREUEN",
+    "profile": {
+      "id_calon_dpr": "177fa0c3f7735a434c1bb414f89bc2dea30bc9fa89c0849f46ebe8023d12034ca09beb9bb020a17f35274b8166c23372275e905b6ca57fc5c04e28dbd3e76b72gFIu22BIbzms4CNQNthPOGE8ecph8eVojbhS125NNww=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658110917_Gambar%20Partai%20Darul%20Aceh.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 93,
+    "kode_dapil": "111104"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/121244/pas_foto/1683544321_213ef91b-d9b4-4a35-9afd-20092f39002f.jpeg",
+    "nama": "MUSLEM ABDULLAH",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BIREUEN",
+    "profile": {},
+    "id_partai": 79,
+    "kode_dapil": "111104"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/115311/pas_foto/1683638088_27c45407-afe9-4a23-a414-76cf6edefc13.jpeg",
+    "nama": "AZHARI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BIREUEN",
+    "profile": {},
+    "id_partai": 79,
+    "kode_dapil": "111104"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/209994/pas_foto/1683689434_290de2cc-7028-4513-9ad0-befc94329451.jpeg",
+    "nama": "AYU RAHILA, S.Pd.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "BIREUEN",
+    "profile": {},
+    "id_partai": 79,
+    "kode_dapil": "111104"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/187393/pas_foto/1683636131_d32fe7f1-a5ee-42f5-b9db-bcac334e1106.jpeg",
+    "nama": "SYEH MARHABAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BIREUEN",
+    "profile": {},
+    "id_partai": 79,
+    "kode_dapil": "111104"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/121555/pas_foto/1683571877_439c6712-9451-4202-b448-dd4fa50bf3a3.jpeg",
+    "nama": "JAMALUDDIN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BIREUEN",
+    "profile": {},
+    "id_partai": 79,
+    "kode_dapil": "111104"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/211419/pas_foto/1688648877_ccfc940a-8136-4f7a-94ea-39a8d8b05132.jpeg",
+    "nama": "JULIANTI, A.Md.Kep.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "BIREUEN",
+    "profile": {},
+    "id_partai": 79,
+    "kode_dapil": "111104"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/118970/pas_foto/1688818776_408e28fc-2853-497e-9e20-0f73859e2bf6.jpeg",
+    "nama": "ATAILAH",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BIREUEN",
+    "profile": {},
+    "id_partai": 79,
+    "kode_dapil": "111104"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/428575/pas_foto/1688653358_96686a4d-081b-4c93-9e4d-f1c1c8fd0a2a.jpeg",
+    "nama": "Tgk. M. JAFAR",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BIREUEN",
+    "profile": {},
+    "id_partai": 84,
+    "kode_dapil": "111104"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/22089/pas_foto/1688066527_452edd11-4112-45ed-a5f2-c6e645d2220d.jpeg",
+    "nama": "Tgk. ZULFAHMI, S.E., M.S.M.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BIREUEN",
+    "profile": {},
+    "id_partai": 84,
+    "kode_dapil": "111104"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/293565/pas_foto/1688141832_49aad7b2-58e9-4bb3-ae25-2e57dffe4cf3.jpeg",
+    "nama": "ULYATUL FITRI, A.Md.Keb.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "BIREUEN",
+    "profile": {},
+    "id_partai": 84,
+    "kode_dapil": "111104"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/291336/pas_foto/1695730517_cbe81a96-4ac2-488a-a653-e41ff1102bfa.jpeg",
+    "nama": "Tgk. ANAS BIN MALIK",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BIREUEN",
+    "profile": {},
+    "id_partai": 84,
+    "kode_dapil": "111104"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/469681/pas_foto/1691561232_d049c80c-a4e5-4fdc-8924-cc3843934359.jpeg",
+    "nama": "Tgk. JALALUL MAHALLI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BIREUEN",
+    "profile": {},
+    "id_partai": 84,
+    "kode_dapil": "111104"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/293781/pas_foto/1688827271_6144008e-0803-4178-bbae-2985211c670d.jpeg",
+    "nama": "CHAIRUNNISAK IBRAHIM",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "BIREUEN",
+    "profile": {},
+    "id_partai": 84,
+    "kode_dapil": "111104"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/289395/pas_foto/1688144601_f0bb4a01-480a-4e69-b73b-7685e2b09202.jpeg",
+    "nama": "Tgk. ZULWANIS",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BIREUEN",
+    "profile": {},
+    "id_partai": 84,
+    "kode_dapil": "111104"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/465289/pas_foto/1689442812_5dd246a5-1069-4863-830c-03ae7a65261a.jpeg",
+    "nama": "MAULIZA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA BANDA ACEH",
+    "profile": {
+      "id_calon_dpr": "75805ed03b4ab43deeb95738be5f484a6f6d05bdc17906923e8c88dc59defe3143ee7026f8a82d12c509f02debbd17edb041a60c7003490ffb58ab2f30dc572ceLSfztBtWasneowewLkyGcdHP7YHMQ6vKWPIUBu7erg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659823143_Logo%20Partai%2010x10%20cm%20unk%20SIPOL_PNG.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 80,
+    "kode_dapil": "111104"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/321510/pas_foto/1683883765_2d18e147-ec3f-4b5c-81bd-24f43939a7d0.jpeg",
+    "nama": "MUIDA SALMAN",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "BIREUEN",
+    "profile": {},
+    "id_partai": 80,
+    "kode_dapil": "111104"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/295434/pas_foto/1683821170_aee527e4-4896-4011-aec4-cf3044526eaf.jpeg",
+    "nama": "RAHMIATI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "BIREUEN",
+    "profile": {},
+    "id_partai": 80,
+    "kode_dapil": "111104"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/185335/pas_foto/1683629493_5d129b1c-ad76-4704-a3c6-53ff34edac60.jpeg",
+    "nama": "WARDANI NYAK ALI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "ACEH BESAR",
+    "profile": {},
+    "id_partai": 78,
+    "kode_dapil": "111104"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/454840/pas_foto/1688815604_02aa58af-8b49-41a1-abd0-c1e173536780.jpeg",
+    "nama": "MELLY DEVITA, S.T.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "BIREUEN",
+    "profile": {},
+    "id_partai": 78,
+    "kode_dapil": "111104"
+  }
+]

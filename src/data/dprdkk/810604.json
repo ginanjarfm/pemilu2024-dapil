@@ -1,0 +1,1362 @@
+[
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/41575/pas_foto/8106021306690001.png",
+    "nama": "TENGKU ABDUL RAHMAN TAIPABU",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {
+      "id_calon_dpr": "8e4edec65f54a775298a3cffed503fac9e42720ed4ac85722c8a174679d174c924fb80f629b2abaf3bab82a0c5b037c884c8925b8b5636a9116e6d14fb0b31ccTH7vD21wSNtHsUgdf1ElSLkJJFWwoWdzBpn6ihkvyls=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/41575/pas_foto/8106020106780003.png",
+    "nama": "TAHER BIN AHMAD, S.HI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {
+      "id_calon_dpr": "cdb3819bbebe42ddc97b9b40f2c4a54b323c7f8b2c3646f4e02318c301e8a6ef4f4b7429b135f255ffea94f03495ff92551c158e08402c72420d0054b06fbb1c10wXjeHU5Ovlb22xa25raRjxSappHAZ1RRoIUzWQNpw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "pilihan_publikasi": "datadiri,alamat,pendidikan,riwayatpekerjaan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 8,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/42902/pas_foto/8171026504850009.png",
+    "nama": "PARMI KILIAN, S.Sos",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA AMBON",
+    "profile": {
+      "id_calon_dpr": "556a40766329dab4297a8a286c2cafff8c163f6c614e25e18173a250be2c709482190a9fc2f9a96603254aca9c615ba19bd701f3ef91475a5910b48da1d8fad3B4ZWlXyEAb9YpUQyya3foEmyzEP9ZzIvMeLlhqELQl4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/41575/pas_foto/8106081104870001.png",
+    "nama": "SAMSUL SALEH HELUTH, S.H, M.H",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {
+      "id_calon_dpr": "aec27e4cc7b7f3550516b1e8cd84a1331f46533e4d5ccb0b35cd949963b71d60e043be9d193200a3aa3aa410d3ae78d38b2d040de051fd738dfdf25154c6ba04JSBYFCzIYHaI/DUWjabdx48mL8mlT/r+eb0/wuSoi0U=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/42938/pas_foto/8106020705820003.png",
+    "nama": "MEZAK PATTISERLIHUN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {
+      "id_calon_dpr": "242ba1143919d98f9b80c5fc4d09ed0ead36fb5afe1b47ed3eeaaea528e9aa3a071ae06d0ce0b92e2c50b338895dbb3b2c9d6125e0a4331a4885fac714ba4907BY/hG6a9UUssFOguntTzFOKDwT6m2A2Wc8FO0PvZoOE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/450982/pas_foto/1688791699_15a8ea56-48d6-4334-9b30-307eca4010ab.jpeg",
+    "nama": "DEVI UTAMI SAFRUDIN",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {
+      "id_calon_dpr": "bbe75f5646c2ccffdf986d756f86aaea6e2b4d50fefdeeb60d911ff7760c09fc01c1e321dd005c7c13f7513f34c242e2a95bd70c8fdd6a38038c556781fb2c11zI3v+h/Y6mH9v8YtvGdk3DjtqeoQoLWN51RU66vWpdk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/41575/pas_foto/8106082206870001.png",
+    "nama": "MUHDIN WABULA, S.Sos",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {
+      "id_calon_dpr": "ff873f0a67f9276b7d8e117f8a51704f790c94f7d621b70695ab4cdeb126257a559894edb76606edf1121333f9753c1597946a454210c8e8b53745c68329b0b6s9ij17VxHYJk27b1DVBkjSXQRigQva4TaXCuXe7IsVE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/155663/pas_foto/1683540841_bf6d104a-a267-445c-ad17-521f9b90a5f8.jpeg",
+    "nama": "LA ODE MASIHU, S.E",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {
+      "id_calon_dpr": "b68652abf93e660fef2b53aa18c1eb71282b5aaa41f61a6f54a67097bdff89b662a2faa9f5c7cd6543b18460ba244404c32c3cafa5243c74d82fc51673c08c7ddC9jK5mL6gB7L/KtKNaaWpUZWyH4LZY7fihiD8oiuPE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/164948/pas_foto/1683561015_6b2ac562-3782-4ac6-84c0-35193caf5b17.jpeg",
+    "nama": "MICHELLE MAILUHU",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {
+      "id_calon_dpr": "4173a4f8cd33a375012a49747da2f16bcfb778fe5776b38ed6076e4735214447f403adb14e55fb3f8fad5cd027d00e56568925c33be5b3d2b5be57e7c57fb7ebUKRQjoqKK4rPgiICQZ433dSXe18NjMAIxCqjo/Hwv3g=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/164538/pas_foto/1683559855_01bd5154-ca5c-4bb6-b819-2f0df5c2c552.jpeg",
+    "nama": "KHAIRUL KAISUPY, SH, MH",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {
+      "id_calon_dpr": "1641f24421f4e35a9dff5cf89b83ba652b16939064fbdf512e2c45e32e10747ece5bb7ea7eb3d70ab6ea1cf4847d5ea949126837147a93d377124784df3eb264UOicAI72Wy7Z8GpaZkj8Zsyxj12VXMNeHL8dKD/HSUI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/300559/pas_foto/1683830117_d3aa1f9a-9bbf-44a0-865d-7b364827eb6d.jpeg",
+    "nama": "RIKA ABDUL AJID, S.Ip",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {
+      "id_calon_dpr": "61695e76dd14a784acd7775309efb6e882dcea70085f92c701e36db83830f686e5e78035ddf711fea9d0dea757d4a6141d3e924dd63f04effc0ba80a22cf4acfjCJECLrjfPtN7xIuedOD47A1dempSnkeQy23U4Evgns=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/152945/pas_foto/1683537589_10b01ccc-ca49-4f68-9b07-ec67154a133e.jpeg",
+    "nama": "LA UCI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {
+      "id_calon_dpr": "6509ce50804b14807a391977ded4574262e7c70dda795dec32eb1c54c96af10905dde8dbd078d64001402f86d7d042af9e0bfe266c25cf980d8aa902ac86f26fdf5BZpzEUmFiILuqCrBNoVIXAYSR3KLaLkGo06q4r60=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/311757/pas_foto/1683868763_8cea018d-b9fa-4e1a-a01d-1e51bbc8aa37.jpeg",
+    "nama": "MARLIA SAMANERY, S. Ag",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA AMBON",
+    "profile": {
+      "id_calon_dpr": "6caf762cff46de294ccde856b95425f1792db911d44e3dbd965b537cb0925b30781c52fc9ec38f9bdf5592219747e5403d93c859db99c8e41ada6d0dadfb7ab8oFIhk9DRZjofJ/j/QJuJUoVj0NpMFPHxyTGKX5ZLd8w=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/164086/pas_foto/1683558723_f8bed770-0ff6-4e44-9646-87e785f14ef7.jpeg",
+    "nama": "TAUFIK RAHMAN SALEH",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {
+      "id_calon_dpr": "6a452ed2f4acb3fc8905573d92f0a3fadbc600aedb7c1a81d96dfdcf6906c0315c23c77c300c2a316a0f28aafd2c35677be485d21b8f10d2f53d29f077cdbb36W2oBtNntsmnRcA7AIQlLMnf4vffS3RyeKEBLRlKqhSQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/331187/pas_foto/1683898436_e7ed872f-bbf1-4706-bc88-8d182e0f780f.jpeg",
+    "nama": "NURNANINGSIH BATJO",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {},
+    "id_partai": 12,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/332895/pas_foto/1683900714_6d0d3e51-3339-4215-9662-d4ef66eb7bc7.jpeg",
+    "nama": "ALFRED B. LASATIRA, S.Sos",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {},
+    "id_partai": 12,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/333334/pas_foto/1683901357_299b6be6-ff39-4f98-83c1-fd05c617faf3.jpeg",
+    "nama": "ANWAR TEAPON",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {},
+    "id_partai": 12,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/333919/pas_foto/1691737340_f51c972f-fc49-49c8-a05c-3aba43cdf6fb.jpeg",
+    "nama": "FATMAWATI ABDULLAH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {},
+    "id_partai": 12,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/334559/pas_foto/1691737492_37bb29b1-53e1-491d-8d5e-fe2fceda5a42.jpeg",
+    "nama": "LA ODE ANWAR TIHA, S.Sos",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {},
+    "id_partai": 12,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/335410/pas_foto/1683903860_bb59a748-56aa-4f65-ab3d-270318d7bc49.jpeg",
+    "nama": "RAHMA AHMAD",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA AMBON",
+    "profile": {},
+    "id_partai": 12,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/336060/pas_foto/1683905591_72c5ad47-feb6-4f64-a627-646d1d252b19.jpeg",
+    "nama": "HAMID TABAUBUN, S.Pd",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {},
+    "id_partai": 12,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/63157/pas_foto/8171021809810001.jpg",
+    "nama": "AHMAD JAIS KAISUPY",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {
+      "id_calon_dpr": "860d66a90e06f4f3a37c91670a0aa199c86f6e23f02888316548ac22f840aa6f81a45887bbd6c0a01f4659c43a58b2f11202a1bc9be38cd7b3ac53dc28df8962ke4zZ/YDb9k1SK8Zhzi+161DmQ8tVNM8FQLFCiBM+WY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 9,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/64249/pas_foto/8171040210580002.jpg",
+    "nama": "KAREL RIRY, SH",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {
+      "id_calon_dpr": "0f89dd2d92cd3cd0d62b00416cc74ef0aa51e8f906f6e73a1a3da5dd6cf5385eef8931953bd5e9d2b3d3e9ec2aa9c816381336852cdc2cb180094a439a851086cnsVq42OqmKCKi9SfOhKFsqRm+RnOpdc4NVRCBZc5CE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 9,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/180160/pas_foto/1683877307_0fd2286b-813d-4501-b1a1-30d16436c0b6.jpeg",
+    "nama": "MILDA UMASUGI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {
+      "id_calon_dpr": "c7c74f81541e45b587a902bbf4a5faa81972378de8476cd29b86300a5579d57930e99effbe600b54893b02f66ac91389eabc99f7352e86316b822afff07faef74Ve9HOCs0zdQy2rOuh1A5/XMASp+Srte02qFq3uW4GI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 9,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/180234/pas_foto/1683895655_d7601b4d-6864-463b-ad92-e6e9682a40a3.jpeg",
+    "nama": "ISAE IBRAHIM, S.Pd",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA AMBON",
+    "profile": {
+      "id_calon_dpr": "caeb1ce4a617637dd0df105f0c99fe13dd23d3619631027a799e8092b38dac43ff357c1607408ede8ae4bee65ad28f9be4e28df0b1846333b0b4c84f98f5fa14ozgV/13VSka4hO8/4T8W5fba3exw3yDJ1fdzmYmBXdY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 9,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/66181/pas_foto/9271032803720001.jpg",
+    "nama": "ABD RAHIM WALEULU, SE",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {
+      "id_calon_dpr": "2f722b67f9536e40d15a32ef6960661f97ff09a883c3587cc3f616e5b8118c110ec458c95d96ae146a5869d61b85bd5bd1110ab1bb6edcb26d5a250a4f65676cwHp57jRN/lKfk3lWS0z3r4falcf4xIUyqQnEV2oPYrA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 9,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/63661/pas_foto/8171024908690002.jpg",
+    "nama": "DJINGGURU LATUCONSINA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {
+      "id_calon_dpr": "dca112bbf6f6a318d773594e2878bc13c9eaa820d79165c9b72901435194984ad3c35bcf490e51e317ef1f3fdc2f864127ecf3c1a15d2f2d6f930d0ee9b810ac1OBmD+DAbQpQ7f+lRSnw4hSuHMoUUv/3sX31yeKKWsw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 9,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/62663/pas_foto/8171021606830002.jpg",
+    "nama": "THAMRIN MANASSA, S.PdI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {
+      "id_calon_dpr": "984a4438407b99e1bcfe3c17477569495f02db89c9d1c149c2811720f2347e21ee2643c8da9102c4ca66bdd2f346423ef725d725fef17e4ae6bbef0299760659ulLq2r+BSqhHr7qmBgPHtC6GBZBw+aj0+fQW0YAnnq4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 9,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/59273/pas_foto/8106020107710024.jpg",
+    "nama": "MUH. DJOSEN KAISUPY, S.T",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {
+      "id_calon_dpr": "2ca5b116fcf820dec01b72fe4ea7dfe48e712e4c6405044ba9056e8226e696de34e50c67e862ba76f6024f72de59e544dce1b810dffa3de93faf68b6b8a1ef77WEcnVIFZHPAwNN0/F/0Up0x4ph4CHsr7iIGdWQYdaYY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/305426/pas_foto/1683845834_c6cac486-bf1b-488e-bc50-9dd2f6564096.jpeg",
+    "nama": "SURIDAYA WARANG, Sth.Pd",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {
+      "id_calon_dpr": "d53a7c86dc5728995d2e929d739322fc96233055636ba10761c7e705e1853935c8f8c30dca6a90d69a38213a0de86bdb3b9c4bd4b87b3968c112c25213466918HNv+eJpl5jZrHkS+hW+mlSE+Wtvx+rf+SfsncSVvr4A=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/305491/pas_foto/1683879793_b655e82b-5aa6-46a9-ac0b-2a1d1da77f24.jpeg",
+    "nama": "LA RUSMAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {
+      "id_calon_dpr": "b9360a55bfcf44910583e9997e7f17b85345d92cd952e8f3b6af1b93074b78873ac22a80513e3bb1bcf4be4a13e3f1cc80d4df0f6a1ee171bfeca45159a0d9d5rReDv4hw5f2nALSFvRhrWGclgEqSVXIa4SzD8DrtXgI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/428415/pas_foto/1688372861_90b36328-ad69-4ba6-8cd7-840b41f381ad.jpeg",
+    "nama": "RIFAI ABDURAHMAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {
+      "id_calon_dpr": "0b6ca5c41f78268413b3f7916beb6f673e7504eb68bc8d6600f8c7d8f37b2ebd87322f6913e9b235bf65fbdd07bd78f1ca44d4b72458d007baa49c678fc86b40+EreVReeQFK9wMSHABmJIISZPXrTl3yONmcoZqm+noM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/305710/pas_foto/1683901019_e57913e5-74e1-437f-8d28-e2b13339918c.jpeg",
+    "nama": "WAHID HUKUL",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {
+      "id_calon_dpr": "a28e2d7a92f32596bd80c9fd2b26ec3b4de58cca10cf2de8b3043b4cb5a702320728d1e55533e564b00d438ffb9a3f368bb689ec03cd7d2cca56099fd3a081f3mrPNWKsY7fiJ8DJRxN81f3z1r4KjmCivlDLyJvnce7I=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/305851/pas_foto/1683880309_b731f6b9-78f1-4a51-a462-37e24cb0da68.jpeg",
+    "nama": "ERNA WATI SEKNUN",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {
+      "id_calon_dpr": "de69625e5bb4895e3fbcbf4ab57f89bac2ad7373174e3a3e27d449041db793436ec29a61424610f53dad2b3a18efc4abb7281726e0353ed11ce1eac3607d2fa0UbNpVZMtdH0unKW00HqdtDakSrjxd5KAKQnyOGxbz1E=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/305927/pas_foto/1683849116_fc8cb92d-4202-46d6-9406-d344e1894ca3.jpeg",
+    "nama": "SUNARTO ABIDIN, S.PdI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {
+      "id_calon_dpr": "5aebd3a7266e40a3b2eaa7f1e8a6ffacbe171cd48b383c38c2e9998afc5f63da4b15c7d0e29cd0668762ef0237fd950babd3c2d69e82a00371d62b80895fac8e25p1E1IG2Nl90RP1CbS7Mo0uLCKs2lsZUO1evkFNy9M=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/407912/pas_foto/1688649270_d2c87726-f996-4b35-ad47-6634061f4698.jpeg",
+    "nama": "SUKMAN HAKIM WALEULU",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {
+      "id_calon_dpr": "dfb6a55b17bd8146b39a4d55ecf23c06b56032201fe33eb6d5dc09bc50a046a6f6d25dab13730d0f3f9ad46d0d4bce8708290b3e4166c4fb4a6e900c9df90e19BpGOsm87J7GFWAK2wteniuUctwg+pmusg/I0Wk4jdbk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/442106/pas_foto/1688679011_52c5f8b9-1549-4a8c-a92a-6e54b2efbcb6.jpeg",
+    "nama": "ISMAIL SANGAJI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {
+      "id_calon_dpr": "b39123babe3fd07eaea0967d0a7ac2c7be0dd47108057cd3abc9295412dc22b1e90f578e8360cccec16c6ac946fbba2d428e7da949fd6ea15341071ffeae1983zBSz4yVzkP1+fkjBgdDcpEdO2FdJ9IJLkSVA5A59qzI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/442099/pas_foto/1688678362_0ee2a8d7-fcba-4737-b4ac-12e73fbea622.jpeg",
+    "nama": "CHRISTIN LAWALATA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {
+      "id_calon_dpr": "1337283d39d1600b50376d743db873a98ade607997b09790d57ef545cd3dd9d10b79678c62b023db5f8d8930d69cc16437eb72dc03bb9a1333b47e6c75ba4dcbSeqcz+SXohjgjo7K/g5Pu77b4F4fBSU9JDSJihqaIQk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/407915/pas_foto/1688653081_8b57f71e-e242-4c6f-ab47-bd786ebc5e90.jpeg",
+    "nama": "LA DIANI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {
+      "id_calon_dpr": "abff220f44668d27aa0ac3a565ea922ab51ed9228efeca0d484bf50f55391e3ca5c63ffb5db733ae8a49a8e70fa887e6ad8db97d10a99270bf59f424f042f35cIzWLOK9byxEyoosc32/WQ7ZSKLoB2wwuNOkw0Fh8SUM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/407916/pas_foto/1688653387_4f7e8c2c-7b64-43d2-aaa3-65300a0bd6db.jpeg",
+    "nama": "SAMSUL LEWENUSSA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "25127214ac0954f39ff90a7d307900e902eda3217571a89349cad04f4b04943c8c022dabffd49fd262e45f5e53ac3df7a4da012584a022010328cb7cb21b886cEKORplAhWC/28dU8mDCBIRZYfwwoDIGGNvIdGs2ElJo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/407917/pas_foto/1688654052_db19a020-6c79-408b-8fb1-3bb93d50e67d.jpeg",
+    "nama": "JUNIANTI ELLY",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {
+      "id_calon_dpr": "5e001ce3b5d2d599616a1a3aca752f009b43b9e087325521920c91f4070a3183c99bb0547d04491d866d8edad150f458005f539743b20a3a8311ccd2b03752a8dNXvODs844uqnqNf23q8Yie6suqss3bBuv0QucZqTGw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/43328/pas_foto/1683463695_09ed1113-872d-467a-aa22-9bf9e72a22ff.jpeg",
+    "nama": "NASLIM NUR ALI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {
+      "id_calon_dpr": "370ae3fd7731fe137a28ab3a163d2281169b89fd9230dc2856036ce39453f7a2b6fc5b6cd84597c526980d807982ba98ed4959940ec6736cdba487a3a489b8286M83+Q+zuJc4MaW7YwWOygJiETElPlqy9zobReWrXM8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "pilihan_publikasi": "datadiri,alamat",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 6,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/57797/pas_foto/1688899914_eca1290e-0806-4177-adc0-1ed2eee2c4a9.jpeg",
+    "nama": "RAHMAT BASIHA, SH",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {
+      "id_calon_dpr": "9d55e0d8dbda9403b1461f1395264800dbb8c7ac300f6943c7e328209a2d316af71337a92259e91e4e236eb8a2dac8a8a787906bb6a0fd61ef9c8d523938cb5cyvg7SioEYMLLRrO+QnWCU0H7aT7rB1eLKc0CxgeWYoc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "pilihan_publikasi": "datadiri,alamat",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 6,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/58311/pas_foto/1683468381_4fc3f16a-e6a4-4c34-9811-13ebf18cb758.jpeg",
+    "nama": "LESNA ALWAN, S.Pd",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {
+      "id_calon_dpr": "31e8b97b77da4cf7124d9d01c94328ab326956e0ba87502f5f1470ba4727b73e670bc94b04574d4b0a33c40dd7a10a07c69e8f2435974c6b4380eb66c3fba936Sxvknwj5Z4mz22rFgjDN3SLNXQ1r1gpwOSfCn42rSXk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "pilihan_publikasi": "datadiri",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 6,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/68741/pas_foto/1683292563_a3afcaa7-3b40-49fe-a9bf-f57a41b4d696.jpeg",
+    "nama": "ABD  MAJID PUTUHENA, S.IP",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA AMBON",
+    "profile": {
+      "id_calon_dpr": "17da29baf4bb807c6e45e8af2892b5bea199100a61a71655ebe50ccef1c96f3e338cfdb3659a831bc0430bb1226c6d40deb585889b9ab53b2e88462dbaddff90nodf2BPvUxjgRv7bXwUwCWAmsLYqckSV+uPFBBI2i+8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "pilihan_publikasi": "datadiri,alamat,pasangan,pendidikan,motivasi",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 6,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/75647/pas_foto/1687732186_edfcbb25-5e97-4994-b6ce-ea43df7a31f5.jpeg",
+    "nama": "FADLI BUFAKAR",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {
+      "id_calon_dpr": "8b64907336337359bc4142af896d25c8cdf299dfad260d47ee8934ccb4b368fb9804f34452beb7bbd1f0973e2687d95d180c381430b7623cecea7b89057e5c5enGIIkAFfYH5u+ya2I8X25h2U8jmff/WgZv591j5oAzw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "pilihan_publikasi": "datadiri,alamat",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 6,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/448520/pas_foto/1688748879_362241ad-89a0-4ef9-b915-09ad5f833502.jpeg",
+    "nama": "ONA SANGAJI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {
+      "id_calon_dpr": "5fc4a1ddb2c6df5e483097f28e150d0bc8b80168dce8c89b8fd837df200a0c26696f9cb1f56f4d0e52441b4b6720faa1b1453b2fd4d8f5cba92651f2e8ed003anAS3Ipuflzhotj4qSkCOiD5WCtDOVeff43mADNqBh2E=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "pilihan_publikasi": "datadiri",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 6,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/75870/pas_foto/1688802165_faec05af-62a1-4568-9540-165abb23d6b2.jpeg",
+    "nama": "SOFYAN KALIKY, A.Md. Kep",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {
+      "id_calon_dpr": "658c0d32671c4e3cc8fdda6aa7f36a5f134b279ce0ef90b883f20c2b78958bb1dbfc45b92c8532dc67a37cf28b0ebe341bbb2a31886474f48884b6376792aec3/NC5t8WVYYRfcY/hB6aWrgCZOHaazJnqay4SKAgI8KY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "pilihan_publikasi": "datadiri,alamat,pendidikan,organisasi,motivasi",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 6,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/398899/pas_foto/1688613721_e0f9f2da-3aae-4cf5-901c-bb1cc075d95c.jpeg",
+    "nama": "ABDUL GAFUR SUNETH",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {},
+    "id_partai": 26,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/71793/pas_foto/8106024203720005.jpg",
+    "nama": "WILHELMINA SIMATAUW",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {},
+    "id_partai": 26,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/438888/pas_foto/1688700916_8c4ee119-acbc-4d6a-b7d4-bdcdadc4acc4.jpeg",
+    "nama": "HUSEN LATIB",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {},
+    "id_partai": 26,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/71793/pas_foto/8106042407980001.jpg",
+    "nama": "ANJAS ODE",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {},
+    "id_partai": 26,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/71793/pas_foto/8106014505860002.jpeg",
+    "nama": "TARMINI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {},
+    "id_partai": 26,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/71793/pas_foto/8106080109900001.jpeg",
+    "nama": "A. RASID SUNETH",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {},
+    "id_partai": 26,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/71793/pas_foto/8106010106700003.jpeg",
+    "nama": "MUHAMMAD NAWAWI SELAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {},
+    "id_partai": 26,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/255131/pas_foto/1683763215_56fa6b4a-b1b8-4471-93dd-e29518011904.jpeg",
+    "nama": "ABDUL RASYID LISAHOLIT, S.Pi",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {
+      "id_calon_dpr": "b698ba4bfc1c5d4ed6fcf260c10c5e3a836f93e4ffd3274ded099f68538c2612a2495d517695814c6ce7125d299a2309d3f31be9970e9643300254cc0758f61bc7jZ2Vq5wz2DVlIDBdrJ+x0c2lrY9eSzWzDFTWWdRXk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 5,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/256506/pas_foto/1683767164_4e1dbfa6-8122-41c6-b2fa-6a154f71785b.jpeg",
+    "nama": "NURIADIN BUNGAMBOI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {
+      "id_calon_dpr": "dc5280c7fb843fd8fee5b7f00e4ce9e6e3b1565133a05e178bb010ea51fda98bd8633f195c04c20fdedb63c819b576ba037ada28a620179f97d9aa257754463fokCfZqMaUT92DBLYV3xXCXd8l2Wab8rfGZhgxTxmuXY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 5,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/256190/pas_foto/1683766367_25d6767d-549b-43e2-89d0-ceb4d770176a.jpeg",
+    "nama": "NUR ARFANY PAYAPO, S.T.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {
+      "id_calon_dpr": "bc3de6148103f789ee847032b51e1d4d2c3c34b4cbf1b8b0e31667d96bcc290c5e8d0062508c7f5e7a3a970f6518ae4bc9ac0ee26d4b20f54eb3647faade2138pk59k8rENGWgwiBHZO8t2jse0kZ4Yl+KLwJBT7LG9fY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 5,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/256651/pas_foto/1683767712_de587f84-7e6b-4c11-95e8-3b835a98dfbf.jpeg",
+    "nama": "ODE MUSLI, S.A.P",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {
+      "id_calon_dpr": "7b06a93edca4fe4c56ebe67248c66162dbbd32221b737d8559841b86155134ae5c7a3745cfdc8e8a3eb7af5ac509f28ab731a2d642e65d19d7efbbbb8736b784BPMVZKp/jT0Q8l0cCQZH9IuB+MaYpmSE/V7zCPZmBHw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 5,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/256025/pas_foto/1683765772_3d190f40-9105-4d74-b683-f9f8a5f49aa9.jpeg",
+    "nama": "MARIA PENINA MATAYANE, S.AP",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {
+      "id_calon_dpr": "67e02a610a3e1e57886540c9cc210c25db9c9d56d11f2d32bbaee40fec5ecaf09b8b65b7376ee6fcf2efddc51873661bcd54f3b27ee1e4b6135c94b99212a285t4XRun49/4Wg59J6xL1xBbtZ7Ym1+1bxICnPkSwkZZU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 5,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/255391/pas_foto/1683763834_9c1b25dd-b379-4d64-9bc9-80bcd4decd1b.jpeg",
+    "nama": "ABDULLAH WAGOLA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {
+      "id_calon_dpr": "7101b65eb2214fe4b54f7060f60fcb6c726f99907332b3e52ada5b371776dc3703f32a9be3fc70392ed57f9a2af7647966f133afd6ff5c5ee23fb879fb8c8d61+9odH/aaDm4cvDroohA2G0rUDnh4j9mJD3LrLhk/62Q=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 5,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/255556/pas_foto/1683764289_6d5d3b9b-8524-41d3-8a24-ddff0bc1234c.jpeg",
+    "nama": "DARLINA HASIRU, S.Pd",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {
+      "id_calon_dpr": "28b570ab807d9221a882ef0da82741bc001522c37f8fc677505c108e995c0f30d464da7cf05abf745e3017542adeb625c46f93e528d3d04059224f0b85f1938ea7Ae+sczCaIQNq0nmjud1h4s/EYJT3V1+iTgxTRS8no=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 5,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/27206/pas_foto/1688816485_374bb5ad-b862-45cc-9eec-81d081fd5a0a.jpeg",
+    "nama": "YANTO SAMANERY",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {},
+    "id_partai": 7,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/169548/pas_foto/1683736456_37c4c809-5354-4df0-8191-fc6490cea3cc.jpeg",
+    "nama": "NIDA FADILAWATI RUMBIA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {},
+    "id_partai": 7,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/169587/pas_foto/1683735344_6635aa34-3230-41c0-9f28-cee9db16505e.jpeg",
+    "nama": "LUWU DATUMBOYO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {},
+    "id_partai": 7,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/171661/pas_foto/1683622759_96583185-abb6-492c-8f24-04bae193e62e.jpeg",
+    "nama": "TRISMAN HAMID",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {},
+    "id_partai": 7,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/169648/pas_foto/1683736493_7800ba45-0ea2-4bb6-afe9-b1e6f915d6e7.jpeg",
+    "nama": "IBRAHIM",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {},
+    "id_partai": 7,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/171574/pas_foto/1683781743_fa1f1033-dcef-4a1f-915d-48710b190299.jpeg",
+    "nama": "MURDIAH ALI KALIKY",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {},
+    "id_partai": 7,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/171452/pas_foto/1683736632_0530cd19-f3e3-4b18-b40b-8824be1afe73.jpeg",
+    "nama": "RIDAL JUFRI KAISUPY",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {},
+    "id_partai": 7,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/103491/pas_foto/8171016107660003.jpg",
+    "nama": "NISWA KALIKY SPD",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA AMBON",
+    "profile": {
+      "id_calon_dpr": "69a0c5980f697b076a9da2e9f9d12348864ba93f204c4f7f9e335b8d57be0b30c029eb43e445d11e541b7877effacd5d1da06616faab7a59e7477bd13ef65b89/DG3B2YaJsROddSokCjFynYdVW3nSqaf1s/VdIHmfZM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659262742_LOGO%20PBB.png",
+      "pilihan_publikasi": "datadiri,pasangan,pendidikan,motivasi",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 74,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/129115/pas_foto/1683816156_e34bbf06-209c-4758-8af0-34b2c98faed8.jpeg",
+    "nama": "SALIM SUNETH, S.Sos.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {
+      "id_calon_dpr": "725d45c3a1199354e2250770c7a0fb28dfa7926f0ac0c98b35d2a40c428c1918ac65108469753497ff9f9f4f3cdbc9caa89cd4ef2fa48e0bcb3d77abf53af8beWwLnVp1BlRdx4d3x7RwdLS14/4K5HKxqcU4fhHSOSlk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/208959/pas_foto/1683816301_3bd5e1cf-c612-488b-a0fd-b4c2c1c6e896.jpeg",
+    "nama": "LUTFI SANGAJI, S.P",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {
+      "id_calon_dpr": "292bbce20e982888484cca7215af07fa08e361bafce9a7182bc480879a4eb998bb0eeb10a5641538efbaeec43f43833d9e20105e50f531c0d5dd687d913cd150/81H/RrhSuBjH/0EzYP7zivsGKjpaSvRIwX6tOggbZE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/129116/pas_foto/1683816366_c15ba3c1-2dd1-4499-92e6-cdfe3819308a.jpeg",
+    "nama": "ARNY NUREDJO",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA AMBON",
+    "profile": {
+      "id_calon_dpr": "de97a6ff9545d55f2325b2c4f73871e4b0ac5f79b4e22f347462bbf0e6d7c5562f55d14af6a9e0ce397ff3b04e4d8aea8204b61a0c22ca35a173d5879de94615FgnlQOfHu8zA9kSvW/mfbqfRi31xLutNhYbxSCBi2nk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/129112/pas_foto/1683816477_7eed0ae9-ff90-4b2a-b8d6-52ba53c2d723.jpeg",
+    "nama": "LA MID ISRANI, S.HI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {
+      "id_calon_dpr": "f13de78bce81c629af30189734b55d242f54f5945b29c82a6ae6b6b81d6fd75f7157142aa009c70afeac2c1799cd8b23c918f6c57ed3b031ead26467c41622a5GUxdr0xu2UPbHG431OEOCaav8zmJjkyR390bfWChDr4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/129118/pas_foto/1683816739_f4beb17e-9303-49cc-b50b-ca4c4fad83b1.jpeg",
+    "nama": "RAFIATI WAGOLA, S.Pd.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {
+      "id_calon_dpr": "e5bc221ee3f8432d1811e8d9c16c52db78ba6f904ef00349c2249fa705b3bc58febe8741f47ec63229e13ed8b7b0e22e8aac6c856967927ac2ef871efbaa7ecbLhj8XbIj3lvvROgjno8dEOjTi7hb9TcUYoVx8Z5gGDI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/129117/pas_foto/1683816659_4c8e2c2a-0d10-471a-b1ff-e07061fe5b24.jpeg",
+    "nama": "ANDRI SALEH ODE",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {
+      "id_calon_dpr": "0548a5aaa8c566f7b245370bd7ef856e1d349521ac04c691c1233de734588c567ad2e27391481767d9ef158864047026ad9994912d2b3886d4e18ab0fd16b00esnC8km0hKHQHLdIFLV8PHbsT1MIJzPzY7WPTUdPKpyI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/129114/pas_foto/1683816968_5a347d68-4954-4932-9dd1-1554627ee0b4.jpeg",
+    "nama": "LAMBERTUS RIRY, Amd",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {
+      "id_calon_dpr": "8f7db94dd8a10aed50d5838e89a220dffea0ce39911a98a188e3ef0638236728eca56c95a5d88a6fadb2dd83901240e9db7c1c67ab92fd7abc0ce60868178c24A/I+TjSLn0xkSsu5AXsKPvJDGlaLVje1gEZGUQLbH9Q=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/127234/pas_foto/1683458700_3a35d685-25a3-4b95-be74-8ee56de0fceb.jpeg",
+    "nama": "FARHAM SUNETH, S.Sos",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {},
+    "id_partai": 76,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/245358/pas_foto/1683876713_f2ad0583-5d8e-49b7-880f-6cbea83b9011.jpeg",
+    "nama": "SAHRAM SILEHU, S.H",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {},
+    "id_partai": 76,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/462737/pas_foto/1688896640_02064fd8-2cea-4e29-a3dc-fe2efed76971.jpeg",
+    "nama": "YUNAN WOLIO",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {},
+    "id_partai": 76,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/101274/pas_foto/1683968148_b63f089b-d454-467b-8566-bc9bd12d7e07.jpeg",
+    "nama": "ASRUL SANI HELUTH",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {},
+    "id_partai": 76,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/135306/pas_foto/1683473373_bc0c3e37-b4ea-480d-a95f-016671862bdc.jpeg",
+    "nama": "FERDINAND RUTUMALESSY",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {},
+    "id_partai": 76,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/325961/pas_foto/1683891320_f82dce9c-97ef-46e4-a18f-58e741802e91.jpeg",
+    "nama": "HARTINA LATURUA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {},
+    "id_partai": 76,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/462902/pas_foto/1688898485_20b8eba5-852b-4730-bee9-dbcbb33b1a68.jpeg",
+    "nama": "M. FAISAL SEKNUN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {},
+    "id_partai": 76,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/442267/pas_foto/1688689777_2a133b6e-d28b-4fb1-89be-831424bef76c.jpeg",
+    "nama": "MUHAMMAD RUM SIOLIMBONA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BANYUMAS",
+    "profile": {
+      "id_calon_dpr": "d72f75a57204e5fb03b4a20d2b34b6d66d69554b7064d2964d617f2a4bc889e18cbdf71f65c77b1c015dc39a78ec6c1cd4e6cb642d4a8e6070eda4066bbd407fBRsYcAP/8wC3DJOAu4CA226elGHQT1xyaX3Tw8FsRZ8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "pilihan_publikasi": "datadiri,motivasi",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 18,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/339145/pas_foto/1688471369_0c1e0078-6223-442a-bfcc-f28a6972f05f.jpeg",
+    "nama": "JAFAR IDIRA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {
+      "id_calon_dpr": "949b9ef73782735e7e8f6d13e91888da069c9998968d2adb794a016b1fa8402501a844ebfb16fbc22f68580fecfa5ad5e71ea59357c06984e9e8f848ee8c52b2SMeMa97RAdSOPj0QDEu2gq63tvexjUpZloHjFJBRaVs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "pilihan_publikasi": "datadiri,motivasi",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 18,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/275883/pas_foto/1683879842_6dc919da-bffa-4ffe-9d31-e75be478cea0.jpeg",
+    "nama": "MERLYN TOBARU",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {
+      "id_calon_dpr": "b41ae9ad1b2a7e6bfd1103d54fb62770ff63f6c231791c8f186118df0821c2d7e98b09c4289cc07aa0929c98b5de411f08930f90c6c79ee327c42bf2dbee242cn2gO3pdtrx6+7kba/HxQftdaSaX4gg9cGAOYkd5SgMw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "pilihan_publikasi": "datadiri,motivasi",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 18,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/271928/pas_foto/1683791464_c2a4ff50-e5b3-4389-bfde-c2cb8c9dea0a.jpeg",
+    "nama": "BADARUDDIN SIOMBIWI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {
+      "id_calon_dpr": "3638ecc833c391ac2099a62a3f013caf88ac1d0c34c1b4bfb36541d6b9850af5bf0dbf8b22fe63540d7257c57948b96f6cc8d8d190f755273ca93e0528e2e168OKJImrDGexd8HExKCBA2r7zjLIJCLYAypQHiLuijI2c=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "pilihan_publikasi": "datadiri,motivasi",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 18,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/351678/pas_foto/1688516741_719abb16-2a3d-4fac-b1eb-ec70ccbb54e8.jpeg",
+    "nama": "MOHAMMAD KALIKY",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {
+      "id_calon_dpr": "dffc4eada2644711071cd76b8d3c2bc86fc34c4c46958f13a5a6b936f8484d208db363d6b7956c246b4d9313400852caae19811f05ff969224fc1eaf0469707f9dgm0RbBf8sKk/hcH+NiyBJOy1cMcIioIPvolqSArPo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "pilihan_publikasi": "datadiri,motivasi",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 18,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/433029/pas_foto/1688519054_910a89b1-116b-463c-bc5f-f93c50cb139a.jpeg",
+    "nama": "ANGELYA KAKISINA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {
+      "id_calon_dpr": "f9e9d829ecc37a506c7055d9502869fd997ab96024fc7c3e6f81233e800e307df4c0f516e212a517daa6554bf520e6afbddf1530c7e0cb6fe87e72cbbae1f425jSQJLCSWU9zTzx5ZemS9WuDe/ZubwAOF1ZfZYqVwX30=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "pilihan_publikasi": "datadiri,motivasi",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 18,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/449769/pas_foto/1688804256_f5270bca-a7ce-4de3-bcb0-acc0834cc991.jpeg",
+    "nama": "WISNO ODE",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {
+      "id_calon_dpr": "083717d52e9a720287380a99f62263838885147d0aa4c74e9e785daa2fc688c28c3c19a85d18ca19bd44ce7067ed8a5a23876b6803752cf4b506a677838bde62QybtogpZcOT5ak0TbWX8CkAADfPJRkb/gMmrsqTD3u0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "pilihan_publikasi": "datadiri,motivasi",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 18,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/42069/pas_foto/1683714777_7ddaa30d-b2b6-438b-991d-af5fea32931b.jpeg",
+    "nama": "IBRAHIM MAZHAB SELAN, S.E",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {
+      "id_calon_dpr": "890cb0539c62815b70c7a59bba9a8fee61ac5e45fdb332b5065f5918ad0e35678483a7e41bba869d6689e6456c9b5bf52ffcccc4d51c7ce3dd27191d6cd68b56auHBARb0lG+306pb92ml6fOnoHApc1Vjb/iJ9tiwvkM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 11,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/42143/pas_foto/1688794528_a835b972-6622-4707-babe-a7ff3c160b35.jpeg",
+    "nama": "YUNUS UMAGAP",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA AMBON",
+    "profile": {
+      "id_calon_dpr": "309d42e13fdece7be542545eccc346db210b0692c14a991392d3b913d494b410c81ee263d6c1fe1643b8c8afffad44ce4fea5566f0e4491f277137b7aa1206d4wCbSAYOc5PWmYGXl3YqdK0yeB/vu1uaH+Uq2eLZ0Y8I=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 11,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/42173/pas_foto/1683919949_730a9f16-2c4e-49dd-a5e4-563905e1d555.jpeg",
+    "nama": "SUMARNI BUGIS",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {
+      "id_calon_dpr": "a8349ab67e374ba31c153f30cb5455aee69def9c5b2085c1b84d7464a78a5ac7325f3687e9b358016891bce84a7128eb941e09422ddd1ee41374af5dbf144d7a15K33HAPWJfSNt1cG6z49tqrjXP79QD8bTPS5D6kED4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 11,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/74913/pas_foto/1683437395_5e652230-9ecd-401c-9ee7-2ee8fcbc9e7b.jpeg",
+    "nama": "ABD MUGNI RUMALUTUR, S.Ag.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {
+      "id_calon_dpr": "a59cc4efc4e65f51c988d9f746afb6af7fa68f7203159e3bbb8028c112f7fa60416a38d3e684532bb9830e4a2b873eeb2a5f7cb25f4ad2334eaf84abf11a1e920k4FxrPgjOMih5BdfU7JomNgQ8MDga0bza+C85XIqyo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 11,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/42216/pas_foto/1688805674_6a785058-07a8-4be8-939c-73f78d0cd478.jpeg",
+    "nama": "YANI HAKIM, S.H, M.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA AMBON",
+    "profile": {
+      "id_calon_dpr": "befac5ce53584669aca63a2f3de2e593ea2fc5c7172678ff26215568b62e3a982e6520454dafb725afbe2a563c623061626fee350cf7d289d49345a0a78bdf03Wlk9yhm0iK6sdqdbeFnRrXUzr/pu4905ABxM7u4RwCI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 11,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/42195/pas_foto/1683920121_da5be44a-67b2-48b3-8d49-8c1b3c6f8d7d.jpeg",
+    "nama": "SU KIAT, S.Pd.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA AMBON",
+    "profile": {
+      "id_calon_dpr": "819d3ed919033c09867c15bae89b24abbf298c066336a41d5d042ffdca6f27bb6b2b3a84caa03f413cefcfbff5dbfaa15efacef14fc0035f42618dcb1615561875LIHf2DdRnS9sul4KB/iuEGMtzfGv2cWFFQWVl62bs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 11,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/482285/pas_foto/1695990420_3b255faa-44ee-4cb8-ad82-544a1ba6730e.jpeg",
+    "nama": "SAIDI, S.Pd",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {
+      "id_calon_dpr": "1e2d33223685b76af87b7842b640b935806f167d543224261e262ffbc7951024e84409fcdbc58d2b1353e819ef389080a51a8a99c46a37e6d8de60266354ace3ewXUCEQY2XSIBy6hSBh9lmHmgxZ8QHp1+exALWM7FfU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "pilihan_publikasi": "datadiri,alamat,hukum,pasangan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 11,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/265773/pas_foto/1683786856_d34e9000-1690-4495-9410-0e64aa164295.jpeg",
+    "nama": "ABD. AKIP MAKATITA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {},
+    "id_partai": 78,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/265836/pas_foto/1683968687_c53981ec-6610-4d2e-adc6-5120c40855b3.jpeg",
+    "nama": "ABD. KADIR KALIKY, S.Pd",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {},
+    "id_partai": 78,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/267396/pas_foto/1687949613_f0e6c57a-47e0-42fc-8c67-7ead81c65ef8.jpeg",
+    "nama": "ERNI SIOLIMBONA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {},
+    "id_partai": 78,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/267127/pas_foto/1683947325_4906fbee-d72c-4361-b23b-931f896fc6cb.jpeg",
+    "nama": "ZULFIADI DRAKEL, SH",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {},
+    "id_partai": 78,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/266071/pas_foto/1683786770_25fd2676-9b7f-46c2-a2c7-aace3517d50c.jpeg",
+    "nama": "MOH. RISAL SILLEHU",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {},
+    "id_partai": 78,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/265958/pas_foto/1683791097_4df8d5ee-27a8-4bfa-9eeb-be7528404baf.jpeg",
+    "nama": "RATNA SARI HELUTH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {},
+    "id_partai": 78,
+    "kode_dapil": "810604"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/422103/pas_foto/1689335779_87a28c71-bb6e-480b-b23c-7cd6b2274040.jpeg",
+    "nama": "RATNA WALEULU",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "SERAM BAGIAN BARAT",
+    "profile": {},
+    "id_partai": 78,
+    "kode_dapil": "810604"
+  }
+]

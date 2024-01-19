@@ -1,0 +1,594 @@
+[
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/98463/pas_foto/1804100305710003.png",
+    "nama": "MUHAMAD SIROJUDDIN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LAMPUNG BARAT",
+    "profile": {},
+    "id_partai": 8,
+    "kode_dapil": "180402"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/98463/pas_foto/1804241403940001.png",
+    "nama": "ASEP IRAWAN, S.Pd",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LAMPUNG BARAT",
+    "profile": {},
+    "id_partai": 8,
+    "kode_dapil": "180402"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/98463/pas_foto/1804045206000004.jpeg",
+    "nama": "NURMALA DEWI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "LAMPUNG BARAT",
+    "profile": {},
+    "id_partai": 8,
+    "kode_dapil": "180402"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/98463/pas_foto/1804242309920001.jpeg",
+    "nama": "MUHAMAD DIKI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LAMPUNG BARAT",
+    "profile": {},
+    "id_partai": 8,
+    "kode_dapil": "180402"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/78123/pas_foto/1804074607790005.png",
+    "nama": "SITI ROFIAH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "LAMPUNG BARAT",
+    "profile": {},
+    "id_partai": 8,
+    "kode_dapil": "180402"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/181161/pas_foto/1683948725_c1437689-5712-4944-a332-68003bf334dc.jpeg",
+    "nama": "YUDISTIRA,S.E",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "OGAN KOMERING ULU",
+    "profile": {
+      "id_calon_dpr": "5d588a8d80328fbf9cdbcd234f377ab0a4711b012396c64533e47b5deb10abd37b37f86712f0205fa6cc999e8ec79cedb3bf1a9f2be710c5e92558c9d11e8006TS8H82qmsm3Gp97NYVOQEeo+QTfqlGOREtjbc4OvWl8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "180402"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/181067/pas_foto/1683946598_9eec7b7b-12cf-4300-b630-69ad4372f8e6.jpeg",
+    "nama": "BERTI WIRA SOFIA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "LAMPUNG BARAT",
+    "profile": {
+      "id_calon_dpr": "7ab742e91923532c39c7b3690049cfe2b7e4df3867d5ba31914f63a07bf944f4d36ea6e4bb300f81d89ba9101701a1905934978151601dd8f05301e6587f562a9wj0QHhJLkeFNTlfr5fYGOaAi2DcZzRN5kY7Ckh81DE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "180402"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/180924/pas_foto/1683946636_46f6e314-52ba-4c48-ac85-2672d534f998.jpeg",
+    "nama": "SURYADI,S.sos",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LAMPUNG BARAT",
+    "profile": {
+      "id_calon_dpr": "37c40841ff21e986fc8ee60d9895b84fb4282c871e981201980072cce150b9d79c6e0379ce6add4a0b455114de3cb9b1ad60e109c289aac3573e9896506c6725maLhneCdraDokqCWV1YOWItFGr8h43afUEri8T6OZR8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "180402"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/180601/pas_foto/1683948673_ef605fa8-e0d3-44f4-ac60-a08b08a96817.jpeg",
+    "nama": "NONITA HANDAYANI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "LAMPUNG BARAT",
+    "profile": {
+      "id_calon_dpr": "624323109d88608217a18a36687db5b585af11fd3511ddddc053c398335d8ff39a558b6dbc44dd38810d443d31d28f3db4f08fee9321d11c89cd514c665fec1aE+aKlHsLgIDKLX3RCR28OK5vLvu+810GhxbwGIBvmJc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "180402"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/180446/pas_foto/1683948710_3a2282d3-6b98-43d2-b5f2-a67dec7cfd7b.jpeg",
+    "nama": "DARIMI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LAMPUNG BARAT",
+    "profile": {
+      "id_calon_dpr": "2e1a92cc3d7adfb4c7407061bac0b607f81dd7a490d66262d3c4d61b37b7680190b626a31ad3f8891e0178c9938c700c0332d22715ea23811c271b90741808c0KVwPNQaAaEI2rAeoWr5sNZtcpez4sL5xxZqV7/E3NM4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "180402"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/213638/pas_foto/1683696588_ea182a99-00ef-4420-b9df-ba16cde5fc5b.jpeg",
+    "nama": "AHMAD ALI AKBAR,S.H",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LAMPUNG BARAT",
+    "profile": {
+      "id_calon_dpr": "2e1f2fc87ab46d982ab05579cd50de94f3856a7d0efa97071dfb2e67f46858c7cc41b372f27db514163d0fe08a27c81891f1063592bb16b65f96553d0b3b3a51OzMgrYtwry3LBHkWZht0pQRPgws1YLYjIWNvoz3Xsbk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "180402"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/485331/pas_foto/1696226437_3387e8c1-42b0-417e-bb1c-d3f07ee6ca6c.jpeg",
+    "nama": "ISMET LIZA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LAMPUNG BARAT",
+    "profile": {
+      "id_calon_dpr": "f7a6f724d98c5e58ec54ca5d65167d0352f3318a2e1044768f40dd44c81b72d8ead014e810c2c87ae128b6dcb17b16c857a4ef4f8b182f66b639ddf773faabd4c+xpkY1JxWjFE1zGJBry71xgeg9mIM9/87+RRugmrEc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "180402"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/216768/pas_foto/1683703404_c63809b9-b397-4b14-b0a8-e0ee097de3eb.jpeg",
+    "nama": "WIDYA MARETA SISKA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "LAMPUNG BARAT",
+    "profile": {
+      "id_calon_dpr": "32f2596088c37e19e1ae67e2c5c593c8b1e709cd078d4e471163c0badce0503794be89ec5d6ff122262cfb74ae4c41c36a5d76cf3461c7a5a779ee659a1621948FJdFOpYUG82BF+TIPRq1a7P3sT14HNmzSxcPP8L0eU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "180402"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/217445/pas_foto/1683704166_ca550448-0f44-4ef8-b1fc-e55b8c460fdb.jpeg",
+    "nama": "MAT NUR",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LAMPUNG BARAT",
+    "profile": {
+      "id_calon_dpr": "fc6e05333e7d90dca4ebff1aaeb4434f9a23101881bb49f37a5bb99dfdf1cf47d3a510c9c30770edb4345eb3041913baa3e6d7bf9bc2cd2ea82c0dbfe30e5611CboX0KofGFogzINBQ+inIoYf+dNhOlGXWpMpkM+8fQI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "180402"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/217906/pas_foto/1683704742_8b55efc0-b58e-46b2-b981-9121cf4d495d.jpeg",
+    "nama": "LINDA SUSANTI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "LAMPUNG BARAT",
+    "profile": {
+      "id_calon_dpr": "4b65d182e99dd57de5f0bcdd614129505abbe6164efe7058de432c6cb505fe9bb273b660fe3b663fd001921f73a043be7c7db3b077e06608697552237aa2237dWLv5fxTNrvYcy7MvkIjKEfAeg2G9Clvgg8Ynv1XY/mc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "180402"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/211451/pas_foto/1683691734_bc5c41f9-0658-44ac-8979-f9832f8e4e43.jpeg",
+    "nama": "BAHRIN AYUB, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LAMPUNG BARAT",
+    "profile": {
+      "id_calon_dpr": "94e5973471d525d97b2c138b6a028dfa33705afd535ab6c9c8b99db23ea70e486c3d0109b396ac93f92dd6e0e1ff9e90fbec7c48912be19477dd838cdc180ee0A+xsbFb4E1Z6Lhn30nfSbLwiW0hboc/1zjdpQfQWtAU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "180402"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/211682/pas_foto/1683727943_83b4e631-3e00-4242-b65b-6e3d24c0310e.jpeg",
+    "nama": "MUKHLIS",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LAMPUNG BARAT",
+    "profile": {
+      "id_calon_dpr": "6f5411f85dae1987f90b7c149fc5329062f4fe8f23cddfabe578ee44815f33819543fda4817ee282ce56fa0e5d51edc556f363a84c0807a078b3441df9555a57kpliM1YjaclGx4eSFuK7vXC7th5PX5v6E5Jx9NWqA3w=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "180402"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/212101/pas_foto/1683693070_7a56b499-f590-4dd8-bf4b-767462d5659d.jpeg",
+    "nama": "SUSI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "LAMPUNG BARAT",
+    "profile": {
+      "id_calon_dpr": "05cf16051baed50e190dd1a9912711a7ed169d9d87eb79418586f0d421b1d3eff114409af4d3c883c486894fc66f7c1426f7ee6bec89ea9e50ee723beff3f4d3TldX95SQAxamwSJuCl6SffjzmP+frXC1rPm4Npphi/Y=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "180402"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/212321/pas_foto/1683693440_0d0d6114-4ede-46c6-9338-adc60a1c0288.jpeg",
+    "nama": "NOVA RIA, S.Pd.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "LAMPUNG BARAT",
+    "profile": {
+      "id_calon_dpr": "a71313b9e9f4ac6e39985f0766cc0fc34b05a1b03227e86d3e26a3a9c86e4e69b5a71219eeb0e15725921dd52a8b448c016466a048fedb1c6679cf1f957c57a5LjR4x02h0REvvZu038ErBTYIEQBBFEwOUyq3oZV/ACY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "180402"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/212589/pas_foto/1683727991_f036eae7-8092-4aba-9ccb-5235b8fde6ae.jpeg",
+    "nama": "TAUFIK RAHMAN ALJADIDI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LAMPUNG BARAT",
+    "profile": {
+      "id_calon_dpr": "925c88e56a40395a6df421d17fd5c73cb484a842c0bc273e2c6bb678ffa6503dbc4e8c1a40f4318ca1602c41f4b5138c1356c420538138b29b4051c87a2e3c5cJIkE2HbD7kp8uvcDirf/vjfKazcaJsl0w1O3U+E3HNk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "180402"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/218325/pas_foto/1683724395_04ae6626-dcab-4eee-8d46-40727c4e6719.jpeg",
+    "nama": "ERWIN SUHENDRA,S.E",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LAMPUNG BARAT",
+    "profile": {
+      "id_calon_dpr": "a364e0f51f3f39208398f5f772d4841d29e6fb0bc717e7cec4030723a40cf76b8d4a8a1e9ae5f1315da5ec0b211892dee24baa673a32563c114b3dcb32be8fc7pd5HJKC8M8X1S27eKRXTWFKqE24l92UPxj8DAJ1HakI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "180402"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/429826/pas_foto/1688448976_a1723eeb-611c-4bbf-959e-0560e5384812.jpeg",
+    "nama": "MULYONO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LAMPUNG BARAT",
+    "profile": {
+      "id_calon_dpr": "65d5f34c0387ca882761c0998e3f78fe5a8851e9224f94495d8c1e6c87638b1832a67b1e17362be33572388f1dc3a6b821f01741c06774a1ef4181e260e83257swUv8T2AcOyhiKhJdX0xyB1WIpc9wcvp8NO737WSEqg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "180402"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/218441/pas_foto/1683766134_f3cda56a-da7e-427e-98a2-1f4dc65c2206.jpeg",
+    "nama": "TITIN MARLIA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "LAMPUNG BARAT",
+    "profile": {
+      "id_calon_dpr": "60a908f5b661181effa0e52c79ce9047841c0335bd8071f288e427d4d9ad2ddd3ab21f01ac68b5a0fe2b6ab0182b6d7d383fbbed6d526570a0db7735623ad8a5WOeBnWN2EjskotsP5VXraczdKTbs5M2fxzF2s7cGWhc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "180402"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/430504/pas_foto/1688450998_9b4bebd5-88d1-49b7-a8fd-c57f763a71c2.jpeg",
+    "nama": "EVA FITRIANI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "LAMPUNG BARAT",
+    "profile": {
+      "id_calon_dpr": "d40bd3528fa816bd10b051be1af5997ba0c154571f10af70731fbf060044217a8a7ea209a57e1bafbacbb80f1cf7819254547a66e89d8a60c8b6efb7780f4145scKRq4/2T5FGAgOZH+OST+e+LKh7x6ECKyhxLGqlI0g=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "180402"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/218468/pas_foto/1683766479_42a63f67-8c7a-4218-a6d3-b279f6d35ed7.jpeg",
+    "nama": "HASMIZAINUDDIN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LAMPUNG BARAT",
+    "profile": {
+      "id_calon_dpr": "72043bd2ccc73d24d14eddec25283e70c0f55698348391be2657b5a4f949fde24ee48d0db728e0a8b0e857ff9ffa547d80918cac49143b57b9990259e20cdeea5pEn2D3GXy+yAxHd6hLV/qX6ixGhz1VWl1DXM+hjwu0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "180402"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/31031/pas_foto/1683298912_da2dd20d-9b91-4231-b818-f192ee3c1a67.jpeg",
+    "nama": "ALEXANDER",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LAMPUNG BARAT",
+    "profile": {
+      "id_calon_dpr": "297e7f082c1372dfabaac7f2da13c6270dae220e98391dba3b990f59ae3dfdb15f22350cdabeff15b672436adecca0a4d1e7b8fb769d18fa69af058fca117134i/hRdXCjFBspmvwk0LanQb8ykddnFFrqs0FOpqiY6H0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "180402"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/31066/pas_foto/1683299542_d3b45935-9fb2-4e1a-ac9e-7fbe7d993a7d.jpeg",
+    "nama": "FUNGKY HERIYANTO SAPUTRA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LAMPUNG BARAT",
+    "profile": {
+      "id_calon_dpr": "702e5d3b94fa77e80487e260e4ce29432d61d65a9c189c3d022ceeba4324ac449422c5be32e380aae504aa5ac3eb1eb6b5e7a0853be20b8e612bfea4d3ca7605KJ3cHUgQWhSEDo4Y1k9r/2WrnZAx2Nl/1UH4HezA3iw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "180402"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/33978/pas_foto/1683299028_30ab4d23-821a-47da-a446-23656a3fb4ff.jpeg",
+    "nama": "YUNIAR",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "LAMPUNG BARAT",
+    "profile": {
+      "id_calon_dpr": "1b5696fe96f90ec0761224167b4cf85fdac290e0480bbed843e7b5e7888baa4726d9ecc53684caa860b8655126a8e5baa046326d4a118e8dce4e7f7bab014129IVK7JTWrj/bFuLvLfnYKhQdUjXtdyky4/tmXt8Fsls4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "180402"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/33998/pas_foto/1683299129_5b4c01c4-044d-482c-9db2-118f768c4ec9.jpeg",
+    "nama": "SELAMET, S.IP",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LAMPUNG BARAT",
+    "profile": {
+      "id_calon_dpr": "3b4d9cb1ecc79595a1fb0e309556f5e788c36e58c50837b3de716823c2bee76964c1fac8d24ac34d213121d4a3874855549d5999adc48d8258996b2114958402fqwt4NCgkkJ0+XzZesNRumWe4TY3CDIANm4th2CbZSE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "180402"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/461041/pas_foto/1688878468_6741757f-c7c7-4398-bdab-4acc9be94533.jpeg",
+    "nama": "SITI SANIAH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "LAMPUNG BARAT",
+    "profile": {
+      "id_calon_dpr": "d352b0c3e83b6084b1429ac98b6190f9793c44defca826baf70a8f100b8f7fc498cb7ba2cfd296f9798ddde6dab6cfbf8ea217570798d0ccb672d83c0b083851UNsGsR2ZHUYA6Cdvr0QkEz/Z3gsUs7MAuDQxoWLIYJc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "180402"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/330941/pas_foto/1688695830_9412ec75-ff52-4603-8021-845ab6c795ce.jpeg",
+    "nama": "AKHYAR",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LAMPUNG BARAT",
+    "profile": {
+      "id_calon_dpr": "b38956057b8322a6102f988bd468d412f150407072f927e37c66090eac7cd85855dddd404b9f19b6bc1448176c3661af595d2a896c9b8da4f6bf9f6abe9a90d4GDnL3fLCCi3DL2xlEWLeNbMuAY8d3KzaS1fnDMu3Iq8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656406064_Logo%20Partai%20Garuda%20square.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 44,
+    "kode_dapil": "180402"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/349723/pas_foto/1688695836_6e0e469a-9b6e-4e97-9b42-3f72e416302f.jpeg",
+    "nama": "RIA ELIZA WATI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "LAMPUNG BARAT",
+    "profile": {
+      "id_calon_dpr": "6d39c169137a4001e929666764df3028a4b1505ba811b8a03c37a43725ecfe5b3e7b904fb5bd30538b144ac704fd14dd7e0bf1e210f48ecab53328ac8d09a30aVdyFodC2RAQ1ia2In55g6S57bo4vv2uyB1Symgludkg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656406064_Logo%20Partai%20Garuda%20square.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 44,
+    "kode_dapil": "180402"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/2350/pas_foto/1683087968_35b6f822-b55a-4834-9a8f-18d6786a2609.jpeg",
+    "nama": "EDISON",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LAMPUNG BARAT",
+    "profile": {
+      "id_calon_dpr": "194fadeac46c72da37c9cde5b65f22679e28b910958731b078b96c172c82c006c51247c3eaad268d5d4378e1c71840a9b3a8289fb32867ec9c41531e3cab8274B/BgrtgFo5lT6PYQoqUhqq/ZLnthTPkppfXF0PQhVjA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "180402"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/2360/pas_foto/1683266929_80eabcd0-441f-482f-8450-e2ed79a19e20.jpeg",
+    "nama": "HERPIN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LAMPUNG BARAT",
+    "profile": {
+      "id_calon_dpr": "2bc32086708e8b9e92eba71d7a707a11b3e1679a17c577f5534311e02a18cff8732ea438cc830a7d9a2a03931fa86d2e685088d5792d5353c2a46b7b383167d2feV9ZrZa4kFn/XU+IEAAMOP0IWKVDle0xfcVDtVShZU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "180402"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/58118/pas_foto/1683262609_a787a56e-ef76-4632-971c-8833f67f342e.jpeg",
+    "nama": "NURUL FATIMAH,S.IP",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "LAMPUNG BARAT",
+    "profile": {
+      "id_calon_dpr": "a75b20742245f1b60aa293ba2e4b72a29f7791922fcfb8fb4ba3c217f3f512fc75a3f6fce6e05f64485ad24ca4260cd0d98e77321c9161aef686430c223b5776uMhWY14PZi2fRRzxOST1o7+6crGFvMiGgeo7nLlOUgA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "180402"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/29108/pas_foto/1683266979_1b3cf984-caaa-48cf-ba28-6f462d61fc49.jpeg",
+    "nama": "YUNIAR",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "LAMPUNG BARAT",
+    "profile": {
+      "id_calon_dpr": "42fe4e6d2e58c454f45585ea40d4843bbdfce6786e5f936d48c27a1040acd413e58f17704968dd20202db0863fd6e7eb12d7c1ad7125c5906df12a5b769221aeOslhMHVInglNEik/mM/888lx8S4wCvsGwtHoUmbJ9/4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "180402"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/430209/pas_foto/1688446533_b7b5ada2-f89d-494f-b6e2-99322d73f8c7.jpeg",
+    "nama": "ZEN EFENDI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LAMPUNG BARAT",
+    "profile": {
+      "id_calon_dpr": "e818f7d407c9e4dc3d6cdebca1c60c146255f5f87c747db8e361b86d4ada3fecdb2bf075fd4d3c3c003aa9bdf493fd6376d72168e2afbdad705d8d7e987a606bC5/9a4jSb33Vmc2gYnE27kdiyHa3gcmfynmw9aAy+wA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "180402"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/100576/pas_foto/1804060510700001.jpg",
+    "nama": "MAWARDI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LAMPUNG BARAT",
+    "profile": {
+      "id_calon_dpr": "b70b2d6fd01e264dd1f620ce7ded1ae240108092bc2502e2c82596f057c59283972e6b778a3a668bbf826c764349ca8bd39924bfcada44b39cf2718d0b0e2661mN4OqDiYEGJOubooc2sIa68Yh09SJ6dktrrAHJKgFNw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "180402"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/100576/pas_foto/1804241010700002.jpg",
+    "nama": "RAMLI SIMAMORA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LAMPUNG BARAT",
+    "profile": {
+      "id_calon_dpr": "3b6bc79afecd5288555e0b24a66fa1461b0ed963c734c24be9e715c339dde55d4fa50461eb16d234e954d5ae74e2fd0ec10e40ef96aa3f3c0c0066f07d0f3912XAyTWZieCZqkVEHdJDvWhQT7UF7tas+i9I2C4lpFHg8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "180402"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/100576/pas_foto/1804064908750002.jpg",
+    "nama": "HARTINI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "LAMPUNG BARAT",
+    "profile": {
+      "id_calon_dpr": "ead36c881d05d7051d64a83698a4fe5deb49648f75d75dca36ed87cbe582701fe741d747393bb1d2d24a2209d7d6dcd9b77b5deb6d53b91eff2574ba555fb095fhUajXzUCwuwHYECcKWwRw4y/4ANmnGDqLLEB+7mvQ8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "180402"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/100576/pas_foto/1804082409860003.jpg",
+    "nama": "MAHLIL JON GANEFA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LAMPUNG BARAT",
+    "profile": {
+      "id_calon_dpr": "94c9bfa656da364051adfca055cfe702e2b7387ed9384337c41153c01d3599a94a5982af96550353aa336021d64ee2f2c06529b4f3fd3f0ab3a5052cb679a450VFeFGmbNdXwPBdeAQnTaAqfEn1Yy9jtKvqGxF5DVNCY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "180402"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/100576/pas_foto/3674056403910005.jpg",
+    "nama": "DIAN ANDRES SEVA, SE",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "LAMPUNG BARAT",
+    "profile": {
+      "id_calon_dpr": "42ec9d3420672b9c9fad79183064b2e9beb52440df7b5233a2f6e6887e43d2ddcaf77cddc379f0def62683f277e0afce794b3e6b7c8594cdb800bb6b4c68bdf9oUDjBAkyDbnQCXDA2MWKLTaOynsFeyswsUjwUWfhKqI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "180402"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/213488/pas_foto/1688642730_60f1ca0a-0140-44fa-9c10-9cfb6a486477.jpeg",
+    "nama": "ELIYA SEPTI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "LAMPUNG BARAT",
+    "profile": {
+      "id_calon_dpr": "9d34a087655d2efa13915c527d956ef12b64961a730cc9b7c61891f27fc8d2ec1e028b676fbbf67c0fa89e85a1761468f7d655e9fa6b983f4d85af92abde941aRMf8kq7Xbt0vFTUtqJVZGkJDBqW/8bMSrRiseGwJrU0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656419883_logo-10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 76,
+    "kode_dapil": "180402"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/234546/pas_foto/1683995112_813c63bc-90c5-43bd-901f-603c1e27c088.jpeg",
+    "nama": "NANDA MAHARANI SAQADIFA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "LAMPUNG BARAT",
+    "profile": {},
+    "id_partai": 11,
+    "kode_dapil": "180402"
+  }
+]

@@ -1,0 +1,1782 @@
+[
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/124546/pas_foto/1683989942_7a2b949d-8997-4452-8d73-7516eda32dbd.jpeg",
+    "nama": "H. HAETAMI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "f9692a1f4a257337a2bc6b4de9d7743e67381830d12d645b256dc84d632a33c06e444bb03306c9f427bb27775d6e17e20c4f8aa294c3115fa45547372b757623FXJX2YNTe8dLKRtKNExrZTJvNHI9OGYsGpEFNSE9UsU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/124548/pas_foto/1683990048_1ed1c58d-42fa-4610-8f66-cd1b2d425a67.jpeg",
+    "nama": "FAHRIZAL ASMI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "8702ce8d8f7aea216be5276a2ce22f0fcbff97621fa7f38faff61436b39d50adb59ce0d1104697dee8c5ab0ee63b0f8777e9bfabe4d27b166a8b1dae8ac7dec3GSafZ7OEKqYenGNNFRoUOjoNxF0y+Rz7PZfn/DZrHqw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/124540/pas_foto/1683990013_c4372e79-c6aa-4209-bb83-0d36e971076a.jpeg",
+    "nama": "SULFI MELIYANTI, S.Pd.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "a432032c6b3a621941924fbccbf065e93e1a8fb1d28ba8d0ffdb7245f56aabd7a2ecf74071882ed4cb078777f30af8b72629ce779bc8bc83a148e196f191a004EolZue64H6YAXTJvCMBaRcYdDWw5lUe0PgziSnEUXJA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/124545/pas_foto/1683989973_aa565181-3f09-4ba0-a6cf-6ddf837918f3.jpeg",
+    "nama": "H. HAMDAN, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "6f4b012990c3eb6947f60f613c91b1e434bcd3377e026dc53482d6dc1da51496c721bf02bc835fddf90dc7bf4a25065868b85653c8633a7cbf7ad505333479fei28ky5Wh5npQLnvaoI/H5ayxN3A28hA1aUK6wXifSFw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/124541/pas_foto/1683990248_238cf2d7-a9aa-4b87-9211-8a0976616c2c.jpeg",
+    "nama": "SRI NURFATIMAH, S.Pd.I.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "1fa589592259bda5582b60fe73ec5b9fab72b25f70c30d1ba98cc9776c1bfefa24ed02033b854f334249fc168bc96d33104b9a8f3860b58e5a2eb7ff5ca18669U2pFc8q4wWZK8l/JxYYOQWxVLz4TBAzhPHZWJfp/PiU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/124549/pas_foto/1683993753_0ea95458-80d5-408d-86b9-e22a6d4df751.jpeg",
+    "nama": "HISKIA BANGUN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "c046686b3d26f4c827e3befcebb4b36fab764880caab6eda4571f952fc030943cdd8223490c3765b21b83f824156c996f27e31c78ea132287c128341bdd25e9cnVzeHpYD0L6MoyVadDwBLMy7oCxEk7GPsjuiZWhMBG0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/487698/pas_foto/1696317895_92dff96f-3093-4193-a0f5-b73c6e05ad33.jpeg",
+    "nama": "MOHAMMAD FAIZ",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {},
+    "id_partai": 8,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/124542/pas_foto/1688212426_6c6a2978-2b37-4cde-a023-de031c89ab98.jpeg",
+    "nama": "SRI MULYATI, S.Pd.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "5cfc4eaf53c013093db9726c204be36fec493fb51d59768d3bc9b501932d0b9fcb3634695b3b80de893abc73e775b3a933c9b54d2c38240213414d2f3aae2383yU/vTJhZT4WFvmAS/M1gippQMj3l2ssLWu8d3w6Afqs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 9,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/124547/pas_foto/1683990097_40beb851-c1b0-415d-b336-efd794d095bf.jpeg",
+    "nama": "H. HADI SURYA, S.A.P.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "b80d1c60f20976cac19d6f957a719166b5737558777450575b1fa2a8189aa1e8dad0a6f311d82759fd568996abe17a2e48ca6fbf4b7ea1d0a03127f294faefe9LbIz+Y62TKUcpE7Ut4US872rpEO6mr/5qk4d//uNsX0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/217475/pas_foto/1683703689_6822794c-dff9-4361-acf8-da98375760d5.jpeg",
+    "nama": "NANANG SUSANDHY",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "cd5aee490d045a7aa8f512fa88f8964ff1c5ed2dde05117dde75c63ec66481ae09a8dfe2745d7c19848f1abe96307dbfc300ce7acfe02418bb58ad10a27d8c75Uas1vVk6cCivk/oDUqQ0wPVdZKBAGJ1yLVzDlTIDu90=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "pilihan_publikasi": "datadiri,pekerjaan,hukum,pendidikan,riwayatpekerjaan,kursus,organisasi",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 10,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/234240/pas_foto/1683806277_a353bd00-f643-441e-ae67-cb193ca10c54.jpeg",
+    "nama": "IMAM TURMUJI, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "2eb4e6d18d0318f6414da4ab4a3c6eec413e1b04297c13d390db2463bfa2d7b8f92cc89c2896ca8f3bab06ebb281a2676535c35bb541af9b41a597b4f3e13c97mGgxq2MaAOK0RpV2eTwo0AKPzBF6ekl21ohrK7UWAC0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "pilihan_publikasi": "datadiri,pekerjaan,hukum,pendidikan,riwayatpekerjaan,kursus,organisasi",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 10,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/233873/pas_foto/1683807206_ad605de7-3502-43cc-8324-961c1a2e295a.jpeg",
+    "nama": "SRI RAHAYU",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "8e945490bf57f974e4aa16743709e0ac527b8797bb4e74105f4a950d77c63efcbd66a86e6d662dfba258181f87ec9e1317480e72133d044a35e0d284e670c985XrTe3C2noShUXehdCkJrbDzKrmCqsZeYB3FU8dgOde8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "pilihan_publikasi": "datadiri,pekerjaan,hukum,pendidikan,riwayatpekerjaan,kursus,organisasi",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 10,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/234050/pas_foto/1683808269_47c5c1e4-6602-4d4f-b7ab-95f5777ec3dd.jpeg",
+    "nama": "H. MUHAMAD SOBRI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "dfefd00dbb51cd1ccbaa05f23e6dee65e622d98a6413aa249496faeb0c2c527381c947835e8c3f797b3e50f21ae76881ff6ee0cf7625553de39396d13c588609F2X1mmVYvHLUKvuDJAxEdv+kK+9Db/DzW1GR3XwmwXg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "pilihan_publikasi": "datadiri,pekerjaan,hukum,pendidikan,riwayatpekerjaan,kursus,organisasi",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 10,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/234195/pas_foto/1683809621_7fe150e6-a45d-4ce1-9749-5fea064a5e65.jpeg",
+    "nama": "MAHFUL ICHSAN, S.Sos.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "098e82d5bead50e2ee0a16fc3b8ae6041a92d6278eb95a078dccc5ea995c6821af5b15245f21c973c0e35e974a96a7e92c4fea3933cd2adc496f37e5a9fbe562BPo68rMsUoAlmGHOtQCtVYYG1wUNEAn1J/zSfhmnXG0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "pilihan_publikasi": "datadiri,pekerjaan,hukum,pendidikan,riwayatpekerjaan,kursus,organisasi",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 10,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/234112/pas_foto/1683813059_13ee2f41-c548-49f1-a008-e55b616e28f8.jpeg",
+    "nama": "RITA SUSANA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "05e8e0433a337e85a62acf5afdbe0bd61c46971fae7336787064969965e39eba349b58541bf9beba33ad9d4b14e9e7ddb5659aa13fd451fe33d0296c922d6311r2evKt0Vsye86Ma3zs3KktTwbf9x/yTnmG743TCRNF0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "pilihan_publikasi": "datadiri,pekerjaan,hukum,pendidikan,riwayatpekerjaan,kursus,organisasi",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 10,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/233759/pas_foto/1683820795_6e2d847f-c427-4260-bbce-6a405c235d1a.jpeg",
+    "nama": "MUHDI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "1c1c28c7821a893b356c47ba25c8651b324f42d38f68fe0bf397763ec271e091d0179de0f2c580d7d2506954881ca0fbadd7e89c510eb14abe8b21fb1db3b9c1Vx/BNbury1YwVOSXYQWufbgsCstUaUeVn6wCeVITCPk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "pilihan_publikasi": "datadiri,pekerjaan,hukum,pendidikan,riwayatpekerjaan,kursus,organisasi",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 10,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/233348/pas_foto/1683822379_8ad88bb8-b6c0-4d43-8502-17ac54a41036.jpeg",
+    "nama": "ANGGITA MAHARDIKA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "a8d5a916995adb7ccbc7fb9395fc758810a2d3f886b7d8d7c122d36c08e1923ae5f7953bc0c7eaccae985e3e659bd1357fc9ae6d490462dea3206bdce86d27daz23Kzgddmxzv9UY7uCXWK1ZVdRdh0FUUJXUaKqyMzW8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "pilihan_publikasi": "datadiri,pekerjaan,hukum,pendidikan,riwayatpekerjaan,kursus,organisasi",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 10,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 9,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/233625/pas_foto/1683733571_fe9e7da7-824d-4766-a8f8-3c4c8ee76f91.jpeg",
+    "nama": "H. CAESAR RISMANTO, S.T., M.M.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "c3d18c62ff6c8e006160ec63e3d533132fb3403e0597a8ffff790eae865c1312f701e43d874ef4d013bdfd2ebf0cf98d871d7ba1ece90078f8ac1b0e274e6c1arVK/+HoWK/33y8e9YSJufrMpUif5dmCD8/ZGW8poF+k=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "pilihan_publikasi": "datadiri,pekerjaan,hukum,pendidikan,riwayatpekerjaan,kursus,organisasi",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 10,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/21539/pas_foto/3603180808760004.jpeg",
+    "nama": "DEDEN UMARDANI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "3455f4b56107e03e1f872c04ac49d44c921a4c7f011685e68b9f3004770c4a649917c4361057b7cd056412eac62056da7c6d430d4ea63d587228daaad2a5eabaEbG5q8CshOz+7SjNFQsTrmonBUmjwrGRNIT56eO7Uc4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/200444/pas_foto/1689319767_21dbe0d5-9191-4d49-afb2-cc7ad76d3618.jpeg",
+    "nama": "HUGO S FRANATA, S.H., M.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "bac4c86835237d652aff52c605d3b020cbb554e5026f7c5b1746f109a4d320b2313c56dac3fd0999560bf306395af94d5e41639cdbae492f45f71203ec31046dtCJYCr6FKfjhf8DRRDdjpIK3+O67UChvibnvvziqJiw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/21539/pas_foto/3671135103920005.jpg",
+    "nama": "AMALIA DWICITAWATI HARTONO, M.H.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA ADM. JAKARTA SELATAN",
+    "profile": {
+      "id_calon_dpr": "93a7b8c8091d66f4aa0f1546e13e5de5a14c22f29d11075f4dbcc80a4bd0a5023e950a6528b79783358650b334fa99409acd3f0de86ed938f3b4dab863bca5d8V/89nqzB6dF9/5NHTr2vvRvbgW3Ks2Sbzq5qKE6qw/Q=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/200446/pas_foto/1683686437_c0ee9f3d-f714-4b07-9364-9f13265aafde.jpeg",
+    "nama": "AHMAD SUPRIADI, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "e95e4b0a0aa49eefa68a1580535cd6de1c3476e37ed8ab5e06622d6dc2bb0d5d84373c1638b3bf5b77809349bc215ae81a10e79e7202e63fd37cfd9104bef885PwMAYqRKe3oYapUf82ZSObdQwmGppfojrwWa/Bp8wJo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/21539/pas_foto/3603160506620003.jpg",
+    "nama": "H. UYUNG MULYARDI, M.Si.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "a7da6ee25c750fd8d4865446b83abe4985e49176868f4d2b5e352576b31c76be615f74478095c95b2716d045899a260ac0425e097fed25e52cfb8578b49ed6a5M0Hbb15MQW23h2fo3bkscWQfiavroyIOAf2iUabV9dQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/200448/pas_foto/1683686571_9bd6f707-d5b0-4be5-b980-c6ca117cb067.jpeg",
+    "nama": "YUNIARSIH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "70b153e420b98185c9d2192fad956a969d1638361d916c5d22f8b411e25e813999b01bba0f9f00d9e24dc0f3289104f5f658aa55c64a837df4431370a0f75106cFG4mBXZ57PqqWwwoLqqMHynMZmcho86rJQ4Yf6HgMg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/21539/pas_foto/3603170612740002.jpg",
+    "nama": "DAVID SETIAWAN TA WEI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "f6fcc53c6d26b3933c5302e31f3e65f9c43d5e4c6ab5e4f3ec039fb7c0078457f41528fac5b3107612ec8df227adfe6f97b586d244b0099cbb3393372cfec63cFZ17Rvzdzhe2dxdC0LHUyMn1j9mapwPBRfnZF3GD46k=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/200450/pas_foto/1683669177_cc4191d6-0d8b-432b-9b64-a9b42187dc23.jpeg",
+    "nama": "RIO NOVELINO ASMARA BAKARA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "b0981527f7bad6404ab0d9dfc3932ed6747ac520070a84bc35086e140db0bbb28277641c825636815345617c3a5094e81fe3c90a51e6db4f780506f940b2491b63vdnvRngTAzL/JaBcwSz9McGIJGPXtAtvc7H6BHajg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 9,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/472461/pas_foto/1691652140_2c08c262-bf85-4a70-90f4-10a3f51d9d97.jpeg",
+    "nama": "SIFA FAUZIAH,  S.M.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "8a162f158cd2b7c2c97ac42ca131b21381a41d110f47576b4d650ae32fb466e6e08ee634f0d14a17668b89d1daa11270f95668332e3258a7c83091aa43e3af8b319EfUaZJsZvqzh3sPs0S0Mm9JtToJ5K6Wq9VBm/KPk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/171650/pas_foto/1683662739_6a882c03-35b2-470c-880d-3edb1d11d48a.jpeg",
+    "nama": "ELI NURHAENI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "dd78a07cabac7810e243778f779bcba83b5bbc26a230f0a45b28e5beb85e8f3f6a0cdcc82441842fe2ecfbda7a4d5eac970074fe17b83c2ff34784d2247b0711EoGFPa4MYqe7Uf8LSQHEZb9XEKrQh9CfkOI5ruQ29Xg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/172367/pas_foto/1683662921_c22f0ef1-2b3d-43c3-a22e-e05f7971070f.jpeg",
+    "nama": "dr. ZAINAL MUTTAQIEN IBRAHIM, M.A.R.S.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA TANGERANG SELATAN",
+    "profile": {
+      "id_calon_dpr": "23cc613dcd4133867d3984d4b0eb69e122b4c090a1a0eb10b42a246f70c4401a831654d22c3c81290bfc6843e2643a568ee07ca543b3d911fb72718ca4ce8a94Wu0jnzrYWIM+O/NmYQRJ/jMdSNn4bYXjUGb9e6YGGl8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/172946/pas_foto/1683663130_a4af6104-f469-435c-8b36-188cda46bfa6.jpeg",
+    "nama": "MAS YOYON SURYANA, S.H., M.M.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "3bc48b404e33eccd8b5d4b4dc3d7989ca26da8b924f01ed4f6579258bb7007f256b30f4b910b0c81230ceaade31e72afeb740e85abba9988413960fb18300c9e1OU1o9gWANJjjanORIo0s7PKyfZMOW97DZxlu5FbXFQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/173337/pas_foto/1683699221_5419b8da-d02d-48b9-9ffe-4df866e126dd.jpeg",
+    "nama": "EUIS SURYANINGSIH, S.H., M.H.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "1129400acedcf389cf2a049351b1cab08fe06aee1008b7246e909ca341f85a39589fb14f1737d4c93fa8e8b30b81e8227c3741b34da1119134dcb4d347cd63beg9iAO+F0QHUzVg97YOZrf3xlR9bqXQqZH3tZGFqIZZU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/173666/pas_foto/1683704452_f4a32f58-02dc-4e1e-87e5-e864ae1d2f3c.jpeg",
+    "nama": "ALFIN HANDIAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "a057f7c6a7a76096c0b446b9522a2dca74d9ee08557c1749a02c86906b2ec60ff3f0d4cf419c3747d913b11260b0e321e5d07e775ff803147ffa12a50f125cd1Iq1XMM+Tm6kLitvZNCxtOGO8sWLYHAyxq4iBrDtNZ4o=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/174066/pas_foto/1683664090_d8fcac84-e373-4af6-b606-caaecd2ae29d.jpeg",
+    "nama": "LINDA RAMAYANTI, S.T.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "c0e617a842d510366317e395a581e7b3ee4a543eefdae783fede0c25a21a3f191950853d4c3f7efd7b7bcd253c3ea994923b291106a2ef2d0e7ff5e2ec913d480tpVW2/p0EDa9Yy1l1tVxjf2okRPiIac6Nb0hqzH6g4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/174401/pas_foto/1683699008_835be8af-9811-478b-8110-e0b376bb087f.jpeg",
+    "nama": "AHMAD ZILLY ANGGIA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "aeec913ead7b5ab277147c973198768412b76d87e047d03fb9fce1030836095a88389a79296d7102125f21132f5b16eca2169203405501cba5c9732e208063c83D81zLGGWjMqZi/uDRoXlYoYMAW5wXiqT9b3V6BZOA0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/174807/pas_foto/1683664785_5a173332-cb13-4498-9969-3f6471e473c2.jpeg",
+    "nama": "ASRI PUTRI HERDIANTI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "a824e2cd403fd70dc4140bf199223b302739a52cf81098d61cb04e26e1b0294d47d3eb1143011f9cbe91d4526bc9e025c787b048fedcd6ac4e5e7a4751505045UzHZWekhPbn2d73IAJJozkoQjPwIWzGgVBQ/DSpI4cc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 9,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/175091/pas_foto/1683664997_5fe790a2-0fa6-40a6-9e03-2c6337e08bd7.jpeg",
+    "nama": "LINDA HERMAWANTI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "2f85d6edd45587bed5ce150986761ebc3e6f4438377ccb7b5c3a24b5424f5f1dfcc4271816bfcfb8426a0d9ce047228028b93869ef1241b1d02b6d9902fe507exhMI6GIM+myRNumvM4Mlt4FAnlXkzEM4EFzDkLu4EWE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/101312/pas_foto/1688129478_c52033c4-4cd6-4a43-965c-474de411bc77.jpeg",
+    "nama": "YAKUB",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "8fc25963f851fdc4f3542387f837cd1c1a9f561e57c52ceb0b28ef56d4ba90a756c8c3e1910fd8a7dbdabaf06aab18f42009d03cc327f9fc59b18dc7b188a154Bi2KPbzcKKcuDn5/2XECLzkOHr6mWYqJX+3cD0s3Lgk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/101499/pas_foto/1683658292_dea5843a-a9af-485c-984f-664808ed040c.jpeg",
+    "nama": "RENVINNO ALDIAN RAMADHANI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "6dc44f189d5d923d9722df9d62725ec8fb51393569d09fd9a4ccf2e0799b7c959f9bedd108b2fb11d003faece49c3ca8872867447b4c7fa3451bfd095126d9b0sbRSzBIsmGAs7zWV+aARbmvP8R/dpbxyrHPj3rG3NJQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/101745/pas_foto/1683659055_042590d8-5e35-4061-9b3f-12a78a678f65.jpeg",
+    "nama": "ZENETANSIA FRIANTI, S.H., M.H.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "4d6b90545c54e6058383b35519e2870b357eaf8f5be6fd999201c595ffa9d101a2395b43bd3b06abc68f39806c98e046005e9e969d1d07a34bfcbf158fe25619uthShoUqzwv/g75zR8CTzNlzI0wkC63S92y4VGB55Yc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/102360/pas_foto/1683616307_13a5b5ba-778a-42c9-9586-4f9bf474a4d6.jpeg",
+    "nama": "MUHAMMAD SAMCHONIL GHOZI, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "c22712ce09c6eff5aa9e0de9da74a0a081da762ec6bb78b424190fc165feaaaa55078d0f917966be3b0b9c719519d087b7f93fa970a753c8a33c6df4e87edb68cFKPieE7ULRQOgYYB/TFGcj/bZvRc4uAjqnl8GbFb9Q=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/102019/pas_foto/1683604331_300a9c81-aefa-43be-885a-2588455e02ce.jpeg",
+    "nama": "CASMUDI SLAMET",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "1187286b75b994eea29bf803b407247051a7e9dbd9be34821b4ead0fca5fb24167fa19cb3ec462b4c43c02a1da0d7f89b29b39ffaf0896f9609748c4554ebab1hcrYpV0N+xZhHu8HPhgjiLUemE/fg/a0mGwSwn5nRWI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/425338/pas_foto/1688132801_a547e2d4-c6cc-405c-bc52-4b8bdafb301c.jpeg",
+    "nama": "AYI ROKAYAH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "0199dcf57d85cfaa8a919075624cbc8b9a23a063c93a0c56830a35daf27efa90465edfdf3dd66c1cc807a4246ecde25045c498fc3248cf052839152abfc6864aZu0Ujo5UspUY+AZRFXtiJhg93bov/C+K3H2PD2iaKYw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/102743/pas_foto/1683621135_df6d7101-9aaa-4d74-80a2-d547ca223eb3.jpeg",
+    "nama": "KOMARUDIN, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "c7ed860da09d60fbbf7a6c470e1619943a8db95e47d2b9c4cac721e7d83cc335ce62da1e0ebc193eb2690b6191d90b402021e518e249113953173f7b96bd3b63Vp55Cnynal4cQgSKxDM610xIgGkHgk9Oo4RrrEDcqFc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/102884/pas_foto/1683628527_3146e539-6f5b-4e50-9479-ea15c09f62bf.jpeg",
+    "nama": "HIKMIE SYAFITRI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "3486d9c88e036e45df61bbcdc1fbc55b219825745ee2ba978d4db1dc5eb436020067d6b9ce7a82ef827e154570617c6dde6c5d81c45c3dceba22b639a13f0458LjkwOgwClJ/7Eu92+5PGtAvJmh4wiD9XUA3KFKoTl8w=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 9,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/103103/pas_foto/1683617187_066a20da-cb30-48aa-8474-9e779ce8a75d.jpeg",
+    "nama": "EDIH JAYADI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "e173634aaca6e75d6338ffb83104b6820b41566679bfd6aaf61071c564627d74928703e8fa3c467e195f0ec5184495f17fa1180a00d94ae3abe786fa092a4854yOAeh/VyzxmWhntaoL6HEOHxEWitHd1yn1g/dLMmhcc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/379592/pas_foto/1688294467_47a38763-86ac-4e5c-80f3-c85e856d5ce1.jpeg",
+    "nama": "BAMBANG SANTOSO, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "538df57999517f59d53078b9e1636523ca75a4e27bdb5dcde200cafc7ce7cb683b5ecd83cc25eac702bc0f1008e9b04d613086e2381780ec0534f15434609dcdR1/peTZXPt1XFrO0frhYSU5JqLsKTTEBEFf0dByyvmE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659959325_LOGO%20RESMI%20PB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 41,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/379594/pas_foto/1688294513_591ec363-615e-4153-831c-fd50bfc1cca6.jpeg",
+    "nama": "MADROUF, S.Pd.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "8e0fa0c7be6ebf204ff67c072ad50ae359b08dfc86ba79a3bebb4ada0e98032be192d09ea1835a0e1f3546848ff3e0a17e75bcf8a769ae5cc69b8583503774a5cX7uCMGxshyrcBh1IYFqhZ29OA8nbHhbibvQ/kQAzRc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659959325_LOGO%20RESMI%20PB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 41,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/379596/pas_foto/1688294567_3050e70b-c14d-4162-82fd-941c6c079401.jpeg",
+    "nama": "MEI WAHYU PEMILUWATI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "498d138ef35ba342e2bd5411f0178105070b8d09e8f047deebea3ddbcaebddc780be82c9e4e462a1359f38454b637d256a3b81086d682630109081a51a03ac4cFsAfIQQLUfqCvFAFt/m14DGBzCinvkUbAYaCx4tPvww=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659959325_LOGO%20RESMI%20PB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 41,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/379597/pas_foto/1688300979_ac0dfd37-ecbc-4001-b487-2af2c1e382d8.jpeg",
+    "nama": "BUDI HERMAWAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "d0e0d22df23e9ed01d1d889ca10f74aee01470c4cf534c4f4e7b7b9db02cb5973faebe6e0f883495cddb8118facb1510121cfda7ad4335dd364a2e72daea67e5aIemxB4PoGTL4/7xV9rs7LVTSZ9PSmsRE/1RVHBkrfk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659959325_LOGO%20RESMI%20PB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 41,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/379595/pas_foto/1688294670_a54a8b0c-e8b0-41ee-b41d-1d50d34cff46.jpeg",
+    "nama": "TONO SUHARTONO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "b16bfc333017a59b9c389ce4d047b12bd0b656569e3a59bc71a49bfde53ff5cf28d4e7a7e818c47812033fa89976fb24d6d3fe00a909d79b34b700587bd41eb1GFrFqS5Sl9lTF6gz9CWqNQfSBdzcLSS4VuzE9Ex+yhc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659959325_LOGO%20RESMI%20PB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 41,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/424942/pas_foto/1688294716_9c3fc5fc-adec-47c2-81f4-2b2673a9a8f9.jpeg",
+    "nama": "RACHMANIYAH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "f86eef076f50317d3b31bc12be5c6d9536894c400e3d1999d6e233b9cb150e712ae8208fcf17c49ebd4ddaafca988e416a471bb7ca1429f9bf485881e88236e0Y4yoqbQxKZ0bHu+4uXD8pmWVqlbA2BpIu340yGETDZM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659959325_LOGO%20RESMI%20PB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 41,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/379591/pas_foto/1688294807_3ade6a7d-8d70-4a6e-8b29-fd4af0c2d36b.jpeg",
+    "nama": "ASEP SATRIA WIJAYA, S.T.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "2b6f89b6268f2f23d2ac55675d13a9b54dd3e01ce6c50593952e79b04dd49fcbe6291db804c969fce7a0811874f25dce6f0bfb207b297f91e6b3a67b38573857dCzkrfmzQHeSQ6ml5B4PtZDOCIZswF0Jo1e0bk9YZ5g=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659959325_LOGO%20RESMI%20PB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 41,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/430554/pas_foto/1688451735_0c893b43-78d1-4b02-a845-c84ac9fd5c60.jpeg",
+    "nama": "SESIL FERDANIA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "77eab96383a54df113b55576cfc4fa212b70ef1f63d7d2069e706375d381f68170ba72a0b959314e86e53138b7756b5b4cd043cc2cfcd50a89635c212f6f0f27V0gaWo2kthFbNTHvph5/eD1YvMEamRXSIkF71mw+1gw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659959325_LOGO%20RESMI%20PB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 41,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/394874/pas_foto/1684170453_262a2d0b-2b09-4971-adf3-3e0473f8caf1.jpeg",
+    "nama": "AHMAD AJIJI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "e44bbc68da1d2c5aef23d16e6c18e33b6a63a858d6fdfb640ae7603a855525332a7d57d21beab1f4ff5bc486b04f55ad3519057acf7f7256aeba973dd3c25900YtdRBx2n+amY1Rqdxi/pIG7MwUpgojIOuZuV1K+It1U=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/394875/pas_foto/1684167932_93239737-e29e-4d70-b59a-d4856e507e92.jpeg",
+    "nama": "H. IKIN SODIQIN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "e9862b9ede1eba2352db602ceaeabd532a34795f4da3914c715fb34905cdd8937c28a519bde6016291b7c78712fc257d6c9e9785d617641193839fff8303ea40h4M5NeVIMzdLnS6ibBN/qgLy163XFhAZwpqlQyMt8mQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/394876/pas_foto/1684171206_6d69fbcc-1aa4-46d4-aa38-a177f1e57ae9.jpeg",
+    "nama": "DELLA ANDINY PUTRI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "66cf02994fc7e14437f71cb932cde9f3240f2afd40032b4ea424b5c44872b51e97a286074eb0bb71b953ffd694b7b6baf6d8b6bd33d4cbd9f97d6336eed1bf01rhlY4T0cuICG6dmibYxdk6AworlZxfKkXRhao4cr6Xs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/457356/pas_foto/1688833894_727e50d1-479e-4894-b81f-7e3e2f98d929.jpeg",
+    "nama": "HERMAN KURNIANTO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "da9428d2140eaddad6cc604d9f84348de0675edd573e52af46dbfc15ffc9bf25b50239a81f7a5dd317e88199bc885a652ea89354252d2ddb0485ca82499abcf3Y4NVsO7GRkGkqD8/BRFZdZAGgCN4HS+ZS9SiKi0mx1E=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/394880/pas_foto/1688088134_13db1ad7-71c2-4881-b111-8794defcd6db.jpeg",
+    "nama": "ELY WIDYA KUSWARAH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "934d4138f841524fa243ef2b905155c10ccc25bc444a5f7956c57f355f48574877dc52ee58c9f982883a665e2210f0e76ae07f6cdc2741a88c75a8a0f07fdbcdx853yQqSWMnhUUWZf/GA42LQeho6xRQT093WsAwFon0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/394882/pas_foto/1688048896_d9f1150c-27b5-45a2-96cc-4ce1269bdb01.jpeg",
+    "nama": "MUSLIK, S.Pd.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "1b5ffe1ea9fb582b9e0a87318aad08ee2bdc3ccd8bf67b32c9f4e301b51ca7923f40e19c0338a8e23963da5d428f1843dffa4808c414e02065c14afb7f279098Si6Dhe6oWwW/hB198JjZfC9Xy+q2Mx0gZ7Li7MoP1yQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/394878/pas_foto/1688086014_b6c784a0-d953-49ed-9f12-f841dcb0786f.jpeg",
+    "nama": "ABDUL RAFID, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "ad512eac5ca5d22bd5023447b9beede8512222ba45e1484f59508d6fbe04c684b731829de1b6d02f47033700812fa4a9d7790a26c7881b066f6483b7493d8f2bPWwmEasRf/bJ9BCdURG+TsdrcJqZehRdJqo08Phe77A=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/57177/pas_foto/1683619103_d5a11da0-25c5-42c0-9e26-ea137dbf00e4.jpeg",
+    "nama": "NURUL AMALIA, S.H., M.H.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "f4e74be6322f19d66b8e7e9876dc37103bf2b5508108a88fa39ea870c7db1d958df586e8266fa431925b51fc522292ee4ef08a5e1f2c75e0e8bf44cf149af62c4VxnQYiPCmG3YoENwNq9WJ6rG8ns1fNhQ303IEXqG/w=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/57214/pas_foto/1683543418_2089b095-52fb-4aee-a40c-27c0585d5b59.jpeg",
+    "nama": "IMAM SUCIPTO, M.Pd.I.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "c9c97a31ab02c6b362f903e7930668892b44b7d226f42bc046073259391891c94fd59c427c3c236eee609c429d09f8c6f6c9f1600ed9c24699aec71b45d8cd6by5Xmfc1mPHiP2F+wZd8/E4Sa5fVMaTdg09KuCbJFmJw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/57211/pas_foto/1683543579_2d823e52-891e-4249-9e53-8f66f2bd90e5.jpeg",
+    "nama": "MUMTAAZUL 'IBAAD, S.E.I., S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "b12782ecb0fdca721cf5fcf6c6ef28c4b8260cfc84fbc1a9c052795c46a96de5bd411789cdde40464b5d67fd63406cc9d795f9d9e73be315cfeaf8998e62ed10bpNpgroW3VZlF8VI845NeVNMiAXPqpQ8StaHOocS/Wk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/57217/pas_foto/1683613461_7bf0c4f0-6bf3-46a9-9aab-5ed2064f671a.jpeg",
+    "nama": "BUDI ADI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "b9aba77eb89ec555c918d33dc857aa31cceb46dd28ef6dd5371accecf4675f28b6c93e2de6704e075a07d0eb97a8cf2c76bfd9a302c3b7e20c1156d01569643dQe9rC7/r9Emowb9BEHtUhYvT0OWn2rAmjw1G4Ag1oeA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/57218/pas_foto/1683543534_41d967aa-43a5-478e-8237-dea14499cf25.jpeg",
+    "nama": "UJANG SULAEMAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "afdeb4bd6ad8f3cbcd72bb3fd5c8ebf071e190bcdc476cb1b9be09eb23b7575418fdcba33b3c782426bf633bcdbc17cd46bb27cb14b8e293d3ca437b5a28d2e8/UbxQS+oKuZe4rL7StRVDVBZYJfakqVNYRT3s7VGAGc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/57221/pas_foto/1683543479_08105a69-7ebe-4b42-b42a-7e8f5f53fa95.jpeg",
+    "nama": "MAELANI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "ed0d2c38ea53350b95b90a14416e68e461c83e5f5e22699e0ca274b2b33700b9fe40ae958d2c4a6045b68fee2ff7e9a3c59473fa93b49221d1192726d361143ciBKRuHQDjpyCHYShQ9IikLRWaEP2F9ugHGviSqwFbcs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/57223/pas_foto/1683543506_d8851fe0-9215-461a-910d-ca65c01b73a4.jpeg",
+    "nama": "FERRY REVIANDA RIVAI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "6e68842a85891c5919d3834bb575882ca8a4b13606cf87717c908e11beb4ef8590cddc019c83bcf6e7ddc1a7b6daeeeef30e02e34d1de54e058c12d9766acf32tfOhYuDFK9AJns0Pc4PDH3puQkBa2LMGLwE9Qij58OM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/57225/pas_foto/1683543551_faf1a1a6-8e0e-4c0c-b2a6-31cc199797e6.jpeg",
+    "nama": "MAHANI, S.Pd.I., M.H.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "235e8e7765d061bd2f7e7f8e6e9c2a80aba44f430c5b1ce4dd0c281490a3353eae56dc186b1281cc3d80f5b643c87ed2806d7e3b705e125653ca690baa784fae1oYz3THbLiJCvBJr5cEhpwLyzrtgNTe19QXdLsNUvqs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 9,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/57227/pas_foto/1683543361_26ecb43a-19e4-4534-a2a4-6e0924913af7.jpeg",
+    "nama": "AGUS SUTRISNO, M.Ag.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "b6505756402d726382065dee4266eb32d7273057dec4fc824afc757e826d07c2b1e9050920272b5738fe0192204d1063e7b55f0d1e1004f5515ce4c1ba8baafeudMZDlu984WR6ceLLS2tsvkSjGAdq9lI46KZm2yc700=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/461365/pas_foto/1688881530_c6b906f0-5d9d-49a0-b697-80cf90797a68.jpeg",
+    "nama": "DAHLIYAH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA TANGERANG",
+    "profile": {},
+    "id_partai": 26,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/56347/pas_foto/1683689221_6a0c1fc4-79d3-440f-9a6c-cbb4fde86045.jpeg",
+    "nama": "RD. ACHMAD AYI ZAESILAH, S.Pd.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "06259ba5bead88cc9b993bee6adb945b7e21465cbd22b86b812c224eeaf43d10064a6c71a0f99566a51ef4f15a597016ba21d97c99ee8d803a9a8200d4a786ecmt/ehFdmNo0u8MzGGLTFfQsGwK+ZOlXkrqTkqudBYrE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 5,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/56014/pas_foto/1683694497_6e5133ff-0997-4764-9b1c-8709c85123f3.jpeg",
+    "nama": "SANI HARIADI, S.Kom.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "00cf9b2a53a5d9bd4249f037267df675002a090cf1f59bab6b987f8562da6d821b543517969e07c7c24804ef1db3ecbbc5a29999c0ca86e8cf129fbc7b91fe2f/UCaJMC7h3vrnv+6pGPl8/9WPdf5N18L5SsXWnldczs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 5,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/79339/pas_foto/1683773753_ce801178-3f43-4628-bb02-620c3f850586.jpeg",
+    "nama": "MUSTIKA DWI LESTARI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "2807977c5e67aefbd7be718e66add74def4d50a21a411c77e8f538e679a7cc2fe4263425a29cc56dedcbdb678ad224c4aab202ef0fe8a5800ae16150f82a03e63fkPXkDWgih4B9vYhCY7DGd/YKxs27ZZ6+MQTJJPJMM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 5,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/470795/pas_foto/1691590284_6a2a093c-6fdf-41fd-8844-51850403c799.jpeg",
+    "nama": "SARWAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "37c2e1d46d12e2b4b49ef2889514081a0184189bffe589aaca665555d8d55a3ce13b4f944001df8694f47863d4865ea14eaffc15cc018cef38e5b8c54e92388b5IQocODf6wokpJmOefqRptYu+dAH++acxAi1VrAXYic=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 5,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/56282/pas_foto/1683604331_77c7a7f6-68d7-466e-8858-9cc206cd023d.jpeg",
+    "nama": "ARIFIN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "8d0861b8c672b3f20a98791230717a093b89c57db51703ada1882bf2efc5c14606e0a2f3559a47e689e78de316f60023b26eddc8c00cf4fc3785873c7ebd280d5DyCq40CJFo048JvT7jOTiKSFJEW4NIh5dP6nM5P15w=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 5,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/342881/pas_foto/1688237610_0b4f7f4a-75bc-42e6-b445-fec87d523244.jpeg",
+    "nama": "SILVANI DWI HERAWATI MURBAY",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "feb577a5c659db2f09ff1ffd465c13068f53c7087cd87c0388d5e73053d0170cc9102b157e655a9a1da61b01383c82cf96bfc4b5fad59725f7633e8ea3dded2beJWi8WbfYguDvEJ0L+i7XBVBdcsg0VkA6X5quKY6lRs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 5,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/86386/pas_foto/1688591084_0f47aab4-8b95-47f4-8f38-c1b0cdd082c8.jpeg",
+    "nama": "MUHAMAD AKMALUDIN FIRDAUS",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "aaee847e917bcb299b1ef5ac9609cf508a839057f5621eeb416b15bb2028c95c19d025f9ed2052dce01e6b2380898d51e73db220414c1a1582eec4feef0a5d96gjd+RaMJf9xNjU09p1z8Ga7og2mbcnbW1JuXJYOxoUY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 5,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/341845/pas_foto/1688255931_e088ee68-a069-49a3-b056-4ec10ba4e08c.jpeg",
+    "nama": "LILI SUHANTO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "edb70052fcca80e7f8ea7d4f01b8015700c427120a070cb02fea2457f9aee8a4325e1a1ca678a3a623065db22457f8ee57295e0fd33a9134d9d9bd10f67dc90aIlUQMj/p7rJQF6E/1m6Wy4zQwdhMNkdlw66Kpk8CM+w=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 5,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 9,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/453138/pas_foto/1688804743_aec7a7dc-d969-465e-9197-b330bf553684.jpeg",
+    "nama": "PUTRI RAHAYU",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "f636e17d4259f10288553d16ef50e7d0dd410c07f8d46f82a1b9411c306f85189295fac857d5f9a28b4ee4a8e6e4d168529904ad1adba17bfab32de4d4ab2fa12oBSG0f3OJTQd6EDk/fXacwiMHD/1s/gsVWnTw8V2YQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 5,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/111900/pas_foto/1683428547_c3cb5306-e039-4320-9ff2-8bd75cf0c0db.jpeg",
+    "nama": "Dr. (H.C). SRI PANGGUNG LESTARI, S.E., M.M.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "a84140ca487bdfde5f7f79a62b394df59233793865d8a455f43307f4607e3d7bfcf16b2ea151311ea518899532f84b6ed95a83d69e853752a8aa46c39d8c3fdaICqgSOZE0Nu0TlsviycoYbcaHWhMnW80J+sa+wyvVPI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/113610/pas_foto/1683754287_35d1b96b-380c-4b11-9e43-c44de5db0326.jpeg",
+    "nama": "HARMEN SYAM, S.Pd.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "6b8014788d69c280914efeea520a4902dc5576060b856eba4c3a665ac5412d6db6e0fc0efd0f2bfc6bbc61e5db83038f511a6f2d38070caf9dbb4fda25eaa2abgLt6wXKOMZ62oYEvjwjyFyXG1mlpuZRZLnFLidSiZgc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/115209/pas_foto/1683752085_e88f0bc7-5e21-4db7-9f1a-3d431750c961.jpeg",
+    "nama": "CHAIRUL",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "8909366150f442f2b488b6fca3ed68ead2e7926234947818e2f464d15f450145a54b91dbea9667e2658b9d192edb9ad50281b406d5095dd550cf5e69e45a8157B1Yy1bsmQ32HP/WXS6miDk0kEqCEITk0ZLjg1/VRONg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/114594/pas_foto/1683712180_967ae61d-0515-4110-9751-d177cfa237b1.jpeg",
+    "nama": "H. ENDANG SUPRIYANI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "8ea1133b8e3d051edc10d5abe65b4e33c38ae4aa478dd8d05dffc8060e7e471af65d9b8cafcc3278a3ecb4b53f8c1a706d934c1460788dd7474a4afe2531e470PP0JCZbyDsRwMg/4LHS0Yy1eEVZCFdFSTc4r/Z0e3Os=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/131827/pas_foto/1683752272_7c775f61-6290-4b8a-92c9-d3bb3a23fa76.jpeg",
+    "nama": "MASLAH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "97e509f45006df1d2e3db5e7f9d06934f606d64f84562c3c0a656716c1822e7b93bb5ec9e4eae59aea4581709932d7d2b4f52d2b44940db7970a1e9b651a46beI3B0ZeLpK70pvUXFxN2JR3P/WvdY/45XoqrnOrvdPcc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/115493/pas_foto/1683752819_b20b4f49-83c9-4cf7-8356-cebfad02a01e.jpeg",
+    "nama": "HARYATI PERTIWI, S.Ak.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "dbcd6c744b0f1e088364b4804d16460213df3539cdcdae2b19a83c589cc8eda90178e1484c50315d04140ece5c4161bb7a513fd183ceac4108afa0315befd6b90NV0Ab0VtgOXXJONLHAnreROXNnnX0Dbcuu5knvS8YI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/116066/pas_foto/1683768667_71038ac9-bd1f-4e8d-bac5-cf23f34a0c49.jpeg",
+    "nama": "MUHAMAD RAMADHAN PANDU SAPUTRA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "081f57e64078456df66ad87c74806ad6ea70bed8efd8053529a2345a5481e972406fc5df2cc08455548de4614471650d125287d465644f7532c9186bc0642919+LCPyglyj0HBjMNQhCfUEy0WnfHChHkPPs9shUIqu9w=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/114344/pas_foto/1683795052_09fd27bd-e386-4414-a5b1-091ec605fc87.jpeg",
+    "nama": "RATU PEBRIANTI KOMALA DEWI, S.E.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "b4c9e56edfae8af1abcbe03424c74a13e0f5c88099a3c88029bee8c47a63204367a70cf6571ab6ee5d4f3029813a039a4071e147d710f7dc15126b5436d32bce2NmBGukusBa/tbeD8Ji/UrZidQeZZAG3sWrD3vW2vd8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 9,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/116754/pas_foto/1683768416_1b90240e-52f7-4d3c-8430-9adc52d8aa0e.jpeg",
+    "nama": "ILHAM MAULANA YUSUF",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "3b16269ed9a7f074b08121526771517f12ae17fbb684334a34d1c9a4481941e3071ab4ea41b3b4af2b03e7c4115134fecd6d38dc53ea59a5a0ae231471901b36hSiBxuUtkW6okQMs6tYcfzp5Oj8e5PDqe/c5lMsYAOo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/47519/pas_foto/3603170907720003.jpg",
+    "nama": "ABU BAKAR",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "4cbbf4340e3aa3f36b44dd788d726f8b8c90e6b3ada3238157c8ca4b71bed7e835682194ca6b00463c53e417d453321c01a45d8a7919174827dc3c0bee93c78fJq4Wg9g9gPwhtsc3noESvDNC2DSIpq43O+BGzC1Rbps=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659262742_LOGO%20PBB.png",
+      "pilihan_publikasi": "datadiri",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 74,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/47519/pas_foto/3603186301720004.jpg",
+    "nama": "EVA SUSANTI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "edb1b6f6b807a285ed543821f9bff6f571bce2fa84d607c37a9c83765285981b75b8f15f9e8198e772021cb6f8c1274b32d0cfb8c2af97b54ea33a4368267d95LCR+M08bnsYSSiZQK/AfK4vj42nFQimA9MyWC99Yuvo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659262742_LOGO%20PBB.png",
+      "pilihan_publikasi": "datadiri",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 74,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/436474/pas_foto/1688578254_65e506cc-eae2-43eb-86e4-9d199194d1fe.jpeg",
+    "nama": "MIMING ISMAIL",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "4ecfac5e36227475fdc79c3762b22e26443d8d958e627a44f3652d09c9841c3fffb4517c77b645b14858e669f0c07c949a1a869b1161ffa0e91a3fc4af7b463bB/iVAsiFKlJsgvDMG9CkSmF2EoKWlR7Ji+UQC2FBhlU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659262742_LOGO%20PBB.png",
+      "pilihan_publikasi": "datadiri",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 74,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/96675/pas_foto/3671035707700007.jpg",
+    "nama": "NONCE THENDEAN, S.H.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "360904a703e2563d4a7445e3d8e0faf92190a4d6372d5151e790822150bedf418960cb7df5210233d44966ec118fb17e50fe3d18cf2bd300b604e6380aac2210Vgx3F7OCCftMW/xzXyFMtuv+8kD6XS7ExgYmdd4vTPo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/96679/pas_foto/3603180707880022.jpg",
+    "nama": "ANHAR, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "5b6f6d55d0c9455a53214679d9c9210eebbf45d25d24d3a78bfbebf632cb40a5496e371cdf013db96dfb0275cd9cb424b48063e0aafd0420ee394c93f17be45arqJNIk8oL7Glns84MLhz6Jub/VVmXnH+3FULEEY9F9A=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/96975/pas_foto/3603180106650002.jpg",
+    "nama": "MOHAMMAD EKORIADI, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "28386cf8c7417d9de38473e881c3884d7c95e05c3a666b050f20562cce5c2521201dd27ba2f58890191e03e635271110e792da12268cfaccddf98ccf8d940fc2rc+qnho8HJh+Xj5mXKCN77Q5XoXIQ5sdy2tFtfi+HUk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/96685/pas_foto/3212236301000006.jpg",
+    "nama": "ELMILYA ASHYFA HUTOMO",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "a6a2c9f505d3b33e8a533dbaee2cf3cec1a1793a15db420ac0742bae1c2dcdae569819dd020a0c1a5c1a8baa6bfc5685c414c6262ae8cf7c615d2a9eefedf806rd0sPo6ZVyVSi0E4LlKbJ7jD1/e5qTOFmQ9oLGW7y7w=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/80863/pas_foto/3603182206740007.jpg",
+    "nama": "KUKUH WIJANARKO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "954775fcb0ed33957605f88a732a14561287f414e804432fb888a7a76f58c441815d7886309f0b60fdc3496f2d952e9036208c53ea13728eefd017eff02b7a4dXWn+/nwfzbB+Fkc5AyMkKyoc5Mr4XoOILgN2ejLOvd8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/80859/pas_foto/3603171708670004.jpg",
+    "nama": "EMAN SULAEMAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "87ce1959ea9f8d80fb0d87c739ec580a9869df070f183d8c6075e054dbfdabaaca90297d6a2b87bef9e8114c32b037e2e69699c7262139aae4f6457451823c1eIdfQcrGplyYpv3M1Lw/ImwfJNeH/p5/dQt0ZxVAOtFA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/80856/pas_foto/3671126709720003.jpg",
+    "nama": "TUTIK RUSTIKAWATI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "3ec2f541398a02f3ee1fb45db65f8899b2885a2593fa817169088cc52702634dca0625d0b4bdf6ac30ddbb27419a43845306ccf1b4e83a5cd2e8b6bedc97d4f8iWn9kKK+n0msYKWb9mmQduUgKWRBa7+/kOWNyZ0UhIs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/80857/pas_foto/3603191305790005.png",
+    "nama": "AJI KUSNORO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "d83f9fa03f873538071de47426437a0d63d044df21ba439e9d273cda854a9942c3dddf53fe137d10be1f1a1a02abef9c1684712ac79d5c42f84ea1a2ade9aa19e8++/qw9vGYrUvCjPWDEKFq24IlYes1F6RQ8OJ0OYCE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 9,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/96689/pas_foto/3603180601770007.jpg",
+    "nama": "RADEN DEDY EFFENDI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "7e622a9d09f38bf8c67b215783fea5938e4e1b9692fe21f4e05b31d288d83d3847bbccb56745871729795a654e2abf69d2eae68dd27973eb688eddadeef68da08gP1G6Z3Sz24guIIZMCyCfnG7xwNOHhM0gLNOfPV/0E=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/191584/pas_foto/1683640194_7f5382f7-abdf-4dcc-a651-cdadcdebbbd8.jpeg",
+    "nama": "BENI SUGIARTO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {},
+    "id_partai": 76,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/191921/pas_foto/1683641062_38106f5a-f30e-4c76-9f60-03de88971364.jpeg",
+    "nama": "NANANG SUDIAR, S.Sos.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {},
+    "id_partai": 76,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/192485/pas_foto/1683818073_3067ac72-8260-4029-8ac6-9d539b4090dd.jpeg",
+    "nama": "WIJI RAHAYU",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TANGERANG",
+    "profile": {},
+    "id_partai": 76,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/192693/pas_foto/1683642401_b14986f3-d193-459b-949f-8195f4465b70.jpeg",
+    "nama": "INDRAYANTO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {},
+    "id_partai": 76,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/188521/pas_foto/1683634347_50a6a827-0440-43e3-ab3c-7b5a962123f3.jpeg",
+    "nama": "SARKOSIH, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {},
+    "id_partai": 76,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/221586/pas_foto/1683818691_c5514cc2-1318-45b1-8669-451b3492d8ff.jpeg",
+    "nama": "JANE H. PALAR",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TANGERANG",
+    "profile": {},
+    "id_partai": 76,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/176739/pas_foto/1683614297_4825b0d8-2304-4263-b666-5fd7c02ab5bc.jpeg",
+    "nama": "JOKO PURNOMO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {},
+    "id_partai": 76,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/182494/pas_foto/1683624893_9f6d9320-59ab-45ff-bd0e-b64042cbdd94.jpeg",
+    "nama": "DANIEL DAVID CAMBERRA SIMANUNGKALIT",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {},
+    "id_partai": 76,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 9,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/193035/pas_foto/1683818263_0558b59c-7f96-41dd-8323-b2096ae0ac19.jpeg",
+    "nama": "PUSPITA SILALAHI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TANGERANG",
+    "profile": {},
+    "id_partai": 76,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/286197/pas_foto/1688743496_d7b8824f-1918-4733-9a52-71f41ae3406d.jpeg",
+    "nama": "JAYANTI PUSPANINGRUM",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TANGERANG",
+    "profile": {},
+    "id_partai": 18,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/442880/pas_foto/1688701949_2c662dcf-bafb-4551-883f-3a2671c25c6c.jpeg",
+    "nama": "HOTMARIA, Apt.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA ADM. JAKARTA SELATAN",
+    "profile": {},
+    "id_partai": 18,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/117458/pas_foto/1688292270_c5583670-db55-4de3-85ae-e463880656d0.jpeg",
+    "nama": "DEDE DWI JUMADI, A.Md., M.I.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {},
+    "id_partai": 18,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/286072/pas_foto/1688480936_c1c3e5db-7bec-417d-982c-fee609c21631.jpeg",
+    "nama": "RAHAYUDIN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {},
+    "id_partai": 18,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/116231/pas_foto/1683698636_1f48c937-95ba-4583-9422-a224d304f021.jpeg",
+    "nama": "ANGGA HATTA PERMANA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {},
+    "id_partai": 18,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/114878/pas_foto/1688643527_48fcbc8d-8a57-45f9-9466-768eeba68232.jpeg",
+    "nama": "LINA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA ADM. JAKARTA SELATAN",
+    "profile": {},
+    "id_partai": 18,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/277080/pas_foto/1688553335_8b12afe7-4d03-40b5-887c-03fe5b60fd60.jpeg",
+    "nama": "ARTAYU",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {},
+    "id_partai": 18,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/474513/pas_foto/1691680067_13e7448c-4c1b-462b-a2d9-ba5a61bfc39b.jpeg",
+    "nama": "MUHAMAD SAMPRAS",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {},
+    "id_partai": 18,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/114370/pas_foto/1688470780_ebd74208-2e9b-4603-a43c-2900d369ca32.jpeg",
+    "nama": "AHYANI, M.M.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "cb5358e5743fbb25baf096a7fbf5afb7a26496d524617116c7a0eb17dd65a1e1f150c679cfd92286c482eba0e5823ab48e8fdeadb9b7cd45dd1e7cee321a5eb441bmGljapVNwmQa+k0bc129JX9HXv4edq1SxTsZ44F8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/115613/pas_foto/1683438092_2f03a626-0c19-4c23-928b-67ce0a0280a8.jpeg",
+    "nama": "TIARA DELIA NATASHA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "7ee64e40f9d2d2f5587ba5f20e5b58a049c03113ff8e108481405b6ceda5177813a0d7939f1d8b1f06e66dac9d66391f978730a26ccaaad51fc727acdc22437fbaSdsccntwMxIOJnfUCjUtkoqjDtgTtGDQIX0qtOyzk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/117711/pas_foto/1683519063_ddd74433-1b4a-47e5-86ab-506d7bbcf630.jpeg",
+    "nama": "MOHAMMAD TOPAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "b8edc28b3b47d20906e9f3e9e75816a5a5e2872d36110fee827586478ef5333fb54177f4a1c608c88f2d009207068636665eb6fab1ffe7a925f96c91b093653fSjstQuJ+Gmp66mVtUiSqOFK5fBNanjXNVUdvMkxtT9E=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/119282/pas_foto/1688475824_5036f162-c461-4797-86e9-e591a6ddf564.jpeg",
+    "nama": "H. MURODIH",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "c0689fd8908bc9dc059b46c16b04f005e581faa57590731476f324d43db71db1691c0e1269b5c081ac662d730d7427d0d6444581abebaf5851741633b4ad7d948CCvTrq8173SAQajPu3TCWU09q4GnY60amx9sNYM0M0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/117358/pas_foto/1688473872_1f887985-9dcb-4619-87aa-6a3352d31a4e.jpeg",
+    "nama": "MUJIBUR RAHMAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "c5d9a997af33704cb5247cef638378237d62d7162ca53cc46448e6744f606e77d8ba13780a9f9867a85578d448ae9dd1703b5c927509d13cc142b0ab99f99e5euclY/9hI9nHZF9X41rTdbgQ14PWxigVA9uo8L/ir22U=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/118167/pas_foto/1688474771_12936c89-1f3a-4401-a2dc-e4081a5d21ae.jpeg",
+    "nama": "SITI FARHATU WAHIDAH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "e6258328250e364a42e56992ec59a3043d71432dfeb16b0dcf1da4bacaaa93feba0f5a6b42e495a80b71473978311cb398a4e604087cd8e1761affeaa2acca92tU1CUA509f/9xoA5zzUSjsACBs5zmWwIlpvdj7/NDqI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/118708/pas_foto/1688475107_27e12da5-0373-4eb2-818c-a55f79dfd45d.jpeg",
+    "nama": "NANANG SURYANA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "82baaa5936586f3305d88f16e68d0ade0b470eb923df841654dfe2842362eed177b5234eb9fa3b578f0cb5a058e36a90dc929e889a187772c533b57303185d33HCqZn7AfarQa3sBQSOupSrnrFAIFUMNRIrvNUbyXJNE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/119928/pas_foto/1688475348_5bea0452-d71a-403b-a05a-2c7e5195c372.jpeg",
+    "nama": "LISNAWATI, S.K.M.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "9d0a422c92ed4cdd07a3af52cb8491c896cdfdc79b6f4861636c9006ac47e8f977372a47a31121a5ceda7ba75e498fc9c4417bb30b415b1acb7268d7b2db8e4cJF56fYVCiut+UiuUu25oF6rOCHEhRDnQgCCjdQMkK+w=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 9,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/116402/pas_foto/1688471385_a69c1bd0-0266-42ae-aa79-a975cc158467.jpeg",
+    "nama": "ENDANG RAHAYU, S.Fil.I.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {
+      "id_calon_dpr": "2f10b2f891745ae7dd0ab63103946c379d41d874f3e8078930636d3d64c21c673697964d4714aef2b38d34023f951a0cca02b9133faf5d9a9bc5e3d231ad2fe433ulcTd7Ijh4XYgnshSX6nbDmxR5dEbK9sE6sjXAXNY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/364825/pas_foto/1688656809_7e9582e1-a91f-4b09-95fa-59864e9e2ff0.jpeg",
+    "nama": "NURATIKA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TANGERANG",
+    "profile": {},
+    "id_partai": 78,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/365187/pas_foto/1688798453_4c470be2-851d-4d4e-ab33-e082e434a955.jpeg",
+    "nama": "IDA WIDIAWATI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TANGERANG",
+    "profile": {},
+    "id_partai": 78,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/366230/pas_foto/1683974247_7cde0613-f105-4dcc-8ddb-bd3a44a3ac97.jpeg",
+    "nama": "TAKWIM TOYIB, S.T.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {},
+    "id_partai": 78,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/449609/pas_foto/1688792582_a2b8961b-49f9-4561-977c-792492de0365.jpeg",
+    "nama": "YAN HARUMAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {},
+    "id_partai": 78,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/368055/pas_foto/1688656434_d2e7e9fb-0fb9-4549-bc72-dfce67e644ba.jpeg",
+    "nama": "PUTRI AYU NOOR RACHMAH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TANGERANG",
+    "profile": {},
+    "id_partai": 78,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/365456/pas_foto/1688763876_92d56d11-154f-42aa-adf8-f59c1bcc9e86.jpeg",
+    "nama": "MUHAMAD SIDIK",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {},
+    "id_partai": 78,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/365764/pas_foto/1683973589_175368c2-5dfc-4d00-952e-49bfebc3dfe7.jpeg",
+    "nama": "DEDE WINATA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {},
+    "id_partai": 78,
+    "kode_dapil": "360305"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/449608/pas_foto/1688767515_f1e10408-6552-45b6-9c41-57c06731073b.jpeg",
+    "nama": "Drs. ROSIDIN, M.I.Kom.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TANGERANG",
+    "profile": {},
+    "id_partai": 78,
+    "kode_dapil": "360305"
+  }
+]

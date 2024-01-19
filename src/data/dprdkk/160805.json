@@ -1,0 +1,906 @@
+[
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/29672/pas_foto/1608031202700001.png",
+    "nama": "HERMANTO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "OGAN KOMERING ULU TIMUR",
+    "profile": {
+      "id_calon_dpr": "2d5835222a48d6fcb7bddcddded4b825c818539627c0fc899a0c9c4b581d004cff19c52d90761f2d36ca2f4b19ecbf0446ca9721386160cfea1d02c080beffb5M7Q88FO+Df1P/j2KaGnDwMQorLQ6ZW+Bx5fhV3Q+5kY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "pilihan_publikasi": "datadiri,alamat,pendidikan,riwayatpekerjaan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 8,
+    "kode_dapil": "160805"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/29672/pas_foto/1608122910690001.png",
+    "nama": "MUFID MAS`UD",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "OGAN KOMERING ULU TIMUR",
+    "profile": {
+      "id_calon_dpr": "2791e5694b018832dee6fc49302e17b9654dabfe8e09dea0f77f974714f549e1d2767a5040873b4bbdc4ddcdaadf8079b9316cb5faf97ea7df3b37c60b6254aaVnxoA4vT1SEnBqMH5rNt6O0SRrlONaTf2314VpKgekU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "pilihan_publikasi": "datadiri,alamat,pendidikan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 8,
+    "kode_dapil": "160805"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/90085/pas_foto/1687886358_008a42a3-fbe7-4b5f-b141-b9deac6860d2.jpeg",
+    "nama": "NURWAKIDAH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "OGAN KOMERING ULU TIMUR",
+    "profile": {},
+    "id_partai": 8,
+    "kode_dapil": "160805"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/29672/pas_foto/1608036505740001.png",
+    "nama": "SARMINI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "OGAN KOMERING ULU TIMUR",
+    "profile": {},
+    "id_partai": 8,
+    "kode_dapil": "160805"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/29672/pas_foto/1608126602690001.png",
+    "nama": "ROPINGATUN",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "OGAN KOMERING ULU TIMUR",
+    "profile": {},
+    "id_partai": 8,
+    "kode_dapil": "160805"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/90083/pas_foto/1687886284_2c5c9f23-e3d9-46ad-beb3-a613b61a3490.jpeg",
+    "nama": "ANDRI AFRIZAL",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "OGAN KOMERING ULU TIMUR",
+    "profile": {},
+    "id_partai": 8,
+    "kode_dapil": "160805"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/312164/pas_foto/1683868053_454aef2e-f924-4b5c-aaeb-1db45deda90d.jpeg",
+    "nama": "IDA LIANA, S.Keb.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "OGAN KOMERING ULU TIMUR",
+    "profile": {
+      "id_calon_dpr": "e167c0eba1f1ca45cb41f21b3fe027bd6baa6f7201f0c3c00ecac16d2fc482ed11c4a5a912b132be10afee49ee9a48fe932f6ba179c26d333018d91b44f7ea37OExrtte3LdynPBTvSpz+bL4uos/Lf8zFHSBcJQ7SAEM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,pendidikan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 10,
+    "kode_dapil": "160805"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/313376/pas_foto/1683884255_5a5f17e4-78d0-410a-bf42-84aa914b65fc.jpeg",
+    "nama": "SANDI WIJAYA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "OGAN KOMERING ULU TIMUR",
+    "profile": {},
+    "id_partai": 10,
+    "kode_dapil": "160805"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/313628/pas_foto/1683872320_f4e404bb-03d0-4188-aa5d-d7aa0190a7d7.jpeg",
+    "nama": "MASDAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "OGAN KOMERING ULU TIMUR",
+    "profile": {
+      "id_calon_dpr": "ba0ec975ecf808d8a553000c46bbf9a9771387c05de7c44f4e655827bd73ba08ee2f8b232c509c6dfeb5cccbd1b1825601362b4ae7c8a8a11b266747ac424891asgL+0fwKFyKfoTA0QXunRcVHliazVWLEYCmRBIv5N8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,pendidikan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 10,
+    "kode_dapil": "160805"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/312865/pas_foto/1683966012_785f2412-6e11-426a-8210-cd0380e9c3ba.jpeg",
+    "nama": "LINDA WAHYUTI, S.Pd.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "OGAN KOMERING ULU TIMUR",
+    "profile": {},
+    "id_partai": 10,
+    "kode_dapil": "160805"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/313518/pas_foto/1683883380_3914fd75-9cd6-4801-9dd3-59156daab551.jpeg",
+    "nama": "SUDIRMAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "OGAN KOMERING ULU TIMUR",
+    "profile": {},
+    "id_partai": 10,
+    "kode_dapil": "160805"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/313558/pas_foto/1683965986_e8a65da4-3552-4c7f-ba7f-1ffe450ba175.jpeg",
+    "nama": "YULYA FITASARI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "OGAN KOMERING ULU TIMUR",
+    "profile": {},
+    "id_partai": 10,
+    "kode_dapil": "160805"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/313184/pas_foto/1683964561_4744805b-ff4f-4d65-8abe-6c655d10bb6d.jpeg",
+    "nama": "SRI RAHAYU SETIA NINGSIH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "OGAN KOMERING ULU TIMUR",
+    "profile": {},
+    "id_partai": 10,
+    "kode_dapil": "160805"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/218292/pas_foto/1683704901_479db3ba-3321-4349-94c6-3d42bb963656.jpeg",
+    "nama": "FAHRURROZI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "OGAN KOMERING ULU TIMUR",
+    "profile": {
+      "id_calon_dpr": "8f23605fdfcaae513e36135600ed1ece9f2c9fda0de664480819fbc2325c2a827aca504fc1f536a0d68b7f60fe098c5d6f4d74c377db98db29c455fdd32de74ep7atQjXAwyeHPHI2Z9/tmTYCIg2EvSbuzzHTyPtXeRY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "160805"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/225028/pas_foto/1683713697_98545ce2-0e12-4896-9558-2345cf34d2db.jpeg",
+    "nama": "OKTA YUDISTIRA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "OGAN KOMERING ULU TIMUR",
+    "profile": {
+      "id_calon_dpr": "64117954410639a01b549d4582b8e5d2150ad63f1164006590db18d78bf81f49d1f5d5fd528e6f8d6befba3f18b7988f55d59493a6b41727eaf2fb448fb2f9f9Ha712WWlRA+4o2CnahZeYv8mSh3ewe6RVo+iIDnaVyQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "160805"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/220018/pas_foto/1683706996_8a899c43-e9c7-4f1d-b4e9-ff12999102a3.jpeg",
+    "nama": "ERIKA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "OGAN KOMERING ULU TIMUR",
+    "profile": {
+      "id_calon_dpr": "83f856ba4dcc2c456b0344e68638c795644999a1bd0dcd8387d8ca25264854d053307870be71c3e681a8541e0d3a174e040b4c6a843c08b8dc88ab335f8ded561WOPFa5HodihSL6eXos+QeDj+EBTjgjj1EagPfezdao=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "160805"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/220882/pas_foto/1683708444_c58ae73b-e25c-4289-88a5-5a00c5a15cce.jpeg",
+    "nama": "HUSEN CANDRA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "OGAN KOMERING ULU TIMUR",
+    "profile": {
+      "id_calon_dpr": "50c3f163cedbfb3e1dfcd5dc2c82d9ae9fb183099c655d3b40569a954c290ff6f91508a88c2399e674a4504bf0592534af516c4667ad2fbe86ce605e8efce487yXx7H/DzSnTovYR/isHoiDJPmqfdqhu83ClYbUn2sQM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "160805"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/221916/pas_foto/1683709762_366b60b0-b4e4-4931-8e9a-37912e23061f.jpeg",
+    "nama": "ALIYUS MUCHTAR",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "OGAN KOMERING ULU TIMUR",
+    "profile": {
+      "id_calon_dpr": "996aeeb3b4a46819f4ebab4602de6e0516cd5f11921feeb04898b3a7d373b642e6e726bed324f18709c53df29ff4b66ed326b58d061972086ed191e9b38c83cf2UF//toeR60La79wzsngnjRcj8bAOmvZdXk4IHrlNfY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "160805"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/224607/pas_foto/1683713123_95badff6-0e82-46f4-9674-bffe4daf31ec.jpeg",
+    "nama": "YELI PURNAMA SARI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "OGAN KOMERING ULU TIMUR",
+    "profile": {
+      "id_calon_dpr": "f60fa7d1973e43222414604cd574f1cf83750c458eb7a1795c4992906eab25e92834b18e60aaa4b4a3c7de433b489fd7e8b7892727a521030b5bd7622e6af591F0oGg4XbTloLt3LvXpRW+36k4cXpAKNhVyOmFslLVHw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "160805"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/224046/pas_foto/1683712420_90475f66-823a-43f7-a43c-42ef5d98e53a.jpeg",
+    "nama": "ISTIKA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "OGAN KOMERING ULU TIMUR",
+    "profile": {
+      "id_calon_dpr": "f65c0116bb8f65b4d7fe2609d7cb5848b9a5510dbee838ea8b9393c86d8f66fba6dfeb0f4d48b7a9778d4db5c33bfd013debae93ab9a1550ae2e670a051bd392bTDeADMxVEot1DwR8PQhjW2mYm5DtQ/ReKxAXYXCWzA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "160805"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/146265/pas_foto/1683806037_6538f219-641a-40c3-adc8-ca58d06e99cc.jpeg",
+    "nama": "SARNUBI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "OGAN KOMERING ULU TIMUR",
+    "profile": {
+      "id_calon_dpr": "274a386a2362ceadce1458d99f8f273342829c43c19e4cb5b350af9bdab7078211212f2a24787cb87fe67d7799289a6b1de7d2b3e13bf6772e2fb98a6b972e7bG/9uDRLj/q2bjdVvnrMlHLzghn+cp7QfMIUwRul1iJc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "160805"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/146152/pas_foto/1683787051_b82c7359-5aac-4745-84ab-0859f8df9bf7.jpeg",
+    "nama": "YUYUT HERLINA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "OGAN KOMERING ULU TIMUR",
+    "profile": {
+      "id_calon_dpr": "781f8131f773448c4addbecec16f42d92d572c697fefd9f1d2eec54f230ff9c53bd9cbf12fd34e16ba0ce4394e1f696ad0a403ce9db383c96b4bb061a7f001b906/FinJa+Om231AMOHMO1CcEQ0k42lL0JyAnPiU34iM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "160805"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/147251/pas_foto/1683787005_d166707d-e847-4937-9a01-b39c8f0bd04a.jpeg",
+    "nama": "ALI YAHYA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "OGAN KOMERING ULU TIMUR",
+    "profile": {
+      "id_calon_dpr": "868075ba65a7a867d03670911d407d74e9e20a2b1878c8854feed4e10df1949b83146ed6ed91f93e7e02b113e7b52ec02a202a984e26ce3d5511ec9b19b9eff7vTaU6OwxV9g1nYajy76yIAO570nQjkouXDTzmdMmfGA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "160805"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/216827/pas_foto/1683702776_7616e052-4474-4db6-a886-79b6b98a049d.jpeg",
+    "nama": "RUSDI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "OGAN KOMERING ULU TIMUR",
+    "profile": {
+      "id_calon_dpr": "826980620b3f8f18049d656303ce0b3367f8d65360d774a4bdb07728dbb325eb3dbeda57ec7808c156b38bc9437f14e97cb0fbe73e346bc76b20ac04d9ef9a90fY3tCnh8uyicLscS0ltQp5LOSlJqMy8RSTTH+aplRfc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "160805"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/45440/pas_foto/1683806502_36fe2e98-e8b4-4694-a4f7-4cfa48d29cd4.jpeg",
+    "nama": "WIKA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "OGAN KOMERING ULU TIMUR",
+    "profile": {
+      "id_calon_dpr": "71843ec10a99bc944b46c5c7cb328a10134191e4f8576e11000514c4fb69efa85c1a421fc724059494aa5de40e85bd0f4e85f6c04d51ef66e352b52f75809661KCbXDWCbj30mVMd57rqSQ0jjnMfpihbq/kkSzSv29lw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "160805"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/261655/pas_foto/1683806014_2cc18e19-d3be-4065-acbc-e5469de1dba5.jpeg",
+    "nama": "HASANI ABBAS",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "OGAN KOMERING ULU TIMUR",
+    "profile": {
+      "id_calon_dpr": "dba48461ea6579d68120bca199aa410428b76ddc5a0d7723822f4d8878d073383bfc3c4cef61a67d5769dd5e07b88bf1a627ebc34632b02d5e597018bbc6b661EmZ0pm29+cc5yJ80g5g6HxpUVdAApd4ZwGz1B3ZXWs0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "160805"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/435741/pas_foto/1688626747_803777f6-c1ca-42b8-86dc-124a3cc5d69f.jpeg",
+    "nama": "RETNO ANGGRAENI, S.Pd.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "OGAN KOMERING ULU TIMUR",
+    "profile": {
+      "id_calon_dpr": "7161b79038a896a49445629ae412469adc1c43a88427a3ba52098019599d38f4c8274bc90432a74bfa07b8de564559d9626538ab7c02a5402e6c00f82e2e9956t2G3d/ULvQm5mF/A4u1IkGIv+p4GrgVX9LX1qGizaU4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "160805"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/309462/pas_foto/1683866645_db038d03-a233-4994-9a02-03efe85c5e95.jpeg",
+    "nama": "DENCI HESANDRI, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "OGAN KOMERING ULU TIMUR",
+    "profile": {
+      "id_calon_dpr": "c26a50340af52d2660dddb39520b78856170ecc06f8b5da8a0db6f8326a5d22e65564f1e785afbb3bcd0f59548e56c2826a561efaf37ceb81b03a4a3b30aa2d1t19tOzlJBQ8Zj3kv+3Ee8DW9yiaab1DPhj9gp0DXP1Q=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,pendidikan,riwayatpekerjaan,kursus,organisasi,penghargaan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 4,
+    "kode_dapil": "160805"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/309517/pas_foto/1683903069_007ee355-e32a-4113-9d3c-861a1f6b50fc.jpeg",
+    "nama": "EKO LASTMONO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "OGAN KOMERING ULU TIMUR",
+    "profile": {
+      "id_calon_dpr": "c964b013b2577f75758bde78fe4a2cee7f9a8dcda2d1517914ae86f02f21869ac4515a1eb24177b2372be1f527800422e67faca62b1ffd6db4bbab4a0ff32734gtu6ZsXuj1ONAzPO/Kygb3Slc5aSjThXA3AMkyiX//0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,pendidikan,riwayatpekerjaan,kursus,organisasi,penghargaan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 4,
+    "kode_dapil": "160805"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/440379/pas_foto/1688716693_d296036d-19db-44ee-a3ad-9114e0639537.jpeg",
+    "nama": "IISWIDIANINGSIH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "OGAN KOMERING ULU TIMUR",
+    "profile": {
+      "id_calon_dpr": "5a334ca8723d781a869b56507b284f62e4d675dec96b9b3ccc6ab7983764687d22d2d9f2e0b175755d88f5b601f4a38fa204d7ba5454720bb4bbdaa98b13ed37FCAdobRAzjrl38pZpJNQhqN0hnjrEaB87ip8EfX1kFw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,pendidikan,riwayatpekerjaan,kursus,organisasi,penghargaan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 4,
+    "kode_dapil": "160805"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/437748/pas_foto/1688716766_4930b57b-7e8b-4127-91e6-5e474a1722ba.jpeg",
+    "nama": "EMIYATI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "OGAN KOMERING ULU TIMUR",
+    "profile": {
+      "id_calon_dpr": "6ef666bcb7092e4f3d443882b52cc65a022e0bd01a3f630cf3efcf0f2e3ea5b5b1860cfcb6972b08f0b5d6316b2d48b10837e9d1afd888a1773feebd2d487e39HHG4wK5YKowZED5wAVZhc6VIhSEnjvvLPKwN3WczuLA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,pendidikan,riwayatpekerjaan,kursus,organisasi,penghargaan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 4,
+    "kode_dapil": "160805"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/439985/pas_foto/1688737818_d314a2c7-f1c3-4ae0-b30b-0ea581d8b439.jpeg",
+    "nama": "TAMYIS",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "OGAN KOMERING ULU TIMUR",
+    "profile": {
+      "id_calon_dpr": "072b1c5fea45a95f5440bf08381b299a1d02a4918b387eec9cc21dc9386c973659b70da8bb7c2177a9ce5bbc37a50ce27b4a577fd4a536624167ccdcd2c09521QTDHX1glv/gTsg+r4yWhXOpXTbVhIhWLYpcKBSPXqeM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,pendidikan,riwayatpekerjaan,kursus,organisasi,penghargaan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 4,
+    "kode_dapil": "160805"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/440223/pas_foto/1688648097_b03e3a75-f9a1-43ae-9d7c-8b2dae4bb17b.jpeg",
+    "nama": "TRI NINGSIH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "OGAN KOMERING ULU TIMUR",
+    "profile": {
+      "id_calon_dpr": "656528131b01e66e70f5842bb2285e7ab88d03df2d10443552dab85296121bd6993c12f2f1a4bb0078a7188a14d42544b8ecaef3c439e6161ef801fad4eecd34Nfo6Wg+jWvAQYhHNOp/JZ66zTdUUDDlyGKm4vJbMP88=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,pendidikan,riwayatpekerjaan,kursus,organisasi,penghargaan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 4,
+    "kode_dapil": "160805"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/453698/pas_foto/1688807727_ccb9d968-d198-4f78-82ca-a533dc8a1638.jpeg",
+    "nama": "SUBUR, A.Md.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "OGAN KOMERING ULU TIMUR",
+    "profile": {
+      "id_calon_dpr": "0ada30242ea9755d8e8109fedaa1ebd3761af592e4036801a2d991b819e34100ba51b2278145c07e24d2f3245cc8453017215bb1444a85af84eb3bf26f52b760TS5hLOB5N8vDLcRB9U2TfJeqy/GVYYMYjS/paX2WX4g=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,pendidikan,riwayatpekerjaan,kursus,organisasi,penghargaan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 4,
+    "kode_dapil": "160805"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/440552/pas_foto/1688651544_4df707ab-1e3b-4111-b4ab-9aec89b31c5d.jpeg",
+    "nama": "READY GUSMAN, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "OGAN KOMERING ULU TIMUR",
+    "profile": {
+      "id_calon_dpr": "811e33416988e13e771ae14b18fe1147ab7a10a0d0ec6dd3ab789dae5859fc308e7a95b5598f9204c75d31ef2aae25d2c55d1d5b3f0e02a29094f223f8129503mFUK4QPt0A+lyZWd3ea6ph+Zj3wXfV6fChvRJJlA29E=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "160805"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/21871/pas_foto/1683460137_8443fec6-5762-48f0-8c19-cdf21e800526.jpeg",
+    "nama": "IKHWANUDIN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "OGAN KOMERING ULU TIMUR",
+    "profile": {
+      "id_calon_dpr": "98ed4d83e44d485524208cd295f71893f922f55ae6f1e3cdcb692625fc672a0af1c8f32aa910f9a34c31732bb4653eb7b0a5abb7484f20677aaf13500306aa2cqpkPk+0L0rCRwHWq03qgmy6oRxYM9TbphXqdDdWTCew=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "160805"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/34434/pas_foto/1683622771_f97a2c5e-4e12-463d-abeb-823ac39cbbb7.jpeg",
+    "nama": "NURJANAH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "OGAN KOMERING ULU TIMUR",
+    "profile": {},
+    "id_partai": 6,
+    "kode_dapil": "160805"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/58285/pas_foto/1683764430_964d9f62-8548-4795-8690-41c102fed676.jpeg",
+    "nama": "BAMBANG IRAWAN AF",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "OGAN KOMERING ULU TIMUR",
+    "profile": {
+      "id_calon_dpr": "f0cb4bb3bad379f47a84e8f63b85d98a8a9247ece5c4c104e6c8a9d8b314f5280c362897339b275eb5c2a1562559058a03667e1e85fc3f2346579364b08a2642Skp2y5EOoZ5eoME04ypInGh0bDXA1pCWrzwZhxYie0s=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "160805"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/34040/pas_foto/1683728444_a66dbb3c-5941-413b-bb5f-e94caf498d30.jpeg",
+    "nama": "SITI SURYANI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "OGAN KOMERING ULU TIMUR",
+    "profile": {},
+    "id_partai": 6,
+    "kode_dapil": "160805"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/34292/pas_foto/1683765325_5314e46e-633d-454e-970e-3ff3f43463d5.jpeg",
+    "nama": "MUHAMAD YUNUS",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "OGAN KOMERING ULU TIMUR",
+    "profile": {
+      "id_calon_dpr": "e35b0538c547941e43c1b47e5a347332049d96a7648fb67734aa9e1f57c9964ac67dfec6d906d41a3363893afd5ed8fa323c7f253bbed2abca0263d5f51bb46cIcJap53ElhS44ZUG3bWALoiOD9DSEpmZL86ag294JBw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "160805"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/9301/pas_foto/1683597086_5df50323-50d4-4d24-8892-4c6266258807.jpeg",
+    "nama": "SERIZAL",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "OGAN KOMERING ULU TIMUR",
+    "profile": {
+      "id_calon_dpr": "e99134cce46d6f4e17e3733922704c113e6e235687ff6b91501a05e9fbd775e4eabca2c471fb7325ba005e2544c250a7f08702fcb32a8640ac9fdeb1231059d07mHFGGqXpEKAY5wer0SvzxxaKxd5go+UDNSJbl64/f4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "pilihan_publikasi": "alamat,pekerjaan,pendidikan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 5,
+    "kode_dapil": "160805"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/18946/pas_foto/1683642896_2e0f1a16-eec2-42ac-8e0a-1d2471946a46.jpeg",
+    "nama": "MUHAMMAD ARI WIBOWO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "OGAN KOMERING ULU TIMUR",
+    "profile": {
+      "id_calon_dpr": "0e94926adcdf538430a46bacc5ec0b18aa0396317e1fb16020639b608a5816ec0e29f2aced33f7a68fc48d08be17f2afd0cfdd6c7f291204e71003691fd3fcc0i8mo/bWpnDUg8Q9ydiaUMWqGBOpQlOjrrhdi6ER6GwM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "pilihan_publikasi": "alamat,pekerjaan,pendidikan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 5,
+    "kode_dapil": "160805"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/18808/pas_foto/1683641179_e2d1f43a-bfcf-4447-9d5f-ba9e2cdbe3f6.jpeg",
+    "nama": "TRIA ANGGALIA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "OGAN KOMERING ULU TIMUR",
+    "profile": {
+      "id_calon_dpr": "a850e5ac180540124c3a0492d27193eb2ac5cdb1c0d4dd5a9c0a088467073e961d6ee89cea7ac724af43b4b0d61392cac9d6f9af55fcf78ff59a0fe689e693f6GlNviFYeqLiRUhXyMCxAITihcPym6poUSkycAnD35h0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "pilihan_publikasi": "alamat,pekerjaan,hukum,pendidikan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 5,
+    "kode_dapil": "160805"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/147818/pas_foto/1683526393_d6ad4257-1708-4a4b-a8d2-33faa93cb388.jpeg",
+    "nama": "MUHAMAD IRFANJID",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "OGAN KOMERING ULU TIMUR",
+    "profile": {
+      "id_calon_dpr": "d6cb086545c25c374316e7cc57c7e1aa7ea8b10bf6617051624071b691ae176de60c79cde4060cc116dbdd75d84541d2e9f7b2d1a5bf01bb46fcc075947cc251w8VKOyqSYZgHROGVEeU/9hQ4/SzjZeJCzmQCkbY2QQ8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "160805"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/59548/pas_foto/1683265042_a76b3d70-d2ba-4d5d-bd2d-d8ccbd015e98.jpeg",
+    "nama": "RULI YADI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "OGAN KOMERING ULU TIMUR",
+    "profile": {
+      "id_calon_dpr": "bb900c7c01fcdbfbb13b2dca16b0bbf0e4b2059abddd2350e8b4f5ce6fa5a2fb7bcc38b4bd19232fc4318481019b4a8f382aee24c9272c218d594c92fec7550bsi14maNhka4cSc4crF9Z2TA7rEPleqwy4FHGvJY+XUQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "160805"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/450819/pas_foto/1688789165_5dd8f624-6ec3-4278-979a-d0055f102382.jpeg",
+    "nama": "SISCA VERONICA, A.Md.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "OGAN KOMERING ULU TIMUR",
+    "profile": {
+      "id_calon_dpr": "ea1f192bc8df85673b1279aa89fd1af0a087875fc1295fd338efd25900dcb439dfd2051129caa65584eb94f21a7899b92f78b60756fb19068ad32ccc635351350WEXRAQGhcGZz0n7Ml+yPXC5pq6Zg5egERYm8h6JDV0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "160805"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/128798/pas_foto/1683519286_54b526a2-24ca-4090-96dc-518934f388b7.jpeg",
+    "nama": "SYAFRIANSAH, S.Kom.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "OGAN KOMERING ULU TIMUR",
+    "profile": {
+      "id_calon_dpr": "e91bf06240d122614fc5c2ae8f3b901ca4c3a25bcd5162f083b6486b47edcb2afbf145223dfe8142e42abab8eff854cd12f19c1cab8c3e2abd3267f1a8fd48c0Kykmebiv7MmOcbVCuc+bVGjsD0FAi4wgS3e/r+4jMYQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "160805"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/450703/pas_foto/1688787987_5eee5714-23ca-44bd-8b87-130106e20e99.jpeg",
+    "nama": "DELLA APRILA, A.Md.T.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "OGAN KOMERING ULU TIMUR",
+    "profile": {
+      "id_calon_dpr": "54072d03aa5a1872fb3c5e5f050584e27f5d39f9ee395bd7de1d70f281eebb5372dca7f7219917c347ae0d1035b583588aa58c2a9cc0f9f951c0e9f017b81a8fBCUr7klbIZW0mVISp3TMKQGGUrvqLiIlSWYmCET+7eo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "160805"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/469995/pas_foto/1691637466_109975bc-601d-4b1c-abc5-ae96829e9efa.jpeg",
+    "nama": "MEILANA SUTRISNO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "OGAN KOMERING ULU TIMUR",
+    "profile": {},
+    "id_partai": 7,
+    "kode_dapil": "160805"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/78422/pas_foto/1683341886_ef752a97-5c6d-46ed-bf67-d4dded1cba24.jpeg",
+    "nama": "ISRO DINATA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "OGAN KOMERING ULU TIMUR",
+    "profile": {
+      "id_calon_dpr": "4ce2340ee5afc0640348b751925bbf7d53dc402df1a1b165c64b9732b9437d433ecc1b9e0486f24d062cf091f77a5e4fc2cdcd0378bf7dfe0f9a4ba0da7ae0f1/PW5OAAnpaOMwgbiDy9hY4DI4IcNsXj7PgLIS+ai3vc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "160805"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/437803/pas_foto/1688624931_aeaa3939-a656-46e3-be4f-1fa14f488c86.jpeg",
+    "nama": "EDI KURNIANSAH, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "OGAN KOMERING ULU TIMUR",
+    "profile": {},
+    "id_partai": 13,
+    "kode_dapil": "160805"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/280898/pas_foto/1687852262_9ca934bd-c866-41cc-8158-5680c6849d15.jpeg",
+    "nama": "RIZKI MARYANSYAH, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "OGAN KOMERING ULU TIMUR",
+    "profile": {},
+    "id_partai": 13,
+    "kode_dapil": "160805"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/280902/pas_foto/1687852598_8407cfb0-6456-44ea-bb47-3b11915fa012.jpeg",
+    "nama": "EKA FATMAWATI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "OGAN KOMERING ULU TIMUR",
+    "profile": {},
+    "id_partai": 13,
+    "kode_dapil": "160805"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/280901/pas_foto/1687852850_c71cd67e-b3fa-4333-acb1-5e03aef9eda0.jpeg",
+    "nama": "MAT ALI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "OGAN KOMERING ULU TIMUR",
+    "profile": {},
+    "id_partai": 13,
+    "kode_dapil": "160805"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/280899/pas_foto/1687852671_6f98a4db-227f-4548-b143-291ce9356563.jpeg",
+    "nama": "SANARI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "OGAN KOMERING ULU TIMUR",
+    "profile": {},
+    "id_partai": 13,
+    "kode_dapil": "160805"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/295860/pas_foto/1687846573_efb20fc2-d5bf-4024-aad5-369b5598cfe0.jpeg",
+    "nama": "KARSINAH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "OGAN KOMERING ULU TIMUR",
+    "profile": {},
+    "id_partai": 13,
+    "kode_dapil": "160805"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/280903/pas_foto/1687853297_cf500199-c342-4c27-b5d3-b3013f6bd85f.jpeg",
+    "nama": "AZIS ERFAN NASIH",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "OGAN KOMERING ULU TIMUR",
+    "profile": {},
+    "id_partai": 13,
+    "kode_dapil": "160805"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/97313/pas_foto/1683381424_8d4fc3b2-f7bb-4ee1-ba13-c3359b5a6203.jpeg",
+    "nama": "ARI ANGGARA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "OGAN KOMERING ULU TIMUR",
+    "profile": {
+      "id_calon_dpr": "dd91c9f65530dc23c9f1db48144dba9920850ed39bad46b8d166480f2d8302266baa139111dac6969fa4bfa886b8b6d05040378a045ec03ab017f3e52b79d889dGp1waIdhADp6f2pIEFhLgWUAurJIrvLbn+BaC6gMI8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656419883_logo-10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 76,
+    "kode_dapil": "160805"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/438155/pas_foto/1688626007_514b9e5e-801a-4ad9-bc6f-cdf4ed255a39.jpeg",
+    "nama": "PIKI KURNIAWAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "OGAN KOMERING ULU TIMUR",
+    "profile": {
+      "id_calon_dpr": "3b41887c68ee1dd6bcd94463c6f731076629e9d383b07deaadcb3db1246a8a878a867886e6503c5d7e51b624ad40eb814ec6613751038beebac5b19a0febbc4eZi4Yo9fx9819B/ebXQnAchg+A4DP9+S9nnH5CuzMmjY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656419883_logo-10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 76,
+    "kode_dapil": "160805"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/230123/pas_foto/1683722341_1891ff8f-bce8-43b0-8ddd-76f9b62b42a9.jpeg",
+    "nama": "WIDIA TRIJAYANTI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "OGAN KOMERING ULU TIMUR",
+    "profile": {
+      "id_calon_dpr": "dfd82994ccdabdb651c244226bfc354501b53446c323c53639e66706e461dc68f8886b05321a3162e79913de59a2750a66d17374d3959a434524dba60fda14d68xOT69b/ei9KGeL/9irv108Me9Z6OkeqQnXbBgOnt1Y=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656419883_logo-10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 76,
+    "kode_dapil": "160805"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/429149/pas_foto/1688391554_1416e9f8-aec5-4bdd-bef2-9efab11c00c5.jpeg",
+    "nama": "IDA BAGUS PUTRA SINGARSA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "OGAN KOMERING ULU TIMUR",
+    "profile": {
+      "id_calon_dpr": "1b0a9195d9153b1a03573a5a399bb34351952d3569a4808db4bdb1d7cae482073007ee6fdd2fff6652b45131bc5f1a26c3e69bb7b016382e227d89ee4b49ccd2juBG7d7iXs+b8iQxYWbAVTco5Inld4oFov1xOORY8ZQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656419883_logo-10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 76,
+    "kode_dapil": "160805"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/102635/pas_foto/1683386022_29489961-099e-48ba-a8b4-8f25f9202fa9.jpeg",
+    "nama": "FITRIANI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "OGAN KOMERING ULU TIMUR",
+    "profile": {
+      "id_calon_dpr": "cddf9894daba721113bcdefda1ee3e1549041762ae3ee80fb5819bd912a557d44a40d7b27a35376468d430239ef0869d98badc2a4eb3cdbe7811ec14bdfca287NL+rLOO9+fll4LPXnX5yNmrORUR9QXTO9Cb4IeXF6vo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656419883_logo-10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 76,
+    "kode_dapil": "160805"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/319244/pas_foto/1683881240_4de8b7a9-e64d-4670-8ce9-d4b2d644f5aa.jpeg",
+    "nama": "MUHAMMAD REDO SAPUTRA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "OGAN KOMERING ULU TIMUR",
+    "profile": {
+      "id_calon_dpr": "bc65d9b0813adc36db04e68f2fc0721d36ca39169538388e7799e14f98182dbbdd3f811b8f12a16161fc3dc084baa3585b3f6ee6c444ff200db9f93878ec880dMCmWVTzDEZDSv/YBrpvbzUpf0tU0ubQZ7Zp2lPooSls=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "160805"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/321158/pas_foto/1683884086_ad32c2ab-b6c7-4434-8426-7cb14f01e6ab.jpeg",
+    "nama": "FEBRIYANSYAH",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "OGAN KOMERING ULU TIMUR",
+    "profile": {
+      "id_calon_dpr": "cbed088869d7f2569728d6bcd2de3d3e2f0853393267bd8b33b3a5dec9d947a2d2911913d141be7d38cc36737e096db3c47a96dc04a78641e1e07b7794a7da01fH0IUj/3T/Nh9NlAxBXa7dDKNOfyecFIxvb9IPdriog=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "160805"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/320211/pas_foto/1688723568_b0021755-1bc9-49bc-8fcd-391a2291e42c.jpeg",
+    "nama": "HELVIANA MELITHA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "OGAN KOMERING ULU TIMUR",
+    "profile": {
+      "id_calon_dpr": "2bec92179be8ec9a48c42c3099131b5194e6cbd259f523d6fa5ce5c293ddae5eaa0b19b7d40e31474959d495204f531f45401ad88f12123a4e009690976d7ef1I9oGWkePTi2eqTe9MfGc5S/JZ07aEAxcTjcVmPsijUw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "160805"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/341126/pas_foto/1695715165_59443bcd-74b6-441d-9c36-dbccd334b92c.jpeg",
+    "nama": "DEDY MARDIANSYAH, M.Pd.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "OGAN KOMERING ULU TIMUR",
+    "profile": {
+      "id_calon_dpr": "0263577cdbda94f846af88827fb6272bd1dabe28d20fbe740cfcaaf4c3190f8e8f7cb048ea6187499e91a3a6e077f3a155a30f116f5aeb17d0bc02ebb049e904gHwPjPi7haVt0lHM4ib+pVcbDpU2nc+2qOGaV4KfxlE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "160805"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/344776/pas_foto/1696308150_0941d7ea-60f5-4ef8-8669-b1f5a9f59fbe.jpeg",
+    "nama": "KIKI SOLIHIN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "OGAN KOMERING ULU TIMUR",
+    "profile": {
+      "id_calon_dpr": "e4a09158e6284a187db06862a3f0d008abb84d8a436006bf90b8a31306c47b6824fcef6239b6b6b0d4ee8ec8f9cf23e748aa034e99d5e55eab3b88bc72fbfc00D26vxZv9kxcTW9Z7bjDvjLpnFsJTKDnq9FSWcPD8/hE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "160805"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/339778/pas_foto/1695714885_9620d7c3-9f05-4014-addb-d638d802aea6.jpeg",
+    "nama": "YUKEN METI AGUS SAWITRI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "OGAN KOMERING ULU TIMUR",
+    "profile": {
+      "id_calon_dpr": "e80d847eb2b386ae4d30d640639a501e8f1b4b804e15be0505130f67745af60e8cd5ec57512e28ef995121d917a8649025d4401634a6b63dc087f33a499c0337LFg5jFUre6fbZEc1GJ6B+aUhYxTt8UVVGiGgFWyg25I=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "160805"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/471641/pas_foto/1691639443_e9593b92-f54e-4d7a-81fb-f9036f42ac16.jpeg",
+    "nama": "DIAN ADI NUGROHO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "OGAN KOMERING ULU TIMUR",
+    "profile": {
+      "id_calon_dpr": "6e7ebb022665517e308f481941c198ff756f2293e770576b66e1d87f1cf324da7b047e49e65bfaa1fc5beda49cd65ca1647ad3f78cef400aa0ff5da8c5365ebajBRV6CQIF+8ZCNe//dgd4XRMAja7ZPPFiIzBU7GgH5k=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "160805"
+  }
+]

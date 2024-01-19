@@ -1,0 +1,858 @@
+[
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/93789/pas_foto/1688653262_977638f2-5178-47a0-8443-94df6b31dd2a.jpeg",
+    "nama": "ABDULLAH",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BANGGAI LAUT",
+    "profile": {
+      "id_calon_dpr": "3cfd672bf105d5a003f3d79be7dbed5a5c0097a9e648afa4c08aed24081bc2c05b00687a05f1dfdafe766b783235186d8839a2bec81a3dfa55ff486d5129df3f/Fe2H+JD32qROhKWMwl6MKEaZtUj+D2tlKMkdkNh4Hs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "721104"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/93787/pas_foto/1688653180_78aa9207-b6de-4496-a0b9-0e0074aef281.jpeg",
+    "nama": "FATMAWATI LINDAYO",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "BANGGAI LAUT",
+    "profile": {
+      "id_calon_dpr": "0ce04b05d238925ffabe1c6fb2b59e30d14a85f5f95ad343c90d34ce0af2ca3d09b6be3cedac3f34ddd17e3f2ae4f60ad97c8c90c267cd02e56d4e1a2ead0b0bXKjDhr0WvV7JMukmLEr4Fi/0peik66os6w9z9+qZir8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "721104"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/93788/pas_foto/1688653107_0f8b2338-6e25-4f30-b385-63402a5a08ad.jpeg",
+    "nama": "JUANDA BADARU, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BANGGAI LAUT",
+    "profile": {
+      "id_calon_dpr": "dfdcfd18b0257bd851f216ebdae9025184df751d1420c37d93677178ba3a2a5658ea7a59da6dd550f0e6c94b3babbfe3e7443499b988d99dc2050810484fc65dMwggkCN233YAC3zPhrne8Z186ePFlORydwz6GjXNzuc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "721104"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/22075/pas_foto/7207146304900001.png",
+    "nama": "SURATNA A. DALISA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "BANGGAI LAUT",
+    "profile": {
+      "id_calon_dpr": "9d1abee258ae1bfc36625db38ba582bb75f4ff10b7e4544e18fa3ca062d6d60af3fa139fad809df59f3e609843786a78b9c7287b92eb93d3f9a614387e756062A52Yo5m+zGBG+l5pi+0eH9HYrngMiIC+XwgMPzMSYF8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "721104"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/319524/pas_foto/1683977177_ddc18785-3ba5-4409-90e3-468fdbfcf6c8.jpeg",
+    "nama": "ULFA A. LIBUKA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "BANGGAI LAUT",
+    "profile": {
+      "id_calon_dpr": "543762b26d8cc3c2e35d4f433ac6b23d3ed4aef1c6be705962f4229a024c2181e97c4c2c7832617f49812fb38f749d35b048863a7ffc06ebde7b520e9ed52f96cvzcp3m9LAn23GV1FFem+YbsJAtM9x0Kbc+a4PCjD58=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "721104"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/320107/pas_foto/1683891310_7978c9fe-f1b8-4883-adb8-d73c6483397c.jpeg",
+    "nama": "MUHAMAD QADRI SALAWALI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BANGGAI LAUT",
+    "profile": {
+      "id_calon_dpr": "306c9deda9c88d21916c1c23d29ccf7040692fce4e5c437dc54cd3f565a26c774718b425a57a8ff77a606f7cc3bf64e868d028d66d43b29569b9ceb7076770adiC8aqfk8/0wejYB2tgnpjmmdzDezRXbZ41EstwAaqhk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "721104"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/320571/pas_foto/1683977293_e1df1acd-f560-4d13-9601-8157f1c6e251.jpeg",
+    "nama": "SAHIP M. TUNDU",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BANGGAI LAUT",
+    "profile": {
+      "id_calon_dpr": "53434d3ad2e65c0149e67e2686a94da3fc057fd6c62f307eaf14351ecdad980b50333c72e8df70f3b6dff60074f7cf08bfd0e70311d813cea0b1d032a594105f3Avh4ib3OVlXM+xmzmOE6sNYsn2VrMHYwMLgULVDGIw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "721104"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/321060/pas_foto/1683977380_f928ce76-5dba-4806-b5e3-345efeee97a9.jpeg",
+    "nama": "ENI DOANE",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "BANGGAI",
+    "profile": {
+      "id_calon_dpr": "ac164f8be692c9c67b9137042abb21e3fa349edf406bf5bdd72ddb57b88acabea6024a1f21c9e95dff40b463baac2664be404dca7f1d650c63608f27ca5d1a2eAVFUqaKtaQbWRqHn1GpNEKPez7QaCfcjXSu/zhVG6KU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "721104"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/73500/pas_foto/1683751928_1ef11275-ee76-4d22-91e9-62d78ed70fea.jpeg",
+    "nama": "ABUKAR O. SUMAIL, S.S., M.A.P.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BANGGAI LAUT",
+    "profile": {
+      "id_calon_dpr": "3a46093912e161356ee404b37919d6890f1066e883154990423fa4c16db7b3218ee14060292441c70aee18761ea0101bc41a2ab03daf9aa55c67c1488c45b353YZXcOjh2pQdAQjpZxHX83XUKuFJv5eBJL5vNwUBhJXs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "721104"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/73399/pas_foto/1683662004_a3c68dca-ad58-405c-a149-8960a26e32c2.jpeg",
+    "nama": "WAHYUDIN, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BANGGAI LAUT",
+    "profile": {
+      "id_calon_dpr": "e549b422a3d3a03fac0793a0d28debfea2270e7e0b7f74de93951e03c3e35df6e9f393d363321ab962bd8ca8837cad88c0ca0f35663bbd18fbd4d0f3671c7fa8g6WHLpUM/LC5VtWwL3jRyZ3r07iKt2PyqPlpQKOzf/c=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "721104"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/200536/pas_foto/1683661369_32f10211-a889-4358-985f-d09139766f20.jpeg",
+    "nama": "YESSI H. LADARIA, S. Sos.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "BANGGAI LAUT",
+    "profile": {
+      "id_calon_dpr": "647d7dff453bb6602b7e643dbdd9afd274fc221fc417f6e1d5f0568902704d16ddcfc209f06d479b44efb9f147ee4325896ff4e4ce5b8026af857edd8771c8a4EXGISe0p7pL+LKbFuoZsR78eXGRlIz8cQckIIBIGmUA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "721104"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/200897/pas_foto/1683661256_d44da850-3c36-45b3-a473-df141c9f9830.jpeg",
+    "nama": "RIVAI, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BANGGAI LAUT",
+    "profile": {
+      "id_calon_dpr": "293c28b89da5f4d126bd6fcc172c7ec33c0ef8977933d318888aea86f769c98b2dc9bf0e07c92dd3e806d394a399890478f5cf337b6cc6db8e3f112bf444fd2742VDqzRZDkxkMQFHv5y9/56colJOPCnfJrKKrQMCNt4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "721104"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/84095/pas_foto/1683358000_880b2493-128a-4689-bead-932083af5c1f.jpeg",
+    "nama": "ALIFULLAH HI. ALI, S.T.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BANGGAI LAUT",
+    "profile": {},
+    "id_partai": 9,
+    "kode_dapil": "721104"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/82968/pas_foto/1683355338_6320a64c-0fa7-4ffd-b22c-e026df9ff562.jpeg",
+    "nama": "JAMES PAUL TUNGKA, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BANGGAI LAUT",
+    "profile": {},
+    "id_partai": 9,
+    "kode_dapil": "721104"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/86398/pas_foto/1683362831_79634224-2ebf-4e32-942d-f32e914e0fa4.jpeg",
+    "nama": "NOCE A. TABAU, S.Pd.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "BANGGAI LAUT",
+    "profile": {},
+    "id_partai": 9,
+    "kode_dapil": "721104"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/485472/pas_foto/1696231817_28151a29-3a9f-4804-ad13-b02dfebce815.jpeg",
+    "nama": "NOVIANE SARTJE TOAR",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "BANGGAI LAUT",
+    "profile": {},
+    "id_partai": 9,
+    "kode_dapil": "721104"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/64261/pas_foto/1683285794_a8f161d3-d057-4e56-81f3-64e7a7b8e044.jpeg",
+    "nama": "JAMALUDIN R. BUNSIANG, S.T.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BANGGAI LAUT",
+    "profile": {
+      "id_calon_dpr": "651a9c19e4f249e00480cc424466d848f6db787a1f9fc3351197148d94953d120ef36572868ae2642e9ab7e693d94f03473c972534efab41932f9fac204f6fdetD3Cxk5+hZCbgK0QbYVbMAHtuB/E0quynnCt/u+Tces=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "721104"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/37853/pas_foto/1683113924_0431a587-2df9-46b5-af2e-b5ca176affa4.jpeg",
+    "nama": "AMISDIN ALISI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BANGGAI LAUT",
+    "profile": {},
+    "id_partai": 4,
+    "kode_dapil": "721104"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/64774/pas_foto/1683562292_91f833c9-87e8-4427-a9b1-77a90941cb9c.jpeg",
+    "nama": "ROSTINI TALIBA, A.Md.Gz.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "BANGGAI LAUT",
+    "profile": {},
+    "id_partai": 4,
+    "kode_dapil": "721104"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/65320/pas_foto/1683286240_57fdfb90-19b9-4bc6-897a-565e35e0f02e.jpeg",
+    "nama": "YAMSON S. TOIKENE B, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BANGGAI LAUT",
+    "profile": {},
+    "id_partai": 4,
+    "kode_dapil": "721104"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/370851/pas_foto/1688784904_1ac9bc8c-1042-48d7-a6f8-29f5809e44ee.jpeg",
+    "nama": "ATMIN BABE",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BANGGAI LAUT",
+    "profile": {
+      "id_calon_dpr": "e40556806d7894a9e1fdf27be8e15b6b2617d3ad265d357cefcda0d19b5fb2eeef24ca00980b032ae6f38d5a468edf4b9faaa8458fb564fea666970063278601VWd+Wl0mtk9dRu8TqB+ROar8eIoF0N0do4jplkJOEmc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659959325_LOGO%20RESMI%20PB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 41,
+    "kode_dapil": "721104"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/69725/pas_foto/7207134612630001.jpeg",
+    "nama": "WA ODE ROSNA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "BANGGAI LAUT",
+    "profile": {
+      "id_calon_dpr": "271e76e706ec3e16044b224a2a138d7ba2caf7fc86b26ca0f5aeb0d8d03e91e7c4faf44264e887448db444da70414f0366f699a2afef31d71f48f52891d41da5hNh9Lx+nxucgjaS8EgnSuQsZspuMixEgqVguztaIm24=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659959325_LOGO%20RESMI%20PB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 41,
+    "kode_dapil": "721104"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/458382/pas_foto/1688842444_3d228804-a40a-4dcb-8a5a-2b12fb0a78f3.jpeg",
+    "nama": "HARTO T. LAMEADA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BANGGAI LAUT",
+    "profile": {
+      "id_calon_dpr": "7e8a4af4b6f07190892f50762595c29201753efa75e0aa47bf9ee36fe92cd816fd8b59df2a439135cb5cdbca9332e267db5aafd3cdbe8b6063581be99e88dabcCmGuBnQTRbjTxnA9NM3OdDVMOdsVPR/Aoegx4e+/BuM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659959325_LOGO%20RESMI%20PB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 41,
+    "kode_dapil": "721104"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/403630/pas_foto/1684147300_ae1dfce6-793e-41c6-b723-ec1f9a414205.jpeg",
+    "nama": "JUFRIN H JALAMAN, S.Ars.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BANGGAI LAUT",
+    "profile": {},
+    "id_partai": 77,
+    "kode_dapil": "721104"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/403631/pas_foto/1688602488_fd465e7b-13e5-41f4-b22c-dc0d52a4013e.jpeg",
+    "nama": "HASRUDIN UMAR, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BANGGAI LAUT",
+    "profile": {},
+    "id_partai": 77,
+    "kode_dapil": "721104"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/426318/pas_foto/1688219990_f6161058-7451-4dd1-8adb-68696dc8c446.jpeg",
+    "nama": "MEISY MARCELINA KATIANDAGO",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "BANGGAI LAUT",
+    "profile": {},
+    "id_partai": 77,
+    "kode_dapil": "721104"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/403632/pas_foto/1688602536_cf18f365-bfa8-44f5-a270-e64834331ff7.jpeg",
+    "nama": "ARHAM Y. TOTUK, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BANGGAI LAUT",
+    "profile": {},
+    "id_partai": 77,
+    "kode_dapil": "721104"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/16632/pas_foto/1683110728_5666f75f-4a6c-44ac-8971-89357713ca96.jpeg",
+    "nama": "MUHAMMAD ALI HAMID, S.Sos.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BANGGAI LAUT",
+    "profile": {
+      "id_calon_dpr": "c7a33c8a5cae9ba7d421ca9ec5dbe3b21c1677d38aabea3d6f1e75ca7620cd5df18c554291b29ea9b29c5f91dbd828d636d1e254cb7716f1c5c1a09c07bd73cf1cmcB2Or8Fa9Vib1z7Cx+fjhrsPhq1mTvTv9+dTmgTQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "721104"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/19776/pas_foto/1683324630_8399608e-0ff2-491c-8b43-5aac9397dda7.jpeg",
+    "nama": "SUHARSI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "BANGGAI LAUT",
+    "profile": {
+      "id_calon_dpr": "a646321e719c35a5b1d9e68387863319231a13d30cf95d83936a170295530f8338ff70173ba942b3e64a4d1f0c65dc9488c1e1efd5aac142ff1684033ef3f2f3AX96ZDGH9Ubq8WdYfmocoIpiHu2dLcsIgFvvTJB0bT0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "721104"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/19956/pas_foto/1683087202_821c6588-8743-4e6c-84f5-9fb4310b0ab5.jpeg",
+    "nama": "MUNAWAN M. MUDE, S.Pd.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BANGGAI LAUT",
+    "profile": {
+      "id_calon_dpr": "887d4673c2576463a2f94b01ae3a8e776b602e3fc5b3a559a405bd62b22602d0bba453b9dba3a174c5b65ab9c150134f91c346c1603b115732c850ed1f3e6fddrmcBNZndUp8RcDkBvQKTbuINgxYMdBRJofUURn5Ai+A=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "721104"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/20116/pas_foto/1683105213_0403bd1b-7bf7-4909-9f5e-aea02766ce13.jpeg",
+    "nama": "SUPRIADI M. MALIADA, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BANGGAI LAUT",
+    "profile": {
+      "id_calon_dpr": "6f8e7dada7b8493195c7960a14f7208a9c1cb61e8616cee0654c1ceba987118b1fa242e4a1cf7583aaa14992a56bc453020623c6a6c1d6681339e48ac241343fnBCrUWk1NdjfIAZPiV694vdCJ/Tj/bAUGVEarbmoWfQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "721104"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/73762/pas_foto/3603196903790002.jpg",
+    "nama": "INDAH NURYANI, S.I.P.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "BANGGAI LAUT",
+    "profile": {
+      "id_calon_dpr": "f2b91f7e4cac26a1b7ff4a67fc9f29bee7aaaf6292b6d75daada1c51c273ef066f582d05a28e3cc89c4aa6999f9e59d3e82bfa7da98f37c60c562b013e6ae20fX8yuJckfyfbAzBLLg1OdksvxLzvs0iexEkIGD+OQ60s=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656155242_logo%20PKN-.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 26,
+    "kode_dapil": "721104"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/413745/pas_foto/1691368953_17fb0774-8440-4f69-a922-bef15e7fa91c.jpeg",
+    "nama": "YATNO LAGONA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BANGGAI LAUT",
+    "profile": {
+      "id_calon_dpr": "a2741b91d59d9e41405d3a9f0cd5584af159ae6e194cf7b6989d1cf084340d4016e7b148f0eebc9956d3e4d55c5be99cda154c38e6218be8a4323b84d2cb8c94UITpTnaMlfzTUv0bg0AbI0rrSSvFsb9rUVHpkv3csnI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656155242_logo%20PKN-.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 26,
+    "kode_dapil": "721104"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/473953/pas_foto/1691669502_dcfda9f8-0a1d-460e-83fb-63c3fb08d2ae.jpeg",
+    "nama": "BUDIYANTO NGONING",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BANGGAI LAUT",
+    "profile": {
+      "id_calon_dpr": "62f022229ad468d4989608c1f3b8928bcdb4ef7ac72191e7df14806d24ffe4794da99232339f94992421555fd0890728af7f28299572ce91132c0c3c5206d78czOsTaunY0JJ0AuKsX9l/uQxQi2o3Dl8Luyny6zlEyaE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656155242_logo%20PKN-.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 26,
+    "kode_dapil": "721104"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/212010/pas_foto/1683745363_21e84ace-1eed-477e-9bdb-5268d786a08a.jpeg",
+    "nama": "MURSALAM A. MOH. SALEH, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BANGGAI LAUT",
+    "profile": {
+      "id_calon_dpr": "bc1293aa480281edf00db531a4af038e0286fc746a1fe7c306cb7bf60435a158f4d5c897203c7c6df8aff519fb9d5256dd7feeaa9e973b4af04781ce8f3c5e482YoygWJJbjJuwP0gcE0XBkug42rlADIrbTOGUhSvtMc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 5,
+    "kode_dapil": "721104"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/212141/pas_foto/1683749617_cb8e8a7c-ee4d-4cd1-a47a-adb40c619029.jpeg",
+    "nama": "NIKMA S. SAPIUN",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "BANGGAI LAUT",
+    "profile": {
+      "id_calon_dpr": "7435a3b6077b70e9e4f5e7164223612f7dc3acc9745fbb4eef4a8dfc83f4779b14f1eec70e277de355e8dfe3c15815b64ded12344095fe2f0901845c890a4ce4IXvdtfIlV9wd/xQuVYubq9cXaDI8qa0UUAecGB26YvY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 5,
+    "kode_dapil": "721104"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/212103/pas_foto/1683708585_1a2f8bf0-bb6a-4e49-a2ce-7d5cc9be1237.jpeg",
+    "nama": "KASIM A. SULANI, S.Pd.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BANGGAI LAUT",
+    "profile": {
+      "id_calon_dpr": "c0de4bec79a2d2eb980a406040fa8c018b2c0457c723f9e0e3c1e101d885bf69377aabe0b60286e355504c065aba29daa8fc2f674df17676b9d9b521a3ffd40ei4gTGp3aLEtVvPEu5WLpp1V06y0ytIMk82lNmGja2XU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 5,
+    "kode_dapil": "721104"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/212044/pas_foto/1683747510_f7d0d47d-9dee-4ae1-a521-02be175d4414.jpeg",
+    "nama": "BUDIYANTO INDAA, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BANGGAI LAUT",
+    "profile": {
+      "id_calon_dpr": "2bdc0dd9ee65549f6fb482207d0452f1ccdc7bf5d1276f12b0657e6ffe68380d5e5d64b9a57d13dbd96453518639327335e004bfe62aacfa419a68cf0b407abeIDDRsYTjNFqB3Rm4gd1H8agnvvA9UArRyZ1+J1EI9Ag=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 5,
+    "kode_dapil": "721104"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/397185/pas_foto/1688695892_8e9859e7-8987-4a3c-b946-d550ec57bf0d.jpeg",
+    "nama": "HABIBI A. LIKABU",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BANGGAI LAUT",
+    "profile": {
+      "id_calon_dpr": "edfff19ee5298175fefea3e8d27303459a7d6c73a8189d70024d3efd7bf017ed09222802b9100a6f9286dacbe9e815e28ac9dc1203d95a8e868b0d0d6707695fK8mqjYxjVKLDL1t6OO5v30JncMKT6t6SJzamorxXGEA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656406064_Logo%20Partai%20Garuda%20square.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 44,
+    "kode_dapil": "721104"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/397186/pas_foto/1688695897_486ce15b-6837-4058-b911-7be5b241aa00.jpeg",
+    "nama": "MULIANA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "BANGGAI LAUT",
+    "profile": {},
+    "id_partai": 44,
+    "kode_dapil": "721104"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/397188/pas_foto/1688695904_34de12db-fc0a-406b-b518-8bd27718c082.jpeg",
+    "nama": "IDIN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BANGGAI LAUT",
+    "profile": {},
+    "id_partai": 44,
+    "kode_dapil": "721104"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/397187/pas_foto/1688725783_bfde7a7b-e920-4052-a608-4c0ee8f4a192.jpeg",
+    "nama": "LAODE RAPI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BANGGAI LAUT",
+    "profile": {},
+    "id_partai": 44,
+    "kode_dapil": "721104"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/3874/pas_foto/1682774331_c7f6f82c-0ef7-4e0c-b259-5abc903dfec2.jpeg",
+    "nama": "TASLIM",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BANGGAI LAUT",
+    "profile": {},
+    "id_partai": 7,
+    "kode_dapil": "721104"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/4151/pas_foto/1682779663_24000a4d-f7e5-4952-9529-50cc600dd3ae.jpeg",
+    "nama": "ZULKIFLI MALIDA, S. Ag.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BANGGAI LAUT",
+    "profile": {},
+    "id_partai": 7,
+    "kode_dapil": "721104"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/184547/pas_foto/1683628997_03621edd-9883-4785-8ed1-fe4e09be551f.jpeg",
+    "nama": "SUESTIN S. KAPO",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "BANGGAI LAUT",
+    "profile": {},
+    "id_partai": 7,
+    "kode_dapil": "721104"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/33331/pas_foto/1683113627_54a9376c-efa1-41ad-a424-92ca11e431bb.jpeg",
+    "nama": "TILKAYANTI B. MALIDA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "BANGGAI LAUT",
+    "profile": {},
+    "id_partai": 7,
+    "kode_dapil": "721104"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/237644/pas_foto/1683777584_d119853b-2375-45ce-b573-d340f54088c2.jpeg",
+    "nama": "SUTRISNO BANDU",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BANGGAI LAUT",
+    "profile": {
+      "id_calon_dpr": "0406683079f2896264b9e9fea1e1d587293b194427a42b19bb626204c15997cf6601861b742ec1d9fd62acc9ce5f1f57f974d6a96c7c7a0eb026300aac570780Mzp9k8RqBCEjkE9tcYgY+GIo+nsBF5qPad5Azg9eEac=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659262742_LOGO%20PBB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 74,
+    "kode_dapil": "721104"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/32295/pas_foto/7207077005980001.jpg",
+    "nama": "NURFATNA PURNAMA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "BANGGAI LAUT",
+    "profile": {
+      "id_calon_dpr": "57cb037bfda6327370b572923e219c7922ce992cf0375415209d406a3fef2f98305d19f7509207ffa9829b9e9e039753e6dba8ace9aa3a4e633432f16b20e7f8lWXcl4/BBvpfnTXRCv+ssbNPHDnyrmYB9kYJQRqG0RI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659262742_LOGO%20PBB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 74,
+    "kode_dapil": "721104"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/32295/pas_foto/7207142004970001.jpg",
+    "nama": "FERLIN KEDENG",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BANGGAI LAUT",
+    "profile": {
+      "id_calon_dpr": "cb6d10cd4ac925526b17c318feab965b6e7bc1f28ac5d7a0ff036ee3c0431a0f8d77d58f07ee09a1486b8701a8c9dd74992adcbdfe4817e3f90bc628ea466135kHAJ2s/tQOPddzmRTFBVsT2F6CibzdDIrlwmFwsLnUo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659262742_LOGO%20PBB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 74,
+    "kode_dapil": "721104"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/32295/pas_foto/7207144706890001.jpg",
+    "nama": "SITI AISAH S.SULE, S.H.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "BANGGAI LAUT",
+    "profile": {
+      "id_calon_dpr": "750f475978b1a6528b46a4f080293c01b0b9f7a98f1aa4a4f5bc44df0cacac9e491000e3d53405a0404445c638c0fdff4e5f76794af8381110572acb05f9475aBI6xrzsHnW2PEPJJY3Tf/ca8We81rAYVExIjdt3zJig=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659262742_LOGO%20PBB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 74,
+    "kode_dapil": "721104"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/102836/pas_foto/1683827492_cd04ef3f-b908-4296-8c73-9b713e591932.jpeg",
+    "nama": "HENRY BUKAMO, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BANGGAI LAUT",
+    "profile": {
+      "id_calon_dpr": "f1c5596ab226f38e560ebe39989314417c947a181a3c5afd1745ccd63ec5c87992dcb4a237278576722a7eaf7d41decfe6d812e3c6281b69d7be53560b5dadb19NX7gqydZP4/wcvp3hpextkY9C7ooBaYT6GvVOG/70g=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "721104"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/79761/pas_foto/7207144809940001.jpg",
+    "nama": "YUSNAH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "BANGGAI LAUT",
+    "profile": {
+      "id_calon_dpr": "c39060587ea3944488e3cbea197b7d3c471f38be5e04a9c75f3ccbb662d2320e1c80b88b6d1e9d708dd659a3609186de0a09ee79e9162acca04dcfc7c45ed5015aSyfMqoT688UeecJf6hTo7NTtr3tR6QlM+3Ps4Mqvo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "721104"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/438540/pas_foto/1688630146_d8a22585-f7cd-486f-bf98-af6fd82f3216.jpeg",
+    "nama": "RAHMAN BAINILA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BANGGAI LAUT",
+    "profile": {
+      "id_calon_dpr": "3a513e00573854c247a97d6f7e366c48f0708cd1a32762234338ae3709e51c7545a6746cc863c577ae362f8213668becea4c3272a14069af275c303519ca33a184Blf3QB1HDeUYx0e7SY11Izn61cVilwEz2/Svr8mng=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "721104"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/79761/pas_foto/7207130905910001.jpg",
+    "nama": "FAISAL M. MATAIYA, S.S.T.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BANGGAI LAUT",
+    "profile": {
+      "id_calon_dpr": "c78de9ee180be62449940f2f223e9d363af0c40352fdc89704c2c6c6d24e3c3a2e39ec0e3613f4964b445de7123cb4c9a186e29ab69b65a152465bc4d9098e7fqC2ahMu6olfxWlcmjfxoWc7kHIVIPv9xbaDESi9UfTE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "721104"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/248973/pas_foto/1683746913_460ab464-9e39-4679-8cd1-8c096d6dc139.jpeg",
+    "nama": "ELNY HONNY, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BANGGAI LAUT",
+    "profile": {
+      "id_calon_dpr": "aadd1a23cd21a1c7b42b7d0f08c4a73065749743113d60b8f830ff279b026f8d00b4193c8e3b5123ad161d1d03398b385405d51abf517f3a5008a61cfc41f41bhWeFa11e/hzJb6qjpFMGqwft6q2PsMrDoxd/Osr9SJ8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656419883_logo-10x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 76,
+    "kode_dapil": "721104"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/266803/pas_foto/1683785405_ea6b869d-c539-47dd-9814-f926025bf4d2.jpeg",
+    "nama": "ASPA ARTONG, S.M.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "BANGGAI LAUT",
+    "profile": {
+      "id_calon_dpr": "941dc54c89549bec1d071a205237e1819cbd88f904c116a8ffd5ffd844ab22f35aac09b8d2533c2d1243b576817b58d103cd7c65acaf0424b5295348ed15ab3a9MJgelqF5iuNanAfX9zsJjPoZqLwpmtUrELhE7RxyQM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656419883_logo-10x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 76,
+    "kode_dapil": "721104"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/267695/pas_foto/1683787081_4e4d0ee5-e4e2-4dbb-bba8-319c52726658.jpeg",
+    "nama": "KORNELIUS POYUNGI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BANGGAI LAUT",
+    "profile": {
+      "id_calon_dpr": "75e938cd8a0673dfd0e970acb094ea21f2b64259ce0a4853076a8162f820bdee0c3d6aae0ffa9ddc3b95c6acd7a7a4837c09fc5562572690bae2cb387570da4bvOMhGKdYlmkKb9kvhQChn0zwsEQNd8KRKH3A+4/P9Vg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656419883_logo-10x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 76,
+    "kode_dapil": "721104"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/268796/pas_foto/1683788643_5d9666a5-da70-400f-b22c-564af45c54ee.jpeg",
+    "nama": "HELSI, S.E.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "BANGGAI LAUT",
+    "profile": {
+      "id_calon_dpr": "526153b0156c46424a0ed92bee5afb520a6375457a1c853a5834e817c481a9d76ddf700ec4dfb500a19ba16ca8e0e06fd46ce1652f12a8c6cd9f1d7326ad12b6mWSj22/vtQBWaRLB/ULUVAAH2JK9Pti+e4ngHz2rcl0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656419883_logo-10x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 76,
+    "kode_dapil": "721104"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/58533/pas_foto/1683652525_60341b13-1b0f-4129-ba7b-b67e6a32aefe.jpeg",
+    "nama": "AHMAD RIVANDI, S.I.P.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BANGGAI LAUT",
+    "profile": {
+      "id_calon_dpr": "46207fdf85b82cfb44305535d0232530277c76ca0d563689608623eab9fd11d46b95941212724aca0e4d5ba20fdc8103a23d9cfede151c31a1e7249963944581+ycLS8tkO+BiljeDUXSCLm80/k3npL+ZFN37IF3C3+k=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "721104"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/452504/pas_foto/1688800667_06c9e72b-3fd2-4ae6-a20c-f384f2d002aa.jpeg",
+    "nama": "MUHAMMAD YUSUF TOMMY, S.H., M.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BANGGAI LAUT",
+    "profile": {
+      "id_calon_dpr": "3a884ef0895f3c79d1acc9158baffdedfd15b752d07c402eda516a72e6a72fcaf1f941ab814d8cb119942c80deb5908f8d30e27b00b088b6f9ec690c83c9283dMyDgg9SfBLpXyku2fb+PE9ExXGzA95n3V7d2aN+SUzU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "721104"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/58586/pas_foto/1683901793_876d9c4f-51cf-48ce-b7fa-aec52fee9df8.jpeg",
+    "nama": "MELSI SAMPELAN",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "BANGGAI LAUT",
+    "profile": {
+      "id_calon_dpr": "0bfc666a30cc26c79dd775389360e3837f45771ff489c1f19a52116876f7f6774aaece2c46af4fb77f43e8528499714f1e1324a183fead86dda2cde99d2898baqz04znbUiZhrRMoUmZrsJ72pGOhy7FQuxN3/KLh+rtM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "721104"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/387232/pas_foto/1683997558_496bf92c-5da9-421b-bdb9-497090c019d0.jpeg",
+    "nama": "CHERIL ANELIA WAROKKA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "BANGGAI LAUT",
+    "profile": {
+      "id_calon_dpr": "f9857c4a6cd4331d06de1d87d4caa17004017fab86ed56918ace7a258e364840ba16925b7357a43a218331dfb1132a4d07ecd1fcb6c46da39b97451a2d1d9318FSYC/rYRIE/dllhMVK6pH3ZI8zdMklix2fNaC/SfKls=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "721104"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/53260/pas_foto/1695872485_1b110f09-cb6f-4eb3-9764-8b097ea5f4f9.jpeg",
+    "nama": "SUHARDI, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BANGGAI LAUT",
+    "profile": {
+      "id_calon_dpr": "cc6e2e978a4f76c808c6ec83ba73115236f05f117cf85f054c12db2645428f92c87602e1b053c8ee7817631ba23ec38cb9e02e6f63aeabc4381f3ebfce573deceOLomnYKs6XOIhv1JqH749kDoBMq/FH/Ri15wUfnt6k=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "721104"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/54888/pas_foto/1696172896_88050853-dbc8-4ed5-9aa0-594bbe72062a.jpeg",
+    "nama": "ZULKIPLI S. LANDENGO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BANGGAI LAUT",
+    "profile": {
+      "id_calon_dpr": "9c50d24b0b8289afa89ca8e7d16294ab38cb4c3d8d5fd6ecb2e41aa7db8f65271f369f15e406d2bb7b6abd82753f01a0b0bb985383670c4c2d79a0529872a7a1mHYe52oV/7UPgzRHk2AhQgMyDGz6c5Rf6aPozwlYi9E=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "721104"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/236891/pas_foto/1695888090_cf4cb919-ba34-4865-ac0a-b838e6536c39.jpeg",
+    "nama": "RASMIN A. TIMBANGE",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "BANGGAI LAUT",
+    "profile": {
+      "id_calon_dpr": "35bf10644ac66559fc1054cd28bb31edce76f541fec9e1a1fba25085aaa79c1d0f516767b16cfc776efb55c6993f83028b99a0f02dee0f95756f9f5ab260d36dbXvH9C+bQvtkCqwgxZd9t3nEZ+3zGKhHrF62+aDVKbI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "721104"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/55312/pas_foto/1683213359_3781bb69-1fea-420b-b716-8ca146605f6f.jpeg",
+    "nama": "MOH. RAFSANJANI A.R. HAMID",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BANGGAI LAUT",
+    "profile": {
+      "id_calon_dpr": "575910742be134558b35aefc57a5f179b87d9a225c9ad853f02e35fb15304275f1907d84dec355a84c7140e6c03d3705d7e5112ecbc43a6d540e4e390491edfbC0W6z93X9i/cnU6F1M2fxrnoyXRC9MTeSTHIN/KJMy0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "721104"
+  }
+]

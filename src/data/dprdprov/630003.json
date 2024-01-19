@@ -1,0 +1,759 @@
+[
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/19247/pas_foto/6304051501800004.png",
+    "nama": "MUHRAN, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BARITO KUALA",
+    "profile": {
+      "id_calon_dpr": "eb713038d11ece46fdea74299591a64d09edbced2d407d5fe50a1ffc97cb2d3b28d2161cb83ebead5da3047057a417d67c76fb4f339940312445662e29527c294iCF5goxTm3lrlLFfXNT4J68BD4masU2BofdlAKsJ+U=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "630003"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/19221/pas_foto/6371031501760009.png",
+    "nama": "SAYED ALWI AL NAFIS",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA BANJARMASIN",
+    "profile": {
+      "id_calon_dpr": "3af92cf553b8a44dc022660991444f9d4dac55740e785431f2a907f58a0f96e48aba10d6f0a1ed684671b611c7316debffd4ee747e0a0bba6367290f54eef9cfv69YJcUokGOcBOVyF5iWnbj2zwu3eD1QgtRdHlTXBDI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "630003"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/19221/pas_foto/6371045109700002.png",
+    "nama": "NINA ROYANI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA BANJARMASIN",
+    "profile": {
+      "id_calon_dpr": "76e12fe3d51c3c3c30bf9950388065984d322beff4ed9392b6d91df02576a3805004a24716f49384fa6b9bd29376e39fc6c37213ae24da3fe475493ce296b2b3ETCiCYG6gRBwhw3rqT8ZNhiJ49Hqed4dnpMMi5QD67Q=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "630003"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/479897/pas_foto/1695648748_8d08f53c-e2bd-4ef4-8fd9-9ca017b863f7.jpeg",
+    "nama": "RAHMAWATI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "BARITO KUALA",
+    "profile": {
+      "id_calon_dpr": "13b86bf1469007bf6f3e358b26f4430d55419fd9c44e102121d9b5df24edb2186d3f6ffef5b0c698954edc55d9b6e298b3419902038f3297aa23d48ae43c4c2aCDwg23sg8YG+mONCO7x3Jp7IPBOc8gFEbPCk+w786NM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "630003"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/20261/pas_foto/1683010261_ce4fed1d-b4fb-452d-abea-eae5e1e6fb4f.jpeg",
+    "nama": "SITI NOORTITA AYU FEBRIA R.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA BANJARMASIN",
+    "profile": {
+      "id_calon_dpr": "358f0136b2f296caf0c7a0eb7f0114fc1687c9476f54ee88191edf4d9f6b8dd5d73277d76dfcb5c3116a50d05ea14ef6d49f67040467865ccb7866304f9b2b7ce3CbuQvhkpUzfGd63F8fAQzUW5JsrUfrB9BnxQ5NvlU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "630003"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/425803/pas_foto/1688188846_074811da-4bae-4d61-924f-2551cda3323a.jpeg",
+    "nama": "HAFIDHIL MAJID AL AZIZ",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA BANJARMASIN",
+    "profile": {
+      "id_calon_dpr": "202ffd53aec32fb2b4e18a7f51c1b06d2181f0e66335d648f42c8059d7f9f56f01c3e493d2497cf400a6e06899c12172bca698bd529e25867e77fc4c9e1557eeA+BuPVpCwRqNGRv+s0fitfm/zvjEmEdzwNPwAfcFGtI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "630003"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/22132/pas_foto/1683543073_0c407cbc-18ce-4afe-b0de-ee28d7e16ce8.jpeg",
+    "nama": "SADDIKIN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BARITO KUALA",
+    "profile": {
+      "id_calon_dpr": "02dd447ffb64fb7c43cb7630d053d552849af671f35ef2a126516b531d95c6e9a81066a92619648f1c3e5cc2c30ad90cc0ce9c15bcaad2f1bbd9c1a11c7248d235x+4CCEEZyoKuJVlIOHdxM0Jh8pEWRpz0zNGxJFUEw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "630003"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/21095/pas_foto/1683333172_f3841d09-d07c-4413-8c5d-3c71d33c0d6a.jpeg",
+    "nama": "SITI JULIA NORMAWATI ACHSANI, S.E.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA BANJARMASIN",
+    "profile": {
+      "id_calon_dpr": "fd49ad36e004f978c298a3805327d052f70faae6a254602479ccda2274a0ff755552c3e324a790b7bb6b2493ab35c6277600ec5a387d10b615025f94add774950nx+CoqF3+2itmGGpIU5Lk1IDRJ04AZcnKDoobjt+G8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "630003"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/157301/pas_foto/1683559057_450dce2d-2faf-4069-9e2a-43de00b35cc4.jpeg",
+    "nama": "FAHRIN NIZAR, S.T., M.T.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BARITO KUALA",
+    "profile": {
+      "id_calon_dpr": "96a7b49d1e509cd144c52a1be94787f828c054eb913aaa17365397b603c52a6fc0e8320697135b481c9daeea02933d5d2e1aefc939cb62f98a4f5a85cebf901faeFE+fnoy2ci6XRUBqXkWMR0EJhLamIHIAsrqImua1I=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "630003"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/157302/pas_foto/1683559247_b0989a29-226f-4a94-88de-0e622aac5a79.jpeg",
+    "nama": "Ir. SURYA PURNOMO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BANJAR",
+    "profile": {
+      "id_calon_dpr": "ca0fa6e8f95d49064e72e4bd73d6ab5f45eed2ddff4edd0872e2342a9e5ad7c9e5c4d5ffbf76aef1e5c7772a55d2520cc11055b52a2d8a00730fa900f3f3c220twXsalmfuS6sYoaNZlVpHWo7uGMjvCBVKGQAUnWbBUA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "630003"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/157303/pas_foto/1683559470_8b60bfac-73e7-49d3-8f01-e503857f219f.jpeg",
+    "nama": "NURUL ANISA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TANAH LAUT",
+    "profile": {
+      "id_calon_dpr": "4f2a5c21c34e98316978f082cc33ecab31843600f27e2372eb0ac5e9c54a530a30ea6bd00e4fadba8100d133bc9a0a22f470b413279ca29aee69cc4349f60623BLq+0rrqf6GzryCib3YVDkfSIIgaRI80KtpJzefX4dA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "630003"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/157304/pas_foto/1683559372_f6ded322-ff18-40d7-8315-b1f01dd7e0a8.jpeg",
+    "nama": "WAHYU CATUR ARIANTO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BARITO KUALA",
+    "profile": {
+      "id_calon_dpr": "c4c14d4096f60d1f83b320c721b193bf89a90f4b2af342ac9c205b53b9645efe9b53b32e26db23a7192f104df6e62c69b4629ab17cc7ffc23a1f569362b99333Tfuh3wtG5H1TZFsAsxTH/u57KWwQ0mAP6Na2WDzLXg8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "630003"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/427571/pas_foto/1688348969_213e4aef-c7f5-44fb-a82e-493fcf8bb515.jpeg",
+    "nama": "H. ACHMAD MAULANA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA BANJARMASIN",
+    "profile": {
+      "id_calon_dpr": "9371f5654e2d7c57e8ff178b7250203eb880a42a60fcf33f2d8dcc9d98c3fdec602659db403baa915b7494c15104035593df24ba0ffc62ea721f6d5f8c1db770aNV50oQkWS3Tu6p8lCNQDR66GfQyH4xetS4wiV+zFtg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "630003"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/427607/pas_foto/1688354005_051abc4a-8ccb-485f-8a57-f27f10f92a5a.jpeg",
+    "nama": "SUSAN, S.H., M.H.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA BANJARMASIN",
+    "profile": {
+      "id_calon_dpr": "eaef32800ef49712e34dff9f7cfd2d7c93a1d0bca1985a92f2c7fd145f9d76bbd063d5d0dcc731fad23394f5109a8fd4d3a0446db00d2946beac6526831766e1KGFyJ/3wLURL7Yp/Ft0Vtd/+ZnFSyA+S3q4Zl0sST/Y=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "630003"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/427815/pas_foto/1688358099_12ab126a-8adf-4a71-929f-90ea2c1a16e1.jpeg",
+    "nama": "DAHLAN, S.Sos.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BARITO KUALA",
+    "profile": {
+      "id_calon_dpr": "40973824d221ed90bebde28443110c1336218cd93c8cb6238b714a955315b6f9065703e905f3bb9eea81856f1452efbdc9c3a16db908582b6e73460de430b9551T4+SC5LMWQ6IMo9NAGplUWZJ+yB4cUuyw0BMVprCQI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "630003"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/287681/pas_foto/1683811691_464461d3-2c4e-43c9-87c8-5689fd78867c.jpeg",
+    "nama": "Dr. H. KARLIE HANAFI KALIANDA, S.H., M.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA BANJARMASIN",
+    "profile": {
+      "id_calon_dpr": "8f384f131f5fba69fcde262e358dc74725ff5217ead35c08e003d04d30d6f66df52debf4d54bfa7e95dd59213ffa8e1361268d1d4e6528d8e82149020008fb41AaMwWHVlKKwFZLZjQasshqVxGHDAOgHjmoou63l4s+A=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "630003"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/25867/pas_foto/1683265346_4e4b296f-9f6c-4c28-a761-c0245f4214ad.jpeg",
+    "nama": "H. JAHRIAN, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BANJAR",
+    "profile": {
+      "id_calon_dpr": "9ed227f83ad89ce2953eeb957598d0da66a48f6fdf450b5288b168d7965a0ba3eb7a3f459dd70cefa5ad4b60cec6a1b4e29ab7c69447a1c0f409f15cbc93fcc4ZsimMa+qE55WXTWq4/0aCDv2ZAhfBQfsEb2gOWUxbco=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "630003"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/463231/pas_foto/1688905002_358dbdf4-c559-4a1c-ac19-8222b33837f6.jpeg",
+    "nama": "HJ. RAHMAH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "BANJAR",
+    "profile": {
+      "id_calon_dpr": "3d52cd41966a1edbaa00083ffc768d7c378434d86d6c898c3599c1d48d5fd6454664bffd00976e9e6d621490f411189f240681cef01c47a33c8edea6650d59b0Dk5/QdXrswDRvvt7jNrpfp6ZQRx2jXbCOO9DVhe/F7g=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "630003"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/59997/pas_foto/1683264147_740955f0-fbeb-4be2-87a1-387bcc19f3f0.jpeg",
+    "nama": "WURRY AGUSTIA NINGSIH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "BARITO KUALA",
+    "profile": {
+      "id_calon_dpr": "c2af7b4b96e5f5074e68e0d2f76fe7141a35559bcdb1726878d317d3ba6ee7bff20a159f8acc9b3298b83dcc3c434193e8829f4e97644a5eaad0bca77c934e67xfMtvX2nX/N0aBpnwXU9T7RvpoO+QdFO+nCkDJpL/xI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "630003"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/60548/pas_foto/1683265817_50544cc3-2459-4563-8155-6f6742ec5c1b.jpeg",
+    "nama": "Ir. H. RIDUAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA BANJARMASIN",
+    "profile": {
+      "id_calon_dpr": "f6f3d1c8e1fbe54edc51daf654782bf017362f487f8b50ba7e91aa482de1bdc19fc3a88ef45f2e0020af8ce28f8e2aa8eb71b6ebaa548e044f164013d1cb7308KtrslRvOVAuSuwLWZvJxoKX9SznvwrjVKH5x/gJKHkY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "630003"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/340145/pas_foto/1683981883_a25d94e1-b3e9-44a9-89e7-1603bd9b2d6b.jpeg",
+    "nama": "SANTO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA BANJARMASIN",
+    "profile": {
+      "id_calon_dpr": "7a59e81bc5cd575687aa013a122f3e61d50bd79dc4e3fab720a8ce3f9509a3be93ed13c1fecdbfea726f264a8eac9ba468737cde499be27155cb27cc2f4d8626w0tuEYdqJwz1gOGj8sJENxal1CSoF3iC90C97ztUihQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659959325_LOGO%20RESMI%20PB.png",
+      "pilihan_publikasi": "datadiri,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 41,
+    "kode_dapil": "630003"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/53180/pas_foto/6371036208950005.jpeg",
+    "nama": "TESALONIKA PRISILIA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA BANJARMASIN",
+    "profile": {
+      "id_calon_dpr": "d74109eeb86a1ef818a30fbd8b0da71264a64614deaeb0a950bc22b231d667c4531df7ecd1aae692aa75a8a82f5a566009177b8c8c140d529b96fb9eaffbc2d8vIeyglbU/ow4C+HwofG3S4fmPEppYggPYJ+Doh392Xw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659959325_LOGO%20RESMI%20PB.png",
+      "pilihan_publikasi": "datadiri,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 41,
+    "kode_dapil": "630003"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/385344/pas_foto/1688013654_7ee1ec8c-3c96-429a-a2f0-35ee85b743cb.jpeg",
+    "nama": "AMIN HIDAYAT",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BARITO KUALA",
+    "profile": {
+      "id_calon_dpr": "93a88c023b6533c8378127de7f5a0b53ad5c41cd3b3ecc12aa6ddd0c840b3dcf00a632136cca4394252f225c16e59960958075cf19ac88a6fcc7c2ce0376a2cc80Jx1SdcrtOFnX5y5+m7KDYOpG+F92LaFHuPZq2FtJE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "630003"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/385345/pas_foto/1688013915_8a6fc818-a32f-4c23-a037-3ad60d472429.jpeg",
+    "nama": "NURUL HUDA SAMSIAH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA BANJARMASIN",
+    "profile": {
+      "id_calon_dpr": "367444c050111de68940b9bded4e1785cd0674bca830d008b5435e8a9151fe5a80c26b4150b4dd0792a26e0a2c7e31f97ed09f83cd8ee4552fa662e8282925b9uPJ8jEzg4lsb6gbOrc+o9LSL40pLKQnOtCuQj9EsAUQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "pilihan_publikasi": "datadiri,alamat,pendidikan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 77,
+    "kode_dapil": "630003"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/385346/pas_foto/1688014187_c301ac1d-05c9-43b7-ba75-0c0fd7e29fd7.jpeg",
+    "nama": "IWAN RUDINI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BANJAR",
+    "profile": {
+      "id_calon_dpr": "457b0179afb01a707c15a60788e2c13f1870530576234f4f1d6f0ede9f053fba3a07ee4fe510d177bea128a03331efdaaa810031f70d500530f60ec7b847566ceF1bP0T8IVjkWpX3+CfnsupUbL5oMvJVdqGBk8oo2BI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "pilihan_publikasi": "datadiri,alamat,pendidikan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 77,
+    "kode_dapil": "630003"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/385347/pas_foto/1688014409_41ed09ef-c1e6-41a9-a52d-88f99ef02533.jpeg",
+    "nama": "RATNASARI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA BANJARMASIN",
+    "profile": {
+      "id_calon_dpr": "d92165017e803bfd6828b5dd9082f9afce6957657655ebfdbb5df7adfac90d5565df8f369e5a0bbe537664b15753bea0921b8df37b233910bec8a259965903cbymYO3Zno8LN21hvLFa5KOGFo3BiDGWyHBcNnpsMxbG8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "630003"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/111372/pas_foto/1683424693_90ef85c4-85c0-46e8-8767-4638eadf4bb8.jpeg",
+    "nama": "HABIB RAHMAN BAHASYIM",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA BANJARMASIN",
+    "profile": {
+      "id_calon_dpr": "a2e690e4d93ace37c567a4f30c03aef82e7df7886f59c35bd36cb7a6219833f9c4e3f9b63e2aef073e581422d68f6fe97a7c4e6c5838b1f735646e4a6564ec40P70wz0+vghN89uv76UT1OWJNZivcB2oWNk+fOvBH/QQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pendidikan,riwayatpekerjaan,kursus,organisasi,penghargaan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 6,
+    "kode_dapil": "630003"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/112188/pas_foto/1683430252_5e9e39dc-f1be-4716-a7c1-bffe2b4d4c48.jpeg",
+    "nama": "MADYA MARTANA, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BARITO KUALA",
+    "profile": {
+      "id_calon_dpr": "c539e0b3cffca20931c1523a8c2496fffc10e7cc41a2e3af2e609af08ebca18e797d10d3d7a630026b0569b270118fa8603da5b214ba4b36f06a8a718c0f9867qTBmrAc7oMdTwQ1/7S972OEgZGDZ822G4ODC6ysNI9g=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pendidikan,riwayatpekerjaan,kursus,organisasi,penghargaan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 6,
+    "kode_dapil": "630003"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/112952/pas_foto/1683432671_95fcd030-243e-4689-a733-22d2069dee9a.jpeg",
+    "nama": "HERLINA AYU FITRIANI, S.K.M.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "BARITO KUALA",
+    "profile": {
+      "id_calon_dpr": "a60336300458e07897872b43b318f87df193110ae8573f8ff5e4f86f71faf162e05ec45fc0493f873a165c2fe9f5bacb004a3aa6984552f6b846eb451fd70fc2KzHRNjC1r3rwGa+uKsUzIt/QCrvdDHFmPZ3N5JKIpnU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pendidikan,riwayatpekerjaan,kursus,organisasi,penghargaan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 6,
+    "kode_dapil": "630003"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/129312/pas_foto/1688391630_19ebee74-ccce-4fa1-9aa6-834365844c8c.jpeg",
+    "nama": "H. TAUFIK RAHMAN, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA BANJARMASIN",
+    "profile": {
+      "id_calon_dpr": "10da59c9dac52f5243065da6f5c816c4f528d4a0c896cd20d860135b5083e9fe299e217d48cf22dbccb2a52e3ef9aeecf710b61a08874e043c21e8f72b4096188gTqdVY5drPuRxKAxMK6vv6zcxcqy8KQk8Z5TaFjqOs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pendidikan,riwayatpekerjaan,kursus,organisasi,penghargaan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 6,
+    "kode_dapil": "630003"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/459710/pas_foto/1688863618_a0a3d83c-062f-4af2-aee0-7827f33c78d8.jpeg",
+    "nama": "MAHDIN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA BANJARMASIN",
+    "profile": {
+      "id_calon_dpr": "2bed0b617d0cd7899c7a53388e523fd662b55dcc679954e373b8b83c21689560ec396576568ee0893422febfce0468f833f1d660c80a51b2b68027f318d039232MG+J2hgCKdX9epWj/ln5EYu0TghfD+TmVhfJtRJPco=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656155242_logo%20PKN-.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 26,
+    "kode_dapil": "630003"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/350434/pas_foto/1688645734_ecbd7f52-76fe-4045-bde3-d1f4126626c9.jpeg",
+    "nama": "ELIYATIE, S.Sos.I.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA BANJARMASIN",
+    "profile": {
+      "id_calon_dpr": "7d299b1b3bf98b565c0b0294cd06162d55c3d3b546d1e366918ae95930cf2e3aafad45e09f5733f216cc5cb83ac9d68a5bac491c13a73ad5c99eec3bf0bee3f3I2O69NiT56N9KSQgt2Qjre5aY9uYyxZlrqmRRtvUjZI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 5,
+    "kode_dapil": "630003"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/68421/pas_foto/1683535479_b81d89ed-4e01-4e33-a7e2-a9b5f39050af.jpeg",
+    "nama": "HABIB AHMADI AL ATAS, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA BANJARMASIN",
+    "profile": {
+      "id_calon_dpr": "466121abc16cb984cd08e58cb201b648dae4b22fbc0c4ae8dda1dfd7db7b8cc4f366b430695b3207b56a327e2e1702cab186bb95b44b34af52e5045095cb63284cpSQ8ivXpV0pHnClPDbF9TLq7wd42mUnwFR2yGhPE4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "630003"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/68705/pas_foto/1683782260_10b3a42f-72a7-4b16-8131-97ede22cb636.jpeg",
+    "nama": "SYAVIERA NUR MARETHA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TAPIN",
+    "profile": {
+      "id_calon_dpr": "d0114056fde6e68ee9fa9202686329cf302d8e05619f6486b40ce39db930c56711ae8ca3d0d0493cbcdd592218d5f847a51b5c280c664a0ab40b2c68907d400eoAJBVAlESJJDax6QmBn/36MOk5u09IqOWBhSHqjh/GY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "630003"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/456607/pas_foto/1688828232_c33a5d81-5be4-40c7-8d16-c7ce21f578c7.jpeg",
+    "nama": "NUR IZZATY RAHMI, S.Kom.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA BANJARMASIN",
+    "profile": {
+      "id_calon_dpr": "f62905c507e6b44eabad8ef449552c4bd659c335405590919af2140b4b10461b842cfce03b0832f79a63d29d4551ed0726d7583b63c17f8c3d225ce049d2723c3VeCrnMtuNe2s8K+PO7NJmAUqb0Zrtuhjcds5wbvn3g=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "630003"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/273224/pas_foto/1683792641_02a4cd11-404a-4f32-bedb-22e05207f94c.jpeg",
+    "nama": "Drs. MAHLIAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA BANJARMASIN",
+    "profile": {
+      "id_calon_dpr": "19c79920a769f683d3235bc64cc55902551a7c987d58c7ff35b46a0a97ac71fe06f9c41d08f8ce6ea374861f4f564f5100c420ac7a188ee4a0e840f9cf2eb33eP7UpaSpA1QyRgvG3x7GiPoWuB9F4vfz3ZmHTbADfWzg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "630003"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/82930/pas_foto/6371022903690003.jpg",
+    "nama": "SAID ALWI, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA BANJARMASIN",
+    "profile": {
+      "id_calon_dpr": "32d4be5396f148fa742bafe218815ff544618ddb328e66aec694c5986b823287b63ecf487afe17ccadb3a03644439d23c0948b74a84a66c247cde5ed48853a8dFG6FWJnUCNkcMBEM2mCF8zozsIbK8NoS2pD53Hotn48=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659262742_LOGO%20PBB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 74,
+    "kode_dapil": "630003"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/82986/pas_foto/6371011010850022.jpg",
+    "nama": "SAID HAMID ASVAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA BANJARMASIN",
+    "profile": {
+      "id_calon_dpr": "d55f7ef075b244a5871df8865c515236f07af37024895edf67561ae8e424db71f6e4fc7f80a050d9f23b8db9bd3e1c6986f52c5e302eb316af7da78a50bf73d8lm/f9rV60mzJncCDY5Kg2od/ogVgXy7hZlMdNE6JcOs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659262742_LOGO%20PBB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 74,
+    "kode_dapil": "630003"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/94105/pas_foto/6304056309960001.jpg",
+    "nama": "RATNA SARI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "BARITO KUALA",
+    "profile": {
+      "id_calon_dpr": "cf04b7de5a78ee45482ae722796fee2d3f721923ae2dd5a190ebbb0d1fc7825aced1d665c877a5788b65371af9d37e4acc182b6b491e0db524a4394607c49d1els04QHTJwnggLk4KG1CqBDTOYC9F5HxmED3MrfnI/E8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659262742_LOGO%20PBB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 74,
+    "kode_dapil": "630003"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/83152/pas_foto/6304156504020001.jpg",
+    "nama": "ANDINI RAHMATUN NISA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "BARITO KUALA",
+    "profile": {},
+    "id_partai": 13,
+    "kode_dapil": "630003"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/83152/pas_foto/6371040912680003.jpg",
+    "nama": "RIZAL LESMANA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA BANJARMASIN",
+    "profile": {},
+    "id_partai": 13,
+    "kode_dapil": "630003"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/83152/pas_foto/6371044501650003.jpg",
+    "nama": "MIMIEK HENDAYATIE, S.Pi.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA BANJARMASIN",
+    "profile": {},
+    "id_partai": 13,
+    "kode_dapil": "630003"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/83152/pas_foto/6372051711610001.jpg",
+    "nama": "IMAM SELAMET, S.Sos., M.A.P.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA BANJARBARU",
+    "profile": {},
+    "id_partai": 13,
+    "kode_dapil": "630003"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/319797/pas_foto/1687946898_ec58a049-6c13-4dad-a849-9169b24162fb.jpeg",
+    "nama": "AULIA RAHMAH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "BARITO KUALA",
+    "profile": {},
+    "id_partai": 76,
+    "kode_dapil": "630003"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/237185/pas_foto/1687778262_009bd7f4-1761-4689-884c-4f8fb40c799d.jpeg",
+    "nama": "TAMARA AIDIL",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA BANJARMASIN",
+    "profile": {},
+    "id_partai": 76,
+    "kode_dapil": "630003"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/13046/pas_foto/1695700110_73f70024-47a9-46ef-9550-5d8e20f5a72a.jpeg",
+    "nama": "NORMILAWATI, S.H.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "BANJAR",
+    "profile": {
+      "id_calon_dpr": "62fa4ec753884bba359a1d0d4ed81fd11ef12c1acf7b228a977c70d549d503460c8d1479fb4d6222c2bdda2a77873ce8defb8ca71fc1e9b144e3341f9ab0b04bxA00dXSRhxF1aZbE8bC7ct5IGNZapfjJF7aRgRXJkxQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "630003"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/452086/pas_foto/1695691352_ee17cd5a-b80f-47bd-84c9-cadf7162fd54.jpeg",
+    "nama": "ASPIHANI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BANJAR",
+    "profile": {
+      "id_calon_dpr": "79d08eac64b415c1f304575f8edd13615ceb68c1294388d22dfd10349aad619e6bc1a84cf61aebac23cce6308c968af26edb7358e5c3ca8560d3e565fff22eca2f5CkysFKkAy0B/DIbFNlNeOeCtcGYgqlfds7zbB+lk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "630003"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/473068/pas_foto/1691657280_b5ed4082-c234-428c-bff7-0570a40ca7c4.jpeg",
+    "nama": "AGAM WARDANA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA BANJARMASIN",
+    "profile": {
+      "id_calon_dpr": "6d0a5408d7f43cb4476b862d3645f055a2dce5928946e5f7ec6605b65f6f26181229e798f8d7211536daeb43af8875768d38cc82af6b98785d27b45e1d614fa7x9NoDlasKu2+g9Ik8yJJQGGP63o0WjmZZN4NwUN5xYo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "630003"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/4249/pas_foto/1682867232_368d6a73-45b2-4a3f-994b-732c9d578661.jpeg",
+    "nama": "SADAM HUSIN NAPARIN, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BARITO KUALA",
+    "profile": {
+      "id_calon_dpr": "7e776025b21bb368cdd17d28d2e947e06e41eb286e9bd1b4ae08cb652bbe998425a0ab31c4a1881561950808fb9f6d5074e7641c8a253ee745905b6435558ab8c4junPvpFRVy3+mjgpnLaRgJTWUPcVAu+u+lsg0rVjI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "630003"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/3971/pas_foto/1682917419_2d8ec7e8-eb09-48ec-ba8d-3a333c4660cc.jpeg",
+    "nama": "ERNAWATI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA BANJARMASIN",
+    "profile": {
+      "id_calon_dpr": "63b70a37d7072e42f5b541b299446246b9fc3efdd68114008091429304f9eefeab8a10c2d152842a2fa65ea2f9ebe71365c8fdd0e9248f161cecd13ab8e90d7fS8wyR05vHkD6wOvcZNKtLEnsqNfMUDD/RD9FP/FTGxU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "630003"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/4198/pas_foto/1688354741_4a1c4e5c-924a-4b8a-b187-99c5cfca7290.jpeg",
+    "nama": "YURIDAWATI, S.E.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA BANJARMASIN",
+    "profile": {
+      "id_calon_dpr": "06bbdc8eecdd12d1744d68c07cdc9d1b1395ef140e5b8ef4a78739fc910b82d551ed370ac86eb39f7ddf3838d0f91d6f223b2183eaac52d6e0a7303cff995bb3SAmC772UpZODpH5CNunQBVgjYL70bkwn2e1t8I7aBbQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "630003"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/4131/pas_foto/1682918287_8b40e747-e474-453f-9c3e-f259a90a925b.jpeg",
+    "nama": "SOFWAN HADI, S.T.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA BANJARMASIN",
+    "profile": {
+      "id_calon_dpr": "f0e9099ff83b5dfc3980bb9780daf5d80f10fd9a743a4de009b22f2d19ea090bec7f7163b6b36f4c37aa69915eda686d480b70a9944112356a1d13cb9ce924ecFfsCEwSi05s4pPUL4Oo0GU7c4NK10OLrtk9HfCg8yrY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "630003"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/445978/pas_foto/1688729453_c1eeb72a-2854-4344-b2bf-e13451b21c9d.jpeg",
+    "nama": "SAKDILLAH, A.Md.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA BANJARMASIN",
+    "profile": {
+      "id_calon_dpr": "c97fa88b21139b0ad02d1575e874be2f0abc25bcec1b964e10db7393a9e021f8b349b5736014ef9e6662004a5388926eb239c995bcffe85f812f4f3bdfc943cfeWB1uMSfaa/a0Bhr9LmD3heE6JP6/I7NnoI9PLvJulo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656157120_LOGO%20PARTAI%20UMMAT%2010X10%20CM%20KPU.png",
+      "pilihan_publikasi": "datadiri,alamat,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 78,
+    "kode_dapil": "630003"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/310536/pas_foto/1683966244_ff14a8c2-0cc6-4115-a01e-8f2219309bcf.jpeg",
+    "nama": "ROSAIDA, S.Sos.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA BANJARMASIN",
+    "profile": {
+      "id_calon_dpr": "de34f105f1e516e36e52c27a49b55d694258b64805f255deae71ab28d2d961446a846898cd18d0ba7d44cf7bc507a16b37af475588554bda3accf3e0bf693891c4nb18wk9u6BKgKBmAlOfwakSvEQsNORS9vpCmuJx+c=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656157120_LOGO%20PARTAI%20UMMAT%2010X10%20CM%20KPU.png",
+      "pilihan_publikasi": "datadiri,alamat,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 78,
+    "kode_dapil": "630003"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/469158/pas_foto/1691554433_4699e306-03a6-454f-a542-393ef35e3a61.jpeg",
+    "nama": "SUYITNO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BARITO KUALA",
+    "profile": {
+      "id_calon_dpr": "392bceb18cba08867afee23b22394383e150386f46cb6e888d77042f918afb18b2fab14e3c0cdb0bd31dd7ebcc5a7e2a373d27a2597cc26aee456de2fb2d5c66xi283pn7/eC73rLiU3uUKvbp0ATFHbB68UyYK6OOoaI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656157120_LOGO%20PARTAI%20UMMAT%2010X10%20CM%20KPU.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 78,
+    "kode_dapil": "630003"
+  }
+]

@@ -1,0 +1,764 @@
+[
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/35788/pas_foto/3672010604610002.png",
+    "nama": "M. JAMHURI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA CILEGON",
+    "profile": {
+      "id_calon_dpr": "c1a8ed7bd6d40f70205e4b2385bb2e888db97d0a1e82f164637b51e60ab03d13110570a388e19ab23c5a2f85297cfb44eeb253bea840758e0964fec8b66c84b0V5SeqVyRPPrGCFFezDMWPTbMJ5FwlxKAfDCUR32UfDk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "360012"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/422653/pas_foto/1687851366_7cbf24ec-efa0-4622-9959-15e6e4406d8a.jpeg",
+    "nama": "ETY SYATIBI, S.Sos.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "SERANG",
+    "profile": {
+      "id_calon_dpr": "abad12c4560c84c77a0d7f20579afca271e2e42694f6aa1855e2a01abcadfe987c69e2d85e00da48effde2334e0d6d4a8068389543c874c60ad22e5e0140a81cHmvbt9v6yC6N0Un3PsX5MvlIAjY2V5ZwU3ajL7fT004=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "360012"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/95320/pas_foto/1688300581_3761da41-648e-4ddc-a1a9-d2bd27fd252f.jpeg",
+    "nama": "AKHMAD ASGHORI, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA CILEGON",
+    "profile": {
+      "id_calon_dpr": "437d0ac65a12a90ed85c77d1c8e60e50b5143f08544f5795a60132661c380324122659d98c4b4297130a19d7ecee14757a0f6c3903d5760ae0638b6e7c94f496xvicMXTHbrQc6i37LjT8y+34rv4EC+dwZbi0NA+vVfo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "360012"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/95321/pas_foto/1688300286_f35e29b9-3b8f-4c3c-89ff-735b9d6b8fbd.jpeg",
+    "nama": "HELMI KASYIM AGUS",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA CILEGON",
+    "profile": {
+      "id_calon_dpr": "56660a7f2f1d674b06431c95b77823e7a067463f0489a7787d422b637cb6d472d52855b0cde9a183c14b939c210723d2ec47a0bd5ce3b902f962411f80d533f94Mz4WAXD6H63M8ULUS98tvEe+M2mS7w4UJ4uILvuOZE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "360012"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/186279/pas_foto/1683714665_dae2d295-b974-4155-89a7-4cddf9cb0366.jpeg",
+    "nama": "H. HASBI SIDIK, S.T., M.Si.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA CILEGON",
+    "profile": {
+      "id_calon_dpr": "7218dacce9ddbfff4a8d0b793817345d0d040628f7e0bf96e24a5655c8675bd54d468bd19fc630382c399b4aa6889b54a1c7d39c96f453c0d854387bc1e04c2f67l7+7pbqZJ/IJ5GFM/bhu7D8OgjkVcnyyd8TyGj0kM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "pilihan_publikasi": "datadiri,pekerjaan,hukum,pendidikan,riwayatpekerjaan,kursus,organisasi,penghargaan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 10,
+    "kode_dapil": "360012"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/186460/pas_foto/1683722985_49f15dec-6bd7-4abe-898c-ef14ab174d26.jpeg",
+    "nama": "Hj. IDA FARIDA ARIEF, S.E.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA ADM. JAKARTA SELATAN",
+    "profile": {
+      "id_calon_dpr": "16318fcb93e0d9ebbe9f299e2e738481066f7a8d11d7b36ab8585e6fcba034857550ec0ee67308533afe65742ce1ea8549afb9cfe12e3880780d83525ef92de4SHc48mFPHWnB7SFoL8PvAGiR50XTqOCNnZsyKxKL1ok=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "pilihan_publikasi": "datadiri,pekerjaan,hukum,pendidikan,riwayatpekerjaan,kursus,organisasi,penghargaan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 10,
+    "kode_dapil": "360012"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/430276/pas_foto/1688452247_4a5629fa-7576-4c91-b480-90a9b99f6ddc.jpeg",
+    "nama": "RETNO DURYATI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA CILEGON",
+    "profile": {
+      "id_calon_dpr": "64412e994521aa72097705e7ed2a24c6c01bcf8c4740a2291b9d46dbd3a4d07849816e27d183c3da3a7ee124b922839b548332385bc99d223e6689d37572730fTMHQk/14Trixi88RqfoxE2oW2LYVg4eaEoEqej2CmrY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "pilihan_publikasi": "datadiri,pekerjaan,hukum,pendidikan,riwayatpekerjaan,kursus,organisasi,penghargaan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 10,
+    "kode_dapil": "360012"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/187365/pas_foto/1683721113_d9103993-5d70-407d-bb02-b88a6ff92f49.jpeg",
+    "nama": "MUSA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SERANG",
+    "profile": {
+      "id_calon_dpr": "0587d0b0f908f43c9ca71c49542585f04f1316f546d15d1b5ee84e3b74cf1cf87140de259f7b23775407dc398ec21ca32300b54d933e3f0e433f3b8af5a861a3hCT1IgKF0WgccOqV1kCdnbL4n1vjYRcwI9n6uA32w60=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "pilihan_publikasi": "datadiri,pekerjaan,hukum,pendidikan,riwayatpekerjaan,kursus,organisasi,penghargaan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 10,
+    "kode_dapil": "360012"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/180481/pas_foto/1683734966_da2d5898-ac23-4f86-b51c-ac22207cbcf2.jpeg",
+    "nama": "H. RENO YANUAR",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA CILEGON",
+    "profile": {
+      "id_calon_dpr": "e8ae8199b270e15d9bc50bc3379072ceced16411f23d3fad07422b83f5aaa70d0bf599db35bae36979dc588e4c25ae3c9effc5a9b3320343de7879ca2722456eUJ6roSERKvCS2os0Cs2FANh9+E3h0vLDSh0GKaKmTP0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "360012"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/180482/pas_foto/1683735470_a129cc10-eac2-4d25-8b66-c9534d39f623.jpeg",
+    "nama": "ALFAT MAULANA, S.I.P.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA ADM. JAKARTA SELATAN",
+    "profile": {
+      "id_calon_dpr": "6a41166925c1779187f0febaa48e254b3d0e0cb850422051311608a04849fa3daac5f6ecd9f44c4c5671d8db23459fe8109cd07bf1c6b4097d7a0d4abd41f961jkwU++H963laAqyGdXZhmK7+WPnUyaSQZiZBV2HfDTY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "360012"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/180483/pas_foto/1683736095_63a0f073-e25a-4ff5-b845-9d927c1848e6.jpeg",
+    "nama": "DEWI CAHYA NINGSIH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA CILEGON",
+    "profile": {
+      "id_calon_dpr": "ed55702e3951b61983b556705fed87eab94228b8a6a0d85027cc3a764dfe6953910db8a1a60a743fc6d242f4508c971f5ba490777e0f62f7fe39d20dafc6276dctZOcniLbuEpBb5ZVACjZsdvzzLZ0pmd9A7txS4qR68=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "360012"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/180484/pas_foto/1683736611_deae47af-a20c-4c4d-84aa-7aca7021f6ea.jpeg",
+    "nama": "MUHAMAD YUSUF AMIN, S.Ag.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA CILEGON",
+    "profile": {
+      "id_calon_dpr": "59cf64a4393ad9f66db26ee642a5b9855120e21cf25aba17106f909a7a3f13e349c53b8c0a662ec530d466741f91bc3a188dc3e786c26769a0589d5c6feb6dc3Z2bN18z0IZp/vNmVyDvdOCqXpL/WLI0dFV61waa9m+M=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "360012"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/144039/pas_foto/1683622704_a483c037-9823-41a6-a2c4-40ece5dd8f3d.jpeg",
+    "nama": "Dr. Hj. RATU AMALIA HAYANI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA CILEGON",
+    "profile": {
+      "id_calon_dpr": "0fb763edefdf575052e83479a5bf5f8db12c732dddb6cdb57bb71721150829f8c5d727b53a2b18fa8f22b28dbc7e0a0c5c0ba063e2820679ea44f36a771f9607L3QgEcJZGvzcVRkv1guftwP+RiLyWnBtdKYAfoRfkmI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "pilihan_publikasi": "datadiri,pekerjaan,pendidikan,riwayatpekerjaan,kursus,organisasi,penghargaan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 9,
+    "kode_dapil": "360012"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/119455/pas_foto/1683722974_128fe133-9f62-4b76-9fc4-fcc2d6f13adf.jpeg",
+    "nama": "MAFTUHI, S.Ag.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA CILEGON",
+    "profile": {
+      "id_calon_dpr": "a51ae73b7485f0cc9cc553a32e2d83d6ae352b3c5de700d1f2fb4b91a052a8155488a7fa9c86040ebda42e11d2e4a9a6abb3c5878e6b820e604aeb2d0d44c599PygazA+5Fx+7PSkn/qptk6kGGQLNcYbg8ciDhVvuqdk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "pilihan_publikasi": "datadiri,pekerjaan,pendidikan,riwayatpekerjaan,kursus,organisasi,penghargaan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 9,
+    "kode_dapil": "360012"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/268385/pas_foto/1683788573_7f03aead-9fd4-41f0-898b-3f318b850700.jpeg",
+    "nama": "MUHAMMAD JAENAL ARIFIN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA CILEGON",
+    "profile": {
+      "id_calon_dpr": "d76a7737ca856a1a949aac6455feab8750b5287d0f02b41099b620a595a60059bdd2d474ce429165498753b62dd14adf095256445f3770465ce0b394a05946179BBag7P8aWv6N6RbWLhbBD+MWRUlvndMT5nq2fqXNQM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "pilihan_publikasi": "datadiri,pekerjaan,pendidikan,riwayatpekerjaan,kursus,organisasi,penghargaan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 9,
+    "kode_dapil": "360012"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/278376/pas_foto/1683827249_a1925f12-7746-4803-89db-2067f1e2667c.jpeg",
+    "nama": "ZULFAHMY YANUAR ADAM, S.H., M.Kn.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA TANGERANG",
+    "profile": {
+      "id_calon_dpr": "b8ec5ae1a9dbea6075c69a35236a7dd4a224aef5d4043d5c255feb43fc08220158fbdbf658b23a1779bdb410a2e0ef1f0c18f1bc3432f177df50bebfce6754d62aW19mGlNJsIiQqjwyt4ztPx87YA3wg4yauEcGETb40=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "pilihan_publikasi": "datadiri,pekerjaan,pendidikan,riwayatpekerjaan,kursus,organisasi,penghargaan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 9,
+    "kode_dapil": "360012"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/28071/pas_foto/1683059263_f470902f-148f-4dc7-bbef-0a249d9d7d4f.jpeg",
+    "nama": "H. ERICK REBIIN, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA CILEGON",
+    "profile": {
+      "id_calon_dpr": "dcf9121d4fe198ab07022c1702929dbe5307bc7a311934408cdf5c826b133abb835352f6fab67f5b377b65360f76230e68f9ed0bec6523223b736180a3f6268a0SoImL1Ke5DvCczDO0XgQioWWwpkgoV9uNg3wVne5KQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "360012"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/28075/pas_foto/1683130328_518b8eb3-c448-417e-8648-491e4f77a191.jpeg",
+    "nama": "AGUS SETYAWAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SERANG",
+    "profile": {
+      "id_calon_dpr": "de65ff34dade78abdd5f13a0e28bb9eab8dfc23ae34bd9f7dcc14df327eae87d670e03c172e9daedc5534463529d3f332ed41c5336ad49d32f067903c0dc77b2H2fh5x4Iob9720Dhp9OqeHggsB8NOg3kesk2LioWBXY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "360012"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/28083/pas_foto/1683389461_71808ac1-b7c5-49d9-80ce-f8ae9eb2a524.jpeg",
+    "nama": "TRIE ASTUTY SUCIEPTO",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA CILEGON",
+    "profile": {
+      "id_calon_dpr": "ce84d89adb4abe44c0701351e30f3080b1512bb06b8c87eba4e77f7803392faa4b0ab2c5beedf60df7866828d9077cec9ba172ea600dd0a42595707e2cde4774e/IaDDcejM48m96UA7R6noubfqaAV5h4MXFRvl4dbEM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "360012"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/28080/pas_foto/1683060136_d1f8e04c-b5b6-4347-88c3-3b4df90861ca.jpeg",
+    "nama": "ALI FAHMI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA CILEGON",
+    "profile": {
+      "id_calon_dpr": "f84c331cb1687d1b001d020dcdce166c4484bab276bd39922067d0d245520b9197561d4ddeef669eb36fc174de8ebf81b25c3d038a227fd8a1289eb32eca3c77yzEq0CXBSz5LQdXNbozfJObxGAEnXQ8jpngvWdKE7oQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "360012"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/341909/pas_foto/1683985924_fd558ca6-423e-4b26-aa59-2b8886069aa6.jpeg",
+    "nama": "RUDI SYAHRUDIN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SERANG",
+    "profile": {
+      "id_calon_dpr": "936d4a4715961751142df63dc7c59e139a2ae5b21436ef11f3348b7fe2791e74638d0c2843e75ff878dfd54ccc5a3ccd80256f877fc130ace493b3829174e3ecX12bi0yMd3qgQYW+5fl4JJLMhujAn9/ofn52/sZdaRs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659959325_LOGO%20RESMI%20PB.png",
+      "pilihan_publikasi": "datadiri,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 41,
+    "kode_dapil": "360012"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/341912/pas_foto/1691484121_6c442c11-4bec-41d0-8d96-fa0adb187bcc.jpeg",
+    "nama": "UNANG FAHRUDANI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA CILEGON",
+    "profile": {
+      "id_calon_dpr": "e00bad2fb896da451ca60522c0a43043cb79a53e57f3fe33eeb239c435447448bc523385e1ffd401a5fbddcab3e6c3675432fac26b26a4f3eba44bf330ba8779/OdReGQtkhem+OHEocfGhuBVQTPTYgu3/UkyiZBB4tQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659959325_LOGO%20RESMI%20PB.png",
+      "pilihan_publikasi": "datadiri,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 41,
+    "kode_dapil": "360012"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/341910/pas_foto/1683986026_2a01e1a9-7f36-4d80-b500-83aaf01ac39f.jpeg",
+    "nama": "INAH, S.Pd.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SERANG",
+    "profile": {
+      "id_calon_dpr": "4aa99fa5001537531e91d7f793dee0a9be44d5e98770de83c0176ee00fe9d119acdcc257b225cff6fed4eafe9dd87aeb49c783b0eeb4a8bdba085a5e2874f9808Fw19D2pn0h6S6F2BuNjnXtYP5c+WnEyTTOtLjDlSZg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659959325_LOGO%20RESMI%20PB.png",
+      "pilihan_publikasi": "datadiri,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 41,
+    "kode_dapil": "360012"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/341911/pas_foto/1688396364_fbded67b-8c3e-423f-8d7d-d433be35b2a1.jpeg",
+    "nama": "INDAH KURNIANINGSIH, S.Ak.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA CILEGON",
+    "profile": {
+      "id_calon_dpr": "7a3bbcf9187de8b718863d41670b51734d29e0708cec99cabfc9ae6c09eaf758d494bf5a42a8f7c2e8ccc46cba70c574e42b22b5c1f7d89b2ec601e6ccbf3296nIfX0bSHLwOdmZlFRa47SQJvGJRXGH8kbpCPiguWW+8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659959325_LOGO%20RESMI%20PB.png",
+      "pilihan_publikasi": "datadiri,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 41,
+    "kode_dapil": "360012"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/27678/pas_foto/1683048769_29c3b20e-fe0e-49bb-a9b3-d3c8144ce410.jpeg",
+    "nama": "dr. Hj. SHINTA WISHNU WARDHANI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA CILEGON",
+    "profile": {
+      "id_calon_dpr": "b7c97238b78c7446ab0042c8867257a2ae3db76f08b49d77bad9e8ad8697f2804a0cd6daa92abc3f7e435bff70d8b090265edc6d1ac5a298dad16dbf6278e256+6z60ODASaEaZBDdc6gjxcLxT4cnI9C/zU0BLLcAiQs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "360012"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/27369/pas_foto/1683047263_09210e87-bf62-4d7b-95c1-68d0111f1f6b.jpeg",
+    "nama": "Dr. FIRMANULLAH FIRDAUS, S.E., M.Kom.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA CILEGON",
+    "profile": {
+      "id_calon_dpr": "d159f8766e14b75e2521e2615ae3c60c9d4611130eb973c936a1dad4c602c7e2af65873c27c76e3981b457abb985988a7ba1d59f6d559959b4d5f5b48b6de605bhQcaP+GlkJ1wqoP2+MyzPvmqeFHC8vNV/5CjrjQ/4o=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "360012"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/482558/pas_foto/1695957404_ab386e79-3911-4c6c-a9ea-bc39d8201ffe.jpeg",
+    "nama": "TB. WAWAN KURNIAWAN, S.T.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA CILEGON",
+    "profile": {
+      "id_calon_dpr": "13025eaa1b71ccf1befcf723698007000b439d9da6f62ef2d971352e3a6c93a2be480aae36311e11a7ec2b9a91539df9ed158f5d331c1de1e2bd7836cfaa0cb7HsY0t9qzFFbzAIFwMfaEayyGAm/LPwkm3Ue6L22iakI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "360012"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/27582/pas_foto/1683048428_a47850b7-432c-4fe9-a05c-5009eeaadae4.jpeg",
+    "nama": "MARLIA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA CILEGON",
+    "profile": {
+      "id_calon_dpr": "c59cbe0726a4c1f2793a77e1588319576dcbc233604875d824da5d925d23bc8ba33d577c32c14dcfaf905af8191f0fe21fb05352dce994ec1eb44659b1dc089fHrkI9mVW0Fa7Ehlfo84G2nfv5fMPSWuFkKF+JlP80q8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "360012"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/324320/pas_foto/1688849637_ab039d66-faa1-40a5-ac7f-f122a82d8a7f.jpeg",
+    "nama": "MUHAMMAD ROFI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SERANG",
+    "profile": {
+      "id_calon_dpr": "a3e5b0f2d6c7f8f11d6449dbd6b9e68dfb84928c1abe6de0d1125f9089804072077df4f17d6dc369279321f30fe0810d8e48e2a5ed8863ef364e906274493f9cE7Krz7tL+3Ba68jhjeAN+EDleTKQqX9OtYcwWkCWehI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 5,
+    "kode_dapil": "360012"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/324729/pas_foto/1691460449_b539577e-b66f-474a-8b7c-7aa203347ce8.jpeg",
+    "nama": "UPI SUPRIYATI, S.Pd.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA CILEGON",
+    "profile": {
+      "id_calon_dpr": "8c2586f8ce1a4a25e47cea34e9cb5dd4c4be2ea177aa77d982654aa1511440808212416e208b0c50d566b12ec7881559845dbc0e8432e834dcb91a910489e7019i1pBDfdm9kRWhO0BsPxCguQKtqBV8vDCT7AIZBdiPs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 5,
+    "kode_dapil": "360012"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/1482/pas_foto/1683376980_3dafca06-038a-48b8-b629-8732e2d2fbc8.jpeg",
+    "nama": "H. DEDE ROHANA PUTRA, S.E., M.Si.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA CILEGON",
+    "profile": {
+      "id_calon_dpr": "38a5193c4952f923c546cee81cd0c421b3405d3f09b94eb3b73212ca38e7bd1b6f0eb386417a6f727eb00efcb9bb66e135610d72e0d2525706959f08e7843ea1OJbXAr7ldd7uP/Aws8QVHuMILxxcOL/k/QyORzQ7p0g=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "360012"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/1670/pas_foto/1683706613_918b9747-ae39-40f4-855a-a4d2581b9b5f.jpeg",
+    "nama": "ANWAR SODIK",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA CILEGON",
+    "profile": {
+      "id_calon_dpr": "5558c361fc0975d412ffbe4cdd98163af78bcf71bade5371e812101857b8f5e3b61621b76980453600029fc3f9366e35511c6112895bfee06ee30f834645e3abucF8uQak8D2RoJSKLvWRyINDAfmi61hIKJ3Hc5ZtP9M=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "360012"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/195037/pas_foto/1683727735_fdcee12e-5ddc-4c46-b0ea-0ed82aa861eb.jpeg",
+    "nama": "ISMURNIYATI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA CILEGON",
+    "profile": {
+      "id_calon_dpr": "efbf8ed27ecd4cb66420c6a4c638996d41c5979f0c74258d96376a0ead101148ebc0a8cd27f8ab5b9e1862d31564b2d3fa81776f356b39d2900ce951434d5409eM1CFaMwiL5wNQlFiCk6t5nfQlncTPqRf4HqxykQzFQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "360012"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/150765/pas_foto/1683655448_0c34113a-4cb1-47e8-8b38-cf6a8cb49b49.jpeg",
+    "nama": "ZAHRA RAHMAYASA ZAKIYYAH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA CILEGON",
+    "profile": {
+      "id_calon_dpr": "eaa85386c2f565dd1eb4e6265194c1948df9d7d91bf90ab68f951a1b70790ec84a06bd018c258ba56962c9754c98bec357b53235d170169cef4596c02a39ee5as5W5nvnCFm9WVUd0wqAw7t//tvZ0w6apLoyQ5j2I3y0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "360012"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/289126/pas_foto/1683872437_5de50318-1e94-4c5d-bf76-44ca4bbbdda8.jpeg",
+    "nama": "JHONY HUSBAN, S.T.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA CILEGON",
+    "profile": {
+      "id_calon_dpr": "cc2da615d40afc6697f33137cc68655eb90c956a138ca7a6a02d7d6af740a447a6ff6a3b7fa71b1fbc4194b56f134cb61776e8067a920baef720909551660c2bisU/Zbj0xR0IndGcdWg7fLVcRR4ec9TXtoWGZt7B4V4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659262742_LOGO%20PBB.png",
+      "pilihan_publikasi": "datadiri",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 74,
+    "kode_dapil": "360012"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/289127/pas_foto/1687770611_3a7987b7-a48b-47b5-83b7-c9bf488530a7.jpeg",
+    "nama": "KAMALUDIN, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SERANG",
+    "profile": {
+      "id_calon_dpr": "a4535e1955fb7d17f29a772737e534d422b5797582f70652719894172c31e924e96f4c189117e8f822bc5c1c3f4d78233817d636a69590140804afb036a0f904gwvi5VN68onvdYwM98Hym1le3bvs/gBwbaB+nh+K42I=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659262742_LOGO%20PBB.png",
+      "pilihan_publikasi": "datadiri",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 74,
+    "kode_dapil": "360012"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/289128/pas_foto/1688542718_9758cb94-71d7-468b-811e-5d6b2625873d.jpeg",
+    "nama": "FITRI ISTIANI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA CILEGON",
+    "profile": {
+      "id_calon_dpr": "7bf59351a2a6216ecd38501f24deb427b510d3abe13306307cd7841f2ddd6657ce760be459896283d62323f5dd1a08b0715cf648daba340a548cca1c74173544OeuL34h4T7hj3vAjv/gP5r+rDz7t50Xo00SGSAviPw8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659262742_LOGO%20PBB.png",
+      "pilihan_publikasi": "datadiri",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 74,
+    "kode_dapil": "360012"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/107501/pas_foto/3673051803850002.png",
+    "nama": "ERIK PRIHATAMA, S.T., M.M.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA CILEGON",
+    "profile": {},
+    "id_partai": 13,
+    "kode_dapil": "360012"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/488427/pas_foto/1696345790_07b62afc-640e-4f32-9fbe-68da9b72def4.jpeg",
+    "nama": "ROHMATULLOH",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA CILEGON",
+    "profile": {},
+    "id_partai": 13,
+    "kode_dapil": "360012"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/107322/pas_foto/3672074402940001.jpg",
+    "nama": "SIRINTA PUTRI KAMILIA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA CILEGON",
+    "profile": {},
+    "id_partai": 13,
+    "kode_dapil": "360012"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/107318/pas_foto/3672080211980002.png",
+    "nama": "AGUNG GUMELAR",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA CILEGON",
+    "profile": {},
+    "id_partai": 13,
+    "kode_dapil": "360012"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/135466/pas_foto/1683731559_84fe58b9-c89c-436a-9c05-e7c4d0faf3cc.jpeg",
+    "nama": "NURUL HEIDIAZFI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA TANGERANG SELATAN",
+    "profile": {
+      "id_calon_dpr": "1dd97b5b81e8d2198f79a0db09bdfeb6a75d7b184fed3cce0c728adb9e1cf109c74876b11cf656c8c2ba7b55b0bcdea505dbcf31452177d788f57b66b1efaad0R9RfwUXSZOk60zNJKr5nI/j6Tg9riXR+ujxVy//M8YM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656419883_logo-10x10.png",
+      "pilihan_publikasi": "datadiri,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 76,
+    "kode_dapil": "360012"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/136037/pas_foto/1683782093_b5e418bd-25e9-4329-96e9-1f56e961c0ef.jpeg",
+    "nama": "TRI WAHYU HARYONO STEVANUS",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SERANG",
+    "profile": {
+      "id_calon_dpr": "bc8961f17e6e657d732c88d121bca0c185902ae93506e4b7c19e472440c08c79d02270f77c6510d8fc88ee896b34eed74aeef330eb0f349b44db9c609fbf5c45SnWd5qK3ihCLDyu20qVbLazlubF48562bG1CSH2b2h0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656419883_logo-10x10.png",
+      "pilihan_publikasi": "datadiri,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 76,
+    "kode_dapil": "360012"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/136086/pas_foto/1683772861_25949164-7ad3-48b9-b56d-79c1ebbe83f8.jpeg",
+    "nama": "ADAMIRI DATAU",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA CILEGON",
+    "profile": {
+      "id_calon_dpr": "8fcdb5ae1a0f1760d3a6136eedf56f694e180c502bc4b7cb261c2b48ce8fc909dda29ae977cb8ef30d51ea5a98968e54bade3633df1ed078ad87b51568ba1da9whqmUPyBYwElOXgnDNALnu1mU0qPoVwyXbmPfLDLFio=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656419883_logo-10x10.png",
+      "pilihan_publikasi": "datadiri,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 76,
+    "kode_dapil": "360012"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/712/pas_foto/1683229615_409eb15a-b04d-4afe-b4c2-e1e656718397.jpeg",
+    "nama": "AGUS DAHLAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA CILEGON",
+    "profile": {
+      "id_calon_dpr": "5aecf82ef14436aa03e3a69b64d7e63402e1793f7e4b4f51eec96f3def39f87ac2d9e021d2f710c4cedc90974a60f3c872f3348133833b21cf9a9c875eeb974b10TH2mRW0xhwkqZqphGesqUQ415YnX6QX6eHI+ZbOFo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "360012"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/364860/pas_foto/1688233653_abe0a39c-c4ac-4e36-a25a-3d0ce585dd82.jpeg",
+    "nama": "AGDELLA  HERMINDA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA CILEGON",
+    "profile": {
+      "id_calon_dpr": "548fa3103e31bc2ca2d266f0ca4ec3ad5f84f29dd01f9fd59f08757189206f64697459ceb9387707dc27f313d7333ee5da3141470e73d91a5b8413217a1678cbbQCdY8xhHsfkhsDT7bH3cuqxbO6Zw9QOi7aC/PEXUnM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "360012"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/408712/pas_foto/1688234376_33483fc2-ef81-40d1-a607-b16be729946b.jpeg",
+    "nama": "RIZKI OCTARIANI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA CILEGON",
+    "profile": {
+      "id_calon_dpr": "e0bac2d7a10122f1069c24d7ca1dd16789e79e8f677108369f9763792d5fd9c8b582b7431bfe92b1dca9dd92f60df9277e1ddd423a9a83717583ca2562de4c8fpEcac5sXEPHQncTnLKnU4Pk6V6pUzH2e5Bjqg1LlpFc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "360012"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/413521/pas_foto/1688233983_c8fb7d8d-df45-4410-9a25-6bd8599221df.jpeg",
+    "nama": "BERLI WAHYUNDA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA CILEGON",
+    "profile": {
+      "id_calon_dpr": "0b0d44fe5b1affffbbb956866994d4a99493bf387ae49226340442e9aa0204d8512bc186c86f77f98830bed8212aa6da5dee16417be6f45d9b4fa3e1e35648464HdxoSg8gn9gSZCs57KVfyN2FYuJr4M6e2BaMdMFXyE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "360012"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/2884/pas_foto/1683105636_f29ca140-8961-4170-870f-1e37fa541884.jpeg",
+    "nama": "INDAH ROSALIA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA CILEGON",
+    "profile": {
+      "id_calon_dpr": "6b64bd55a7e2124c9dcc91ab6a2a822617ec651da566452d6b9eeedccf887c9ef4c7192075e0ffda7a94590c713fd10c1573edf64fbdaa7195c97a7fed83a5cciEc7Nnr/7WX1sRH8zB0FPXxdHUKQ7m4JEJjw1Ix6D0Q=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "360012"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/3698/pas_foto/1683120532_c516e682-6370-484f-92cd-cea2af3ac86d.jpeg",
+    "nama": "FATULLOH",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA CILEGON",
+    "profile": {
+      "id_calon_dpr": "9b436e93cfb6ae93655bbfb60700defd1ffd19e0a3087a75cbd03d74267c6156168f7e228ed50a42aa5f45c4de33c08c46115fc6d443f083ddf72b92282ca0e6GnutaYEY9x2JB0gfkT0A4bh2UjK9/4Ef7VXfOMZCx9I=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "360012"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/432562/pas_foto/1688556589_110904b9-40be-4820-84b2-aa6747663ee6.jpeg",
+    "nama": "UMU SALAMAH, M.Pd.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA CILEGON",
+    "profile": {
+      "id_calon_dpr": "978c425f9e1fc1fbc0e695bf63ba5fe53435ba65d618ace5c28e634ab04c1cb07f9b4cd4062bdfa6e37ee93d4843ebaa8cb513d7cd8ec6dc950168ded2aa1b07eB3m0oZJngzhuyR3QfxmNkKgVQkTh7A1uyuh3qWrDN4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "360012"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/39746/pas_foto/1683187472_fce69f82-2799-4084-b83b-07b5643dcfd1.jpeg",
+    "nama": "HIKMAT",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA CILEGON",
+    "profile": {
+      "id_calon_dpr": "318537e116c143faa9f64b9032b7500330f393787ef453995aab3b47b44782579303d1b2ce8be0158f7e9e0de93f3ea01d23ada964576f888db0d526de12babcwwX5BfIBIxJn5amsZJPEQDORLWVwioF8WIB0mX8nvYU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "360012"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/115241/pas_foto/1688821901_d9dd0d69-201c-4176-bce4-83ab1ff8bde6.jpeg",
+    "nama": "MUHAMAD ARIEF",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA CILEGON",
+    "profile": {},
+    "id_partai": 78,
+    "kode_dapil": "360012"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/141251/pas_foto/1695612749_97852f65-1898-4f6e-81a7-f63d645b7af6.jpeg",
+    "nama": "ERLI JOHN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA CILEGON",
+    "profile": {},
+    "id_partai": 78,
+    "kode_dapil": "360012"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/142605/pas_foto/1688400925_bfeca2d8-e1ac-4237-8763-f17c1404796e.jpeg",
+    "nama": "ADE NURDWI LISTHIANI JUNIAR, S.E.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA CILEGON",
+    "profile": {},
+    "id_partai": 78,
+    "kode_dapil": "360012"
+  }
+]

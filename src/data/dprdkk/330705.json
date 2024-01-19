@@ -1,0 +1,977 @@
+[
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/218416/pas_foto/1696294189_a1310781-9489-4d4a-8a0e-cff3034f3775.jpeg",
+    "nama": "HABIBILAH",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "WONOSOBO",
+    "profile": {},
+    "id_partai": 8,
+    "kode_dapil": "330705"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/26374/pas_foto/3307031202000004.jpg",
+    "nama": "BANGKIT AGUNG PRASETYO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "WONOSOBO",
+    "profile": {},
+    "id_partai": 8,
+    "kode_dapil": "330705"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/26374/pas_foto/3307024301770001.jpg",
+    "nama": "NUR FAEDAH, S.Pd.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "WONOSOBO",
+    "profile": {},
+    "id_partai": 8,
+    "kode_dapil": "330705"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/26374/pas_foto/3307032706570001.jpg",
+    "nama": "WAHYU HIDAYAT",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "WONOSOBO",
+    "profile": {},
+    "id_partai": 8,
+    "kode_dapil": "330705"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/26374/pas_foto/3307034407780007.jpg",
+    "nama": "MARFU'AH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "WONOSOBO",
+    "profile": {},
+    "id_partai": 8,
+    "kode_dapil": "330705"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/26374/pas_foto/3307021711780001.jpg",
+    "nama": "ANDRI ASMARATA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "WONOSOBO",
+    "profile": {},
+    "id_partai": 8,
+    "kode_dapil": "330705"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/26374/pas_foto/3307116906980001.jpg",
+    "nama": "FISA ARSILISA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "WONOSOBO",
+    "profile": {},
+    "id_partai": 8,
+    "kode_dapil": "330705"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/20308/pas_foto/1683718136_61405aa5-07e8-47a2-b85b-968e4527b6be.jpeg",
+    "nama": "WAHYONO, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "WONOSOBO",
+    "profile": {
+      "id_calon_dpr": "0fb096dd32409e476b1e0d3b239c0ec0c1346b763a59439d43a5f9c1547ca3a0b4ddd49c45ebb17b6a813f386f243637c87a7fd4bc2d5a421a79ae74b09f135eAPuLwbQTJ094qQbX+JD+EJPulhLkXOmOcWy+aTfTKbs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "330705"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/20320/pas_foto/1683631362_2503836c-4d57-4e31-963c-fc2226b9836a.jpeg",
+    "nama": "NILAWATI KUSUMA WARDANI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "WONOSOBO",
+    "profile": {
+      "id_calon_dpr": "240241f33b02c18271eabd72b271bb011e35d74daf2b69f7a16c7bca80efc4949b11dce68487127aed40cd4ee8bd171610285628176a7aa687d3969bb4541dafuhJewXJTzfaZmdC2BN5bRu+xqG2bm/9izCOXZ44++CI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "330705"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/20338/pas_foto/1683718491_1fb68589-4d66-4e86-a2eb-863d95253cb7.jpeg",
+    "nama": "MU'ALIM",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "WONOSOBO",
+    "profile": {
+      "id_calon_dpr": "8cea6406e78a5e6e4e54633700d6b596e91eaaa43a85f2979eb46e2fb08cbfd6cfc7b10440e907704d47a55df96da2467d9e51baa3134ed670d2e805d8a2e4fexRbtO91Pd23lTomcFsJxHksYlm/0K89On7NP6mn5FiE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "330705"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/488057/pas_foto/1696333585_a229dde6-1b13-4683-9dae-70c3df359622.jpeg",
+    "nama": "MUFIT",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "WONOSOBO",
+    "profile": {
+      "id_calon_dpr": "c4f057662d15be7a2dcc9a2c5ac06875bcb7bf9656647f279bf5f57757ff9e2e0c0c94a0ea940170dc376c07f163cfae088d5d481bb76c2c47e91f8325338406Iz61XX4BzRUT9chueQGHY/mdp+3qQbl2NBsodq0kThQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "330705"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/20362/pas_foto/1683632055_447c2386-648e-40ce-9be1-26d0dee14df6.jpeg",
+    "nama": "TRI WIDODO, S.Sos.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "WONOSOBO",
+    "profile": {
+      "id_calon_dpr": "ec7c14a7533f146a759c981d55fb22be8a3e5cd9e4bbf4c07f9eb9442b8b78f8a544a04a5c08c75ffb64b125598b7b490b3fb663e4506ef1cba5dbc8a5cc2c2bWfIO4/aVCiVyRNRa9Q11Hzh4BSV830yqakblvFeRVIE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "330705"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/20352/pas_foto/1683632112_76dafbc6-f5b9-411f-89ad-25b83f769be8.jpeg",
+    "nama": "SRI RAHAYU",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "WONOSOBO",
+    "profile": {
+      "id_calon_dpr": "12143e6f54b8accd56f7e6c8377595d72ed9bb344e42312c0fcede42f2eb06a605938f5a7154bff7309a925972dde2f89ba3eeae1695cd073dfa571df8e42575Tjzaf3CMJy8sYLFXIA007EDbEZ22qPUtDc2tMiE5cNI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "330705"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/20343/pas_foto/1683718662_a987b82b-ebe7-4adf-80ee-00288e75e532.jpeg",
+    "nama": "MUHAMAD AJI MUNJAHID",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "WONOSOBO",
+    "profile": {
+      "id_calon_dpr": "3fd3f91485369dadc89669e8159415a56126fe5c5ec0643ec83fefda4716b74e1511a188f5f4c784445006f6ccf549a8485c2ebc663d656b9d020747e356c25fFuMbpvSuAyBcO0K3KfQ6t1kATtEruXhoAtcRM0EkgDw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "330705"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/177198/pas_foto/1683642933_e792b25e-7dcd-4a84-9d28-2ff9030a1d31.jpeg",
+    "nama": "INDAH PUTRIKA BAKARA, S.Si.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "WONOSOBO",
+    "profile": {
+      "id_calon_dpr": "4dbfd6d971db3fc6ddf5b43ae2b601b0aefb024958df1a50d68740300000f6f1bce583b0c2f431d9c8e5b8a3baad7c3a868bf1b438559a1f48071ab949190325nOMzv3EHmSTShxafHsiJYia4OT5S6lRY1QdWyiGS//U=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "330705"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/177206/pas_foto/1683644705_12d9810d-efa4-4ebb-afba-37c2e925971e.jpeg",
+    "nama": "WAHYU AJI WALUYO, S.K.M.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "WONOSOBO",
+    "profile": {
+      "id_calon_dpr": "660a9d8063231ad3747f73dae6d07c14d5c5a41a5f7940c18423fa07dd195b35e38c36b7a05e1431f67b12f4db0dba04af0244d3206b2331371fdf6240642262mhEsabjiE4QCJHFQElUnr/INB9deagCUpLoSC4FjU34=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "330705"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/177227/pas_foto/1683644644_4e1f3d94-48dd-48dc-950c-9aa7c9899ca9.jpeg",
+    "nama": "FATONI YUNIANTO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "WONOSOBO",
+    "profile": {
+      "id_calon_dpr": "cf68c3413aa34101107b13239880c56bd08618af3f15b7fba9ac09e341f8c2ce5925620341115bf0a7a6596451631ef904ee42f69a109655c0d30d325cced35eT8GCt1P1Y0sVKyekXng1wS5UqdLFwtSHNtE4XN+Jgx0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "330705"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/177283/pas_foto/1683639138_84cbe2e6-e635-4040-98fc-cdbc27986862.jpeg",
+    "nama": "RIASTUTI OCTAVIANI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "WONOSOBO",
+    "profile": {
+      "id_calon_dpr": "f7974a0400b26e7728c183718539bb5e61f790f7a741a8ad92d526879f32c547157932c6550c4faf1bef976d0a028b60113f478924d37e50a5f5b85d05787218a1sbmMNg0dISMxPZMqL16yVfHMjNKz65iNTSA3dYHOs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "330705"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/177253/pas_foto/1683644895_b91a9163-d5af-469a-9c35-d703e8cdc710.jpeg",
+    "nama": "ZOLANDA PUTRI PRADANA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "WONOSOBO",
+    "profile": {
+      "id_calon_dpr": "a0644887e7b2c241a3486f4a9116e3732581317a8ce91adede40a0f0c641fdd6b0e0d623f6da75fb6e363805aeb3e1eb30c49b5e97b176baa9f2ce45701570adH+xCZCgA6x2jXWkyqgmulOSgFl/8U9RPFsYs/Vvyslc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "330705"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/467106/pas_foto/1691485219_041b9203-9e57-47ee-ad82-97923ddeacd7.jpeg",
+    "nama": "ADITYA ARAMIKO KENINE",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "WONOSOBO",
+    "profile": {
+      "id_calon_dpr": "f1fabc159330c352cd286e89d7d972f38d0c6d2040a769a3ecd016a49563d83648b29aba28c40b60f6150068afdf3f1a9b01e4cf6d704602b11f5bd084e26d7abWaQPE+TO5BVzSvlRppSmxEfQw7XKDeTtfYK0VHDBSg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "330705"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/177242/pas_foto/1683643145_9adc749f-7132-4fa0-84fb-e729f707296f.jpeg",
+    "nama": "IRA NURHAYATI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "WONOSOBO",
+    "profile": {},
+    "id_partai": 12,
+    "kode_dapil": "330705"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/443435/pas_foto/1695799675_8ab8dff9-9d47-4fd3-ac51-920f8c9ba8a6.jpeg",
+    "nama": "ZUMROTU NGULWIYAH, S.Pd.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "WONOSOBO",
+    "profile": {
+      "id_calon_dpr": "44ee87f1a3d2296f386de7912db17f9912a0255f72d05fabb029e0c1601aeb10fcc29e00c62d71702a80d94797930ec6b70bcc4fcc0264866e0f40508f00543bZX+ABnIGbBRLFCXZqfe4NO1dOgz7trLpYzxnCW5jfGs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,pendidikan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 9,
+    "kode_dapil": "330705"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/443421/pas_foto/1688806591_4d167d55-d818-4ef9-8f04-e883b306fc79.jpeg",
+    "nama": "CHAFIDHON",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "WONOSOBO",
+    "profile": {
+      "id_calon_dpr": "8567d250cfadd7452d3361766cf87365795da3195e7955cf46ad4e74430b20476efeb990ab13bcebc698c2d66faee6fa26dc0e7cdf95e24d8dfde36b80baffaf2zJpb03ORqEzMdhzp3leTbuUgikog0hfCTe2CxjYXgk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 9,
+    "kode_dapil": "330705"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/236724/pas_foto/1683730328_8c35681c-e81a-47c8-9218-21d105e0f4bd.jpeg",
+    "nama": "IMAM NAWAWI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "WONOSOBO",
+    "profile": {},
+    "id_partai": 9,
+    "kode_dapil": "330705"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/454472/pas_foto/1688818630_abc8cbb0-ba93-45e6-9959-ffe5007357f3.jpeg",
+    "nama": "SLAMET NURMANSYAH, S.Sy.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "WONOSOBO",
+    "profile": {
+      "id_calon_dpr": "d99e9139bb0d194226e261a31ca32640f63e142a4089477c41d1fa6a2a03968bce87deeadcb5eb60af218e5337b23ba1d874bc6c8605627115fab375e31c61a1tPLTrUpC0ZrTzYMXTisROSzYgJvUBuddhy98w1sMpjU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pendidikan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 9,
+    "kode_dapil": "330705"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/443399/pas_foto/1688803788_1e1f7fe4-9f10-4f3d-963c-b9d272ad22d7.jpeg",
+    "nama": "ERISKA RIZKI ANDARTI, S.Kom.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "WONOSOBO",
+    "profile": {
+      "id_calon_dpr": "6706e750c17e604af5b23a2fc964bdf8100deaadad1da32ad88a3dee723541d182ddb7f8ed16db1cb99eb248d08a19984a78301f5b3b9975e12ea7bacb34c766WXxI9e0A1te1FmXlBknYNfGo71uAq+HG8gA2Y4QmTWg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,pendidikan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 9,
+    "kode_dapil": "330705"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/49361/pas_foto/1683271086_06c2f3b2-006f-4469-8593-308a1596aa12.jpeg",
+    "nama": "H. MARYADI, S.Pd.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "WONOSOBO",
+    "profile": {
+      "id_calon_dpr": "a0fb82515a8b2a101fb912f793f12b8697c864b456364826cd278e49da13b7c8a173a5a7f6fd44cb2f6d7d32eb7652d1729fbf187d528ac8409c960575990012F/Y/FZWR3FUM3HS8cvKQicSZaPxuBwPqUS83qkUceFw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "330705"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/51408/pas_foto/1683270181_87e23b5c-16e7-4d53-a335-b098e5e5609c.jpeg",
+    "nama": "SRI MUTTAKI'UN, S.H.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "WONOSOBO",
+    "profile": {
+      "id_calon_dpr": "2339b2dfdaba4d3a04cc38a1834c8532d537ba61483531e396665b535566dc87df6a9010455dae4b6833d0eb57fd73b7ba8860e22f45bd34d6bb665cd2994341oCXrBxulLOUKhpYhFFiujDbZWy45nbWln77dgjkplzM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "330705"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/51578/pas_foto/1683270915_90b8a99f-6d77-462a-bcdc-50615ae67252.jpeg",
+    "nama": "WAQOF ANHAR",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "WONOSOBO",
+    "profile": {
+      "id_calon_dpr": "c7fb972ac909ad3a793ac9fb1cb63620b3b685c15f645ab97faa131e32f68c0b6a263e2a7991eee2bb50e37efea54976e877df9038a54bd078bd8696a8701860e9GR0E+5KvOH/EybEpTJXaEWRC0U5yiJlJ4fcvhEUg8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "330705"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/51804/pas_foto/1683349890_d48a2683-ed46-4531-98c0-b03a138cf566.jpeg",
+    "nama": "AGUS SUDARWANTO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "WONOSOBO",
+    "profile": {
+      "id_calon_dpr": "91260555a2e990e14ba3fbd0e5a689e8801519d09234a44881765c40179f49b87a0ea94476314cd84fccbdcd05871ac70c87a2f75e738b511f602b22909f3017UaBNQAYCInaUyd0R8qzfcpdpxY8yN6J+mnZG0jOhHIM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "330705"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/51703/pas_foto/1683270760_024989c9-c43f-41c3-82bc-e1b1c5ccda5e.jpeg",
+    "nama": "JALU BAGASKARA KATON",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "WONOSOBO",
+    "profile": {
+      "id_calon_dpr": "539754ec8d068da796cb097d0f1ebd3cd2a4c278af1c714b761f58d03276abfdf65efdc3abc801d2d433b8f699372d1d362e5c8b59058e714790275c8929f2a5kmsOIazk1HhZuLAyoXSJp4a9le8C2X1ngl2KXqqBMJc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "330705"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/51806/pas_foto/1683271206_cc65766b-f476-4ffb-9d33-bbcc4a23a9e9.jpeg",
+    "nama": "ALIFA MAULIDA ZAHRO",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "WONOSOBO",
+    "profile": {
+      "id_calon_dpr": "987ad09fda8e165e5e51e9f7cefd92cf1487d094488a681ae80b7ef66ad8749d3c25bf1aaa468917bbfa782146488bb250766fec7c6622824d19f89b4b07ef35hPUJ5sL8qY22FXbcUHo3y8ljXCKWO3+V6dAtgMzynH8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "330705"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/51631/pas_foto/1683269727_504f3d50-2302-4416-8008-7285c1410271.jpeg",
+    "nama": "AYU ZENDY ARDILA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "WONOSOBO",
+    "profile": {
+      "id_calon_dpr": "1093bef1d2d95f38424c32f8867832b92f3462188973ecd8886183db2fd471fcf096179727898725332f14ded24e12f3a821e68bb313394ab1f3583fc883be4clinAzZozgDPlCvHOaE152OonxFV8OaBwELKTDgCk3uI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "330705"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/435942/pas_foto/1688566998_48117f20-c448-4b7e-baed-a963b549cc4e.jpeg",
+    "nama": "TAUFIK NURHIDAYAT, S.Kom.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "WONOSOBO",
+    "profile": {
+      "id_calon_dpr": "f773f704605a0e48f9c5dc9b6ac9a03f77923b46ce1f9fee732986d038ee1dc0871e37bc1f7fa174a2c24367e28d565e99a217d94cbd8a62e2deb5c88e14cf44zUFehxlqNL0k/2d93BG38OcZU2HOmZ+ZaKcoUXGLarw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "330705"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/96048/pas_foto/1683819342_d29c7c8a-5ab1-4ae8-a94c-0f021bf7f0e4.jpeg",
+    "nama": "EDI PRASTIO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "WONOSOBO",
+    "profile": {
+      "id_calon_dpr": "4a2f08c5d2d62fbabaceca6ab8b88bc64bce9877e6317683c782571522925b9f19e76a25ca2ebaeda25ba71065bb5f654fac4939d3e80d7d857fa339b0250336xCUYQwubN3DFITWWHQX0u+XSx3QWKa0NYlODYsnJ9L8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 6,
+    "kode_dapil": "330705"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/96164/pas_foto/1683465848_78224f4e-db20-45c6-8b15-a3d981a09811.jpeg",
+    "nama": "AGUS UMARDHANI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "WONOSOBO",
+    "profile": {
+      "id_calon_dpr": "cdd8c27c31ff880be1946c1332ced642f7bcca1da65f708dd19e4cf7030ba0d56e173c8dbe7e022d6103b714160978ae51b7c843fda63b4965d0cde5ac74e7af63sjfdDE6YYaZkZ9Wlg4jtJAnTotzHi4AvK4lWDPkBM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 6,
+    "kode_dapil": "330705"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/165217/pas_foto/1683818686_80d8845a-b9e3-44c3-94d0-56a024bf8df3.jpeg",
+    "nama": "VINA AFIX'S ASRIATY",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "WONOSOBO",
+    "profile": {
+      "id_calon_dpr": "77dfdb47d5c79452e61815c908f2a069a0d33ef3f8aa917f04cf03f36a4e1b409378a4d6cf55bcab6508833aa6446c348cba6e98381241e8a5644e39da61c78bS5e+2Bi+aegCtuO7BuuGHGWYj7uxaiGq7Ww0Y/pNPmY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 6,
+    "kode_dapil": "330705"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/1125/pas_foto/1687857531_9680475f-4eb7-4fac-ab2c-32fb3c042589.jpeg",
+    "nama": "MARDHIYAH, S.Kom.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "WONOSOBO",
+    "profile": {
+      "id_calon_dpr": "f8197edfea558a5ef8d9826b6db5c2c56d7938483dc4a6f2effad1c63316cc4841fd7e46b51f04219d5ee5cc1b0d7dbd20d05c41940e5019e232adc132e89c8c7lem0vOm56U0ttSOLMDDEaoa7osVCM6m6r1TrSdxtss=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 5,
+    "kode_dapil": "330705"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/1312/pas_foto/1688742156_7b71c87d-8c95-4c71-9a94-454f91df1c22.jpeg",
+    "nama": "AJI DEWANGGA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "WONOSOBO",
+    "profile": {
+      "id_calon_dpr": "3d852cf45c81d906f53e85410e355ff0656a844258d31a5615867360ca2403472fa8ddd20430248e87a508d894fb60d7dedbb26f18e0bbd8c00b579cf7dc80d1ksQWQ5FpbZVHan00kl08y2aXZT4fivHogGcxJtW3IdQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 5,
+    "kode_dapil": "330705"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/62819/pas_foto/1695886348_00be3c38-6fe2-4037-a4ca-5d765e0368fb.jpeg",
+    "nama": "SIGIT JANATURIKA HERI WIBOWO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "WONOSOBO",
+    "profile": {
+      "id_calon_dpr": "639497020c3a1bbc1d1e61dda2924fbbb78727ba8ede5501f7724963b5b3c13251beb3ce3ea0d09779f52614a954504a2ce1aee329d901b1a10f853697564db2oqVDjY++7DEtibjUR5LsA4HZVD1HLVzSitSyOYxNJ/k=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 7,
+    "kode_dapil": "330705"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/62862/pas_foto/1695886444_5b49b073-e39e-4109-a6c7-722fcbdd58fd.jpeg",
+    "nama": "ARUM KUSUMA WATI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "WONOSOBO",
+    "profile": {
+      "id_calon_dpr": "c4d88e6ad2da17b940b2573c440789538e28e26b06c8fd478f12396b32c37c378df7a3eca09bf5e3e667b27d254268b181424ef7df25041fb3a06c2116c518ba3NW3572WnlB9OpXR83jG8NfFZ/rhcHdyOVbZXyEk188=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 7,
+    "kode_dapil": "330705"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/63012/pas_foto/1695888271_ba39f08e-315f-4ee5-8d7c-dadc1436134f.jpeg",
+    "nama": "TEJO RAHAYU",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "WONOSOBO",
+    "profile": {
+      "id_calon_dpr": "f6a335e9f64a1e6090704b883b466acf97261da7024de96a660babe707850cea4d39286628d5e49abeb3ba6a07440cdca0b32fd07adb9778468737a70fbf1ad0UdahmhiEPGvi1imEBdPt2tAslULJur7P/1tvcL9dg54=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 7,
+    "kode_dapil": "330705"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/63067/pas_foto/1695889024_f3ad3927-7a91-4829-8b42-711b1247cc81.jpeg",
+    "nama": "WINTORO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "WONOSOBO",
+    "profile": {
+      "id_calon_dpr": "18390a3ef5891193a12b8c0bbf55ef743ef65f303f584ab56cb496940e9b02dd7267c6f291c4f0b97223f92d24850be99eda3a5c2d31af6df6713c709fbcc0acWAj9V5VbJBLUcuggzMDux2UDDheh21WmrI7/L/22Cjk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 7,
+    "kode_dapil": "330705"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/457021/pas_foto/1695888181_4b87851d-ab4c-4be2-b165-b9478328f1b8.jpeg",
+    "nama": "HESTIYANI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "WONOSOBO",
+    "profile": {
+      "id_calon_dpr": "15e2cd021665cf341f5ca5bde73bb58c103c7716025d218b3f298ec7fbbdb0376e4f9f38c1b2b631c9cc591d50a4f92e82e3f9f0915ea72ad40d6582afaa0ad7chdSDteDRGgTGKVgNu03eKM1FL5ZzYhqYhjg3tsyVUA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 7,
+    "kode_dapil": "330705"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/62772/pas_foto/1695888116_cf184236-dea6-4b43-9740-ef173a14aed7.jpeg",
+    "nama": "AHMAT AROFIK",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "WONOSOBO",
+    "profile": {
+      "id_calon_dpr": "340d3b15f1e460bfd6df8884a15140c39f7579c4301ac649070d6b6ed5cccaee386934879c6a1a45716ff75aca0c81ad5ed9c0bd34b8d0f4ff4ea0429c9830dd50qXjtA43t0vR6ohpfHD5F5V1NB/7hAR8P84/66J78k=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 7,
+    "kode_dapil": "330705"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/449009/pas_foto/1688753252_7e47bd63-f03e-4fca-9f7d-ff5bfe694115.jpeg",
+    "nama": "AYU LIZZA MUBAROKAH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "WONOSOBO",
+    "profile": {},
+    "id_partai": 74,
+    "kode_dapil": "330705"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/214645/pas_foto/1689219396_509bb434-32e6-4d8e-8e57-67a843da8e02.jpeg",
+    "nama": "SAFIK ANANG HIDAYATULLOH",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "WONOSOBO",
+    "profile": {
+      "id_calon_dpr": "2422a26a543f7f02394d6e3a8a7236d9dca46695e0e6a42c3ff139e601a3fce4156727a9a1ea2e305eef082c322b2012b8635997d914b4a30f6c69e176485decQaAqOd74jcevVk9WCpsyK/xtLK5YkzOs6M3n5pURsX8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "330705"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/214720/pas_foto/1687848047_53d5c87b-a972-492a-8d70-3957ebb15ea8.jpeg",
+    "nama": "INDAH SUSANTI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "WONOSOBO",
+    "profile": {
+      "id_calon_dpr": "2e70458a19755037494263b61bcf92276843e4d92e7adf6a97b3460d7182fcfc33e834996bb9739c4a3a07fe27a1fdb0c53804d2e31af7cd8f1ad5294641718dfYbBs/46NyR4vmgthPZ99DAe25po7PMih8lhtPmmCXA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "330705"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/422588/pas_foto/1688524823_e698724c-73e1-447c-b481-fa6251f80f9e.jpeg",
+    "nama": "AGUS HINDARYANTO, S. Ars., S.M.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "WONOSOBO",
+    "profile": {
+      "id_calon_dpr": "5c198fcb01d25d350ef05ca7bb3e93ca1e315e71ab9dbc18694feb1a5779fa3a09917678219ec24a2ad9e977355c5cb56f059bc33a5b9ac3745d7767f68d6289OLBXz3auZwI6iwov0b266MlRkMoo7EPMujkqDzPi8Hs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "330705"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/214898/pas_foto/1683698337_3caee3af-8e77-4573-8125-7673c6d64b07.jpeg",
+    "nama": "SURATNO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "WONOSOBO",
+    "profile": {
+      "id_calon_dpr": "2c2787aea30c1f5a0a32d009afe6ea5be3f16c61086152156fbc684f811749955862b7b006985dbc4c585e3ee5c949ae177ba13ee68f33873a0cba400d3e55d7gVDVN9tsoUI57f8SHiBnSJKsoNz0iDDL55RvAxHdtvE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "330705"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/281050/pas_foto/1683809452_49c3fd5f-227f-4c42-81b1-b4c624d8c4c3.jpeg",
+    "nama": "NIKEN PUTRI NUGRAHAENI, S.S.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "WONOSOBO",
+    "profile": {
+      "id_calon_dpr": "8c1ec98bf4104972ba74aa250a87bcf776785df5c2c019d6a231ed3041a856a7a60ecc8df0359cc78464f4b401721e99608de8790919fcbc16737767027d2955ObC5cqCxAd3G3BvUdabwk2veaXmlqTLQ80MLQZPcYBo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "330705"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/215133/pas_foto/1683698953_5452c719-7b81-481e-b849-b287b7782476.jpeg",
+    "nama": "ANITA AYU DIAWATI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "WONOSOBO",
+    "profile": {
+      "id_calon_dpr": "f78d5845071b0d8cb7aba2366ed2b7bf9a0ee66fb4bac44496cc40654408040cd0ff883bdf9f9ce3d64d5bc5c5a892c138b82ff2578411ee1d0bb27144b9aefbJ3+uvse6gBOv2E8kQm+92TCR2U9Lgn4VfZ83HpmzYaM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "330705"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/215066/pas_foto/1683698762_d38d36ff-5fef-42e3-8a65-06e8a647807d.jpeg",
+    "nama": "RIZKI AL AFIDZ",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "WONOSOBO",
+    "profile": {
+      "id_calon_dpr": "1eece540b5b7096d7a136b11c7061fc8ff50c51ba224c9b846e05b91be97ae46dcff4d96f2f5df2c5ed2818cb86d7caf813b40c58aa279a1ff821bb362477013Co7i+F/ywOqJl23SmQKoZdNr7/YRwansdVRRAuz21ww=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "330705"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/69272/pas_foto/1683705215_bbd1ac2a-cb89-4765-8d04-a80ec5cd943f.jpeg",
+    "nama": "TRI HARTATI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "WONOSOBO",
+    "profile": {
+      "id_calon_dpr": "5b8081d1207951dbf01ed05536db38ab9463cde174e05ac23806b6b1a40e21676270b672e32064bcef25b9f690fd83c70bf53faf144623f7db31f9987dbca702c//KXP6H0+77Zepjwf6R+/v9ZUkVLx6gZvwfE+RWQHY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "330705"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/2954/pas_foto/1683190362_470c1868-037a-4b1b-8e9d-433611bc4a12.jpeg",
+    "nama": "HERU LUKITO, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "WONOSOBO",
+    "profile": {
+      "id_calon_dpr": "7ab681b08af1872db5febde26082ec0e9cc309b0551eaf5bc9df459822f75b4ab1ccdbdb041ce2ef26e8965f5d8fa61849875b7361e258a70e662474ed0542afK7jNemW3L3wogJozsACrcv03ExwLm3TAX4XwU8Ji0+k=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,pendidikan,riwayatpekerjaan,kursus,organisasi,penghargaan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 18,
+    "kode_dapil": "330705"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/2789/pas_foto/1688818767_c7e35130-e304-40ed-9f56-6aba686d4392.jpeg",
+    "nama": "AGUS MUNAJAT",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "WONOSOBO",
+    "profile": {
+      "id_calon_dpr": "667b29ae00787e5d9f56d082e0008c136a64efc01d004e51a1a894d1052efefcccfe12a50932c68c3fbbc40c54436c6894d7140d76919cf7f8321adbda1c7974KNegxKLbd3BXT838kDdHu0qiAgc8WRkqBzCmfP1BuZo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "330705"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/2847/pas_foto/1683190417_9b06bb1e-abdd-413c-bbd9-06375135dfe8.jpeg",
+    "nama": "AMANAT",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "WONOSOBO",
+    "profile": {
+      "id_calon_dpr": "00377dcfc88f8c725fefbf924968d35e7180820601000250bb3c7aadcf71ef8f401aa7a9e6cc09bd9d9c851e3452cdbf1181cadfea87946d5f04d74130c1d4ccRZ7z9h4YoCOw2ehiGh6Pksbx/M6ESFsBdn2sImYLW/4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "330705"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/211707/pas_foto/1683698440_dab3617b-3a96-4028-a0c3-9b6c936b7041.jpeg",
+    "nama": "ZAIDATI AMINI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "WONOSOBO",
+    "profile": {
+      "id_calon_dpr": "85340a570e3cf196359c261d61449cc1ec3c5c4eb8cf4d155262edd5aeb176ef2c207ba0a275c8664f07f15c6d239c0aff6bc911a7b5d4e54f0ef3be4c7c7e36Q8VFw/Sw8+V6tgMrQiqjyo9pI9kNwxnyC0hg31As9+g=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "330705"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/429071/pas_foto/1688392029_b2d464fa-1c01-45b5-9d3d-c41add7b2474.jpeg",
+    "nama": "TRI HENI KARTIKA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "WONOSOBO",
+    "profile": {
+      "id_calon_dpr": "76f4d9a998c5db5a8c68676994caf209826289e87beaa99a9b5e8f3e046ceeb9a364fc966456dc3c64ed6c7ec4c36d2d313635a080d2ab7fd5c39d3f91cba2bb77Ylk8B+jPL/giPxHXRDRTbqEVg1/yt6tN6vMrIwDEE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "330705"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/427192/pas_foto/1688657960_2978d394-4987-41ea-b513-dd442b86122d.jpeg",
+    "nama": "RONALDO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "WONOSOBO",
+    "profile": {
+      "id_calon_dpr": "7ba135872862849b415dd25fba23e5e66e64402a554b88492a368566eed322004b28300693fbf3778eaf4df143eb5643fb83dcf52fbb5b522af48b9e8445ac20ff6P4iLXtKCe1HN7yuPUWBeOSlq21dIResNh5c9lJG0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "330705"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/487776/pas_foto/1696320975_73f4c848-3fd2-4e22-9066-71d32c4e92fa.jpeg",
+    "nama": "DARMAWAN UBY YANTO, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "WONOSOBO",
+    "profile": {
+      "id_calon_dpr": "16e3ccb7f923c205ffdc0d8377eddaa5b04cdf5d8fd1259ba19c892d0603e437449294e7ae74d9bcc87dae8f230b0ea4e0a11656c69af34312a165a802fcd754oNoFUSTGWWfd3s1uPuRrSsORG4l9tfPuF9CigXz/BeE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 11,
+    "kode_dapil": "330705"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/283764/pas_foto/1691386595_72f70f10-a131-4a06-bf6f-09fa8c0f1cd5.jpeg",
+    "nama": "PADANG SUFYAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "WONOSOBO",
+    "profile": {
+      "id_calon_dpr": "4cfe565489dd3d9ef5021f05937475a79655cd8634ab2614b1f23969f2de89bdab5a9017620f9d482316d1247e212ed2d18d81a3b3cc3a5a69860367f35a915ez8Pitbvj2uVe2LQ6w2szqYFy25Pc+Jhu03ZlqLh3q4o=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 11,
+    "kode_dapil": "330705"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/287736/pas_foto/1691643033_4975e426-3edd-48d1-a02b-d0b058470851.jpeg",
+    "nama": "ENI RATNAWATI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "WONOSOBO",
+    "profile": {
+      "id_calon_dpr": "d30ca9b95b6bf75bffc39854612d6807aca4f75d997d1126b7c9c1c662e8c45450583ec878053377f6bb149209bd57a926a45fee8f84202c51982724a3fe7fa6ZiKTsxdsjNCgz0EaNTWjm5WJmiApX5Sph4LjqKPSBRk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 11,
+    "kode_dapil": "330705"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/279715/pas_foto/1691642753_88febadb-dca4-4cf9-ad2e-e3c0a7b898e1.jpeg",
+    "nama": "FAIRUZ, S.T.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "WONOSOBO",
+    "profile": {
+      "id_calon_dpr": "b7d5e187079f5de330186cd81fd7767e7c02dfbee760fb1f57f27c5688da60c561d7e41d12f903235fa62424a928000cc9338709118f8789c63e07e31879e587SjAES3HPVIqLZfCJHTZTFj6hBL4JJ8dtmIH4TCpS114=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 11,
+    "kode_dapil": "330705"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/292819/pas_foto/1691386662_dca2a8e6-6d35-4d7a-b044-12646e774888.jpeg",
+    "nama": "SITI KHOTIJAH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "WONOSOBO",
+    "profile": {
+      "id_calon_dpr": "7e4727d9af3923ecfd04eeddc7971091e414a1a65c903994b2584a6fe5c43385d5e1ab402e0e0e8565dc9c6eaf69cb7b9c1863c40230efa7fb90427e3421f8219m2CVqfQdhwI/Y1Px1UcvoMysSfEkLV1bnuE3WRcorU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 11,
+    "kode_dapil": "330705"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/285741/pas_foto/1691386683_774c4443-4854-4fcc-a8f5-fbeec0c99d61.jpeg",
+    "nama": "ALDHIKA KURNIANDRA, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "WONOSOBO",
+    "profile": {
+      "id_calon_dpr": "619585bf916e1690afa75a436150413f62d1d45fad35f1977ad946b10036f19329f098d63d9de3f957c1de46d6fa22c4ebc5d850eb58e78796daa8811d7397d5aagI0McUjc0aYBXB+Sd+OcmCpLpI45XaKhT3ji4fx9g=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 11,
+    "kode_dapil": "330705"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/444172/pas_foto/1691386707_8857dfec-6ed5-4ec8-bc1f-6d874e4ed3ca.jpeg",
+    "nama": "TAUFIK HIDAYAT",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "WONOSOBO",
+    "profile": {
+      "id_calon_dpr": "23cfbed45ce2fb3745564781c523ed8f2ee9ba3f15a5a53c73d0f5ef3d2e5f7493fba30f3a259672fed2a56ea7c19a750a27de78913de9eb5cc2074238b4b5a3VgrIjl0AfT1vG1wZeEcwGwSreGt4KUaXXra44SPYe4A=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 11,
+    "kode_dapil": "330705"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/11850/pas_foto/1682949429_067e56e8-2d8e-48b9-b1e1-e74ef3f72f46.jpeg",
+    "nama": "NUGROHO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "WONOSOBO",
+    "profile": {
+      "id_calon_dpr": "e13100173e632463bc0d98e3e65e45ca29daa9fcce2b174684f5028e1a482efd7e22234516c296a9ed2d21a01900cb81accebd1ad7e083b603f05904a083d9a7JeaWowmFZjhNXsfxvnNQjYEo4cMxvTCM7pX8ASBKFLY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656157120_LOGO%20PARTAI%20UMMAT%2010X10%20CM%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 78,
+    "kode_dapil": "330705"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/13855/pas_foto/1688628998_71728705-bbff-4a15-9c89-90f876767ee5.jpeg",
+    "nama": "SUGIMAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "WONOSOBO",
+    "profile": {
+      "id_calon_dpr": "e7c1272460a886c5242695a12aaf101aa395f937f0b652083ed950d716724e0f7d5161c348dbe0215cdfbd4de71467040e82c703e7b898572e3aadfdb2264fb5YeKNOZMlI4OKQT0gtR+EaoyJ6jH+ZYo8Vb77zWuIcY0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656157120_LOGO%20PARTAI%20UMMAT%2010X10%20CM%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 78,
+    "kode_dapil": "330705"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/321654/pas_foto/1688700197_d74d159d-c0ee-433a-a158-327a4699354e.jpeg",
+    "nama": "RENI HANA NUZULIA, S.Ak.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "WONOSOBO",
+    "profile": {
+      "id_calon_dpr": "02d9913fe9ea09264e4e9a817e23245f1c3638378ebaa85b8dfcc82fe531957307290150a6fea82ef8131117736495f3d1c3eb902cbc09a12b47fbe7ce91ed054u7gxlEZ2bdDI+r8Vwr9IVoRLTOV/MPRfDCl7HaIgtw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656157120_LOGO%20PARTAI%20UMMAT%2010X10%20CM%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 78,
+    "kode_dapil": "330705"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/13808/pas_foto/1683002817_2bb1c62f-8ed2-4ae6-8775-a4a595c2c3bc.jpeg",
+    "nama": "BROTO DWIJO WARDONO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "WONOSOBO",
+    "profile": {
+      "id_calon_dpr": "3c2f6a658a91ad9c4b872175a03f057cf996d52654b59fb6a3f780d3313c411d2f891728dbe29e469620364584a9c746d2ac1ceb4de449f466a502b32c7186b6CZ2R0P/7ddh93ZMSQJiMVacEhfClmw6qEZH4X7IGD0E=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656157120_LOGO%20PARTAI%20UMMAT%2010X10%20CM%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 78,
+    "kode_dapil": "330705"
+  }
+]

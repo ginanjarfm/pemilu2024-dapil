@@ -1,0 +1,449 @@
+[
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/135297/pas_foto/1688821667_d921bfc4-f0de-4ae2-8715-ee00cc5a4ccf.jpeg",
+    "nama": "NARDI SUHARDI, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALOPO",
+    "profile": {
+      "id_calon_dpr": "83fbeb2fb1333b6d5c252261f6f105e2f748814da5b95a3d0110691dfbbeb808db4593bb0f5a4a4d577532772630951dc92cac09de1508fe528e1fa4604d96c6T07Il4ibfBCDD3d+TNt8I2tszLKjvEGZs6yq9Cv2Xi4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "pilihan_publikasi": "datadiri",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 8,
+    "kode_dapil": "737303"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/135296/pas_foto/1688822841_6a949fe4-a834-4b42-be0a-b24b9956f10c.jpeg",
+    "nama": "MISBAHUDDIN, S.I.P.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALOPO",
+    "profile": {
+      "id_calon_dpr": "578bdb32b15f02536cd3ab266b52540f403d7e811d70d8844ecbaf6ec0a67ccc83dc7954116d81f428bd95f6b43db35ad806d066b064028b94eebb47d3aba2caDbulpRVg/wDpsBjiAOmQaPR5FgcCEgyJH4Hi4ZyRY4g=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "pilihan_publikasi": "datadiri",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 8,
+    "kode_dapil": "737303"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/135298/pas_foto/1688823686_02df1280-3b6d-414d-b696-432b04e426ee.jpeg",
+    "nama": "FITRIANI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PALOPO",
+    "profile": {
+      "id_calon_dpr": "77c3091b318260ce028f15bad0d645095a80670f746da1cd1423190ab78b57036bfb0501a8af9c2a3669a90faafd005593bcd3ae9b4ce203149094684581ec80fKsCOS6lzmaKpN7uEPXjRSCv81n56bkW3FtghZtHcdk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "pilihan_publikasi": "datadiri",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 8,
+    "kode_dapil": "737303"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/473569/pas_foto/1691663487_b2aeb25d-f63d-4832-87f1-384dc548c8fc.jpeg",
+    "nama": "HARISAL",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BONE",
+    "profile": {
+      "id_calon_dpr": "f62aecf5950aaff31c26802f0094c70b1a60aa13c8f52a388bba9228414ec32e016b7da38a6a813e70336b11d86fa3f15f1af3dddaeba82e56a3adcc3657943785XgRG/LVdCAquHyLbTZwgK8QM4zSq4YltofEHfaV+0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "pilihan_publikasi": "datadiri",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 8,
+    "kode_dapil": "737303"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/24029/pas_foto/1688614185_5aeaa704-2e77-4729-ba2d-0024d3b70146.jpeg",
+    "nama": "USMAN HAMZAH, S.E., M.M.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALOPO",
+    "profile": {},
+    "id_partai": 10,
+    "kode_dapil": "737303"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/24050/pas_foto/1683612079_5a5c8a5e-14ab-40dd-9f22-c5a76946c00b.jpeg",
+    "nama": "AINUN UTAMI BASRI, S.H.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PALOPO",
+    "profile": {},
+    "id_partai": 10,
+    "kode_dapil": "737303"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/60172/pas_foto/1683283237_8e0981d0-50c9-4526-bf51-23622225b545.jpeg",
+    "nama": "FENNI WIRA MARGA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PALOPO",
+    "profile": {},
+    "id_partai": 10,
+    "kode_dapil": "737303"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/24035/pas_foto/1683283193_a1df42ce-8074-4eff-85fe-81de328b01f5.jpeg",
+    "nama": "PAHRI HAMID",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALOPO",
+    "profile": {},
+    "id_partai": 10,
+    "kode_dapil": "737303"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/255818/pas_foto/1683781539_0d38de74-43c0-4b84-8885-cacfd3cb42cf.jpeg",
+    "nama": "JABIR",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALOPO",
+    "profile": {},
+    "id_partai": 12,
+    "kode_dapil": "737303"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/256194/pas_foto/1683766459_64b9d5f5-4e8b-4957-8155-ba5fab0836f6.jpeg",
+    "nama": "YOSEPH PASOLANG, S.H., M.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALOPO",
+    "profile": {},
+    "id_partai": 12,
+    "kode_dapil": "737303"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/256703/pas_foto/1683767996_76dc7f14-f649-49f4-af52-a50c8e644af7.jpeg",
+    "nama": "ANDI ULPA PALIWANG, S.Pd.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PALOPO",
+    "profile": {},
+    "id_partai": 12,
+    "kode_dapil": "737303"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/469795/pas_foto/1691563742_be8bbd5a-d346-49bd-b691-ed59a7872995.jpeg",
+    "nama": "SYAMSUDDIN SADDA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALOPO",
+    "profile": {},
+    "id_partai": 12,
+    "kode_dapil": "737303"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/286131/pas_foto/1683912707_77248ad6-2e5e-4a36-97a9-996b049db167.jpeg",
+    "nama": "MUH. NASIR, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALOPO",
+    "profile": {},
+    "id_partai": 9,
+    "kode_dapil": "737303"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/298130/pas_foto/1683957494_62fbf664-4309-4206-846d-e020acbfc9c4.jpeg",
+    "nama": "Ir. ALIMUDDIN NUR",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALOPO",
+    "profile": {},
+    "id_partai": 9,
+    "kode_dapil": "737303"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/216559/pas_foto/1683782950_c2ee35ac-7130-4336-9c9a-8cf60a617196.jpeg",
+    "nama": "ELISABETH ROSMININGSIH ZAKARIA, S.K.M., M.Kes.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TORAJA UTARA",
+    "profile": {},
+    "id_partai": 9,
+    "kode_dapil": "737303"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/323819/pas_foto/1683915121_1057c5d0-daf8-44bd-a079-a1b8b084c8b9.jpeg",
+    "nama": "Ir. DARSAN DAPPY, S.T., M.M.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALOPO",
+    "profile": {},
+    "id_partai": 9,
+    "kode_dapil": "737303"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/138608/pas_foto/1683717992_cb244f01-55d6-4038-b3aa-1cdef6f70400.jpeg",
+    "nama": "ABDUL SALAM",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALOPO",
+    "profile": {
+      "id_calon_dpr": "6f600ea6eeda64e42d06507bdaa34d7e1a5bc32f843f80c2ef3b9bd024ed58371e17abb3d94b57bd2e771135dc1866daa1cac059fa821c36494a4cc2587f7c68D9phzX65yRqZPdjqTk1iTjCut835/6eZH9WhCSZqjMA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "737303"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/126289/pas_foto/1683486242_53a2ce42-f07c-413d-a242-b8034982b3bf.jpeg",
+    "nama": "YANTI ANWAR, S.E.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PALOPO",
+    "profile": {
+      "id_calon_dpr": "b7ace56f43c2d1c80e5f094cb7bd33f8448579ac4e474d8e77340f98c0905841c5bf59cdf186812f7c620c21a7ae29a9256a0ec3b5bee110c1b808ea9ac253bbnKlYgCPidb8dOtpAnLNGcICnuU8cueUoEcK1eN5Lrxs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "737303"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/126344/pas_foto/1683648938_ff819631-a82c-469e-a0aa-b8cd096c0562.jpeg",
+    "nama": "Drs. MUSTAMAR",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALOPO",
+    "profile": {
+      "id_calon_dpr": "01e3f977827206b5c4dc3c781dafca6f1f0a1be9ad9734539006260cf50340cf97ba68d78310512e1ae0764a7bb39ef1d90e86418e3559126905383917feb9c9W8QzHRjHexjXo0NXkTGY6UHX0yMQaAT+r+gRkeYi7uI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "737303"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/138692/pas_foto/1683490995_a77b2792-dfe1-4122-879f-7e2e7131ba8f.jpeg",
+    "nama": "DARWIS",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALOPO",
+    "profile": {
+      "id_calon_dpr": "11a8c015e5cb4f0fa738dcf61521f22a04bbc73d25fa0e94efe23ad2cb51e3a2be4c478ad7dec621657100f847aabd69f443c0be79be64c18ae4ddebd4dede2dgKilovmij2ESykNVVGqeFTAKfEiZqIZOiKVaHG4FIHU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "737303"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/404279/pas_foto/1684078506_dc3b5bf5-2061-4f5f-af89-455b6814114b.jpeg",
+    "nama": "JANIR",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALOPO",
+    "profile": {
+      "id_calon_dpr": "c1f05111c1a2957f996d994f96b7e9ebd2caac1348a2a3f62bf9eecfbdbd08b1039118fcc8a3f45c7806d63d2ee6f45ecc9cf69287f0019b858106760f0616beDFPnxXkDlm1+tRV7+A7EJ1nXRMYHe5Ub3xSLHMyIkgc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "pilihan_publikasi": "datadiri,pendidikan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 77,
+    "kode_dapil": "737303"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/404277/pas_foto/1688336348_72cb2b83-84fd-45fc-8b41-ee1a21c7dc90.jpeg",
+    "nama": "NURHAJATI, S.Sos.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PALOPO",
+    "profile": {
+      "id_calon_dpr": "5ad29458ee2bdb0710e78078a027e816cef0138116ea2331a93a01233825d43f9410d13d89a2ab41126eae38c37219ba10a25730400abb1bd772ddbe3af239aa6XzjhYZabKPv3xrzgs2ySheusXe4Z1K7oG6qTnDKFpQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "pilihan_publikasi": "datadiri,pendidikan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 77,
+    "kode_dapil": "737303"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/429238/pas_foto/1688393175_596fdd67-9def-4357-8b72-e37e0b907137.jpeg",
+    "nama": "RISAL SYAMSU ALAM",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALOPO",
+    "profile": {
+      "id_calon_dpr": "74ddb5cdcafb1428674965f7d831c20d1c95da2d5c6a3ac018a2ceb1cf79bd1a847c5f68a9710f0f890e57fe7fc72ebaf0c9d63f9463958908a1aed07880b870giMn+L/qpQoCTq4o2QouBhcmBegslOkFDHm9lIWy1H8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "737303"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/404278/pas_foto/1688336495_095eb400-6fa6-41fe-9325-04db6eb4b623.jpeg",
+    "nama": "M. YUSUF",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALOPO",
+    "profile": {
+      "id_calon_dpr": "a243030c0367e57d302aa1f146bd129b6bb5ce197b6473b9635a630347243e342e542971bec8bdd323753e4f4ee96d6d50c214100ab8bc9b78d95a1465d17fd2T4fSYWnjjgW0YRLDhfgCc4BWg4ifQKSF/WHFu30sxR8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "737303"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/441591/pas_foto/1688795097_4887017f-4bab-4523-973d-f04d066e4196.jpeg",
+    "nama": "HARDINA IDRIS",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PALOPO",
+    "profile": {
+      "id_calon_dpr": "95c673f05cdd39a9245ed4927fbcd699234a4e3f7511ba344ade82d9634a547c88a6b7c44cd7095942663b2df9640b2de61dd394f7f52ca0504bcfa7ab4e7575w9ltEbiJLKnebwvtrXYshso/Z/neL00K3EeruS5s51A=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "pilihan_publikasi": "alamat",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 7,
+    "kode_dapil": "737303"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/441415/pas_foto/1688661631_51bb85a6-5d39-40d8-9581-d7670e15d1e3.jpeg",
+    "nama": "RISMA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PALOPO",
+    "profile": {
+      "id_calon_dpr": "14b930c9e92832e28b31f4cff97172e53e1f04ec5982da4ce3eacf2c740d96e10ec636be11c0b139d81c4e6abdc611f880c5a83da7301e8fa6c367d1da2e1eb5PHTo6XxJq/ZBk9Ryill9qMNhiJ7CNwFp4vkAEc0Xqwg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "pilihan_publikasi": "alamat",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 7,
+    "kode_dapil": "737303"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/472026/pas_foto/1691653046_9dba497a-74b5-4b5f-8c83-55dda80674e0.jpeg",
+    "nama": "WIRAWAN AZIS MAGA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LUWU",
+    "profile": {
+      "id_calon_dpr": "8dc094305ff57a18fb78ddf98d473d2723ac569e866e47d3cfb38e1abca08038f2c423c2cba0c66c37494af0a51a241ed62de24a84302904b0323f32feacb4bfaJO9QtiUi02ODrgD0n6kEVVd/fVygMycTOslAn7FzTM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "pilihan_publikasi": "datadiri,alamat",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 7,
+    "kode_dapil": "737303"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/475975/pas_foto/1691722008_525af4b9-5548-4dca-b58c-0cb2750fc948.jpeg",
+    "nama": "IRVAN, S.T.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALOPO",
+    "profile": {},
+    "id_partai": 13,
+    "kode_dapil": "737303"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/297860/pas_foto/1688841776_51a7dfe2-62b2-4427-a7dc-1251d967c00b.jpeg",
+    "nama": "SITI NURZHAFIRAH RAMADHANI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PALOPO",
+    "profile": {
+      "id_calon_dpr": "ca772b2cf5b9d27de59ba4b2e02c461f2493fd5e3387d4e51ee243275b8dd784dd835a99c6e3c0503dea915a25f384232d3d8fe1623848c7ce996aeb4750acefsw4NbugQFcl1sZfZtxO74FJ/DeoxLnNyEQaLWBFSMWc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "737303"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/297862/pas_foto/1688842580_7fc4e0e4-8aae-41a2-b4d9-cef0b6bfd386.jpeg",
+    "nama": "NURYADIN, S.AN.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALOPO",
+    "profile": {
+      "id_calon_dpr": "d9ba1b87b1e3649198ed8702ca87c935219188ae7f504e5198c652a085e689a5d993ac7a3620edab61ae6a4cac9a9bf48fc5701c59605e67299034d5af3353dbzRfvhn5ink26oBITr1hY6mEjuxQcUVZqaL+thIcEbaA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "737303"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/471258/pas_foto/1691606957_c2f63d8d-7ede-4e42-a838-3a630cdab01f.jpeg",
+    "nama": "SWANDDY",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALOPO",
+    "profile": {
+      "id_calon_dpr": "900b49a353348bc2e03d480ca875a0f18e5016a5adb47ea6bf25b2b6fc4a2dcd9eb2fd95a26a5d318ae5bce4412ddc1765804b6b53cf79f58f807a5a5c9acc07rv+NVAfuwNDpWwRbKp4cijAe/IWbTfhmyYImdWsBr/Y=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "737303"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/24637/pas_foto/1683298456_0ebc655e-8cd3-4e9a-98d2-0bc22d500c0c.jpeg",
+    "nama": "JUNDA PARANTE, S.P.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALOPO",
+    "profile": {
+      "id_calon_dpr": "d1449a0313ca5f8a9578a940e024045afbb5a3b33d884a4d234516caf08c570c371c325eef46bb4966ca803a062c3f60e4985aa477025e8df2d7a9fa1b447102XfdkTfS2OppFqjpuW5Xo1IgX8sDsQPvACKoLKZOtk4Q=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "737303"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/26717/pas_foto/1688790746_4924edce-4077-451a-8fe1-24b699e100bd.jpeg",
+    "nama": "YURIKA RUSLI, S.H.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PALOPO",
+    "profile": {
+      "id_calon_dpr": "8a4994803dba99c4237ee49ed7cd095ab3dbff678466a3b92cce8378d735050baffe80c464bb44dcf937568a6b745f02a539ee6ac6d9be3b81f0665697104e6c28c5nUcM77UI9zT805981zTx2wFbQpIIINy7Z03/Vew=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "737303"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/53105/pas_foto/1683203114_bb766aaa-4f23-4001-a378-28b26e5b3292.jpeg",
+    "nama": "ANDI SYAHRIANTO. AS",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALOPO",
+    "profile": {
+      "id_calon_dpr": "8ed98e01347537da988cc6a980d1cd2784fa5407829ed052472ad37fc9e08f2ed89b44da13f6993efaa90d33dcea28fc36c68e427a0c5262a69106d7de43e249qwFyUHxRNAGNFo87z8/Ri51vGCr1ohpSGulLFCk6zSE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "737303"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/14639/pas_foto/1683179987_33a17fb6-3726-4438-9f09-7b66d69cb4f9.jpeg",
+    "nama": "WAHYUNI PUTRI, S.Pd.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PALOPO",
+    "profile": {
+      "id_calon_dpr": "47adebd5b2ae5772831c0725e3b29b71aaf76eed7dd91c72877f8ffa8473b01e1ccdcdabe149c08a4e254a99a5961294f3dcb4a6480698559e2cb640b6ae5bd0p5VzbwOOvFb6ZQXIm6QlXB8II4JIy+ai+m3qwJkR3JQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "737303"
+  }
+]

@@ -1,0 +1,874 @@
+[
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/25877/pas_foto/3373031305770001.png",
+    "nama": "SAIFUL MASHUD",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SALATIGA",
+    "profile": {
+      "id_calon_dpr": "255356fa39fe94d9cd945386557de8cd64c53a50c5cc3c7cce7eb096bd540cae6041a97cbf43fd6cf94791f77cc5212ebbbbd7838d09806394cc4c76ca6e2771dYgcomEy+ulv28B90IsJuObDkOEfC/VaNICW50gnNrA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "337304"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/25877/pas_foto/3373030708780002.png",
+    "nama": "NGADRI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SALATIGA",
+    "profile": {
+      "id_calon_dpr": "e4765b5ed6d8fef92b3357d822bc9ac6174d72419065cd9d87873a446eaa60494682593e2343d00ea21df0b41d979c18b9eac174a0d7aef5496301800df8a6b78FeYUwnkBpdn3DNq1RJw3q+SQhn47BR2zreiBOL4Zx0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "337304"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/436573/pas_foto/1688579839_09c7c515-597d-4633-89ff-243fa78e8c89.jpeg",
+    "nama": "ANDINI MULYADI, S.H.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SALATIGA",
+    "profile": {
+      "id_calon_dpr": "f6cc4eb82ca91e4602113635a24191c0e3b1d1ab5856e21ab77f75c1e2789e003b669891d2a5afeb7cbf7f6be3a9e66b96d84b3c2090d2391f80e69bc4f1851aOf145lGQW0f/XVq6mrwUZHvKuQroUB54d40YR8+/hak=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "337304"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/483233/pas_foto/1696007224_671533b3-9247-4fa3-9d81-ad1b1f901480.jpeg",
+    "nama": "MUHLASIN, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SALATIGA",
+    "profile": {
+      "id_calon_dpr": "8dd93bee1c674dc19720491d7901c28e92ffe83269cf23284ecbafdde5ea748f625b7391e87c7fc1492aec5f1e237ea71a9203c5deb044fbc3eecb6140399df8TtJMkJPsJ6wGXaPxcsc/PYRzVrfPN+ktoEeyCi3pOkg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "337304"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/436575/pas_foto/1688580001_b4930e88-ddc3-4c5e-ac40-a053a0287568.jpeg",
+    "nama": "CATUR SIWI HANDAYANI, A.Md.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "BOYOLALI",
+    "profile": {
+      "id_calon_dpr": "5adb0986e92475e2fa37ee04a7d88b6a51d4b654c85cdb58ee611d19514748c40c07c2db75ee2b752c9d8ab0e5ffd482813e126e49edf32c3845608a45455311gEFuvvyGiX2RzjzaZVEjXHJGuweIXz55jPCAB4HWB/M=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "337304"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/25877/pas_foto/3373031208900004.png",
+    "nama": "ARYA RAHMANTIKA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SALATIGA",
+    "profile": {
+      "id_calon_dpr": "0afc2b0c52eee9db6edc5ae1dd7439dd0104febc63e67ffd3ff790a962a18864b22c0d2165932e99d1d80bad7280f481e2bb325ea26807d731ecb6dae4a3843co6PxQzcMrl6/yu51yd8+prAVd/Rl9aJXMyh279d22C8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "337304"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/220919/pas_foto/1683796746_c4fc9bc3-11b2-4fc7-8356-2445f24e8b15.jpeg",
+    "nama": "HERI SUBROTO, S.E., S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SALATIGA",
+    "profile": {},
+    "id_partai": 10,
+    "kode_dapil": "337304"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/199463/pas_foto/1683653753_551bb287-fa35-4026-b149-7168c55b861b.jpeg",
+    "nama": "SAKRONI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SALATIGA",
+    "profile": {},
+    "id_partai": 10,
+    "kode_dapil": "337304"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/215476/pas_foto/1683788248_6620ac00-7146-4912-9d52-5efd80e2ad16.jpeg",
+    "nama": "TITIK SURYANI, S.E.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SALATIGA",
+    "profile": {},
+    "id_partai": 10,
+    "kode_dapil": "337304"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/199247/pas_foto/1683653334_2143dba2-6c72-4a91-b75b-1566db1968a0.jpeg",
+    "nama": "SUPRIYONO, A.Md.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SALATIGA",
+    "profile": {},
+    "id_partai": 10,
+    "kode_dapil": "337304"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/218010/pas_foto/1683788983_550966f4-0946-458f-9c6d-00d09e4130d1.jpeg",
+    "nama": "TRI SUMARMI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SALATIGA",
+    "profile": {},
+    "id_partai": 10,
+    "kode_dapil": "337304"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/199152/pas_foto/1683653106_18cd6430-ab94-471a-96ff-926d92a4c4d0.jpeg",
+    "nama": "SUMARNO, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SALATIGA",
+    "profile": {},
+    "id_partai": 10,
+    "kode_dapil": "337304"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/145431/pas_foto/1683521171_c5926579-002d-46cb-acaf-b8661ac71817.jpeg",
+    "nama": "KEMAT, S.Sos.I.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SALATIGA",
+    "profile": {
+      "id_calon_dpr": "b58d541cd586b98aeba638e80e0c304bc8ec5a1dc01b91235d7b5385386b7ef442b48b45da03e1bdda012299f85076f21beb0a5f9b6a416e98f87166266932e1oOOCoWdEzT3+Z+gbLmCplXQYp/lQ5uIGE4GPWbP2l3w=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "337304"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/146140/pas_foto/1683523324_9a705124-817e-4390-a541-43eebbe8af9b.jpeg",
+    "nama": "SRI HANDAYANI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SALATIGA",
+    "profile": {
+      "id_calon_dpr": "c94985469878027696624cca7fdb3a51caa07d34642da88433fa6294c7a736bd9037dcd488175fad4ca6f61e9c6af862580c77f50771f8c95c938171427f5ee1A3QOEw4IaXDalZj9LpL2XKDwR9iaqimpFYAbU3QIsDo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "337304"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/146490/pas_foto/1683524992_6800f026-20cc-4c8e-b89f-1d3aa80b3ecd.jpeg",
+    "nama": "YANI RAHARDJA, S.E., M.M.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SALATIGA",
+    "profile": {
+      "id_calon_dpr": "5308f950c93416429b39d98e8c00bc29ad445b5ab4d49fecb54bde4c57ee8736a7b3eca3c9624ed3b58418df34f0cfbaf5b719151301c11182ce4815beb20068SnZ9WHJviq7X182M6KWM/RkfZnSVgrLnJGS6n5wTfTk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "337304"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/144613/pas_foto/1683519368_43f01292-43f8-4515-97e9-2486210a2f4a.jpeg",
+    "nama": "UNTUNG HARYANTO, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SALATIGA",
+    "profile": {
+      "id_calon_dpr": "31b9c35d34fd260ea29652690c4b160647a3cf12f2cb00db889e3f9d94a38b3616322505bd1d68f4dff3683d6b8a2559b9a81502bea6d18c5f10cf0566f9cb39FPoasybanTJZpxLZ34uovni3Ujpi+7fqpqxYXMyA8z4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "337304"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/148991/pas_foto/1683528494_74f67d44-acb6-421d-9af0-02e2ed473e40.jpeg",
+    "nama": "MARIA BUDI HANINGSIH, S.Pd.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SALATIGA",
+    "profile": {
+      "id_calon_dpr": "e0db65aac9b0f3499959a6441846d0230bdc8b2b02d07595ae14a86afea9d513d1873af520a634119229217c477cfafd8af4d06c10d2ecf446a41f14bb455df0TRLlAarvyq3P6IPaj93sdeeTbsA7Yw1OxRCSl7J/CWg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "337304"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/145172/pas_foto/1683520449_332d0cf1-8baf-488d-b56c-cc1b0f4848c2.jpeg",
+    "nama": "HARTOKO BUDHIONO, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SALATIGA",
+    "profile": {
+      "id_calon_dpr": "5be0beaf83ba28f80c4d612964c27977076374c4651179e0f8b6da3ac62729c312e63a5b41a19c8c26d814419723522c151ef21a63c4a98cfba4f32807c7b712Ip2KhD2q4W4b1yzb+yNk0JT9xruowmXv5yw8vwnHIac=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "337304"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/215125/pas_foto/1683698972_b245a548-1097-4453-be94-d82d62fd3955.jpeg",
+    "nama": "LISTIYANTO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SALATIGA",
+    "profile": {
+      "id_calon_dpr": "38d632d26c3eb09236b362810a341840bea70242d1254dd8194e3591e575c942df0d0ae4fa7defdf9417ace2575e4aa85a35e9fa14ade73b8e55560c17c6b9a4SSX7JcKWwA7RXWOwmkuezkd7y0e7qwFa4YvJlvtE4H8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "337304"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/216651/pas_foto/1683701847_46590fbf-fe09-423f-84a9-4e8c2d347588.jpeg",
+    "nama": "Dra. DYAH PURYATI, M.Si.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SALATIGA",
+    "profile": {
+      "id_calon_dpr": "ea32d4fc7ce94c4be0499fa227ed0e2040d79d2857745e9f4dea35e331d56c8b3e7dfc407927d5b50166f1f02089dcaad1acd6f9cf0c2b5c252d713763219fd4ercIYn9UX3LASqXWdptYX7IYmrOBQyiCDFny8T7TTco=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "337304"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/217611/pas_foto/1683703876_6b405f4a-ba1f-480b-aa26-ba964265a7a3.jpeg",
+    "nama": "ENDRO EDY WIDYO HUTOMO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SALATIGA",
+    "profile": {
+      "id_calon_dpr": "2206d9e2393985e6984ea027f65988ebd8d6af53b7e6bd9d7fb6a1537396fe298f45c5ebd64afa379cc2f6cccee2f83ad912b0144e7967287df2e5de19894650JmoejYevJrAdA+o9BwdOVvtXzDfW6llQL59YvbY3jPc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "337304"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/219271/pas_foto/1683706104_a91c24b1-6657-49a1-9c3c-b58a119a23e1.jpeg",
+    "nama": "MUHAMMAD NASIQUDIN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SALATIGA",
+    "profile": {
+      "id_calon_dpr": "b8473f0cd98c1d40704844b8637e8fc29a0eb811bfbd10662d02e69b484df34b5d32d37b5ab8f3dc244611795e7b023d568424e7214be2c1f1ccb8292995fff2Tn7sIbadXBKZ3EndWViEplDjGNiKv/DCXy9pjzs2NMA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "337304"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/219865/pas_foto/1683706860_8f78af2b-6af3-4a6d-b3c7-fb47ef6bcb72.jpeg",
+    "nama": "TH. RETNO WIDAYATSIH, S.Pd.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SALATIGA",
+    "profile": {
+      "id_calon_dpr": "578d967eb128c06eac0e5ed51da0ee5e4df1da58f72b39afad279619cb3142ed9edb834e0d62d30f1e34564375f10006e525b090d975ae9051aec4d4deb0e069q2Gtkd4tTawSDUx08zn7E03AGA5CS7+Pw6qgUU285dY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "337304"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/220844/pas_foto/1683709303_db703876-21c2-4358-a23f-52092a63b004.jpeg",
+    "nama": "OKTAVIAN ADI UTOMO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SALATIGA",
+    "profile": {
+      "id_calon_dpr": "f045615d08769f83b99c1991f461eeebad98cb5563a0665fff18c26c19a6b4edde347f740c9c825d29cb5e5b2a790a3a8f2522e923713b19282c4c1f346f3b01QAc2v3Expa4iPTVHGc3mf7HvOExj8Mg/TMVgjyn2HXM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "337304"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/144503/pas_foto/1683519293_0cb3529d-9bb3-4b2c-8565-855c29bf7458.jpeg",
+    "nama": "ISKANDARUN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SALATIGA",
+    "profile": {
+      "id_calon_dpr": "41686cb9aae2923364db0ed083699ebfa7984a1f893c77fc014cc8c2768d22451e0494cae3daaaeca0c1a51d26f80bacbb555abfa4a82bd11cf0c1fb111b6c00fpBGWX+bGjGf2di0tuS7DdLNxT/QdablAKnll+kciAc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "337304"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/145508/pas_foto/1683616197_1dd12534-8522-45e3-837a-a164579f4287.jpeg",
+    "nama": "SITI MUSLIKAH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SALATIGA",
+    "profile": {
+      "id_calon_dpr": "57d60880177c0997c49c953f4f30d371e41d365818afbc942ca6fa048d583c3316dbc8a2f3b87a0e6361a2750868348ff897833e1f7daa747495acd152f77f9diIgfm6kRI7gAH6rVBA/ZrCsNPTdrw8dPVMsraxqF6XE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "337304"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/142921/pas_foto/1683598284_076df361-e748-470a-b75f-d3b6a565c878.jpeg",
+    "nama": "DYAH HAYU SETYORINI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SALATIGA",
+    "profile": {
+      "id_calon_dpr": "b30537a7b5c451e9f46a5c86bac09184beaf6612fc546254de78441e69b9ae72c87c1367f53839a7b753d7f867a90bfc298552fbeaaab6924afdb655509cf261wI0qJgBJB5AzdDFlu/X4s2R6seI4zhDQbtmW9grVvpQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "337304"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/430308/pas_foto/1688547180_18f721c3-ff2f-4c01-8239-6d7ea5e6f7a6.jpeg",
+    "nama": "RIA EKA JANUARIZKY",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SALATIGA",
+    "profile": {
+      "id_calon_dpr": "a854e312d6a03924983788fb2acb7063ef773ecc4da265afac6a10faf182a90f0effaa35869cb2178c454d655c706c239d225ca90cb5aa70d7037a981ca722a1i8zQn2siF6AqLOT8uCnnskLSUYOoXSKSv25eZbbYt5M=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "337304"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/169976/pas_foto/1683595291_0f0540c6-7517-4fb2-8b52-ac9eaf9ad403.jpeg",
+    "nama": "KURNIANI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SALATIGA",
+    "profile": {
+      "id_calon_dpr": "f927f191c593c2337beb04d561fbfeef667af9ba21c1773d24779d9b1389a1735c7f98a4de34ac95c8a05b5d5202f4197cdf8ea344c940121a1baaa9232e5c5f+XUuQPFw+I0fS9ezhHf3id8p+bWgMVn4zg28QXJjE8A=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "337304"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/155084/pas_foto/1683539883_3a4b9667-2b4e-4bb6-9f64-964caa6db7b3.jpeg",
+    "nama": "MERLINA LIES DWIYANTI, S.E.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SALATIGA",
+    "profile": {
+      "id_calon_dpr": "ffc55e45a7332c5b141836617eb59254297636628b9fde0e1d07b4672108d295e7c4b3e2947e81c690f48adbe207f54eb7044810e67f241b4b6f00559f302027rXZGM0V0n11qtcwhALaq5zOLMx2t+yXB/9i/71MuxuE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "337304"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/474899/pas_foto/1691684491_103227f7-1e51-49c6-b0f4-0af96c842d06.jpeg",
+    "nama": "DONI PRABOWO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "GROBOGAN",
+    "profile": {
+      "id_calon_dpr": "687341d7818cb6943593b73b222b5c1a1ddb6da1fd7775800c2753626054c44931220c6804876d97a37f64a4630afdbba2e127b3388c0686bb6f598051638e9f9Cf/VUOh513SbrlXxDeWYT1bK0siNNm/ArLNMZ1eRqw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659959325_LOGO%20RESMI%20PB.png",
+      "pilihan_publikasi": "datadiri,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 41,
+    "kode_dapil": "337304"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/1466/pas_foto/1682683823_9e1c9167-901d-42b1-aea4-d60749d5fba7.jpeg",
+    "nama": "H. BUDI SANTOSO, S.E., M.M.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SALATIGA",
+    "profile": {
+      "id_calon_dpr": "14bce18b52b8e8fcd11c4b86e9f0b11847e33d7102718ffcff0b2a4102cb5a55ce98022edd075c99e6845fbc1218542d9277e73470eb8168438e77cad5e0a34cy2QoCpovwgCCLpmXP54pnI+CgkEMvFyxLunaoKDiHQU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "337304"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/3991/pas_foto/1682776832_1fb83fdc-59b9-4c58-9686-020c2e6ee55a.jpeg",
+    "nama": "AGUS WARSITO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SALATIGA",
+    "profile": {
+      "id_calon_dpr": "7a639f3272b2693b3c4c5b0505aeba437320d656f8a541f448ae4f1914306e34636a2682e5b9f308eae1cfa7acfa8ca923783455bd036b81c2f66d47c7636c00Z2nIZyDT+n6/2ZJxUMB5ERZ4DMWAM70hH4zWlksmx50=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "337304"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/4003/pas_foto/1682777160_123aa83d-c105-42c0-b2cd-b65866837fd0.jpeg",
+    "nama": "ASRI SUSILOWATI, S.I.P.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SALATIGA",
+    "profile": {
+      "id_calon_dpr": "28d1d388f36f39c434523f0cc27d41991f1f22ccc375086012b4d25bf89788765fbc4fa23a5d7d0ae3a1f261312a80b9ba3ffaf034825fb11dd22d558682fa02sd4edr2cqtai2t7r3j1HNzgHy9A/OVGBrFUTtuzI5xw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "337304"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/4015/pas_foto/1682777430_fdeb2f22-28f4-4ebc-9788-6b3ba3a06770.jpeg",
+    "nama": "MUHAMMAD MUHYIDIN MUFID",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SALATIGA",
+    "profile": {
+      "id_calon_dpr": "6916ec0b405b98413095b83a9b1e51f99afcaaceebd0fa09e4f02a7245e04690c9ffc13bbd825b608e4aaf5278db2400e178d858149e2db47d8d32ec43573ead+3MMOtDF2p1DdRP3XVddaDNN1/S1w7ITntBF4OuRZ+s=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "337304"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/4036/pas_foto/1682777650_2e78629f-dc40-4a00-9526-9a2b24ea96ae.jpeg",
+    "nama": "NUYUL WURYANTI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SALATIGA",
+    "profile": {
+      "id_calon_dpr": "d1ee9e6b8a806c54abc66be21c6eaa5947ba8930c284396dfdbbcf9b10cefe3280a1599cc52e6dfc50c80ef12013cc88ec87789e362fa5cffed3f7e0238616f2hSpQz1ToXHqqWrw4Y7+3pYVnlBIeWdO48L128sitd+g=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "337304"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/4050/pas_foto/1682778029_fd92a91b-7ce6-4d6d-893e-721ca414654d.jpeg",
+    "nama": "ROHMADI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SALATIGA",
+    "profile": {
+      "id_calon_dpr": "d6042d0743029b5dc98646969daf19723e54eee1175f02c76eb684ad164fcb2691d81d6570aaa96c7e685d13fd068bfc16e514e700b05f1511dcbcb31473bef6G7LYHezNQA3B4aIHEBDxD72VNekgfDpZzDf0zDMobAw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "337304"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/88672/pas_foto/1683368660_78c88731-b748-4839-aab9-27ac5e06c9d2.jpeg",
+    "nama": "KRISTIANI PURWO ASTUTI, S.E.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SALATIGA",
+    "profile": {
+      "id_calon_dpr": "a933e823409d5e0a32297842cff812d6c83c8a4cd56dff3032692f02056aa0b5737026c2a24eb6392fc3b40f9a69bf404dc655ef28b81573a96cc2b3da9a285frPKXQb2Mqx0gJCLjqnc7Lws29v629V/Fc+cc7jMI8Yo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656155242_logo%20PKN-.png",
+      "pilihan_publikasi": "datadiri,alamat,hukum,pendidikan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 26,
+    "kode_dapil": "337304"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/192464/pas_foto/1683752840_d4a3a541-87bb-42d7-b053-c5e17db4b3f2.jpeg",
+    "nama": "LAURENCIA LITA FALUSI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SALATIGA",
+    "profile": {},
+    "id_partai": 5,
+    "kode_dapil": "337304"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/201250/pas_foto/1683753107_76e197b9-f5ce-436a-97a3-568a32f19c35.jpeg",
+    "nama": "NUR WAHID",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SALATIGA",
+    "profile": {
+      "id_calon_dpr": "00deed0261e831605827279f93f2c3ecdcd722131b0de2a1fed71a2a1a14b09e3f01eb786a8274fd24da2f290e30992783286e7c1cdb69b55224c1add3ff248b2ZARW5788eEVNXNW4UvFW8mYpxWo8Q5qPXCFS4Wifc8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "pilihan_publikasi": "datadiri,pekerjaan,hukum,pendidikan,riwayatpekerjaan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 5,
+    "kode_dapil": "337304"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/201719/pas_foto/1683759605_42091cc6-f65b-4552-b4dc-a70e68c21503.jpeg",
+    "nama": "HERRO IKA PRASETYA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SALATIGA",
+    "profile": {
+      "id_calon_dpr": "ca15609a0a3e652a16a3bbf91ae91d40c8f4ba601a953939600426c2df473baf164e671dcdf1332caca82e5e15590840a0f517e259f308e114eac3fbcfcc1a0607VSq54w/5nQg3XQDacBMpR+dGQ/kYnLP0s7JCQ0Ddo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pendidikan,riwayatpekerjaan,kursus",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 5,
+    "kode_dapil": "337304"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/413984/pas_foto/1688700925_1ef2c34e-82c6-4e38-b498-7aa4a9154714.jpeg",
+    "nama": "GEMPITA SUGIARTO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SALATIGA",
+    "profile": {
+      "id_calon_dpr": "3d4de88e93a77e260f09b814f84ae7f5ac5b823cd735555f6677a30d43cf28be32fc1f9aa50a34e40b4b3cd8e7aae14b2abcf86c2eb8a11fb1d4f7e32afa1ca5DmCg+nVZVkAIHZO3e4vbw/uVGzNnC64D23Yf9Oz+31g=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656406064_Logo%20Partai%20Garuda%20square.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 44,
+    "kode_dapil": "337304"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/87983/pas_foto/1683434208_3239915d-76ea-4e96-93f7-de4ff60cb874.jpeg",
+    "nama": "RIVAL KURNIA ADI, S.T.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SALATIGA",
+    "profile": {
+      "id_calon_dpr": "8cd89fce05fc6fe0ddfa66c36bffa66042cad47865e201fa8fe71b0edd73b1b0c79fa69d6d7156b0032fa970df715b2110c969907a0d1436dd8cae2f78e5938cYyNX99iieWYw5FMdpsn1rmeAtycwBuASc3XiU+r8olk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "337304"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/192097/pas_foto/1688797207_f8841af3-c916-4ed7-b1cb-4ba21dbd8a33.jpeg",
+    "nama": "AHMAT FAUZI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SALATIGA",
+    "profile": {
+      "id_calon_dpr": "b87898eb12d0e7064ef48779a0ab9d17333dc040a2038bcb55925ac7bc79341c617f57c56f7ce324dd5cbdded9aaf0caf43b15e95a2c174d6151db3dadb545adyqxkjBKlGifySt9pR8eyFhbFhJTJpQPH+wZ0xZ03HZ4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "337304"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/65178/pas_foto/1683433515_f4d16ca4-758b-480d-bd42-60ea38b832fc.jpeg",
+    "nama": "ANNISA ISNA RAHMAWATI, S.E.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SALATIGA",
+    "profile": {
+      "id_calon_dpr": "be1b16420e3f71ce32929d6b3955e49fb9a95f43793c6c1d17c39059e371698f4cde5867bb07f3beca13ef1da5da75792091e7fd068c0bbf7959f48e7407b970GlZ/jwAyCRFwdiVxmMQsDfy46dpcpkL9bWmSG/MLTTM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "337304"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/451993/pas_foto/1688800666_a664a20a-9d44-47b0-b07b-b3748a6e057f.jpeg",
+    "nama": "CHUSNIA ELWY MELLIANA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SALATIGA",
+    "profile": {
+      "id_calon_dpr": "2eb949ddc11c3b64d476dec1e265666c03c6d0f071de9a82440a0497b37dde7a56c6ce2a7ffb8556a99e8d8867b5b294eea39c0e0ceedd9eae24aa3188da6fa13yW8R5ml+J5uMEYLC+0Fl3JYi2Ziou6mLwfmGM2H5xU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "337304"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/451654/pas_foto/1688794961_f95b52ba-c046-477b-9884-135ba6b40066.jpeg",
+    "nama": "WIWI WIDIYANTI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SALATIGA",
+    "profile": {
+      "id_calon_dpr": "444973f91d36672732a05e520ded983f4fba95e4ffc953f198f2771b05428d1c5234651f2f7b4376481b67d008d24a96a1bc2e59b9eb6d225aa442eef1eeb016E26btSxssLQARgmzh+bhTgvnrbIibYvfkUdPENM9wRU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "337304"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/451615/pas_foto/1688795976_93e5f4fa-bc97-49df-9a6a-bdfda7c2ebde.jpeg",
+    "nama": "YUSUF SIDDIQ WIDODO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SALATIGA",
+    "profile": {
+      "id_calon_dpr": "cb08cfcaf36a219d44f8dec30c3413da087c2f6ee78ba740a255be2fb6efbe4973d126b13c79986f2e6f71cc85b5118a70d84b46a6bf643a9ac174c4d4f609e9m4saTJaC87Fn/PT9BLbT9h7us95RI0fXx53KuNR8CIY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "337304"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/58510/pas_foto/1695624289_529a20c4-f849-4c23-a555-4db4b2629b7c.jpeg",
+    "nama": "ANDREAS YOSEP KRISTIANTO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SALATIGA",
+    "profile": {
+      "id_calon_dpr": "fb9ff60480222ab5749816ef92fc881e20b97bf3e43ecef687b82b46bcd114aadcec436dfbacdc735b5c17675cba34265308d44cb1d30889fedefc20440b433a7SvSwJqu1hYg/DvduSmXYjcMo3srwpMBhwEZfrOyR74=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "337304"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/58508/pas_foto/1683703532_89d9926e-215f-4826-8f1d-b209f377e138.jpeg",
+    "nama": "AGUS JOKO SETIAWAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SALATIGA",
+    "profile": {
+      "id_calon_dpr": "ff4a679fe13e2e59642eba251ca251739082a2d07f9dde4ee2925f6fe1b6d4111288ad8aa9c068e0c4e99586e90b42bfa7e6d5a22fd374f10c10424c30d8ffdcKzj5yRIAzji0vGE7dspAnpGyF0DMygq7vra4r7L5vPM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "337304"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/58515/pas_foto/1683713235_87138d8f-f5f2-489e-8c65-034cfef5fe09.jpeg",
+    "nama": "TRI RISA ISTANTI, A.Md.KL.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SALATIGA",
+    "profile": {
+      "id_calon_dpr": "54ff3d80cda8eeafae6d4d892aa84765ec2f815b8746db1c73a2221099c239f4283308a07ab4a31b839f521cb77e014b0aef30cefaafe006b3cc71ae71e91c6fUFoOYpuuhntumBjIDL9Lb3pwHM89jcFQLm78LjcgamY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "337304"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/58501/pas_foto/1688788284_2c9b3b0a-2f96-45b9-bcff-0f2d62b6fbcd.jpeg",
+    "nama": "AGUS SUPRIYADI, A.Md.Pd.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SALATIGA",
+    "profile": {
+      "id_calon_dpr": "2f1f1dee9c1718e1ddc7f6db30a191af45d1b217a01e04f30099e3c3f9818e0e2343f6515a6c137139bf9ef0ad3de3a24c94e0dae9f637fd01dcb6d8512fd080/i5R8iQULyAHL+gows/L0+kk39Yi6DNrP6PxoDeI140=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "337304"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/58500/pas_foto/1683713136_0ad92217-7279-4ace-9b17-56520db5ed1c.jpeg",
+    "nama": "SRI AMBARIYANTI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SALATIGA",
+    "profile": {
+      "id_calon_dpr": "300ba3c4249a12071c59c760743831b22aea9215b010af222fd4b2989d9e3efb4345791908ea4eeac74ee90bda0d01934d48cea9b55ef21f61de46a74d87d955xAHBNhddq29S8maTDXTdzzTbIOJFgdMDhp16n9QA4Pc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "337304"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/58506/pas_foto/1683713199_79040490-4528-4076-b846-70a6f3402ff0.jpeg",
+    "nama": "JURIYANTO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SALATIGA",
+    "profile": {
+      "id_calon_dpr": "31b45720f5278ee74b9037ef1e4de69d87301eacfe364627d762f2eb05ab5a73b654e56a7777ea68e5458d53db46dba5ebde3811c79d99b24c83ca16eda23ecbcC5zXe8hLQTqAoF2bRGioO2E+y5AwE8yW02M1idAXbI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "337304"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/205297/pas_foto/1683674673_ae25a115-edbc-4a7a-b762-e5a74163a3a7.jpeg",
+    "nama": "ARDIYANTI PRAMUHASTUTI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SALATIGA",
+    "profile": {
+      "id_calon_dpr": "39de959478e439a256d961b757822772c346b62c6d0d528e06fd6f4207e3a6aac68504cb4c2ff1e5423e2b03ce615a381c335a265a6348d39295a4914dca7bc639sVPFOpzcS3kzQy7r/qozMDpEiHWAYPl+Aroycsuk8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656419883_logo-10x10.png",
+      "pilihan_publikasi": "datadiri,hukum,pendidikan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 76,
+    "kode_dapil": "337304"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/215499/pas_foto/1683699568_2bfcdd74-ca0d-409d-89da-28502a672317.jpeg",
+    "nama": "NUGROHO TEGUH WIDODO HARTONO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SEMARANG",
+    "profile": {
+      "id_calon_dpr": "ebcbd13217f4988eb6c67e36089bf1371abab1cb91f8df71269686cf78d904d3977b87eb30c41e573542690f777ba9389c0637b72fce1880c5eea3daaa882e3f7KmyBkyIrZ7hIh5fpUhfSGi2QmmWMHLNcdYRLg/s+qw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656419883_logo-10x10.png",
+      "pilihan_publikasi": "datadiri,pekerjaan,hukum,pendidikan,riwayatpekerjaan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 76,
+    "kode_dapil": "337304"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/295402/pas_foto/1683821120_50db90e0-0f14-49be-803c-40b4d59b4140.jpeg",
+    "nama": "YONATAN NANANG KRISTIYONO, A.Md.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SALATIGA",
+    "profile": {},
+    "id_partai": 18,
+    "kode_dapil": "337304"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/312327/pas_foto/1683868640_f31eed90-1dc4-4f5e-99b1-ea179f23c5c1.jpeg",
+    "nama": "SAR HERIYANTI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SALATIGA",
+    "profile": {
+      "id_calon_dpr": "83d5d7e0d390c5384ad10afce51598596cf267f113988d99dfa41f4297df6133be657a8d3802f86ce35cf34a2bc713d31c1df81b5fccf34c5023b3145f6d5516ssASseCzBnu45siAbrIRWtDIvcaDSIlOavUSvJZovlA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "pilihan_publikasi": "datadiri,hukum,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 18,
+    "kode_dapil": "337304"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/311732/pas_foto/1683867327_9ad14c7b-f126-47e7-84c6-23e1594927b1.jpeg",
+    "nama": "MEDHI ARYO TJAHYANTOKO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SALATIGA",
+    "profile": {
+      "id_calon_dpr": "6c9d016e69a5ef1ee3a66ce450eb157cebcbd03439a42638e40ee96e801e2789288519874818d60ec1313daaac4defdb55c3ce1e8f6bbc674b454b85ad551ad65svgCq7zNXfPSZnp8hME7sETDbue1SccTW0JbCrrNXE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "pilihan_publikasi": "datadiri,hukum,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 18,
+    "kode_dapil": "337304"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/464340/pas_foto/1688920258_d8645824-7cc6-4928-960f-e804dc459606.jpeg",
+    "nama": "SIGIT HARIYONO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SALATIGA",
+    "profile": {
+      "id_calon_dpr": "f1e516d35e8dd28c90a8e560c1a10dd0f0c2364db6d2ede3c7e03788c450158d1e8bcec43c7369092ab887c9edd43839de8c3c42f41fdeacbd007ad55e8f3127Xfa7P/1cDPtW0PyPFNZ8VV0PxAr8FmOKCP1LHEgzNfs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "337304"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/329280/pas_foto/1683895769_46b11284-03a1-40e1-9090-4d1f780bce43.jpeg",
+    "nama": "SHOLIKHIN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SALATIGA",
+    "profile": {
+      "id_calon_dpr": "114fb1c714d875036295f2f6b129c05cd9055c4eb6c5b3b76c89ba7b3c5fb728a09884262382d5f0d05ae231c50d8a5fd38dcf40dd81e1f94924380ac57f38f4pT6hXLJgXGxCvAnAKV8PZCn0xuIlanqirL9cM7S0BVQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "337304"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/326208/pas_foto/1683894873_5e4c622e-3f47-4fec-af7d-fe2e677629b7.jpeg",
+    "nama": "NAELY AULIA KHOIRUNNISA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SALATIGA",
+    "profile": {
+      "id_calon_dpr": "ebc2c0c821d4537067fea8482ca496f494eac25043988700f4ef93a2d3eab883bbedc4aa3a045cbdf588adaf0c5ba29e99a164ec833b150dfa7e2b4cb4694911fc44UED+52NO6OKtjZtUglxLtMRS85DMfn50lsrQOTQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "337304"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/379914/pas_foto/1684010209_6ab0b764-a120-4735-8b9a-49612f78a677.jpeg",
+    "nama": "MUCHSIN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SALATIGA",
+    "profile": {
+      "id_calon_dpr": "ed96f9b85bbb5e0d0902fd9f47bd65fe996b99a3e1b6aa69f7c5165b51d506d8217bbb66649f4b36ccd7014c8c80ae3c113f96494219c418718a5b59fcf71003uYShI8PckeQAf0y6RO+XRpTeKKqYjnXBk0vTtMkUTVw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656157120_LOGO%20PARTAI%20UMMAT%2010X10%20CM%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 78,
+    "kode_dapil": "337304"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/379982/pas_foto/1683997026_37240be0-bf47-429e-8858-1f81b6441046.jpeg",
+    "nama": "IVES NANDHITA CAHYADILLA, A.Md.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SALATIGA",
+    "profile": {
+      "id_calon_dpr": "9b030e0452fb69101633e6b4a580fec8bc4e6bfad84c37e99825e231e81a9ceb7a756623edc39548644a4f127055cf088ad78e791e83e1000f201c2bd6b9b4d7GX7GrpK7pJbXSwiawBIHc1DGiPqEV8oxFwu/oJ5xFq4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656157120_LOGO%20PARTAI%20UMMAT%2010X10%20CM%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 78,
+    "kode_dapil": "337304"
+  }
+]

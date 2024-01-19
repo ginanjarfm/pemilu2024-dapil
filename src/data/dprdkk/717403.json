@@ -1,0 +1,840 @@
+[
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/84414/pas_foto/7174032708760002.jpg",
+    "nama": "JUSRAN DEBY MOKOLANOT",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA KOTAMOBAGU",
+    "profile": {
+      "id_calon_dpr": "b688ad1b69cf3789e63e5d31ef4a301e0840cc54bea005e56d805ea4213bdfc0aa7b83a7cd18a3e035a3e7568036403f6dc253b98d160810badd80f93f356479bu08pj94jNa0BrEqpdpY024uS2494cikjLcMsDzQ5Tg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 8,
+    "kode_dapil": "717403"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/84414/pas_foto/7174031106750001.jpg",
+    "nama": "SARTONO MOKOGINTA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA KOTAMOBAGU",
+    "profile": {
+      "id_calon_dpr": "1c423cf3ca44b192f25d98149b9141ebf7cb939a656d2897ea5c6ec941b5cf7902ad14c31d011cdcf02865d6e813e7944bbfbc260295dfb2ab322c5fb9d5f7a4nOSrkN6ihXbo8sKvAg2vjtbwDZftzqsY3QZb7O/Dg7k=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 8,
+    "kode_dapil": "717403"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/84414/pas_foto/7174035001770001.jpg",
+    "nama": "SARA TEGELA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA KOTAMOBAGU",
+    "profile": {
+      "id_calon_dpr": "1c5f0168bc0f6730d76c5dcc3ae404c2bf361f02e38b88032568bb5fa154c123d2cf18027fb721648a967367a9e06d86baeb548fd9406166d34d2ba4cd2e935fKvdTG5wSGLlWiG+pr0pKsKAKl6FCrOGVZ5kkwHUS7mo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 8,
+    "kode_dapil": "717403"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/84414/pas_foto/7174032011860004.jpg",
+    "nama": "ADRIANSA BANGOL,  SP",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA KOTAMOBAGU",
+    "profile": {
+      "id_calon_dpr": "abfede64494e060049a1f78d3287c39f6a2b4e7919bf4fb5be51cf0922860f0274c83c90ce038d87c7711ad0581cce00487719fc8f2c8bb52eca84b6cec0da9b/8Q8FWtmYLqxpWkwmibG+nDN5Pp7reCGbde8w20ZALQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 8,
+    "kode_dapil": "717403"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/84414/pas_foto/7174044307800001.png",
+    "nama": "HARTATI GINANO",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA KOTAMOBAGU",
+    "profile": {
+      "id_calon_dpr": "d61b6219412c433d32fc12dd154e393969206d47dd42a633eeb6898d34366007063d991960fd3e2f667a728aff8d45ce8ee4e309c76c17338f791acbe5fee2eaXk8X/kRMuUVan9oyd0bPKkugWx7Qw0pHkICPnMmfhTY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 8,
+    "kode_dapil": "717403"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/84414/pas_foto/7174034612970001.jpeg",
+    "nama": "DEA FADILLA DAMOPOLII",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA KOTAMOBAGU",
+    "profile": {
+      "id_calon_dpr": "bb8a72d3044edf0e11e2288430a26c8d37fa8fb6e76ed1d2e332fab18bf896ad312eec5d7580899f5221525c9903f4ec02a5840f34eb54efaee614d75357ab68LucFf1a/vfHMKJhzlQf/3IM+ry1jw9vvvdrBn1m6WU8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 8,
+    "kode_dapil": "717403"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/84414/pas_foto/9171020303850006.jpg",
+    "nama": "HARIS MONOARFA, SE",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA KOTAMOBAGU",
+    "profile": {
+      "id_calon_dpr": "844c3b30084ff105a09d5c3eccfe32d904a34a1e2d2354c878dbeb4a41ce04396ab1f0f2345b276017083122d15118f507cad6e83080be6f020197c5da8f886dokaZssTz420xDMb5muwdDwhLJL6xVrqtfjIBI6DoSQA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 8,
+    "kode_dapil": "717403"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/348213/pas_foto/1691547175_f117b7cf-e930-463a-a238-b55b57483b3a.jpeg",
+    "nama": "NORMA ALI, S.Pd",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA KOTAMOBAGU",
+    "profile": {
+      "id_calon_dpr": "42f09401ec68754a24820b73e5d9c2f63bc9e1f050ece42a1b0f810a3bca90c3197a8421474767cb9e768d5b12af7cccee549314bc439a139877b53151cde3f62cX1H6Pz9ttqHcMk+CxeBBz6pV2pztyUFfj6gM4i1pI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "717403"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/348519/pas_foto/1691548009_28dfa6a7-2c4d-4aca-ac2d-67447c9f30fd.jpeg",
+    "nama": "MAYSIE PALIT",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA KOTAMOBAGU",
+    "profile": {
+      "id_calon_dpr": "0fb851a64e1805b2060c092f46a2145f09757d309e9b0547ef2ace5560a6dc6a40bce2afc5c966c8b2e94bc696204a72a7b963394c6decc09d91e12666ba8967xJ/EzP4F3jZ+OGxCB3Kqj5Y0GJ/ZEuYfz5q8xB1VAVo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "717403"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/358168/pas_foto/1684024658_6cc72c93-f4b3-4276-aa31-2f2c82931802.jpeg",
+    "nama": "ANUGERAH PUTRA PRADANA BRIAN MOKOAGOW",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA KOTAMOBAGU",
+    "profile": {
+      "id_calon_dpr": "b0856f8bb5465540a427126cc92c6b3238d3696c0ced5596f0f6668ffd6c8984d16d8d4fa5638eea8df5944328db39b9bec16909037d556bf856dcc3b7b860f7oclf20rWCk1NCphVZXi2YcHLlIQnpLPtO91jqibBKb8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "717403"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/462295/pas_foto/1688891654_2bf829c6-02f9-4804-a24f-5bf5b2674cb6.jpeg",
+    "nama": "CINDI CENORA MAMONTO",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA KOTAMOBAGU",
+    "profile": {
+      "id_calon_dpr": "215bc6b3c5bc727b231252c222e443a87024a74dedccf594a63c571456c9b1c37a69755952a68794eaae252b8656175d1026512851e4d1e812e2290db8b18970KO80XwNKykUMALgQQRtPCD4ib94fDfoYUA7M/bwRkN0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "717403"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/456879/pas_foto/1688844077_d3c1196d-299b-491d-bb3b-c0023294f845.jpeg",
+    "nama": "LINI MULIAHATI BANGKI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA KOTAMOBAGU",
+    "profile": {
+      "id_calon_dpr": "45a42dc1bf2568ef8bf82ac89d9add300f765b6b4cc67634f6ead5d04249832984159b3d4012e21a8b63d5fefd427a5d4c6251a235ee26271ee651bc051a889dwvQwyXxsbGqsTOeEAV4847xURvJqtHxSCwFo+YDGKWI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "717403"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/456455/pas_foto/1688828413_54e4d3f2-dac1-4c44-aa65-d99b3675e555.jpeg",
+    "nama": "ANUGRHA PRATAMA MANIKA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA KOTAMOBAGU",
+    "profile": {
+      "id_calon_dpr": "861deef71ed1542934a10fd5d8ccaee32055af5123b429610c7a30f1e162dadb8b973dcf72b466bda4d437881113a8d050c58b84a9cd4c0cb054b96066a479642/wojZFkJPcjR53QxuUxzsJMpT/UD3gdryTtuOFZgXg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "717403"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/24148/pas_foto/7174032205770001.jpg",
+    "nama": "MEIDDY MAKALALAG",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA KOTAMOBAGU",
+    "profile": {
+      "id_calon_dpr": "9e48fecce6f620cb238364e2e150cf4c47b5e8167080244ae8c9e13cbd5a2697aa800d2ed700908d81cee2018416735c67ea8ec1e8e654673d3e224982e274ccGV700GIkvFyd4aLFQIVVG3cTEVHm6NsxivT1AbiEk4U=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 12,
+    "kode_dapil": "717403"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/24148/pas_foto/7174030603620001.jpg",
+    "nama": "SANDE DODO,ST., MT",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA KOTAMOBAGU",
+    "profile": {
+      "id_calon_dpr": "70b59df76df3e06f9467d920c7601fdf7d4b898b0e396ca6d0a929b8dd2f7e1a58b7ce6644e364935f64d5e6c26786641e20183a4185e9c35d4a3c47457a35d3mH/gGF73zljVl0V48M5/B8O+uYswn7HVXebb7NcH4Rk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 12,
+    "kode_dapil": "717403"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/24148/pas_foto/7110056507930001.jpg",
+    "nama": "ANGGI MAMONTO,S.Pd",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA KOTAMOBAGU",
+    "profile": {
+      "id_calon_dpr": "f288f3ce98ca84556c20fca179e612401caa3dfa865157929179a21b0a8e70f237b274b6c1247940d203d9025a1f0e8853a3d9620c8d712ea42f9469cea0d578AHxJinrvKV12sjUO0JllS8++dXj05wAbqFE8gOjM0tI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 12,
+    "kode_dapil": "717403"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/24148/pas_foto/7174030502710001.jpg",
+    "nama": "DJURAIN ACHMADI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA KOTAMOBAGU",
+    "profile": {
+      "id_calon_dpr": "629c7f544906a1bb45421139dd0c0380755c8a85582e87042be875311bda5bf1698341559d5c6404b009816ed99af78645cc5b1022125cc344dd34dd28c18aa6i8/pvDjax3g7KpYBI5CnahEh1aoJ2Bf0Iv7poKq6/cE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 12,
+    "kode_dapil": "717403"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/24148/pas_foto/3515080603000009.jpg",
+    "nama": "HANINDHITO LAZUARDI MOKODOMPIT",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA KOTAMOBAGU",
+    "profile": {
+      "id_calon_dpr": "70df26bfe208952df7707970802bcd182361420a03cc3c27a97fb1938f3a3f19b4d264e84ca38891b9098f1664c77479a22b8b95f434d36edc50ae0961b5ff140PeUotmGrpdgAxfrAch9OS2ibTLem9nvPx16ww56jVo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 12,
+    "kode_dapil": "717403"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/24148/pas_foto/7174025012910001.jpg",
+    "nama": "SRI CHAYANI SIMBALA,SE",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA KOTAMOBAGU",
+    "profile": {
+      "id_calon_dpr": "63c91e6d06137d5b4cf2c004a514b3b22f2b5298d0167985ed9f03e216aada42bc1000c5fc8970c492b591943598bc7bba9c3548d7cf1c3d15179380440affb3Ac8cKHZ4IqFtTAh8/TOfmD4p2gdWwFv0HcmEc2MCiGQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 12,
+    "kode_dapil": "717403"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/24148/pas_foto/7171061009720003.jpg",
+    "nama": "JAKA PRASOJO,S.Pd",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA KOTAMOBAGU",
+    "profile": {
+      "id_calon_dpr": "a9a196da072ee58d41aeeee61e756c30b27bcdf76a18967128ab0a85f3750d1f63d5e5c7ad9ef458611d6c6bff8b25f49f71983d7f2823b86cbd37566f158be75KPRHkr6Un+KPLRdHHSmbIPD/rBgdScqPfLaU9SEhkQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 12,
+    "kode_dapil": "717403"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/386305/pas_foto/1684038754_b405e37b-87fc-4695-993e-349c76d4b6bf.jpeg",
+    "nama": "EKA SARTIKA MASHOERI, S.Pt.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA KOTAMOBAGU",
+    "profile": {
+      "id_calon_dpr": "3640f08bd01ba3ba9ae5a2ae3092818a5e53e249d61fbd9bf85585ffc4aaba4e6616fef126e8edcd45c5e2c2086fb91b5ac5ba36cffb3041fd7e8a341f4f5839Voxv1/MYjNh6R/NyK5MeBTaLG5lItkE28JZUgMS84mI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "717403"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/386307/pas_foto/1684036439_42323a7c-fc07-47de-9a20-dd3476ac53fc.jpeg",
+    "nama": "MUHAMMAD RIZAL DAMOPOLII, SE",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA KOTAMOBAGU",
+    "profile": {
+      "id_calon_dpr": "8126a8a8e82d0e0c369920ee7476132eecaf9312074917a37bed7955b819904748ad6da00170b8d5a2dee21d5c0cddab75d74de46af849c64dfcec46204561d9NpInm8JswvKqmlHJMC/igvTS3ZUJ2eNv7s3Kflwy9EM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "717403"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/386304/pas_foto/1684038247_4dd0885b-578c-4c7b-a2be-b0671f502235.jpeg",
+    "nama": "BATRIN TALIBO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA KOTAMOBAGU",
+    "profile": {
+      "id_calon_dpr": "ce4307620800a5d850af721c14a3a35f7b256966fa52a3665b25f09b51967a99aa92b8effa435aeb4e8311d8f764a6bc2f4ff26cd95a5e1786a0406d7fbf83acZWLKm4+GB4j+ZWYf2KQq5KBx3c+wPWLgkPGY/aLEpp8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "717403"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/386309/pas_foto/1684037271_d816c9e6-67b4-41ed-848a-22b5d53eb5dd.jpeg",
+    "nama": "SUDIRMAN MAMONTO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA KOTAMOBAGU",
+    "profile": {
+      "id_calon_dpr": "acc0fa1ce4b7e83134dfe14760708d1c32ff66cbef9926e5a0986e0d7ec61a97e0054dd294765dfb786feb82e940fcaf296785b1cc074819a8a8706dff69857bhD+giKEANLogYdTgQP4GDOOAOgEBu/m0mayR9BPn7NA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "717403"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/488355/pas_foto/1696340077_91a70321-2a4c-46ff-9f4b-4f6eb50393a3.jpeg",
+    "nama": "MIRANTI GUNARSO",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA KOTAMOBAGU",
+    "profile": {
+      "id_calon_dpr": "c1036995b1677b59cc6eab914a0a2dd472b62ff8f42a70de57cdea1a6d6bbf8d9b39d399013d44e9a1fbe73950eca4de902e5920cf89840c725402098cb456a4YHMg/wlkUZ4szNqpfTUHAwsYtJTpKLpcY9RpqJydJ3A=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "717403"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/478388/pas_foto/1691763557_043e163d-a0e9-4903-ae05-a7f2c414039e.jpeg",
+    "nama": "ENY ERMAWATY KODAYOW",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA KOTAMOBAGU",
+    "profile": {
+      "id_calon_dpr": "98427e0fd8ed0e760cefa9a0e1bf71112120bc884ae3ac2c5793104290b0732fc619b8b7ff959d82c0ab156d4e04fd430e7ab05fbd7ccdd0b55847d3b2c7e7d9EkVi0iDKNeis9/jq6P9ELnrxZB6+AlnAQFoT3+ddlpo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "717403"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/386306/pas_foto/1684039286_c34c83cf-5440-416c-8697-0c58fdbca2ce.jpeg",
+    "nama": "MOHAMAD ADRIANSYAH MAMONTO, SE",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA KOTAMOBAGU",
+    "profile": {
+      "id_calon_dpr": "026c8ff44c0677a1b0638f223a25815e8f217546ff4e54307585b1a3d10e20b08c882bd574fd52edf58f083c1236d9ada62701d5cb6d2141ed676467875aff59/amDnIUG8Xrs30qfZMjxZILUaK0q/r8dgd0Lhxjvnz0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "717403"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/66076/pas_foto/1683384373_0062690b-232d-4e76-b1fc-ead784e80189.jpeg",
+    "nama": "BOB PAPUTUNGAN, ST",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA KOTAMOBAGU",
+    "profile": {
+      "id_calon_dpr": "41ba6a9c7880b9af614ae6f313b0872016518de49c3893f1a3b671f98297bc81081d80a6a24977da3dcc4d0a86811f4cc062cca341ad25f2d5905e7d0848530dYNuKdJy3qCzhMpuyC4YxKQo23tzEK9695Bw2TuUcu3o=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 4,
+    "kode_dapil": "717403"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/65999/pas_foto/1683390944_d12b516c-3cd4-47cc-ab1f-97f3171db66b.jpeg",
+    "nama": "WIN PONUNTUL",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA KOTAMOBAGU",
+    "profile": {
+      "id_calon_dpr": "daadc45cb62f4e0153a8a93b31af3155378bdbce8499d9a6910f13c000e89109c5010acf29bcc11e0dcc1be44e5f5118d9fe0ff6a5a26770d865c1e02b7e4d9312VL2GIwa03r8i9G7vt1nO9D06R3pDz12bDr0fYMwMo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 4,
+    "kode_dapil": "717403"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/66203/pas_foto/1683384432_09422889-e0b1-4b9d-992d-cb95f429e822.jpeg",
+    "nama": "M. IKHSAN MARASABESSY, S.T.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA KOTAMOBAGU",
+    "profile": {
+      "id_calon_dpr": "34bab5765eb427a8232626f7c0725745efb69c05435fb5e74fbe9fc2fa5cd64993bce64f6cc71517791c24c089d38a79dab30b15c1e44938696042215eedc196z30Pkpi8ObWLfHV8pC3CN/Mti+jzLHznoPfzj7Fo2xc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 4,
+    "kode_dapil": "717403"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/66696/pas_foto/1683384486_2e0c82b1-8c87-4911-8f8a-125b2badef11.jpeg",
+    "nama": "APIATI MOKOLINTAD, S.P",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA KOTAMOBAGU",
+    "profile": {
+      "id_calon_dpr": "727da93e465b465c38387c9400d9c62d864514912ac5f3ffea63a559f11477ad2d1ab8773da96bd099361bb443d7bff3fa4420d1ede4d2fbfd4082b231516d39T0C8VNq0xhv7Iyw7kYYrl0FBv0U3PSyyj0BXjITl6eM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 4,
+    "kode_dapil": "717403"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/66553/pas_foto/1683347585_cb1c1b47-b90a-4383-b213-556965e19767.jpeg",
+    "nama": "ICHDAR TOLAT, S.T.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA KOTAMOBAGU",
+    "profile": {
+      "id_calon_dpr": "496074ccb9e71318ae80a943424c75b6dbcc13555585f5a0d0bc92d8a17d341f46c040b379dd839bd76177f901488d9a1eedfb94f1b34fe6d3168c7c97ce6c34xCIhRx9cfMAYqag1OT8xM+xKtZCBMMMHCCuPvRZ/rqw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 4,
+    "kode_dapil": "717403"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/438064/pas_foto/1688625029_70f75fa2-a717-4360-abca-e8d9ec246f03.jpeg",
+    "nama": "CHAIRUL ACHMAD LULY",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA KOTAMOBAGU",
+    "profile": {
+      "id_calon_dpr": "4e4585253743d9bda5a2525f34c9552ee5d977a800d9591da5f3d3bfa710aebc2c322cc9b2f1da5038f902048afab10173525a7bb3d8ee588e196d1f31512bacbJ8JL9oVS77UZWOvb2MwJxNnjKvxuRgbxKhWaIzTE5Q=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 4,
+    "kode_dapil": "717403"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/66457/pas_foto/1683384457_18f40c4a-4ad0-4077-ba6b-100757e2b6b6.jpeg",
+    "nama": "CANDRA CINDY WALANGITAN",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA KOTAMOBAGU",
+    "profile": {
+      "id_calon_dpr": "a4352f1b3f6f2858e3893be1fec0677c82b29de8bc631adc70eca77b1202c083270501a0828c77cc04a9404a7dd56252d81bb1c1e062eec126e4d89e18ebad561CPLJ8pzd2OzzQDnteuKLYCZ1gu2Gux2Sg3UHPTdFIQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 4,
+    "kode_dapil": "717403"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/120868/pas_foto/1683726481_20825aaf-4680-4010-a1b2-0e4c65be6761.jpeg",
+    "nama": "KADIR RUMOROY",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA KOTAMOBAGU",
+    "profile": {
+      "id_calon_dpr": "fe8ab139a0c45a9c697c25da766c553ddc59beb8551e72f771eb238fee1300633a878894f61aa5f8058d04ca5a1d5464449323a07694332bde51011ac5ed3ee3xLEibU+BJCGht1Yza1MI6YT+JbzCgaZbsCyiBNe6MTY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "pilihan_publikasi": "datadiri,alamat,hukum,pendidikan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 6,
+    "kode_dapil": "717403"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/120020/pas_foto/1683877396_176a157b-cbd2-4439-992f-2b2437294917.jpeg",
+    "nama": "ANWAR ANGKATO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA KOTAMOBAGU",
+    "profile": {
+      "id_calon_dpr": "3a36bb831e9ab32a82ef349150c674024736401863e39ff987d99e50962a2ecdfd72a3909a722e55c41129029e4af57f6e7a4eafba1e0acbb341a6710a4f042bEwASFj1RAgdHCL+hk0PNdbJ9O7d8YOg39iXo79MOSXY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "pilihan_publikasi": "datadiri,alamat,hukum,pendidikan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 6,
+    "kode_dapil": "717403"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/288761/pas_foto/1683855326_781617ae-4000-4cdf-8c36-20d88e5e0a0b.jpeg",
+    "nama": "ANGGUN OKTAVIA MANOPPO",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA KOTAMOBAGU",
+    "profile": {
+      "id_calon_dpr": "b7f91a246ae16345d265e3ce301461f50f8836cfb18bb3a62859b22c746f7addf070fbccd661fa929e5a2fb7f0a2b3db6c627abc3a95e2396cc80078ca76d2e2gVDSUStY17zFhsLFva9xXpGTHoH4TfU50O6bGwJOF/I=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "pilihan_publikasi": "datadiri,alamat,hukum,pendidikan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 6,
+    "kode_dapil": "717403"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/451458/pas_foto/1688793416_0604339e-7532-49f1-8fd6-76b686110bcc.jpeg",
+    "nama": "LUKY KAWULUSAN, S.Pd.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA KOTAMOBAGU",
+    "profile": {
+      "id_calon_dpr": "8350cc79fe8db403cc0a5044e91225702daef73bff00b25f524f9c48b690bca523cf51e6051b6ed0898185dc3f35f1010a7bbca736ac60d8500d37b7f720fb2f8rA13KXHdJ70LBOzpRxxhDTgxpGrapz0EFCqQvDKEdI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "pilihan_publikasi": "datadiri,alamat,hukum,pendidikan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 6,
+    "kode_dapil": "717403"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/120120/pas_foto/1683726693_d7e2fd4a-4ac7-43ba-b2b7-1e1f179e418b.jpeg",
+    "nama": "RAOLAH VAN GOBEL",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA KOTAMOBAGU",
+    "profile": {
+      "id_calon_dpr": "195c2b23af7fd591a514649afa88564ee215844ff924c42c0f618feddad79e33bc9f55903f8b0582be8a42bb016d38aa97d149c6c09d75dc5483f3dfce2f3c0baEDVWFo4SC6QKBqHtjTovss60f9vGqWmv3xkuqlRu7g=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "pilihan_publikasi": "datadiri,alamat,hukum,pendidikan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 6,
+    "kode_dapil": "717403"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/487791/pas_foto/1696320144_ef6d9b40-e3cc-49df-920b-763c67b1450b.jpeg",
+    "nama": "MOHAMAD YUDI EFFENDI LANTONG",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA KOTAMOBAGU",
+    "profile": {},
+    "id_partai": 6,
+    "kode_dapil": "717403"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/453105/pas_foto/1688804267_64a23b45-f973-4b44-8625-2e55bb4b8190.jpeg",
+    "nama": "WINDRA SUSIAWATI MANGKAT",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA KOTAMOBAGU",
+    "profile": {
+      "id_calon_dpr": "5724a38cff2552499b6ed512b274ddaf838785d085c55054778d49e756490c050428fefc3182ac09fee1fbf3d9d7e774452c70ce2c885c35554fe0c8baf53c02+HTfZFqKIy5VchBQQ5h4qY85k+bhKikxjVaOV+m1bJw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "pilihan_publikasi": "datadiri,alamat,hukum,pendidikan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 6,
+    "kode_dapil": "717403"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/190093/pas_foto/1683711657_7d65640f-63f0-4e27-82f3-5bf597cf86cb.jpeg",
+    "nama": "REWI DAUN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA KOTAMOBAGU",
+    "profile": {
+      "id_calon_dpr": "e6b2a32c11454b850a8a3aaff8edb4b269f7fd6db7932f5a3d01972274c325c2477b8cac182c1f0b0747a6dcbba19cf022aaa200af0e057fb0f201498a9268ads3iKa2zb+mXipSI1dyoYdpPPx60Ytiptz1aZzLPfbBo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 5,
+    "kode_dapil": "717403"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/209186/pas_foto/1688780954_6a36f633-f1d2-49a2-83fb-bb269d0ee8c5.jpeg",
+    "nama": "PANJI MERDEKA PUTRA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA KOTAMOBAGU",
+    "profile": {
+      "id_calon_dpr": "6b3a38de0655bbf28e4fd55b5d7bd92529cbb7dbac0a2b99ac3d1b4f88c749f4030dba09b7b5991cdb3343f6db14001ca17a0f61429fa902a60eef690c4b13087RJJtiemc4nG0muzB7++n/LpFZKANquyybZlmk3+88w=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 5,
+    "kode_dapil": "717403"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/211669/pas_foto/1683782021_9e81d3bf-3a93-4e19-911d-f22605b3e6da.jpeg",
+    "nama": "SALMI DANDI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA KOTAMOBAGU",
+    "profile": {
+      "id_calon_dpr": "3af588e0644738d3d13c0308261c80575611f0b31135a76b6ad04a912d487ddb6d10362726df9622953876e4a85bcc201666775dccb05a4fd142fe90010e07bfEZV0evX/d4H4Kk6wksOquPct4njAhRmxwBQDvhB5yyY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 5,
+    "kode_dapil": "717403"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/190688/pas_foto/1683782503_fb5c5b75-5a1e-4158-8718-75463763cfc9.jpeg",
+    "nama": "MOHAMAD SANDRI DAUN, S.IP",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA KOTAMOBAGU",
+    "profile": {
+      "id_calon_dpr": "30b708810b7d314c4602029ef6c8fcdcaddcfc302108e81540c33b376f2004b1e3011641d49ab6595145552fafce67530438edc47f9298c018a659d784140e0cfrU0XlFy+zuROA2Qg4HsV/pXyb6gDNH19657BQ7uZfo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 5,
+    "kode_dapil": "717403"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/211943/pas_foto/1683782774_17464cc6-5a3e-4212-9a8a-44ce584f528a.jpeg",
+    "nama": "FERRY DAANAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA KOTAMOBAGU",
+    "profile": {
+      "id_calon_dpr": "008c9daf48bac75d47bfff0871f7af388066221293286dc494f373e563645d445cb21da903cbc6c819b70a57f46b9179e911c928ee1b34a2e2dac59e1e4c5340ZgubTQKAyCVHgx/CA0oByA4SHaS49AUytIFW1cdBIdg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 5,
+    "kode_dapil": "717403"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/217071/pas_foto/1683783963_0cb30d1b-008b-4d3d-ad47-c24f34162504.jpeg",
+    "nama": "DEWI YULIASTUTI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "BOLAANG MONGONDOW",
+    "profile": {
+      "id_calon_dpr": "b1e6d5fa806f1bd236e7bf8bc568621a9b87fe97482a8259e4fc73e45394a5f514bc3bdc8deea7aae98bd83c21a6e8bf9514dca0e83c03510b3240340cb57999beIhXV6oJ+fWHZIvdsWR2H5hG3wZKGTKGT8pKG/CgcI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 5,
+    "kode_dapil": "717403"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/212157/pas_foto/1683783361_050de708-1a1f-408a-a854-a0385483a204.jpeg",
+    "nama": "PRASETYO PAPUTUNGAN, S.M.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA KOTAMOBAGU",
+    "profile": {
+      "id_calon_dpr": "1a6870b4a1a4550fe60e31d71fc5e30f7e42cf04269caae0f6b7cf2fdaefa027a1ea2a3d8781fb189db7b9bfd1fe7005052eefd44ec40a500422c472b801572eyQpqD+/K+Bil0eLU5dnK5KFLXan1oy8O41a1TrC/Hgs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 5,
+    "kode_dapil": "717403"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/38575/pas_foto/1688874246_aa9e1b4e-f583-4318-b86d-dd5a2581f36f.jpeg",
+    "nama": "ADRI LOMBU",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA KOTAMOBAGU",
+    "profile": {
+      "id_calon_dpr": "2e59b88bdee6dfcac27c01c269813cce2d34e913864940f3587b24ab60e849cb06e176508a48267836ec030d0287105cecbe59681e606d97f671dee83df83feaKZotss0muU9yreFG/vmaM/3cojh4TR1jsiDG0QXo4XM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "717403"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/474344/pas_foto/1691749052_64282516-d02e-41d8-8276-10ef238615c0.jpeg",
+    "nama": "EFENDI MANOPPO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA KOTAMOBAGU",
+    "profile": {
+      "id_calon_dpr": "d9f87357cfc31416895acbc83fe069b88a566afa5914daf918adb06a2e403da3519bb0959b643694889b8413e71629f1a9b1bc574d09b8db110a49547af55d8duCIc66NwX8VYo16d3my79zMGb5nzk+xCjBETlqU3ueA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "717403"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/474381/pas_foto/1691677251_eae84554-1245-4921-8660-8678d2521458.jpeg",
+    "nama": "NURWINA BUANG",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA KOTAMOBAGU",
+    "profile": {
+      "id_calon_dpr": "c8494f693e11cdacc5736a9559d110a70ad239e51e30ec9cd376b70a3f473c271e5ce1e492451dda644bf03e362864ba7139ee4b2f8851cb304d14a7d7119604e+YmP8kGEEKEMtPzWsJIB973okauU3mqYZKLkl3Eqaw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "717403"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/427008/pas_foto/1688879825_cddfbcd3-0c0b-46c1-a67c-502cb4a1e2c6.jpeg",
+    "nama": "REFLIN BUNTUAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA KOTAMOBAGU",
+    "profile": {
+      "id_calon_dpr": "5c1ff8fb940eb4ee53b2242a5a69c9b1d7c665127ee620f08935f43642655e35aa8158313c698f1c14477517955c4b2efa6cf1464b14209c70032da87477b4d4dxBQ9G3GBums7fK/B3EOaZtRBzY6zJjUsr7tSYJsNWk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "717403"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/107938/pas_foto/7171064711720001.jpg",
+    "nama": "ALFITRI TUNGKAGI, A.Md.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA KOTAMOBAGU",
+    "profile": {},
+    "id_partai": 13,
+    "kode_dapil": "717403"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/107938/pas_foto/7174030109780001.jpg",
+    "nama": "STEVIE ISKANDAR",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA KOTAMOBAGU",
+    "profile": {},
+    "id_partai": 13,
+    "kode_dapil": "717403"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/107938/pas_foto/7174030807780001.png",
+    "nama": "SUDARNO MAMONTO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA KOTAMOBAGU",
+    "profile": {},
+    "id_partai": 13,
+    "kode_dapil": "717403"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/107938/pas_foto/7174034404920002.jpg",
+    "nama": "ANGELINA FRISILIA ASSA, S.Pd",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA KOTAMOBAGU",
+    "profile": {},
+    "id_partai": 13,
+    "kode_dapil": "717403"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/107938/pas_foto/7174037006690001.jpg",
+    "nama": "RATNA GUSASI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA KOTAMOBAGU",
+    "profile": {},
+    "id_partai": 13,
+    "kode_dapil": "717403"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/107938/pas_foto/7174031011600001.jpg",
+    "nama": "SUKIRNO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA KOTAMOBAGU",
+    "profile": {},
+    "id_partai": 13,
+    "kode_dapil": "717403"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/107938/pas_foto/7174020901810001.jpg",
+    "nama": "BUYUNG DJAFAR",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA KOTAMOBAGU",
+    "profile": {},
+    "id_partai": 13,
+    "kode_dapil": "717403"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/329938/pas_foto/1688815582_fd52a9c8-be07-4bbd-ad14-b8a47ffd6f86.jpeg",
+    "nama": "ENDANG SRIWAHYUNI MAMONTO",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA KOTAMOBAGU",
+    "profile": {},
+    "id_partai": 18,
+    "kode_dapil": "717403"
+  }
+]

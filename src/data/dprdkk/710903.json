@@ -1,0 +1,749 @@
+[
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/477953/pas_foto/1691753855_51f046f1-e2f4-4e60-8842-19a3380041cd.jpeg",
+    "nama": "NIRAYA SARRY KALUNDAS",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KEP. SIAU TAGULANDANG BIARO",
+    "profile": {
+      "id_calon_dpr": "ae7091b13aa1c3ccff75b1c4cb3f83eef7ce4c6a3e39044737b1c23c8f7fd87c3083f8aee3d38d9ab0a0c101f2af680766b7ee8422def9213ad55c40c54c9a2dG3Ao78KBJ+jmoP+/xV1ZEuCkUSrKjKLJjA1N9LK6nhs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 8,
+    "kode_dapil": "710903"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/17507/pas_foto/7171032601860005.jpg",
+    "nama": "STIFAN KATIMPALI, S.IP.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEP. SIAU TAGULANDANG BIARO",
+    "profile": {
+      "id_calon_dpr": "7bd2aad029daeb24754602826c4f3f81396ccf138fce8299ec683f107fe2a6f3bfded4c6e2816c3c627814f2e09be39a6e480b73c46994920f833fad50a8db08uQbOUhqgq0r2zHOkSXGGKhjrQrG+J9FghIw4wxviMQU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 8,
+    "kode_dapil": "710903"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/106185/pas_foto/1689339684_1a0342db-64be-43fb-bc8e-7a1a33476f1d.jpeg",
+    "nama": "JEMI AWUMBAS, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEP. SIAU TAGULANDANG BIARO",
+    "profile": {
+      "id_calon_dpr": "6e9fd9fc2f7892621fc7b4d1968d9e5ced6b45502ed2d8d5a2a36e0b6cb57b4a7fccf5c5b8428c4d6247a36d24ba4dc215e78edc52cb6c053fa4127653bbe18fSOZbKVj20wiJ2yt0aLhVnUtbQWwGSH04mfvtX4cJcEk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 8,
+    "kode_dapil": "710903"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/485504/pas_foto/1696230791_b214ea23-2ab9-42f0-b5e3-45be09c0f729.jpeg",
+    "nama": "LOLOWANG GORDON RUAUW",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA TOMOHON",
+    "profile": {},
+    "id_partai": 8,
+    "kode_dapil": "710903"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/105719/pas_foto/7109101002790001.jpeg",
+    "nama": "JUFRIT TATORI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEP. SIAU TAGULANDANG BIARO",
+    "profile": {
+      "id_calon_dpr": "79a1691b6cc7a0800bd01b8b7c7ffb0d030088770972e5ead174ac002bde76eab3dc0e860aebf93615bf5b49d23894adf73a03bfa2c82879a200ccbcac43b646wU37YJjwUxCEI+jLPAgbj8ACGh4P6R/hRviWZWuMaws=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 8,
+    "kode_dapil": "710903"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/106183/pas_foto/1683795029_483fdaa6-5b1a-4a5b-994e-fd0f336c4e5e.jpeg",
+    "nama": "EDNA ESTIANA BAWOLE",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KEP. SIAU TAGULANDANG BIARO",
+    "profile": {
+      "id_calon_dpr": "c06b9b10be2a2ff7d7f6c2df119dbaab6ebeca381079d2835d617b3cbe6b0080565ffc1243424f724fc542322738c033c7f696564b0f32da2aa53cc3a7a0c0ceq8MvE6N14FNtIIEk649XO6NZE2no3oPGKkoCCSZ+YmM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 8,
+    "kode_dapil": "710903"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/106188/pas_foto/1683794838_9166cd87-6916-4e46-ab26-80dba6ab6119.jpeg",
+    "nama": "RIORINA GEBY ROLEH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KEP. SIAU TAGULANDANG BIARO",
+    "profile": {
+      "id_calon_dpr": "af87549edb29a2de383c0920d66452a948d42fe885051abf7a31aaf38d489a1ef773063b0d36acd1d56736fde4703844b93ec62090d6819ded3718503e77be8fMutZXqdYvW4jm9ub0ZFST2ZVgvX458gLK6IBl3hEifY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 8,
+    "kode_dapil": "710903"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/243204/pas_foto/1683822364_ad7a5dcf-b962-4496-928a-3b455a2b703f.jpeg",
+    "nama": "HERONIMUS MAKAINAS, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEP. SIAU TAGULANDANG BIARO",
+    "profile": {
+      "id_calon_dpr": "23d014917a1cbdc2de066fe11028098e77983bd5a80319d8a5aa90e88e5424dabe5d3b892d9ce7b9f8c6487826434dafb6c131e26a883a8ab8c15354125eed78qSnWIscqja+kf3Xcik+99EO8eBdXics7h8JboWL2Mf8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "710903"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/443403/pas_foto/1688708339_aecdea42-20b3-495b-a769-df6ea7842119.jpeg",
+    "nama": "VERREL ELIAS LANTO MULINGKA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEP. SIAU TAGULANDANG BIARO",
+    "profile": {
+      "id_calon_dpr": "759dd3ceee2de0bf46521f0d10abf32db81c960248a837a700290dce1a04192ebecc11f6d3e3a5e73433ef50e9b3218baa1db706c0c39937fff2c52ad0d93ff1EYpWuDeg3qSJ75g+6AS1G3oMe81bt/uKRa/sa9pS5pY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "710903"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/243303/pas_foto/1688603133_5a4d1cef-ac3a-4054-ad4a-3d186c9f28dc.jpeg",
+    "nama": "MARLENI PONTOLOSANG",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KEP. SIAU TAGULANDANG BIARO",
+    "profile": {
+      "id_calon_dpr": "8e1281831846053298d393e290e1aea32c5e05433d71adddae18d8b845b43d1966b019de1da03ec1a795279e430968fb81b17657963305022473b282a5a032fb1AojPeL9daMG3cB9DfYGcCpHloevC0LTa6P5m6re0gY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "710903"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/243778/pas_foto/1683884411_efdc19ec-3983-45b7-aa96-4f5ec6e11d8e.jpeg",
+    "nama": "RICHARD PUSUNG",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MINAHASA",
+    "profile": {
+      "id_calon_dpr": "b70888cb021407b9f5717dfd9d83a46c84cef3580617970da74cd07a602e86d0757f2b62578d471f11ae14bc0e14e41629266f98e512f35e0ac30a37bc78060dLj+ycToNzM7Q02fAwjKBnYrvNNRrpAgdS1WSKiooHb8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "710903"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/243556/pas_foto/1683959416_bfd3bc3d-da9d-4224-a587-73159841aa24.jpeg",
+    "nama": "ROSLIN TAHULENDING",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KEP. SIAU TAGULANDANG BIARO",
+    "profile": {
+      "id_calon_dpr": "4b6673189d738f14375d3c6f5c4abe6c545aa03f34633d06e013af42d1fdf4849a0f1610d98a905531105ed6a8cb87da79897fa96c81d8275aaedec909da0aad2eSwFPa65c3BsKg75/QpQ76nwn/fQqJb6ogQk40YZC8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "710903"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/452505/pas_foto/1689225582_2ad6481b-56c0-4369-a79a-58a0274980d4.jpeg",
+    "nama": "DJODY MANARAT",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEP. SIAU TAGULANDANG BIARO",
+    "profile": {
+      "id_calon_dpr": "2fa93f6e337eac5c91a0fa006b2b4f92328a01da369f22dec6584308d514f29f6eb6b8a73c42fbaa2827f6d1ef18209033056280a549e30d2071dc24cea11ca9Q/z77WRAUDBNzlMfknbWKEomfzUgcJSAnhpck1pKIgg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "710903"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/186350/pas_foto/1683738850_273fc0cd-9337-416b-88df-3e47ec172438.jpeg",
+    "nama": "MOGHTAR H. M. KAUDIS",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEP. SIAU TAGULANDANG BIARO",
+    "profile": {
+      "id_calon_dpr": "68138ad3003fbac9bd94008708921f09cd04a922dfb888e53cc9571e171f1c2b72fbf88330c7657f841b08222bd9125781f364333c709185d417f6edb425b1f8xCJvtQ+SqOmKw5hTSBf8gb5gNNgSBGzgqzC6Tui4Jlk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "710903"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/186351/pas_foto/1688735981_875bc459-136f-4ee0-b320-021130fd1e13.jpeg",
+    "nama": "JULINDA TATEMBA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KEP. SIAU TAGULANDANG BIARO",
+    "profile": {
+      "id_calon_dpr": "782ffa89fe4307833a51776e2dd90f177de03f9c7c42f31148d879accdf260550c26a6fb73abfb8a893c0d27d100f764ea7478a3b783a2de9cfffd9eebae06b92Y/BKCbApJH3aJ3dCJ/NLq0daFb4WsqBPxCn8X4rCZE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "710903"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/186352/pas_foto/1683740562_9297533e-0619-4db3-9cf0-3fcc2a6eb182.jpeg",
+    "nama": "HARLES BAWOLE",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEP. SIAU TAGULANDANG BIARO",
+    "profile": {
+      "id_calon_dpr": "b69b7a629c4cd327d42a84540475bf85674c7c16656539bf8bfbeef445f01d9e5d9b2a851445fed643541ecb250d49cdc9a748a9e740339d7753e3da36c064daVQTph9cLV8DCStFDHE+cuv8UjcUa+zZX+1chuFgX1d4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "710903"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/186353/pas_foto/1683740115_ee27ae98-efbe-4576-86f0-db476c7f9ed6.jpeg",
+    "nama": "MARIA BADOA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KEP. SIAU TAGULANDANG BIARO",
+    "profile": {
+      "id_calon_dpr": "cff0ac6f5a5122c6f684b00a3eacfdc28b34f6fa7e6ecbdda7716523b9671e991895a60aacdb56856d996d2ba2657bd712d06d7c8cce8debb38a4f7add4230d8XKYj4buaykDda9iH78qgXyF0BCPbMPcjaTF8/KZNxp4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "710903"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/186354/pas_foto/1688676393_060bf422-d5db-4af2-a84c-03220075c4b9.jpeg",
+    "nama": "CHRISTIAN PORDASTO MANIKING, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEP. SIAU TAGULANDANG BIARO",
+    "profile": {
+      "id_calon_dpr": "96f56e91e8066228824db7dfe920e205a31c053d214f98052f63d3226060037383a2f55da93a9630d0b87826f7c41cbc56256cc3a97ebd853e9a54b8ea66d13eo0XztGkrJll4C5SP3jfOwsCgMdd2JvLf/PTsEYV7o3g=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "710903"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/15538/pas_foto/7171031705650003.jpg",
+    "nama": "DANNY RAIMOND PALIT",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA MANADO",
+    "profile": {
+      "id_calon_dpr": "8324a268309d3b6530d7f4c341495d1dce4bfab1d4569d8ab96ed27471ca83efa4fd60a724ca8ff98441ef1449ad4173477f82131e2ee8a564d4e3cab64cdb7aLhjSeffAtxr/nvw4LLW1I8ainuJRZBzN4hzetXqIufc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "710903"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/186356/pas_foto/1688676189_30c2eb78-8220-4ea2-8501-b86b15ee7916.jpeg",
+    "nama": "YVONNE PUSPA ASENAT GASPAR",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KEP. SIAU TAGULANDANG BIARO",
+    "profile": {
+      "id_calon_dpr": "e4b87f21ad4915d444d3a8fcd05f2d927a184db9b8e149cee4a91376c89a18df46a7d655d09608287135d5a92b0a3c0fb2f51be718e58fbe5a6f2a93a1fb29796e/la3f2C51WVAK0KaVJEwMu9h2uFxbkCB6EddQViLk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "710903"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/318754/pas_foto/1683879443_aee801f9-af3a-4d4d-b521-433fd897eb7e.jpeg",
+    "nama": "dr. VANY TAMANSA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA MANADO",
+    "profile": {
+      "id_calon_dpr": "e0006f7fa85ebc21e3e78da282779c0b6f1133118e33280b1054e883dc9749685b2ecf6bbced965b4a2a9eef16016518a6f44d742b245298eb67ba78541e0af8FV35muv3zX3j3w4IyDNM7Z6zpqMdhb/37MtyJE7vqMM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 9,
+    "kode_dapil": "710903"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/344704/pas_foto/1683916712_1b3c8def-fda5-486e-9883-fb465ee1ef68.jpeg",
+    "nama": "JUTIXEL RUDOLF PARERA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA MANADO",
+    "profile": {
+      "id_calon_dpr": "a10e741f723739e8b34fcd74f6c1c6310d27a88b403be248e314447ac86a7f6ce7fac35192f172d43c2b93451c3bf777534456e6dab91743af1fed21cb25bbc5RVT5L6BEeavEsWZrg/HBNgnISJ+vptQyjQJzjJ+C8SU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 9,
+    "kode_dapil": "710903"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/333640/pas_foto/1683901918_db333f0d-edb3-44ff-9779-14c5bbd3ef6e.jpeg",
+    "nama": "KEISEN VAILLANT SASUE, S.E., M.M.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA MANADO",
+    "profile": {
+      "id_calon_dpr": "6bff2c19e02a2d7f11042570ab611ed969120cdaee087b97ca8763764b148fe14cb2209c11d43c562d00902fcd2a0fa07de75f5c81cc646e3263d39753768774hUAaCjoHb+FGqU0G6HNrWbHj9Eps/YGt2aBc0/DpDlM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 9,
+    "kode_dapil": "710903"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/343609/pas_foto/1683915273_8af476b4-955a-4a75-b6e5-e640feff9307.jpeg",
+    "nama": "ROBERT EINSTEIN LALENOH",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA MANADO",
+    "profile": {
+      "id_calon_dpr": "d225eec3c98b6c5bbf6e8d2eaa8e873f76cdd59f7b41b992ff035b5f0db1c6ae373999c5636c821ae2b67530a1b9d417c4444fac8c7b861767dd3f26aa8149b1naF3zyxr2ZB+R9nVjeaquaE3deeU0xF6RRa2UCdfS/I=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 9,
+    "kode_dapil": "710903"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/332507/pas_foto/1683901392_c1ae1cc9-3fa9-4900-a8d0-0a3cc0020ff5.jpeg",
+    "nama": "SHELFIS HANDRI PONTOH",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA BITUNG",
+    "profile": {
+      "id_calon_dpr": "6597aa2c6585cbc29d9ffed862c7ab6d9ef37f6f228d12921e539f82984d71d62179d49b72441e41689de6462b746b3f15041b7ec873a1d7e220f7ceab99b60dMiam/hDRr+ti5YL8XzdzgTwgbky/djLL2uvYyQ/AiHg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 9,
+    "kode_dapil": "710903"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/481031/pas_foto/1695768473_40eaa463-27a6-41ed-a16d-e89b455b4bce.jpeg",
+    "nama": "SHERLY JACOBS",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KEP. SIAU TAGULANDANG BIARO",
+    "profile": {
+      "id_calon_dpr": "a5b06e73858c28328c35b94c9ae9adfefa2abbe6b3a92df76b093721f2eec21cce0ffe2ea50f158ef6492118442702122164cd8cf46be3566159f9b1ad6fe40b0egGkhq2eAKZUimuZjZ+mzVkgHfq4++XCMNCwPYfTFY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 9,
+    "kode_dapil": "710903"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/306287/pas_foto/1683851047_1cbaffab-b086-4f57-a287-08ba43189fc0.jpeg",
+    "nama": "TOMIA SIRIH",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEP. SIAU TAGULANDANG BIARO",
+    "profile": {
+      "id_calon_dpr": "8070930ec7016eadd2bff98d04e2036b9e76e0315f8f7faf27398d866c576248d3572f1bd70b78d88794c398c566c210df6aece03c7ca30efcbe0100d465ebb1jREb8shUG8YXo00CvUOAXgD83SjEYswOVDEXoRT+b8E=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 9,
+    "kode_dapil": "710903"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/143044/pas_foto/1683680549_02ca91d0-1b7b-447c-b995-477931488843.jpeg",
+    "nama": "SUMITRO KAKAMBONG JACOBUS",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEP. SIAU TAGULANDANG BIARO",
+    "profile": {
+      "id_calon_dpr": "17560c1f68d56e0ff8e306ac80aade81064215ee301c1d7ff19e5f3de2cf19531f69e2d1e3cb7fdffb1123756aa9146ef546cd6e44ae6fa4cdadf7373900a2d2c5/lZlGRw0zx5w/lp+RrufoN+GiW8B3y0yAaSjdRh+s=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "710903"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/144051/pas_foto/1683771703_f57e0ac1-9923-4c6c-a536-9d061f66a3e2.jpeg",
+    "nama": "GEORGE PIETRON BAWOLEH, S.IP.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEP. SIAU TAGULANDANG BIARO",
+    "profile": {
+      "id_calon_dpr": "f0c48cfb01d07c3e8f3485a015c92d16873d9f4f1500147502fa9d0206d150ddb0df2b41b9eb6fb56210f75e20acaeef77709e6ea28970c6aef7404c39d126e3t7d83XCwAWMPXfgeTF08qoddVcwc/PJXQqQ0v6MWpm8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "710903"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/144599/pas_foto/1683703715_4955fdd4-a4d2-491b-9df3-20a0e70c53e2.jpeg",
+    "nama": "AAN KANTOR",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KEP. SIAU TAGULANDANG BIARO",
+    "profile": {
+      "id_calon_dpr": "108c36dada2817d81cce0081d7292bfd0c6325aa2dc1599e51a4c928a429953c26d2ea4e1ededd1136e833ce52fcf5ab405f7f132f31528aeb9fb262f5eadcbaww/NtSICM1B0PNp62kyy42HOfgjprOddmUkjY9kv34o=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "710903"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/174660/pas_foto/1683708250_09f107a1-a2d4-4b24-b9fc-0bd0ac73cf20.jpeg",
+    "nama": "SWINGLI SUPARMAN MALIOGHA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEP. SIAU TAGULANDANG BIARO",
+    "profile": {
+      "id_calon_dpr": "0a06d8e8630db0cabcc2708258676797564c9c6eeb3db8254b2891743fba05d026894fedeb7970c57b02d41725022ae19c4d2f2d5880e9733240b4eef1ae333d4hCYK3Ev5hqJkAfYMlY6FPaaRvfZFEjvhuINs2WUu7Y=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "710903"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/143567/pas_foto/1683713500_e8a090f0-b148-4dd6-bb87-c1ad7b7fa099.jpeg",
+    "nama": "RICHARD ALENT BALIUNG",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA TOMOHON",
+    "profile": {
+      "id_calon_dpr": "062606e5e95c014a88243da067b17f8663166314afb7b4435d3770a3d51873e3b5544bdbc4a99f93f19ef7bc4a8c75781182352578c7db9569886653e7dcd385A/ZL5GLhTvXrOxmzuO3ANVHSeqISe1J8eC3YNGWMuxQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "710903"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/174547/pas_foto/1683708064_0dc4453b-17dd-4b6d-a49a-444d72bdbd7a.jpeg",
+    "nama": "JUSTICIA EVANGELISTHA HERMINA ROMPIS, S.E.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KEP. SIAU TAGULANDANG BIARO",
+    "profile": {
+      "id_calon_dpr": "f287a935a918c1ab0284e7d7723b2b1d179cbdb4baee00f27b2576d0ae7e48232dd31b9018c3742f859524812518a51c9ee63d9af026803967fe779cbdb572a893TcumUWvJ6iq/g+Sn9pC0E3Vy6ih+9hlk+f0R2B0FU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "710903"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/175219/pas_foto/1683774102_f5ae8603-8e07-4121-8047-4fffe75df372.jpeg",
+    "nama": "DARNITJE NARASIANG",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KEP. SIAU TAGULANDANG BIARO",
+    "profile": {
+      "id_calon_dpr": "899da44ab7532361362852ac1a7d7e6ffe8bfffa919bcd4b96b2044386e8e1789b140b2f42ee5d1da29f8b138c6b1e3887c2ae4aea722560746ec2858b15de7bANGjQlfvQNdE55myjjnciV6Vvu1dgWPfHhPl7SRkUvg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "710903"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/167380/pas_foto/7105122505800001.jpg",
+    "nama": "MODY LUMENTA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MINAHASA SELATAN",
+    "profile": {},
+    "id_partai": 74,
+    "kode_dapil": "710903"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/167380/pas_foto/7105121406940002.jpg",
+    "nama": "LUCKY JUNIUS SAMBUR",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MINAHASA SELATAN",
+    "profile": {},
+    "id_partai": 74,
+    "kode_dapil": "710903"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/167380/pas_foto/7105126906900001.jpg",
+    "nama": "STERY LANTANG",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MINAHASA SELATAN",
+    "profile": {},
+    "id_partai": 74,
+    "kode_dapil": "710903"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/167380/pas_foto/7105126406820001.jpg",
+    "nama": "JELLY KORA LINTJEWAS",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MINAHASA SELATAN",
+    "profile": {},
+    "id_partai": 74,
+    "kode_dapil": "710903"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/167380/pas_foto/7105122002000001.jpg",
+    "nama": "EXCEL FEIBER IMANUEL TUMEWU",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MINAHASA SELATAN",
+    "profile": {},
+    "id_partai": 74,
+    "kode_dapil": "710903"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/167380/pas_foto/7105125003850001.jpg",
+    "nama": "MOVA MAHMUD",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MINAHASA SELATAN",
+    "profile": {},
+    "id_partai": 74,
+    "kode_dapil": "710903"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/167380/pas_foto/7106084605920001.jpg",
+    "nama": "MEIGITA IRENSINA TOGAS",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MINAHASA UTARA",
+    "profile": {},
+    "id_partai": 74,
+    "kode_dapil": "710903"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/166820/pas_foto/9271030909000003.jpg",
+    "nama": "LEONARDO S. TONDATUON",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA MANADO",
+    "profile": {},
+    "id_partai": 13,
+    "kode_dapil": "710903"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/227516/pas_foto/1689234998_3a13a88f-26e0-4973-99ca-9e7551650b6b.jpeg",
+    "nama": "SANI FONI DIANA HAMEL, S.IK., M.Si.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KEP. SIAU TAGULANDANG BIARO",
+    "profile": {
+      "id_calon_dpr": "43edc1429cc3af1ff4791eb6ad70274123ad6e8409cb9845805bfd17f3517f33c96e6363679f1f6427252c2fb94b858ef5eb30da1993ac5be8aeb955d37d92cfuUEqkQIJ+KJulf7Dnzz3B4RlBMtEonqVU/DjzFMlM6A=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656419883_logo-10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 76,
+    "kode_dapil": "710903"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/239446/pas_foto/1688576103_b018aefb-3c6e-45ae-aefa-e812c7850801.jpeg",
+    "nama": "URLICK MULALINDA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEP. SIAU TAGULANDANG BIARO",
+    "profile": {
+      "id_calon_dpr": "2f3a9ba2d54b523e104ffe3a35417de4c883d0b569e8306e2b4de615f99f4e878c4ad535c45a284d159f0d38e17035553b81f22d43e79e140c419e21a6c1637cAbYMoG5xKZhMu06liedDFCS6dDox6PxRN4OZA5ecFrI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656419883_logo-10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 76,
+    "kode_dapil": "710903"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/242272/pas_foto/1683779391_8e31e0a1-8a9b-443d-9769-828875121977.jpeg",
+    "nama": "ELVIA IVENA TATONTOS",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KEP. SIAU TAGULANDANG BIARO",
+    "profile": {
+      "id_calon_dpr": "cc9b87d4814fcd21b340dcc9f730b93020f9fc440409787b1e2ea927b8e3b532a6f4a572961bcc6347f626aebc66207f9f349141beed755f5286a9094101e25fLuKZTIZMGFoqFDrQbgrnUKElw54wPBr6Jm3QULxsoHw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656419883_logo-10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 76,
+    "kode_dapil": "710903"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/256095/pas_foto/1688720060_1270d32b-6a44-4639-99c5-c359865bf2de.jpeg",
+    "nama": "JURIVO MANGODAENG",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEP. SIAU TAGULANDANG BIARO",
+    "profile": {
+      "id_calon_dpr": "26d34791c822b15d02b492ada46ee346bfe45b411e336cb2efbe263e6388a6eff080891e6f6330aa8abf3d79c6b00c83ff242c4e885bbfbdbee8edb0d15f0063z5Jr7t5MG6OYqWUinBpWtPObnN9vIDzTZdIXNzojLuE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656419883_logo-10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 76,
+    "kode_dapil": "710903"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/256136/pas_foto/1689224750_d6db019e-5008-4ba8-a323-75be00898254.jpeg",
+    "nama": "CHENI LUAS",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KEP. SIAU TAGULANDANG BIARO",
+    "profile": {
+      "id_calon_dpr": "a0e93a1899db340cd5b6a906e7e23911c853df1d5e1c50e83e279186e325a85348fef6ffb8b97bf32dbfc4c525139a3a63bfae6938e3014d85657e617973e36bNMkXkTvJA0FtDibjBiUHknsRlqpEUxtYfErrYUAGZC8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656419883_logo-10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 76,
+    "kode_dapil": "710903"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/434333/pas_foto/1688554378_7cc8e92e-0ce4-44d6-af5b-54f2fc80d77d.jpeg",
+    "nama": "ADE CHANDRA TAHULENDING",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEP. SIAU TAGULANDANG BIARO",
+    "profile": {
+      "id_calon_dpr": "ae020fced5e8671ef5d4151353a8542d5da8805518558d1bbed37a4bb60e702c6e4d04a50c87553977a547d26529758ebd2129244894e269696a10be628f5425d27Bl2Cu32jDieVfGBihTZFmBPzzYzdttkmin1HN1+k=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656419883_logo-10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 76,
+    "kode_dapil": "710903"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/296922/pas_foto/1683826772_acb49e51-5420-4f66-a5d4-9d3127a219cf.jpeg",
+    "nama": "NETTY HERAWATI ADRIAN, S.E., M.Si.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KEP. SIAU TAGULANDANG BIARO",
+    "profile": {
+      "id_calon_dpr": "a8c235b926e34b27b52c700af779d842a7b680c081e2c24392eb697bae1ec1c457937e0cae762a8b67cc13c98e6759d3b146b08dc88073288c8f2c3036aa1abdcmsEpSkocgXft+BklaiRFQYodKioeaFB+M4l5RZgS5Q=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "710903"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/298989/pas_foto/1688547414_def7eb54-4e95-46a7-a146-f26bc5d2a06e.jpeg",
+    "nama": "SATRIO ERIKO MANGOTO, A.P.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEP. SIAU TAGULANDANG BIARO",
+    "profile": {
+      "id_calon_dpr": "9ef53e7f486666c5b2e90ed7ca02124391ca462d2daf97b00d58b2f0b87e360b1c71dbbc8fb86683bcb9af3281e37deb9bc5617e888ece9f3086ac25afb9a9d9/aFqXJPORwz3cfPEPhrOZ1UxuGnBEEL4s+6hzyPklgw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "710903"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/300113/pas_foto/1688637473_f914caf5-3100-478f-822a-d463fe964953.jpeg",
+    "nama": "BENIEL ERENS PONTOH MAMENTU, S.T.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEP. SIAU TAGULANDANG BIARO",
+    "profile": {
+      "id_calon_dpr": "df3a69ebcdcffcdcecdb242529ccb3a0d40c571d2559d7d607c8a6d974c2e79bec00771ed7224223a09e9cdddc85c1864d58dc310de85a66870677d0c1905168KictkafdlSvgxrO+1yEd49GUoDQ4BKAfnvayZtZcNfY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "710903"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/478973/pas_foto/1695565114_abd2abb3-d54d-4f5b-86bc-3e09db150cb3.jpeg",
+    "nama": "SILVIA DEWI RANTI BAWOLE",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KEP. SIAU TAGULANDANG BIARO",
+    "profile": {
+      "id_calon_dpr": "facda24dba18927d4eac4c20c3fd636fc299f501935e0de85dffb12d80a9d53a2f55ad6817ce1fa4290d5f24730b89f36b40eb2fcc76a2a6772564c9bd416a0dWOpip1AaHB7W9aLdIDAeAXqGv3dkK9vuV3WOMfxEV6g=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "710903"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/305354/pas_foto/1683845128_6f28367c-cdf7-43d6-a5d8-771aff088bb8.jpeg",
+    "nama": "LEONARD LASERTO, S.S.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA MANADO",
+    "profile": {
+      "id_calon_dpr": "e1d8f83d5d1f040fa9477f2bc6050ef52806e94f5fc995cce1555d4229685f447116e232c7889cceecd9b74eb2c6258ff780b1f5a36a2128f32c3ac0167806e8aRlLp5edTktuV5WEz52MvFjy4fxml+LfPVeHNj4jUU8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "710903"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/305617/pas_foto/1688550997_0ee48a96-6d92-4cd1-b2b1-a67526142b27.jpeg",
+    "nama": "VINI STEVIANI SUWUHANG",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KEP. SIAU TAGULANDANG BIARO",
+    "profile": {
+      "id_calon_dpr": "51dac06d3ffe9801b8754ee449abcf97144d4a4a49a3aced0caa15c5829cae88648263cfa76d915f7d4cf4b8c94810ff7560cc90ae046ccb4b7822ea62b39c3dhLKcLNykNQEjyKISrlIMylGRMBMo/iz1R4Kiz43qmXo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "710903"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/305467/pas_foto/1688550584_3899747b-0236-4195-83ab-1e752d64100f.jpeg",
+    "nama": "SONI SASOMBO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEP. SIAU TAGULANDANG BIARO",
+    "profile": {
+      "id_calon_dpr": "c41f49642ae5e4e31f6f8a13ff1630f48daa6d1e48aba80f2df1d0589f95fce2cb50baa7a2a3336cca0458469af33a7ee511907768260bf9bb4fe3e6d2bb8085hMh8ou6IFTEbktP2mIMIzUXywLhdj8b7BY3QZ+Qi6B8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "710903"
+  }
+]

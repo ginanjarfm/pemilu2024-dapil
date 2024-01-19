@@ -1,0 +1,1340 @@
+[
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/159447/pas_foto/1688814250_80761dd7-6f91-4c80-b099-25129907a015.jpeg",
+    "nama": "MARIO RAMANDA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "f0258599d9864350c37e9e88bfd49ab585af54b0ff04a283aad3ba18b895e0f5f823baf8d4c450bcf7a0c3049c021b5347dcef4c1f37d7b93c724d5a37e55397QfGR6VJW+X2poNi+Ae4etr8WqUdcwk7f2yrZcQKcptk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/159453/pas_foto/1688793774_551e763a-cf91-4e1c-84f8-3576fba9cce2.jpeg",
+    "nama": "MUHAMMAD ARFANI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "5906383853606b39db6e23bde3861467c43d5c39da1c408dbaf68d2e6caa5616f3235e936b945203af229032ab7dd73ab1b4c1b055dbc87e04e556ae982e4cd48ub4mai9qXm7YJSK9Wc5A5B3ETkWsIKUGDSFbGEZgFQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/159452/pas_foto/1688813508_4cdf191e-19ee-4af6-95b4-dafe1aaf787c.jpeg",
+    "nama": "ROSA ROSMILAH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "f3cdda91075ce6f35bbe4105ddbc4a546b69c659be2f3b4e30ffa7a221e4dd303e537e415d81320e7e6a178f1a9def2f699e0fafc7d8de3f20317b733404e5ffD0c9LRqBdrTd9n/iMWvn0n/DEGBVDmWNoEZhZUgiDYE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/159454/pas_foto/1688813613_6a820d49-83de-406b-a57f-595c391fc229.jpeg",
+    "nama": "LINDA, A.Md.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "e8a73de550e21a789064c3cd97960aab894e51b884ff781d0fe63fddbe8ccb637a85a64e8a17242ae6e1bb21f3dde0dfb555cbdb3ff35901c8283996fb7ca5d3xeDBrD68ykGhC9KND2Ra2SUvzq76srRyWxtwi18Kets=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/487012/pas_foto/1696297268_61725f49-3fef-4a2a-bac1-97c4fddd4846.jpeg",
+    "nama": "SURATMAN MARTAWIJAYA, S.Pi, M.M.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "2153b893507c409cc47410530bb4207494bad6905b5206341ed13afc832d7186d2c0bee85d03593d40779830526d07344d76974948ac2c3d658bffd27a83a28coUU7ntkl64WronwOwScxN25pqyUHy2ylVRyGYbn4NsY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/476910/pas_foto/1691737730_f6961d9b-d58b-4652-a7bc-fb7dea33b2cb.jpeg",
+    "nama": "H. HERMAN WIJAYA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "468d77da5e260b04b81e7b68cc26aa3a7932d174ed0bdcb3dd6792ebb0566760228b27e178054d557d2ffb685410a24d1673a5694150b2bb89fdd1ff742d24ad/sqeNZLwy+ND5U8gVIuajEcxbIW/ttDw95ryr/U08wA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/79116/pas_foto/1683348892_1924a973-6d2a-4238-879b-98f82ea6cccb.jpeg",
+    "nama": "ADZANU GETAR NUSANTARA, S.H., M.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "afaf11aaa13591d23f3997195358d191599d331e9d1c61c24a70b19e3bf50620f54b7f660aa6305a94f55046eb051e45b5e7b39487beec5b41782204030e9c8eyJPwhrmRtDxQSTaYfMAIBegCJclLHDiDOQtqHiuNoGI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/93388/pas_foto/1683373229_a126a49d-86ba-467d-9d2a-0dca6de4107e.jpeg",
+    "nama": "AFRILYANTI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "9aad5e1784ffb4c044626816b15962afea763e7244d2e40b377c6b20f062adeab60ef793f51c6a0cf061fe45b513dfcff010d3ef85427b2ecf587740ab9e0532Bz/N4hcQ88DwuDto4bpSsPVZLacpN5vPasRsAm23ZcA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/479144/pas_foto/1695613837_5c80c996-82ce-4bd9-be7b-38bf0e45164e.jpeg",
+    "nama": "M. SURYA YALDI ATMAJA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {},
+    "id_partai": 10,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/92035/pas_foto/1683370423_fc1163b2-9a73-486d-958c-4cc13addccbf.jpeg",
+    "nama": "M. DIRGA AYUB WIJAYA, S.M.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "42709b01ea76c4a720616058f6239d1ea3d3dbd44ed65a433734f9c7d9d73ec96e186d73dbd265d5a5aef5a0baba0183b699b765ad69e70d597bb904cf2084a4495hO58brEnXC5I5e+qcQt0S9tHAgsQ5RCQCJNuVnG8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/94014/pas_foto/1683374314_e049db9c-2f68-40c1-8c63-5ed63497b8be.jpeg",
+    "nama": "ANDI PRINADI, A.Md.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "f298b33cd67183892518de33af16ea754432b3e17ada43ecde106579ab669b6d989bb3e203219f2d803ed4b4e1f830d23e96a0446bd23a225c2c02c6e97ad8f9ydMe6t6BUCtVVrd7dsNCC6L/8DqazAB7pUswp2niwtI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/94711/pas_foto/1683375799_859e57bd-9f33-4bc1-8cbd-389ce657c9f0.jpeg",
+    "nama": "MULYATI, A.Md.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "6d3b6bbeb959b5e3d3f9d283e7f85f36b00799f99b3064c30b0d58a8b3359c41d87c6687a2d917de56f9d5e5734761e7c50045ff0e38f6f6ec23c122dbf854f3XjXpNTFlyh60lx8mm/UyQyd9or/PVTu+wHKw4/6vMLo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/201373/pas_foto/1683658616_bfe346c7-ed6f-4d4c-8c1b-4220db7b8d4e.jpeg",
+    "nama": "Ir. H. ALEX ANDONIS",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "371a5d25fe2c9ac2fbe9a09a36cecad58668a5346f461349aa71f7e22a03853596be17c413277030eb3a3b8080f952535f105549316ab5f48649a6d0f59d2f297qjeuj/2zcxpuoJQvUEPWVwOIDpaK7Jy3LjPuJql4Ls=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/201468/pas_foto/1683659071_d14afd75-a96e-4f2d-a358-c5deefc3eaaa.jpeg",
+    "nama": "ANDREAS OKDI PRIANTORO, S.E., Ak., S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "6c3b62a6396c4aea883f7df6bc157f6892b72487c7cf597b3747fd81a8b583d630ded58849144629ef9d886b4cc6e3fdca31ed57d621e109d15f6aec3263fa95uF73RlveVi3kiWKL5+U81hoSSjApwC5MdJJbgXXgexk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/201547/pas_foto/1683659477_a6fa77cc-22e0-457d-b641-288d59e9bcf4.jpeg",
+    "nama": "RIKA OCTALISA, S.Pd., M.Pd.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "492015b068a1f63e6d998d03fd928859f66f7134654858c657bb443029946f2750791e069eeb921b57abd7b49feae2fd74184f4906b42ac6a4f4c9fd662d1fe3fcFwfdbJIHP1rNyFjNggQT7k1CBVDB+WzxEZtYdJRQw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/201603/pas_foto/1683659750_d75a5632-5efd-4587-9337-2461cc24ca5e.jpeg",
+    "nama": "MOHAMAD SOLIKIN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "510cd26fd9b859f8dfd996e531cc4bb9f2b157c9d5ec70d533f723c6c2046946c8f23fd12272f254f097b27d123058a87d222d371bfa715f1c1991541df98d343/10DitEHxOL2F8DXvgDRW2X2Wclx+ZNAaWdSkD7POY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/471381/pas_foto/1691621590_b3c4f8a2-927a-4425-aaec-ad04ef6d6eb6.jpeg",
+    "nama": "KGS. M. IRAWAN, A.Md.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "3c484cc23db0cfe9ed626009ae24d46b6ea13c0b3c2ec5f7e3243c301816839a0b9923f6bbfecf9abca06ea0bedcf3eff7b502aa7a55ff9d4a04534e8c921acbt95baYO9xA5B5mW6Ri9aT1jpgPM8r/6uvM0qgmgkaWM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/198818/pas_foto/1683695774_592ec2df-7738-49f7-bd74-d76476d9f01e.jpeg",
+    "nama": "DEWI ASTUTIANA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "d1095b7d8c5594b9da283a4be791b8202ca6422a85b26da707cae9c4128521f4d135636389911513104542922da6ce3d48b5c238ec28caeca0c7c79f6d590688NSbru2UuysZYyPusWl+b1CDBtiTmHsu8UQpFhAI5FAw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/254436/pas_foto/1683809973_9146a542-d387-4107-9efd-52d1025565eb.jpeg",
+    "nama": "M. HIDAYAT, S.E., M.Si.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "759d80d94ccc515dbd611dd15bc0f29af6a9bb77139c2f57cdd8f9434a9fad81b97fcc40a3df81c398cb90d0e9493a67a880c2fde4dabf88d0686a1d2dd69a67iKf0MP1KFnaeQ0v/OiyPYLfd63/ByRQvKPZ0oJG0wDo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/254781/pas_foto/1683809717_93f2f753-d616-4298-8922-e530f4bae037.jpeg",
+    "nama": "DIANA NOVITASARI, S.H., M.H.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "6c857acbc502e3f7682b7d8549f7c7bd869612b200c94a96de598bdd84cd2a6590ef4f44fc0396e28836162fe3026e7ef55eb55e75de8c0b272c06bb815543acTfry6/YWh2sYJLPbuK5Cz0fmBwyu3B8EIPNNG62Oh4o=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/255003/pas_foto/1683809922_b8da4bf2-8dd2-496d-a0e9-d0e4a45bcc27.jpeg",
+    "nama": "ARIA NUGRAHA NATANEGARA, S.P., M.Si.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "8b991c6d4211abf87ad40ac98939b1172460fac68d856afeec343c1ad41b4983e96c7d62a5d678cbdd1a14c5f0a556b6c42888565c5848a8e36f2b565995baafcoxSFytfaNsDPFx06hKqbuFFHqcNLz9Ckr8V+J2kfws=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/255393/pas_foto/1683809989_38183a8e-3a43-4562-80eb-4d141194ffef.jpeg",
+    "nama": "MUHAMMAD KHERNI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "a33e464fde545ff5dff16ac8d9575eef82b87303bd3304d6f8820ac93bde20a612ee2b4f4b548aa878ce3a643974c5b7c15fd9c8f98c16c2920ac9bd495486d42cIpaj0OLyneVAg923iSgHKmInIofvBPsznu4mnXGxg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/256061/pas_foto/1683809954_12d06982-5bad-488c-93c6-358fb8456e2c.jpeg",
+    "nama": "BUDI MULYANTI, S.E.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "8207e980b342326bec6772f748500c10788f2b9f5a464601cf9123ac0b6e4d7cb63a218fc951304efd6756d38cbbd5e6f05434700c0297b7ee5e8059a15cddd1O10S44pPQCeY46unobu/WaPwBbltL/tqpr1vZdcHj4Q=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/478545/pas_foto/1691776292_e015c3cc-1486-422f-8123-a0985313ebf9.jpeg",
+    "nama": "TITO DALKUCI, S.H., M.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "f67b304144bd139399ab80d7f8450e36edf99e6ebda02bfd353f16eb4d0b5e2d20f7b05363715efd63ea90da2150c8646968d72dcb767986bf32b03c71c3d88bUC4P7IUQFW4gkkjNuh8T+lV7XJN/Ee8k7RdWHAaGSGU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/178222/pas_foto/1683617060_329e6576-0dbd-4d1b-bd17-43aec1f4e256.jpeg",
+    "nama": "HARDI, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "c123d9ce16a99d4952557e7c778f1514bb9f49d9ebe878ddc000f29f38be89997b6a203157623c8a2bd2cb157fa67eb0e0c73603d65c409297590d50e990015e+KeAxnb0N4naehnNglo8ag0l9AMbvPnCnJQPX0gaDNE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pendidikan,riwayatpekerjaan,kursus,organisasi,penghargaan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 4,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/149052/pas_foto/1683708938_8a31e3ac-6449-4357-ab19-2cce7c06e351.jpeg",
+    "nama": "LIZA RAHAYU PRATIWI, S.E.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "5effe15abb6e20edd10c685649a6ed09a714fffa00784fecacef7665dd027e6c326f875e33455be577d20a99278aafa9ddb526b65860db76d227274cec6db77f2h3Tt5ukIW0rlUuwTI+ol2cjnAIZwLaxAOm1sjbogLY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pendidikan,riwayatpekerjaan,kursus,organisasi,penghargaan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 4,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/175098/pas_foto/1683610991_f8e45303-d913-4ce3-9908-6e54d0d8aa45.jpeg",
+    "nama": "MUHAMMAD IQBAL RAMADHANI, S.H., M.H., M.M.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "1e308d8d7bdc578b87329a2baa3242290217d02b602f493e5c226e7cae3ccf225031e7e2d8b0433f82f1bb975c1169f780f79cd4557cb7e74a6dbee181b05d2b11gLOWslHDTf3qLD8p/eeNhdyrdxmHtF0uzWDlMmg2A=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pendidikan,riwayatpekerjaan,kursus,organisasi,penghargaan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 4,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/192385/pas_foto/1683709140_1390361b-d40c-4297-8efb-fa6010f79216.jpeg",
+    "nama": "YUDI DANUKUSUMA, A.Md.A.B.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "dbee10cc46bb2201fc1d3ff049e2f60e3de850f32f8043ca64c59637070d3b736c91577e99019be87f0ec68a44e3b424d64c0d48f3f1410f0956512dc12b15fdFfe4k6La9VbOWo8Gw4FCUI46k8/6Is04XoFxkmcHaFA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pendidikan,riwayatpekerjaan,kursus,organisasi,penghargaan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 4,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/181353/pas_foto/1683623359_7f1e3c1b-b22f-4925-a43f-d82a7a0c1c3e.jpeg",
+    "nama": "H. ZUHRI LUBIS",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "24cf0073b8f4bfeb444969aa8cc1d2d7cb38f57f39f522255a652985c90c72ccdcebba7623c2f0d20f68695545fc8d047f96ec5120ff1679dda825ffbd889e6cEhP1TPLfIujK/K59T8xq9k1qv6vIBUVRFX0NH/OC7B8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pendidikan,riwayatpekerjaan,kursus,organisasi,penghargaan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 4,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/487911/pas_foto/1696324541_fbbc9703-8133-4efc-bd20-af9d6e63777b.jpeg",
+    "nama": "ENDANG TRISNA KESUMASARY, S.T.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "fb87e8d7f2b0ed7a35b0dc519c35fc821c6457bc1b8eea3cbc83586da44e93966fac9d35c209d6ee4cee7177c67288c165793ac8eebc9b78995cea0dc35f4045oEvJ0a+W5N1E08QNDuk5+TFPXo9tUd4WnUKD/2RrY4s=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pendidikan,riwayatpekerjaan,kursus,organisasi,penghargaan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 4,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/369500/pas_foto/1684055127_c58df3d9-4ea8-4db4-9df3-c0fa8db4b433.jpeg",
+    "nama": "Ir. MASTA HASANUDIN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "464561f051f79d86be6e49673a3c31226bea72855676293051f1679af9c6719b717b9524d5cfae8d70e04fefb31c08b519ec6d61bf80f16b8834d4803c3f2174XA0W0BRNJXy0U4R7GIEJwU/lIABwzCpnH865AGXVjjs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659959325_LOGO%20RESMI%20PB.png",
+      "pilihan_publikasi": "datadiri,pekerjaan,hukum,pendidikan,riwayatpekerjaan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 41,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/67618/pas_foto/1671066711820013.jpeg",
+    "nama": "NOVRIYANTY",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "64a2b4afd34d4eef54025549bd46013df8dfa08186743152c1bd5ac74c133227a01972a4f1a9fe0262abfdcf898def6463a40f6c4ff39c2dd4a744d7e940be552k+pBDmNGqBsZNBxQ14Dd6ycJaBYMchpjsmrhLYmXq0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659959325_LOGO%20RESMI%20PB.png",
+      "pilihan_publikasi": "datadiri,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 41,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/369502/pas_foto/1684055143_7ee32eb5-e3cf-4767-8303-01824315b12f.jpeg",
+    "nama": "Drs. H. CHERYAN SAMBU, S.H., M.Si.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "798c14bd2002c4cdb45bfaf70e5b32f80631f8b514c6a873963f5d605c5ac92cd778eb6903d120b662b20cdced4768447bfcdbf416a5558ba1eee7f3e07014b3CFat5UeuCD5RYCXdgm9vCZjF5DmjRWsAkxLm+6oAIC8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659959325_LOGO%20RESMI%20PB.png",
+      "pilihan_publikasi": "datadiri,pekerjaan,hukum,pendidikan,riwayatpekerjaan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 41,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/369503/pas_foto/1684055192_03cf8bd7-a4c2-471f-9e53-7551043ea6eb.jpeg",
+    "nama": "SUSIANTI, S.E.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "b07d24cf64e734447d2a3f3a1719229cf6d7c490bc4ebaab13f73d64202cb13779fce962fe4d89427cff4a115af3664e49f794b8f5a900ec45ee89b3786979cfzoIay2YpDT97Kc9CpAqKvnkFjb1Amn45INcC+X5VN5Y=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659959325_LOGO%20RESMI%20PB.png",
+      "pilihan_publikasi": "datadiri,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 41,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/369501/pas_foto/1684055161_f8ecc6cc-6237-49b6-994d-50fa4163ad72.jpeg",
+    "nama": "MUHAMMAD HANS KAHFI, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "51d125125fc07bff4f0e4e783f1b1fd37580799c4d096c2e5cb84cfbc44e33d38f87e005da42f4c4a51720bbbe796bf0c2c051a32a6a3c436bc458a31dfffad4x7rPMTwytGtu+JkQaG9J4PqHa+o/MzGb/Pk0ppr8aIM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659959325_LOGO%20RESMI%20PB.png",
+      "pilihan_publikasi": "datadiri,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 41,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/369499/pas_foto/1684055175_8a5c2d3b-d8a0-42a4-aaa5-f5a6c5219cf1.jpeg",
+    "nama": "WALUYO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "7c03b98afe6ee268be147bf6f81afe612c60d9d2cf159a53827fad64988c580a71e8c00d611520eb739f935138fbc522abb7d6468c879193f4256ccf4b4b8bc98+asHpTftxD3uYzqF7tQqcBWw2ylYMZJ+RMQzYWUNkU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659959325_LOGO%20RESMI%20PB.png",
+      "pilihan_publikasi": "datadiri,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 41,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/401327/pas_foto/1688311760_5bd28614-a90a-4f3c-a002-ee0fb7ef5fe7.jpeg",
+    "nama": "HERIYANTO, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {},
+    "id_partai": 77,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/401325/pas_foto/1688311840_900cf577-a6ca-4081-b2f1-ba2b5ec0c06b.jpeg",
+    "nama": "FRANATA DWI PUTRA CORIE",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "725f7324bb9984febab8873d36c6216c83a34f91c8b889b36dc07a6a266b29975f04d6e8677799ff2fc55db23040c8f69307d911f201c9a152c94070b5b2f8bcGJn8216HaScxt/Ntyp8dayP/9g83LL/HEc46d45TwLo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "pilihan_publikasi": "motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 77,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/401326/pas_foto/1688311803_cee86d7c-5ec2-4e83-9306-d2d7bf45db64.jpeg",
+    "nama": "MARI MAULINA, S.E.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "46badb13bed19dbe552f9f383eaf5c5d872b547dba52aba4d809ef86b3811e281337a1b59805864b6fc90ca8859dbdfb58c5e3fbd76e346c209df8d2ed75d267LFL06cYdTxPjVE6wXmui8xDCq/VIOM0ttVKKwCYiGEE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "pilihan_publikasi": "motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 77,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/401328/pas_foto/1688311888_cc1e0db2-2015-453e-9222-cbb31b4c11e3.jpeg",
+    "nama": "LESTI MARLETY",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {},
+    "id_partai": 77,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/20425/pas_foto/1683010155_6b658a98-efb3-468c-becf-9a33c081894f.jpeg",
+    "nama": "Hj. YULFA CINDOSARI, S.Ud.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "a0c1e56a32bb5335a9ffb4861b2639b2e49c9e5bc5d37e450054df7865b4405ed6503224d773ca0ae9e164f28e96967ac4e6c64e1604ba42dc15e685ae75aedbooACDP/fDGbPxoVbWe6NXUWCb6aUEiCJMudG7J6gvf8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/20238/pas_foto/1683009271_8cb89aec-949d-428e-8026-f47daf353f6c.jpeg",
+    "nama": "GASIM ALKAF, S.Ag.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "74bffe6bc869031ce1750ca746eb2a4aa265f270cd3576589d7040c9289198aeda604ca49ce4249bc9175da5808602d4bdac2b7a8a9b5cfdb4a948693ee8b82aM1zzNWvXpeCIjxf0wfFsM+0j8j4QDOEpMPbHVFOgZ+s=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/21150/pas_foto/1683012906_c138bc8d-3b1d-40b0-be0a-09065163aa7c.jpeg",
+    "nama": "YUDI SATYA NUGRAHA, S.T.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "685026575767c34084316992e4a4fd2f74664b73028c5d53f4b6c51b13541210b0b18c53d1da574b449d1ce5cc92990943dcee4c72885c6d1e6333f3eaaae600sYij/aY2rmQUDspqTkYulCBnRn7opz3g/1EaUhPatow=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/21029/pas_foto/1683021234_5c4aa340-80cc-4467-a9c1-abd0603e5773.jpeg",
+    "nama": "M. YOGA JUSRI PRATAMA, S.E., M.Si.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "08b53e865a44ea9066961450d90e660f25e54c72135e3ea5a4d16d48730987beb40e3a9893b6c0ac259c2122ca77fb2a2ec5090ed485de1c59940676b1bf2a51o/yC5UxG6Itz7Y3x8yPyJX7PBEcwJS5rIGDzlW8Pdag=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/18714/pas_foto/1683083805_f2e77fd5-d551-4375-b236-a15f3e8cc0f4.jpeg",
+    "nama": "DIAN MUSTIKASARI, S.Pd.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "e6c49b5c7605f738128bb76d731de26b5f9cc8be2fac904ba0ae0bbaf0e3cff361b169a211ee3da62c212171dee6ac38c7aabae9c12a33799c9f40e0b0d0a1ff+LHgQXjSZbBn61nyqdQMlRdjXHIaBsXK/TnMCQbUPds=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/11655/pas_foto/1682929250_5078d780-9b82-49c6-82d3-a02287022f64.jpeg",
+    "nama": "AWAN DARMAWAN, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "c8664e3557155401592a13d8b11239ebce1d717344a71f72c46396a9099481ee36d4a621ed8feeec0d70eb5f495523ef185c69fca4598d5415afb9f555a24e5dZbiOnS1dy3Z4LKAVkTBu+aeAp5QKNPpDkysktvqGqSg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/44456/pas_foto/1683875079_22472691-2ec0-4615-b0d7-e63e2a9c7537.jpeg",
+    "nama": "Ir. RISWENDI BACHTIAR",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {},
+    "id_partai": 26,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/48511/pas_foto/1688623093_3ba8fcef-05c1-4ef8-80c2-6a9cdfc52ae0.jpeg",
+    "nama": "DIKI CHERISTIAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {},
+    "id_partai": 26,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/148267/pas_foto/1683817216_9f96de19-58e4-4f07-9f2c-4f74369cf883.jpeg",
+    "nama": "EVA MIRANA BOMPIE",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {},
+    "id_partai": 26,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/148006/pas_foto/1683876391_06b38e62-aed2-43f6-9c17-91f457a15d65.jpeg",
+    "nama": "YUDHI TRI BAWONO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {},
+    "id_partai": 26,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/266819/pas_foto/1683817088_54b6f9e0-ce11-41fd-bf4c-aa4219c9f41b.jpeg",
+    "nama": "RITA AGUSTINI, S.E.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {},
+    "id_partai": 26,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/218724/pas_foto/1683816274_f6bb07bc-de0d-41b6-82b6-ff7fa55434e3.jpeg",
+    "nama": "HERU KUSWARDOYO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {},
+    "id_partai": 26,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/204203/pas_foto/1683674510_5c4ccc49-ec2a-4126-83f2-6448e9ae9b7c.jpeg",
+    "nama": "IRWANSYAH",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "240c8aaa3e8650bccde65b19b51440bd9edef2b470f3ed9b2f43f7084775b8ec4fd0be105e7316bb50680809dc1f750ddec08ea6f21bc5522b34faf6b67ee536mmG0naX+45235eoLeg7XI1TEz5bbFQRh0ugC+cJ8zgQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 5,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/168327/pas_foto/1683613563_2f66729d-e6e0-47ac-9339-204cefd288df.jpeg",
+    "nama": "ALFARUK MATURIDI, S.Pd.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "fd748180aae4fb34cfd5cc9783ac1b3558430cf03634658ffec6b5af2ca2131854733fd42c1a080f6266a0b2645d79cfdb4539c282d68336b849a025243bd5fb2/u9NuVxdHbKpK2WavMA0Xp6KhqiNHrsECHeJMn9G0E=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 5,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/181226/pas_foto/1683622893_890869ed-b52c-4381-9c2e-25aa73803f3f.jpeg",
+    "nama": "MIKE MEILANI, S.E.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA TANGERANG",
+    "profile": {
+      "id_calon_dpr": "a4691a2ea9e6993f0abe512947f701772854d913f5f70f9fcdefad739b8a1aa57625d4b1c7921fb4736adb71cf60f1ccf1bb51cdb742ff7dbbd981a129584aa6sLeJSCrvrajJBSjPXk4tXewkjn4LovoYSags0azmeSY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 5,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/174207/pas_foto/1683615576_a6664616-0e6d-4d8f-8a6d-9fe3068ec7c4.jpeg",
+    "nama": "KUNTUM",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "839d18b5cb5b3ffe1968ad6c027dce0e10d0a03fc335aad93e85a42488d55247c14666dd6d0909d6a4a1897f6a04e72be5c0a0d5ce9c9e0d2f39905e034d9e81aHh0ZIDqOagY+Y41gBRu3c4dM2CVFXwDlLb4JqxXJwo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 5,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/174298/pas_foto/1683608569_1e9f9c52-552c-4624-94f4-b056b7b52712.jpeg",
+    "nama": "RIZKA FADILAH, S.E.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "875fa8869c9d67bfbfde9a4f2201b664d84f9a20faedc8ce92ba5b14d3455fa5715456bd9af413745ca5ff9f34f14732ae8ff47d1b1fd41fd558425d05006bf6Wn1yVJWTK72h+rQg9ahvXxgBQFxP5wUha1uUFpe1GZg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 5,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/178386/pas_foto/1683618278_5cf18ec2-94db-4727-bd61-152b7a167630.jpeg",
+    "nama": "ZAKI RIDHO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "8baf0cb4ab4b1be03bd78276251707ad59447bec17c8a39dba8ca73be678270035fe05a0f6f7e4fc4c5f12c934d1ff3b55f653d9f362d78855de399c873b1f6fVPf+ev/9hHBdO4InQ4n2iZts6qMJ7Y+50qStfU1bZP8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 5,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/261946/pas_foto/1683778784_c89f637c-3c7e-4ef0-b86c-805a89cb5cb9.jpeg",
+    "nama": "MARSUDI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "c2f737671adf0e24161b6ec97e71db90526c58bf374ce546157f4114888e4f1c87d7c840de5e5373db9d18df9e406b3bb754091336c3a53836de091c704ae149/Chjqnwq4zrVnYLbQpM/2+UuL8xx+j/BDlZZ+5JLwuo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656406064_Logo%20Partai%20Garuda%20square.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 44,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/329261/pas_foto/1683899045_41fa6219-0331-4680-b582-59347e113712.jpeg",
+    "nama": "MUHAMMAD HUSNI MUBARAK",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "2e6403804e6609ba7d101cf4516ad1740b13a355226c289a067b2ae4977c05b148a5b5f29dd519b25a9f12c6628d0e3aeb05525a7bcc32112eb75ab63227c9cfSk4yAlE3la1vqCEG932zQtQHeOn3dltsjSL+umi0xs0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656406064_Logo%20Partai%20Garuda%20square.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 44,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/267261/pas_foto/1683786131_a6177d48-2cdd-417f-b830-17f7e535281c.jpeg",
+    "nama": "LITA ERAWATI, A.M.Keb.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "69cc22dea194342e9f97de996059684a86aae5ac04a7b7f0762469105a16a44eb3ed8338f8fa6f0d0ce7b315dcb93fa36e456e7e137122648740060f96b2f8ebTrLaPuytioM1cF6FLKFg5Hly5ID7OOZSRnG6xcsGtcQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656406064_Logo%20Partai%20Garuda%20square.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 44,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/64811/pas_foto/1683279676_1bc7a175-99f7-4509-8a44-e971a94bce38.jpeg",
+    "nama": "H. SUDIRMAN, S.Sos., M.Si.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "1a9eff72b586ff7984ecfb9feb358ac55c5ace4285b24e1e416acfa2837374847ab818feb6a094bb68f72223d6c25a3e14ef399f628f851c9e25f49c092f4041Xi56coIaWJcJsRcSgrtIzGVBDuJS9nRbM+iW/bJcZM4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/91376/pas_foto/1683370793_d4dc7dab-b6d5-4dd6-a6e1-e33d8d38ae72.jpeg",
+    "nama": "R. DODI FANSYURI, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "d9071275ca06b872bbcf7fb9b5f323fb27aa17de2eabcdf6adc8d108ed419d5a2d4d38774d1b2de6483395b44269deeb4053b9303bf68bdf8d531ce298b0601feWDTabAd5+70M0/fzkbah+IBpHIK6wIk3pdu+Xet4Es=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/128683/pas_foto/1683635753_bf57c19e-2d75-4d5e-b823-6757eb643719.jpeg",
+    "nama": "DETA GRAVINA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "7f8c1f96d1d61094d0272f6e52314af790683dd08fffe30e6d05552e8c4932d1226dde31a79ba2315d3bfc7c7ed30bbddee888f98eabd1bbdd4e4cc155b52d76u1n0jkF4zxP6vmTLMQ16ZGLoZp7OXRpZODSOS3JYtpI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/485287/pas_foto/1696223686_2100ea03-4e74-483a-a8a3-01b2d7e3344c.jpeg",
+    "nama": "M. DJODY NUGRAHA P.A",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA ADM. JAKARTA SELATAN",
+    "profile": {
+      "id_calon_dpr": "3a42fbe9792176f6255839c92289d00a42f01bf39a6e1532e43eb3e2f30c499e7ca0185940302cac9fd061247aaf98bbc7c3f6267843b6e3bfb074ea8cc6d0bdUyiyj4W0olHdnXW48Mkqr/6Zo56G4LVjIgZOhdTU/lA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/128259/pas_foto/1683638631_04957199-f3cc-42d3-b8d3-dd66e056ddca.jpeg",
+    "nama": "TITIK MURNIATI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "70cb146b770b62bf62f57538523e75f78aac5336f89bbab4dd02b0c30c0d93e24ede49495f5f78d25c697f9750b697b9898232af771ba1cc03bb796f7cd1800aKPFvZw3Ak9jhFSbp3NUoAbOmj82TY7tlgtWCPEYd518=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/130196/pas_foto/1683530510_61185192-96f0-407b-a0aa-efa8ca644ceb.jpeg",
+    "nama": "SOPHAN SOPIAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "ebdf08a8456ac612a13e158569a5308853b3f083686321348dfe20d8457061ca17194f42fb277a1681aa04e9e53d5928ecec2ce70e7f201faedf9ce0ee7bbc49bSxgwCFSUXNEXGHFghfqTyg3XzQxCOEWbn/oaYMKXIk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/90091/pas_foto/1671090802820002.jpg",
+    "nama": "TOMMY FERDIAN, S.T.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "da37018c65d2baf9fa434a1583c96b4f82d743c139991db9387150098dc21a29c6fd46edaa90db1599ef5187ac72bb45e23d9ad8a2c115507580437c2add56b6rX6IHd2HUcoINo+gjN+ccxv3k/SxnNIPtWVr9PtTmk8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659262742_LOGO%20PBB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 74,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/90091/pas_foto/1671061404800011.jpg",
+    "nama": "ADE VICTORIA, S.Kom.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "8635c0d7a56869fca251a1038e4abb4089c8e6c8018d0213b97b4055a45d7593f8648d3749b3d7023dc761d9dd3981a666b27aea6d974587b6b95dca255e658eMnD//dT04Wu0GZrIXY220aWoGhtyk9bw4ODSZ+UogBc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659262742_LOGO%20PBB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 74,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/90091/pas_foto/1804045709890004.jpg",
+    "nama": "ISTIN SELVIA NINGSIH, S.Pd.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "924f71af1576f3e0b9ded4e5c503bef4afa85a5e240c1818eeae0a8c3b5ff8bc543c5c630855d3dec6edf0e09e8890b743dcb74d348f05a7a0f1f80bebfabe27eatyPtsqMq0hP+hWvHRQpsLh5K3Hkf1r+sWsyRSXu1I=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659262742_LOGO%20PBB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 74,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/90091/pas_foto/1671084303800005.jpg",
+    "nama": "LILIS SURYANI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "670664ed2404b436cbd6739ded7066de4697bdbfd3f85d95821663bb83b50ca6b18131097b621cee7574198c4d14a716356ac8887c3ea5102e67e3741193aa93ftKmoYSvoTbGkhCdjoAJu9DOrs3mkqA4H87pPAfu+8Q=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659262742_LOGO%20PBB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 74,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/90091/pas_foto/1671062603750009.jpg",
+    "nama": "HARIYANTO THENG",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "b6d51010308d9744f8e970d03c3d0122314d4ce3e0269194f787d1bb7d891ddf7f77ca150f2369dbb9aa474cb300d2decc8355633fecf8be87b81fbd6d3d2638eq/ZBqw+UFSpKc6xAgE8rEPiQqgkTbXtOBHCn+Phv+o=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659262742_LOGO%20PBB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 74,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/485886/pas_foto/1696239674_394345fe-e7ce-4415-9ba0-56fac5a38983.jpeg",
+    "nama": "ACHMAD YANI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {},
+    "id_partai": 74,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/278778/pas_foto/1688199619_cfc26221-4713-4fc2-8629-161cc44f5184.jpeg",
+    "nama": "ALDESTAR, S.T., M.T.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {},
+    "id_partai": 13,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/278775/pas_foto/1688187885_d361954b-38d2-4665-9ee9-403cd75f6be6.jpeg",
+    "nama": "MUHAMMAD AGRIANTO, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {},
+    "id_partai": 13,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/278779/pas_foto/1683801407_245df46d-c9ae-4eab-925d-4a65216f5f61.jpeg",
+    "nama": "CHAIRANI, M.Pd.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {},
+    "id_partai": 13,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/484263/pas_foto/1696141983_a04bb4f1-0ded-46e4-bddf-139754423abd.jpeg",
+    "nama": "AHMAD ALMUHAJIR",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {},
+    "id_partai": 13,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/278780/pas_foto/1683813534_4325d921-dc7c-4d7b-8a4b-51b87610a5a2.jpeg",
+    "nama": "LILY DIRGA RHESA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {},
+    "id_partai": 13,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/484265/pas_foto/1696142201_2404495d-39bc-4c4f-9ffa-5c992dd701f1.jpeg",
+    "nama": "MUH. WAHAMAS ZAMRI, S.E., M.Si.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {},
+    "id_partai": 13,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/3961/pas_foto/1683019875_59a841a9-4ba2-445b-b272-590993267e13.jpeg",
+    "nama": "HERY",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {},
+    "id_partai": 76,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/436192/pas_foto/1688570873_2dcd426c-4d2b-4acb-8e65-e95baccd92d5.jpeg",
+    "nama": "FUFUT RAMADHANI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {},
+    "id_partai": 76,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/265626/pas_foto/1683877516_51b5eb01-a693-419e-b014-3cb0a9f2bc98.jpeg",
+    "nama": "HERMAN, S.E., S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "9782e8cb6c9049b403a666795b2811668544f09c61d0dbb388c1209c4bb489756d5413baea5e0a64964355a9b778ba8ffebcd6bd7fadbe472901c837c2b3f452zXIanh/FBMdXFhvDoPLIi1ncoH5ZvV//nRA1i8ggT+Q=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/484851/pas_foto/1696235074_974bbf36-2aff-46ff-b3a2-ab1c2781a578.jpeg",
+    "nama": "AZALIA NUR SAVIRA FEBUAR, S.Psi.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "3b647a152ae42f2dfef7c53d6c1139fdbe11949017088608fba2f22f926ee92338fca434957504fa3d8262f74cd249af658da111d01436f3bc4ca95e59ac66a1WyBtopAQzWYe6RNXFwig5tRQ0kwyky1ZWL8B335tVzs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/266231/pas_foto/1683876877_6120909f-f268-496e-8d08-c64703635e2a.jpeg",
+    "nama": "RICHMY ARTMIANY PASARIBU",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "b29f31cc7037e705ff3cb9122d420fd225d1c51e2dbb45721b0d9529b49b2df440f5515e402f6e880a2f1fdd65cc85256510e35fc103f29760a49963bfc386e700VoTh38b7P1PpheNAp3G7dLGncikPHpfuWX5FNy5Xc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/445876/pas_foto/1688728293_b2402933-78e1-4682-b5a2-fef989c822de.jpeg",
+    "nama": "FEBRIANSYAH, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "d3b4f28fcf48ba16128fa5b13af914cf4f94db855700eb0698b6aa6f1b2265ecd79d4b608e71521141d907faa2cfece45f8610b1f16a346cf609e13aa30c5b4acGPWLDHF0v7gfx7wTn2kanDobtMRVRAoHFGf71FhzgU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/439334/pas_foto/1688639800_0db976bd-f617-4d51-90db-3bf5bdfb482d.jpeg",
+    "nama": "NINA TRIANA RONDU NUWU, S.E.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "3b98eebc970054ba4bd15524276c4a62172cd9a10598f935e2664c096b5285efac84655e9533a8cc8a0cef6181697554c34d30a27c1185842058d4ae32ec03728npzWGHAuifXAZdS3sXnys3Pi15dOprz7xnjOebrr64=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/438941/pas_foto/1688633740_3a816041-e016-41db-88e0-b4506b4daf35.jpeg",
+    "nama": "STEVEN KAWI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "6743e07d2e669598b7a57473d8dff971687f0e360c9d65e244a31389187fd20c250bdfe9672e2f1fff96999489283bf1c48253cce569622189480d00f7be86f6pmsjlCbFu4dRt9UnHTDmvu4DDvIMU8dCTNdY3eg/x5c=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/35647/pas_foto/1683347941_6f47b664-d23a-4106-9fa5-f02e0ca4fdc0.jpeg",
+    "nama": "WENGKI NICO CARNEVIN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "5e65acb3761a4f60b6bdb1181838914678b6fc49790d3a048980031eb25bf12bca7dc5f55ffd8ee07751604bbf991d750168191ae52357fbd05d81b3cf8b2651bwoEAEZVMcBUpa+AfYLMCgeHo2UdPtYfyxqhvfEMYb8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/36067/pas_foto/1688608928_ab22d7fe-a2ff-426c-9cb0-145107bfbeca.jpeg",
+    "nama": "FERRY PIRMANSYAH, S.Sos.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "927bd0c81d3e1ab2ba583157724d9d5c8d4c849621d07fc2d720ab021f6c79c69679a923df1127f3c214ad464a2dd258c5253dff109261f4ae45ff5a91604603ncT/OF3+rYun4Q4s+l+wsEwK+b2VhcBkdDmm9ebzxaw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/36517/pas_foto/1688608981_571df6d4-6f4a-4834-8a8f-be955016cfee.jpeg",
+    "nama": "ELVI RANITA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "7d262d55694b980b662c6715739c5e69ca00c987ed9bc71fd1148319ad632d44b3fdd218607ca1ad228d11811631f8ab4d0470d2011534e371396b8d09fd69b71hOp5mTY/fFztC/EsKFTE3UehzQ7tr0tdkOnlTvAXI0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/433380/pas_foto/1688530930_2e9605a4-af92-4855-b85e-68f860ba3669.jpeg",
+    "nama": "SUTARYO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "6c702f4829f0418ff25c3e2cab07d05b258f9a905083a87aba984f2b1eb067a8ee666dc36c38713cb45e9519871ed06c5c435fb7ba5ddf6ce33a130cc8ab1deavtfmVdQTjAG1zUzt8EtpO6yO6gps5UO6DnucWwnykOc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/44977/pas_foto/1683413756_87e974bb-01d4-421f-b906-96e050f4910b.jpeg",
+    "nama": "JENI JAELANI, S.Sos.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "abdfa96aa571b1b386db5d3def917f0676b71ad2f6503ce650db1663e252eb5ec1a1aecde4fc9a1d35b80ac3dca7cf506e10771c9b2e70261f5ec75c97ace79ddVhe2fo86Ovl1FMqBqa/gIqd9OltOLE1YWMoq00IMRw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/36932/pas_foto/1683110540_95a0a7a1-b2d9-4324-a111-18455b35a8fd.jpeg",
+    "nama": "SITI FATRINIE",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "df9f6b405244204c8e026a8606eadbb0a3f7d19f128228f9b368e51af009619c80c081c8dcd0ff1d470ec2c2d8954ae1ee2f38d559b5251c2d3f0c9e1cd20d9dLJ0nWpOHlmW/xpv89A/SBF1XVUFdQHtAlzLBmhGKH5g=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/105405/pas_foto/1695704488_53bd0977-fa38-4599-8146-d12b8042c618.jpeg",
+    "nama": "WELLY SUPRYANTO, S.T.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "a2b36f05b3be28fb93ab924519550711a7c88d4f11182e9c72eda38be1fac792dca779893767648cd0645c0699d1e20744cbdeff3930663e1eb5b349ebca7f07Ik1/W3PmhCvfu204gHtHJGqrHpD4+gXu5bnOZm5DnJ0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656157120_LOGO%20PARTAI%20UMMAT%2010X10%20CM%20KPU.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 78,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/31401/pas_foto/1695649387_ca79c5fc-f3f5-4352-bb9f-d94ed16142b1.jpeg",
+    "nama": "H. AGUS EFENDI, S.E., M.Si.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "ee06ed452a81319dc91e8a631802e7c4eab9850a63029654c78cdcd0d07dd2b106465e70e8e45035ca46c53871d0f79e6a344a2153e1491488b5bfb935b44e05tXK6f7RiPxpTgCY474An2jcU0Pulh6N5W8xOutldq9I=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656157120_LOGO%20PARTAI%20UMMAT%2010X10%20CM%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 78,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/110863/pas_foto/1695705123_35cd1fbe-29a4-4303-95e6-f1954136c8d1.jpeg",
+    "nama": "MAISARA DEVI, S.H.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "31d0dd0d74a317b98e428378db9e567193604cca336a7ddcaf80e9320a385a64cbeb682f4b798203daf414c9b43594ac1a59517ea0322526a61b04b4190bcf40HQ9y1WUPsKYqL8Cu4nGAQZF3GO3u7Wyz3aiQnRNB3SM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656157120_LOGO%20PARTAI%20UMMAT%2010X10%20CM%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 78,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/58385/pas_foto/1695704939_37d7846b-88b2-4e68-b8cc-0be42f187cac.jpeg",
+    "nama": "SYAH FERRY, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "ad585b3344502985995db10450c755b00f1e39d1d322cb16941ffd97737ad4c9d9387bfdde76f029b730fcc0826b2477f70c31edb77fdceb2376e032bf0dd255G4ASaud2rMby/7pvOz51XdDLDfRNhKr+isA9vma2218=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656157120_LOGO%20PARTAI%20UMMAT%2010X10%20CM%20KPU.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 78,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/172513/pas_foto/1689327698_f1ed324f-03e6-4ce4-9b41-4a720eedf298.jpeg",
+    "nama": "SADHAM HUSEN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "5c5ad9e59b6422758c1593f30d521047730a03ae00f8c6f576299aa57165900a5fb463c935e28781595a85bcdd57d04b3ced7fcea3a1c146adba44db3e802c00EJauuG6OJA4nXOd+yKtKN5yBAvfUqweth6H7V0SbE0Y=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656157120_LOGO%20PARTAI%20UMMAT%2010X10%20CM%20KPU.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 78,
+    "kode_dapil": "167103"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/204897/pas_foto/1688387272_b6dcac04-3512-40ac-bbe1-9360a271f71f.jpeg",
+    "nama": "SYAFRONIAH, S.E.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "c59f286323358ee882037734f1b53682f9b3e4b96a4490443d122dfc6e454a6879cfbd09034ecfbf58fdf4e6621faf9829fcfe6f039c4405c171abba9d9c36a4ypA7SDETvslx8YYyczAnxAsxNGW5Hb7Xs8am8fnrqng=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656157120_LOGO%20PARTAI%20UMMAT%2010X10%20CM%20KPU.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 78,
+    "kode_dapil": "167103"
+  }
+]

@@ -1,0 +1,1630 @@
+[
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/454016/pas_foto/1688810033_0718a7c4-b20b-40aa-8bb2-44db1c510e73.jpeg",
+    "nama": "YUNAN MALAWAT",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "d67449c887da96dd97b615102590d23603bc4a8d057b5a274741727cc55f430c1e99d168e5c62d9921a401c9ae435501ec1f8b730c0207fd029e4e7c3ff1363b9Bn9LD0+S402g0Srzl+JbMtIU2iPntBdUFGCygVf8R4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/44716/pas_foto/6409011802720005.png",
+    "nama": "LA KAMEL WAGOLA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "b085dae17e8f956d46ff7ba33521ac7a89705d880a44d56fe448199a8242552fc26b8570183d91a01f68cd9f0a26c46736cb153af2aa70e9f5fd61819830190fWslygUK2mM8zyykAis1dslcEEVhVpdNLdxqwlbpYj6U=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/444029/pas_foto/1688714123_66aef98b-e66f-4b0c-b2a6-4832a44c4985.jpeg",
+    "nama": "FIRDAYANI SOUMENA, S.Pi., M.Si.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "d9169c417f845436e4653ca1f7b9881b2e385a69b216ee816e2acb2d649a80129617aaaa946e5dd1ee8014599577fea987e34c19538af13cee75abc0f9d5ad8c71UH92MlD/Os8ZjoWDYLIBiOXhiyx1hpr6dkSU4LVSU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/44762/pas_foto/8101152103860001.png",
+    "nama": "MOHAMAD IBNU SALEH PELU, S.Sos.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "6a05aecf2eca7350b1e71f24b11cd6fc577c10d240c0bf3335b6cdb55bc84a2d8a87004e46f922f1059ebb6c207010e78b30aadd4321172e9a35c6e0459ad6f63fQweXET0gs37Xt3JskNwfe0RAk2VYohf9o096HYUQY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/44716/pas_foto/3201033006770005.png",
+    "nama": "HAIRUM HATAUL",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "45bd70e7c1c6f5a0664ed0e684cc5096c83d806b7c7841755075c5c6ab8bd31649f10426044e60f01e20f09b0c4dff2447904b7f0ddf83673cd6f0104222d81fGKEJd6OYwUe8Mvqn821HrnRMXdGPHzxqFjrlOlKW1Ck=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/442693/pas_foto/1688699649_723007c3-ffe5-472d-a691-395ad3fd4c95.jpeg",
+    "nama": "ZUSANA KAIPATTY, S.Pd.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "27247e48d1cf09965de9074bd70e2676249c25e35771fff1dc2c5cc3c0a6005f8c231dd1e14c34fcbff3a35b244b78cc44c6ca0381234c3cd96ea3ead0c65d0fg5BztzByEryJ4LEpi/B1FvJraqEEexZrqxOFDQQrgFo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/444195/pas_foto/1688715350_a92caf0f-ea48-42bc-a492-9117ae10d998.jpeg",
+    "nama": "FAHRI LATUKAU",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "099b02f62d528c79540803c679c5a20aa61a98129623255855a1a917e47283ff306ee75261886b46e0a9d3a2c97d9fb9f5042a7114085a7bbf0195c6a1347f2esGP14+TR7e6jTHHG7/sdds+Fo3MggUxfVDm1ioK3Lf8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/114249/pas_foto/1683436290_cf6e7c31-4da4-44e6-a1e0-9be9fd4ba166.jpeg",
+    "nama": "HARLY HATAUL",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "0447ec49bfc817ba9f1c0dbd87e2fcddfc7fc7b229f5c2e05f9a62dce5a8b52219187f3d7cd3f2aca6fbcab7b189e716c6c6077aaf763d43e9206b390daadb30G1uZvT3R/CjCwcGefPEEmQwv4FqwSBMik9klyNpcn8U=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/77834/pas_foto/1683339341_77aa984c-dbf4-4983-91b5-66ac10651a95.jpeg",
+    "nama": "WAHAB PELU",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "593d71b5d9ea88110425c3aec43249b501370bc014f7d83c2cc9d33268259ab28c9300c86899e26d4b0e355ee4bc5829cb5aa830e0c052a63758b689f648714c+T5Yw5h9+IzYMMsWitLnQjcHUbh4B9ZK+U08RWBbQgc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/174538/pas_foto/1683608853_d6b6926b-b0bb-456a-b512-59ddce135e75.jpeg",
+    "nama": "NIRWANA HALIDI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "fb9a2bad9728a1d00ebaa973ba03a6ffbd05fe5c0a085c2651ca74a22d909cb97b93665ce381fe9b3bc2eac04f8217f9002c65b9f8075f8d44897110f971cb707q8J0/7NX9kvnCJJLJbNtDEk1paCOFU5z9VKozD6CoQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/182372/pas_foto/1683682719_54062b78-6f67-43c5-9ea6-e038bf122393.jpeg",
+    "nama": "JOHAN LAMBERTUS PATTY, S.T.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "5efae6ba4330654d73f8901d5f6219a65e68ca65d6bd52d08b4c548dab74f505e5bc39bb43b0c24906609cf40eb8ae399c3573872ecdb6336ea6ca3b28c912bbIAt7Tv4SYK7Q6m+VQO2Cev02Of0pt0WOm/J3Tz0ZJnY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/430523/pas_foto/1688451217_98b989b7-735d-4efe-b600-477f64cda6c5.jpeg",
+    "nama": "MUHAMMAD RIDWAN SLAMET, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "8e649ad71f409154883e23a44205fbb357389329554b72dac5e9f39751ad6ce262b93e6671175323c54f272e60d9c20dd6639e3bf40cf2b871458108c9252077OqVpLkBq110UTFqQJJ/ooOsAT2T24v9AgEawahrw22w=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/430762/pas_foto/1688456340_e796d967-9752-4263-bb5e-89f551ed5775.jpeg",
+    "nama": "NINGSI NURFAIN, S.Pd.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "2c6371ef1f646df650b08e7ac9da1bbb0a4188a055b9ffba91b417264f257a46e4eec5cdbd0bdf143a26f8d40d5ca9316769be6ec3dccb96132b4dc28f77f776f80YQlgV4VpqZqsbCDydcNSYkLNFUntZ2JynEO54oRM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/431423/pas_foto/1688464644_d8020517-d6ba-4c9e-a1e2-7bf1b055a92d.jpeg",
+    "nama": "AWALUDIN PELU, S.A.P.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "4d4fe8df70326bf28af1f3ff4d6de6bc1ed52560c230e5b52f69d796f29ceb7431f3a3658506c8e942d3638b5c426d98092c2a118588e49c15e5c3970e44d8728JxNdbFGgAjIXOZnpcuVgMEouSJ9+lDFxbtFCHyvHSc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/242984/pas_foto/1683744726_74efdfd4-d0fd-4e5f-9828-2977006a9a05.jpeg",
+    "nama": "SALEM MOCHSEN AWAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "a786151894e913007f78ff731717db845eb18caa35226d5a303526c1790491efb2174c917bc4e2b6b0406c823cf32ebf5ce3ee35eb66616a3e88748244994bd9gc1kuEGY1PsRiJNBQVN+wWX8AENZRAp7b4ZrIr30jqk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "pilihan_publikasi": "datadiri,alamat",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 12,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/243063/pas_foto/1683743976_278530c3-d9b8-4334-af73-9a81e23cfbf8.jpeg",
+    "nama": "RONALDO HUWAE",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "cc98d7de3202d2444747264084ee5f0aec30433287bab4e7ecd23f957ee048a21765ca891ea6fa9e6ff4623a956552a2fdcde786b3e6ad4653126be6842da122wlMW2c1RdAkvhdplnvKmssJmexsVoifBMTj5OS6uneU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "pilihan_publikasi": "datadiri,alamat",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 12,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/471920/pas_foto/1691641823_9e7a732c-e5cf-4013-8e2e-c5c84b57e825.jpeg",
+    "nama": "RAEHANA THE",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA AMBON",
+    "profile": {
+      "id_calon_dpr": "829ab8c6ccca116208a9d164e24a626dd38d3970770dd03513383fb0361e58738db18948551962c599f7db222be1c4e6f2680710c96c1fdc7bf1d1ab22448cbd4H0bLGQ5a2dCFoG+bez/haGBtAYtNUFoTGFRu2wSClM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "pilihan_publikasi": "datadiri,alamat",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 12,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/243366/pas_foto/1683747407_3a7dd16e-db27-4dfa-b271-db1d570aa784.jpeg",
+    "nama": "GUSTAF MAKATITA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "5b96007d2c6b822675aaed2d26c3a982241c742b2532ce63c4f492c945f6a7af159871b930c47d312e5c41a64d4148d21389bcb190076017b6a9eb453398ad52VA2zExFKTdCMYvdeCSF2wweTem9rZ5oAuDJefBpwnnk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "pilihan_publikasi": "datadiri,alamat",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 12,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/243390/pas_foto/1683749940_3327d459-786e-465b-a6bb-ef4b0276d1b5.jpeg",
+    "nama": "ABDUL KADIR PELU",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "3e5bcd901a0d70ca8e617be6be253847f829b11034059754524e412a3c49dde5db617b5ec55d50b11d4674ec1b2ab14f1384c07cfb03d4740cc53d0d522112371Hl4ve1lJ6/em+I/yQTr+BGiN+U3WHqMtbLroCS7x/A=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "pilihan_publikasi": "datadiri,alamat",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 12,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/243445/pas_foto/1683743295_c4e58142-bd58-42e4-b828-346d068ab2a2.jpeg",
+    "nama": "MARTHA RISAMASU",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "3c6a1cf67b87154bb7818dd07943ee1f4afe34e889344aaeb2b0a92bf026c8266147b8f4f128e2602466fbecf6d79e1e309d8c744a71c949a27d3a9172d79ead9kBC4AlwEyZONQIS5OG+hhSb9ubrrv1V/JaLWNkmtaA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "pilihan_publikasi": "datadiri,alamat",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 12,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/243464/pas_foto/1683745809_1c71baa0-bcad-45f0-badb-7dc94cdd6b54.jpeg",
+    "nama": "ALI UWEN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "ee377371d99b6959b18d3ad3f6ab84c5961c73116db8283461e339a0d8f5aef5138950b8a3ce154fc923b4a0d611157a14d7938a6f1605f0745a5de5bad2e0e6oglNpobg+DliZ/IpHLAw/m9nt9/ca41pBGcG2y56DGM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "pilihan_publikasi": "datadiri,alamat",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 12,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/55216/pas_foto/8171021104630005.jpg",
+    "nama": "SAID, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA AMBON",
+    "profile": {
+      "id_calon_dpr": "3c140746090ce691a998975475d75b7613fb8a18635f4bf5370341ae09391317295a8c23dfc592d66894e272163d7fac261b971c3e54c4c23a80331d970f48fdbLxpc+sv6qT73+yOoRmjJZUznIaRMGb+H112+ZuXU20=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/55216/pas_foto/8101151807910010.jpg",
+    "nama": "JOELFADLY MAHULETTE",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "7a60e8fcff383252b221b679a9acd4b3ea0b40796c8459a82cdfcf88a161613db748dce80da14690e47d738bec6858cea35518ab48ba0b5f6e0ac5471e4c876e2lfiaz135H35Ors88VCtqJHnAh0YnpIFmLJFWKihoqw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/55216/pas_foto/8171014411690007.jpg",
+    "nama": "HERTHA JONICE HUWAE",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA AMBON",
+    "profile": {
+      "id_calon_dpr": "df2f6e3261dfe2bc132d01a8b44832ad72207e54249a1862d6ff067a864d380d36a52365ffdece4d56c8580ec44733d63d607dd3534313ec6187e67cb3310a47xmI/YaYbVIoNWdVPr03bwh1NiuDMoFWbp3Yx/80Aq1s=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/55216/pas_foto/8101152103790005.jpg",
+    "nama": "RAJAB MAHU",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "602060ca111d3440ee5387e656d1edffe1aada4e8eef295e8ddc4ea6f00f281c80219e057e2c03854e84428bd74bb0d3dd2e0710a3d8d7d35b9e43b160d2565b7nD2CbirPtTbZNo1OI4YeQ9Iz1BIEu08q1xSpNmWWL4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/55216/pas_foto/8101150107750175.jpg",
+    "nama": "HAMDZA NURLILI, S.I.P.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "ea02786f2b5d033a26c5e359e6c3c67a595d82798f3392f19348ecde3063f85f0f1d999166164e040fd4f075c0c7a666847a301bbfde3028e777111225e725f7lv5JMrY+npnDZg0jzZlI9Dn/tofO9m66G7sfE6pX2c4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/55216/pas_foto/8171026405840014.jpg",
+    "nama": "FATHIMAH SIA, S.K.M.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "e2256e4272c35969ab5367955f147a2c06b7c6564a85bb17d78354ea11032ab2ba433dc0a8cfd64e553c61f40b8067b343a89b4a06c81bc75cdd538af6fcaa11ri7faVf/wOkG4WXlFYj6RywA14LWs2QUN9JBweLb5Wo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/55216/pas_foto/9171021009680004.jpg",
+    "nama": "IBRAHIM SLAMAT",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "a1e7f029b272c33ab83a72f2899af14f88d88c22cf28dc56a397433a29fd42368ba22cb0753b37e9a201559747347441969d1cc2426ffd0f67ccaa1c8f54b28cogPWLoc1cAveg5CJoXSWDCksVgVyyKsOLFvBpvPZy8I=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/163362/pas_foto/1689241368_d0a101e4-a06a-4893-ad4f-509aee57830e.jpeg",
+    "nama": "DEDY JUNAEDY SOPALIU, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "7f94c827b7341f5d0a090eedcc642ee0997ff752331e1359d4b66e3be535d384c258ea62db91ab2d9023cdd459ef731dd4595defd3582fce97aefd40c7837674gueyBGZqsk6J/axhbv1e2kF+nH6Iswr34K8d7xKW9NY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/462543/pas_foto/1689389805_716ea3a9-dd9c-43d9-9391-ece9da91a7f2.jpeg",
+    "nama": "THOMAS HERMAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "6fa98558a49613c9143297f32c494c6cf0dbbea3a897bf9c172eac5934462e7988a60aa8b7f95816a63209ac69710aee42e0578e641a1112739cfa0ec82df2e0WyAoi/BAfs6X/4rvBcmGfn2yVDLeE5AajL/9pWf77io=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/462633/pas_foto/1689241819_d6d788e0-7bca-4e4f-9953-0b228bf22f03.jpeg",
+    "nama": "WIDIA WATI SOMAR",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "6da4285a758ad506a06e4025f93f6cf139eeecfb86fa800e51b6cc85612fe95ab695bb058c0a3b977a3803edbe150c98a87a004cd08f366013b72dc2b08b409btZ7zycixMTDE4pePBE+YIu9/9HUWAdaKX/vmPZjBN1A=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/210548/pas_foto/1683690435_1dde97d8-fcf9-4431-b3d0-f1778df96eea.jpeg",
+    "nama": "SANI KURNIA LATUKAU",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "cdbf63e088f6fcab36db0bdb725558979af709eeab3371488960d94cf9a0a6e4575294f6ddf16ed75232f413157096167285a82c019d4a24d09a5fd00569b30eudsl+eAkNxbgafsOQzBJWbFEBRf/xfxxp/CfOdCF6EM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/195605/pas_foto/1683657658_bc7845a3-35af-423e-9217-3041829a5a2a.jpeg",
+    "nama": "MOHAMMAD SUKRY TANASSY, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "6c36d349009f47fec994fda67def2cab4f7bd1bb7bc9cc078aba8139da05020a63511f08f2cc24c3d13e54974d20d000a231fae137eee6fe9bb90ed9d90dceb60XNbzkdD7z8yyQDKNz4tlcYsIqSTiaEPTFf11rzmxLg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/211481/pas_foto/1688813122_9f4dde56-6972-4838-a99b-65529d42a21f.jpeg",
+    "nama": "HANOCH RULAND ADOLOF SABANDAR",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "3fa8d445f6127e40368ba096651b8c734b38abc7de17083c20aad6f0e6b776e54a5befbfb7272b8eb8fb22f2bc194a495610f7faff1c9b45a2d2ce20bf481dda1AkQzTD3r4/flJke/KUO3d9507hkGLi8c8demUjdFoE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/463007/pas_foto/1688899686_34c4875f-1c7f-4786-a0b2-0e0b6b5638cb.jpeg",
+    "nama": "IPA HARYANTI MALAWAT, S.Tr.Keb., M.K.M.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "4fafb76d834241ba2824fb17e1ab16743e0f8342aaee13bc73db1cda09991976427629ce7248c9ce79991274e0509b2e8e2038f221195ecc5601e95948b275fcIjM0y3ACsY8jwPuoh07/OR3ckuzZNr+wmAyyNlFEx9E=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/367082/pas_foto/1688148272_3a2e210e-3a41-42c6-9500-20166199cdaf.jpeg",
+    "nama": "FITRIA PITASORE",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "6fb49be9455195559fedbac7217fc566aea1ad8b6dc8dfc95ee724cf561c12ea4aff8614b3c35f1f923c20429131aa6072ced5ef2ae12e9ebd1dfac33ffb60c4yb4JTWbA08EF6X/T/CxpQWCBaaymIAnCNTeGDP6FYXQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659959325_LOGO%20RESMI%20PB.png",
+      "pilihan_publikasi": "datadiri,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 41,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/367083/pas_foto/1688148344_ad36926e-ca81-4ac8-a91a-05cdbd1c8209.jpeg",
+    "nama": "MARLON MAHULETTE",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "facbd50f978832bb701409d5450f4e33b43071ee5d68a652214ef1297538dfa577abc4f4b81b6c6c7cf41a708d31c08471a48e01063788f1d3b03ef2ee7871fcoERGBJFple8D1Z0KdCzO/JAx7y4anDHzxM8yFfCsHpM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659959325_LOGO%20RESMI%20PB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 41,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/367081/pas_foto/1688148423_034e23d2-ed18-48d9-b0cd-78c5abadb9b1.jpeg",
+    "nama": "MUHAMAD JUFRY SAMAL",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "de5769529386fe225f168374eba5983bb3d077437507337fbd0252a5f4c1fdeb3801f69dafcf153eb4183cdd6643fc3ca143e8a546ebe20bf3dfa6ef55d90ce9JPc7EGKRMP/kELeDysjRE2hvm7G66YZLzfUyjccKoTM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659959325_LOGO%20RESMI%20PB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 41,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/425536/pas_foto/1688299435_cf6a2c01-9470-4805-8b00-c0cf9b0735ce.jpeg",
+    "nama": "MADILESA LA BIRU",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "55c5d6d1b9d88551e999c044d41f695071cda7c75346f107a7438baee1455f0664063696abf26324ec1c33444fbbc9a65192971e8334c89c80b3c69c87906bad7eNQnghoeUbAiRzWBFNCT6pKpYzebF347co+/aC5fiM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659959325_LOGO%20RESMI%20PB.png",
+      "pilihan_publikasi": "datadiri,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 41,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/441469/pas_foto/1688661977_411135a6-9358-4b59-a061-22feda4ad0e4.jpeg",
+    "nama": "JUBEDA MUSTAFA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "10a24b4328c2a8d003220510d5764b78d104fb4a11e9363b0cd19a5382cab5148e5c3a673630b805168fec4366096d1f8dd36c62fa8b852ac41ae6cd7ef90d5cpNcLHE1txZZKLrNKfvfA4Nblh831bNEOEAVi3tl289w=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659959325_LOGO%20RESMI%20PB.png",
+      "pilihan_publikasi": "datadiri,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 41,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/441569/pas_foto/1688663918_3b10e382-807f-4bf9-ad77-427b6566979f.jpeg",
+    "nama": "SITI RAIHANA LAIN",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "41490bb238919cc65a5a8f7bc7931893d7656118a01f3fd47aec2d91ea1b4a906841fa760a2172fcb523cc38e4b6ec5163fb651f3eca362e1bee455223548aa1DoT09nP1r/mzWuPbgmrCGYSkIJCIwvdQTCsyTqdGGag=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659959325_LOGO%20RESMI%20PB.png",
+      "pilihan_publikasi": "datadiri,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 41,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/438885/pas_foto/1688633164_c85a6978-c228-417e-82c6-8e40bdf26579.jpeg",
+    "nama": "AMINA PELU",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "124f6fa42bbdb4d626274613018c2c4aa633f06687300beb81dadb5e73078a53991aabead80abaf4ffafce196e905c0623a8edda3a77f87cfb0e5e6e606edd87eFPGps7GXtGKCVGxhi0m7Asb9d+IOPh2NizGaW0cuKE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659959325_LOGO%20RESMI%20PB.png",
+      "pilihan_publikasi": "datadiri,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 41,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/407831/pas_foto/1691638155_21323321-a3d5-4132-9cc1-e95539710337.jpeg",
+    "nama": "SALIM SUNETH",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "b4fe7463732510bd7c266ccb355bc733d8f8fcf4126de3bf771a93e9373eefaf58b3073d54aeaef9fdaf6292acc592a3622294fd44ff5d3486471022a0f7b05fFPGc+tcvTxVs83SsLnox2D4gmO0C1WTnGafQEeEtouY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/407841/pas_foto/1688745038_8594aec7-14b8-41a9-ae8f-b04f72ab1064.jpeg",
+    "nama": "ISMAN SAMAL",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "5b31f71122ba45f74aeb4ecbf2c6645877859828e3f4d3f5a143e870aa6ecae30504f02db80501324efdc0342e54b67f46230527a6d600b52528ff6b2ffcf377twRudfMPM8snsu21ohE3ez+fUdOeN8whp1+CgLB+YzA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/407842/pas_foto/1688656166_f48d275a-8caa-4f88-ad5a-07406736444d.jpeg",
+    "nama": "SAADIA RUHUNUSSA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "6451ecd5bfe94275b93689552d81aebfaa755a936ab0acceacf383ba57ecf26947f50e472260c50da2cd3e0f98b1f6f33fddedcd2ba845a81dbbd953a283e787TlP6W8fqsy6bXOsRMdX+S0Th3PSDNOydyBkU85/gH84=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/447385/pas_foto/1688740568_181a667d-dd05-4903-89cb-fd8a7f9cee1e.jpeg",
+    "nama": "HALIDIN MASRI, S.Sos., M.A.P.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "6e0b827a46c143d98891d38770dcbd7d4aec3888d211576e507651d0f494d987c98135f2c92c3239e0ec648ad2c9d771e576825fa7c5f4e7fab97c4ee9e97049fB3zBFoKLmmAFi2u2eYITG3B8ZTKvTjflC1EWhpnOcA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/449174/pas_foto/1688755210_cf0bcdb0-d667-48f9-ac5f-dd3560ae0e77.jpeg",
+    "nama": "LA ARWAN, S.Pd.I.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "08c4fa727b8851332c82361056dbd53ee21095edaf493eb56b8e96c02ded65504ee8f8a242aa56455a47ea38d5eff50478e7a0c3b3ae3791dc709ef589680efbW7b4XRhYC8KGRNRnWxDL/X0Ey7xvd5rfOvD+ZIF6SQI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/468098/pas_foto/1691493852_6af2b4b1-9d32-4447-8e7d-f3e421b573a4.jpeg",
+    "nama": "RATI MIRANTI WABULA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "ac90aa13a3ea773fd4511108c404d817d39195532881c7094027c943ffe7ea3f4463c86fd1ddf5c677439737046c8c4237ef9864e780439a745b82323c1c5024cW0YSl+FIVEPPVaMgCRVJu/4cUJ5y+FGPN86HMcNK8k=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/416431/pas_foto/1688656426_1c7bd556-5832-4ad3-8211-3a91c20fc0d5.jpeg",
+    "nama": "BONDAR SAMPULAWA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "ba746a3c9d34239c78f8ecbc6e8a1cde1f0acfa01f9a176d92d178979393d6d23b5f9fe200e88c0930389ced81a350441420bc0c5ff52c9c8569803ac1ba9f59Lb7WsuWw1ByCTPR9zrIG0q1IxZvVi/o/nKJrbQxWLBs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/8619/pas_foto/1696220350_8213ed19-2cd6-4679-8160-d9d60f9f8c05.jpeg",
+    "nama": "HASAN AFIPUDIN AMETH, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "1932549e463d6b7af8d62973c3dff6f0a3695eb9feda99f1989836628f44c13d1f960ce8098ca0d60f697f9320a88b27744f411ed8a3930108193c9838e34387UUaHmxq1Q693eiUlDhO1NwqwKo/R9MH+AEI8iayvAPs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/7614/pas_foto/1696220420_40aef2c5-0462-40c9-b839-fe451d1e8e26.jpeg",
+    "nama": "ABUBAKAR TUHELELU",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "afc8deedaafdefd2c73822b58acde50a3114f4cb5395f61d59ee3f3cb1eee58953862de9fd2b16f11e43ad1e9f70b82c22b1db4d13a6f2421288b5755f14943dGhHanXTyFWkhEpOkSR/kYMKsp77zlmv1D46ufEAH3nE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/305872/pas_foto/1696220479_d0ecdbb7-815a-4f55-96f5-140c2f4a0ded.jpeg",
+    "nama": "ZIRAH NAJDAH NASHIIRAH SAHUPALA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA AMBON",
+    "profile": {
+      "id_calon_dpr": "bfe5ef623935276c25c72e52b0ec12b6fe8553c5dab686fcbf3c7ec6c40ad7f42c0539fc7275c14cb307676ebdb390c931236f602c7c706acd3604a284c730c8C0834Oht35IJAx2VvWQ61c8nKdjtyUz/nO+uhdAMjK8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/451729/pas_foto/1696221372_20ccdd07-00b9-4c22-949a-25e85b44870e.jpeg",
+    "nama": "ISMAIL MAKATITA, S.Pd.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "ebf081c230eb90c22ba0af78cf87b9b3a61adf016775d2ea6fa210e0c2c29ea940854ffe49c2084620e6cd5984adb025e79d74ee187e0e944f16ed094769baaeNg2yCzeKyOslFj9Ff6qtenJilW6tZov3Vi0/wyaBwOo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/7692/pas_foto/1696220528_ef15277e-b41e-462f-a28d-75ea5230133c.jpeg",
+    "nama": "ATI ELIS",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "75dda5e0c8a926909a3101d42bee8186fd034878ff4cf9fd666d89fe2becd8dcb00d37219ed9256240ae627a177b0ae5949a7cf42546fc2f22e922ffcd762f35kaZDfMkvKkoYKs4GhoK7NJi7VygUe+gk50twHr2xeFQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/443907/pas_foto/1696220591_b5c35496-ceb9-4f0c-9daa-81a9e48ce7d0.jpeg",
+    "nama": "JULFITRAH MAJAPAHIT, S.Hut.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "951af7e56c49c00fd54338270949b4e7b78f5dd243e68fcca0f764d333101ef16404e5f76a8cb66b9c41cd5fa75b22429e3649bc105c7c0e3b32a78875fd7ae1imRMXl9Nx7hUwDZHOAV4lFeUia1m3a+tLUmAyl0hQl8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/19797/pas_foto/1683475632_34d5fa1d-7faf-4528-aa01-0fef00796d18.jpeg",
+    "nama": "MUSRIADIN LABAHAWA, M.Pd.I.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "f2dc1580410382c2dff58625d41f8522cf090a51fd5023c31f226cdd9a63aafc9cac67fe835c9d5d7903675cf0150baf49553efe66ade0e755f667e8fb6bc837S0p6S3sbBDZc2ClDjauKDLBS/HlpVeLw4LfOfsudgH0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/105120/pas_foto/8101155204900005.jpeg",
+    "nama": "ARPAN MASRY",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "62ee7cee7988e9971ab988d8cdeb1bc256bbe8777ee84ec5c4c08e9c2db24cbaff935f4d911fbe76bf3176f99c439b8d26f904346951d8a489e54c33141ebf326DsBksAYj95lA1T/bZT7pvfNQbUP808Qo6uidqx0P+k=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656155242_logo%20PKN-.png",
+      "pilihan_publikasi": "datadiri,alamat",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 26,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/105120/pas_foto/8101172001600002.jpeg",
+    "nama": "HAUPEA SUPIYAT",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA AMBON",
+    "profile": {
+      "id_calon_dpr": "860217aedcdb9189c1ee4733cca6ccc98271614d5047ef08347d075a520499d1dd3930d293f7ba141d4c62c51b400124ecd437712c9229e70f7a19fb87de7a53P0zTXQMTZStiJCgFIBulm3MsZg1na7XrYj9pdUc2Y5c=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656155242_logo%20PKN-.png",
+      "pilihan_publikasi": "datadiri,alamat",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 26,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/105120/pas_foto/8171024605710005.jpg",
+    "nama": "MARTHA OCTOPINA PELAHULE",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA AMBON",
+    "profile": {
+      "id_calon_dpr": "18bd33fe1b6daafeafc6c4a7d5894173f249cbe61b7c2be93f182f0c762c4f355c435b80b674a54ffac41b50c2d8d5657f017906986114b5b126415b1cd0727ahp7+dakHFb0eAXLKvN2ZoPRNex19QDp/T4UEWIT26D4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656155242_logo%20PKN-.png",
+      "pilihan_publikasi": "datadiri,alamat",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 26,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/105120/pas_foto/8101151004740001.jpg",
+    "nama": "JOHANIS HERMAN SERANG",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "d9263692c75f5180283dee8df199e901dc07b179b27f04816e47564c7bdb085299ec9da34917d0a72cb1dcf44360535c715dffd253360300e3658f33a9782defJNXzFAd0GfUfJnAd03+8qz1nlRknCFviYItfWPDfBTk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656155242_logo%20PKN-.png",
+      "pilihan_publikasi": "datadiri,alamat",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 26,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/105120/pas_foto/8101151203850006.jpg",
+    "nama": "FIRMAN SAMAL",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "b437ca8a67ed35b04d29c71814362578d205205b15fa492b13afd748a0b33aab0561f3fda965d7b6137282b818222bd5b68acb1d1663517771c34d1592cb9ee1FP7PH871o7D/2/E30Ouu6nVNEP/sSgId8ITojJK0IN4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656155242_logo%20PKN-.png",
+      "pilihan_publikasi": "datadiri,alamat",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 26,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/105120/pas_foto/8171024101920010.jpg",
+    "nama": "FADHILA WAKANG",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "a17ed8f5cb6ed9fe1d2aa26e1dc289adeb87a66440dd4c714ae3132342c00d69e64bbaadbe07ba498148ad7f64f657f664e819cd5f335b724d0efbea3abaf07cNtUlHuOE0YNpByg26rvAJ9gfH9wl5sebXWLHfEbM50I=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656155242_logo%20PKN-.png",
+      "pilihan_publikasi": "datadiri,alamat",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 26,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/484146/pas_foto/1696132709_fda3c59a-1f5e-4415-98b4-bcc8c78816a3.jpeg",
+    "nama": "AHMAD TUHELELU",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {},
+    "id_partai": 26,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/229132/pas_foto/1696252764_3512bebc-e381-4a2b-a279-47732e671767.jpeg",
+    "nama": "SOLEMAN LAYN, S.Si.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "39274993f5c7d7b6e0dba6400b61f981f3d719e9298ee2e7d15963adbecf977cf73015df29cfe03b886cf38e47c80e229663f6616b4a24bfccd305ca63efa826GBXZ9fk7HzG3qN7RDZkWcnp1quDFOlyWXRveu5Q43fQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "pilihan_publikasi": "datadiri,alamat",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 5,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/231525/pas_foto/1684010268_0dd9f2fc-2422-4793-a82f-e1a844f7e00b.jpeg",
+    "nama": "SELLY AGUSTI HUWAE",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "dae1d2fde5d70f8d6d04d4b72e77def76f56a3e3b7a1e164fdd739af1be23ecdc5f37cb5deb88dd0a5ceaab33476a78dd913ab5186d174b3bd65f6f9fbb475c6RdYtc+O6aUKksqsgpaW0ALI7MTNwVVnz1gsWBBl47O4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "pilihan_publikasi": "datadiri,alamat",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 5,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/464059/pas_foto/1688912513_19c9694c-6211-46cb-a269-dbc798dfbaef.jpeg",
+    "nama": "RAUDIA KIAT",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "3ef9c142d25eec03e1c38aa11af1c4e9b26ea6dc7b41238e6df692add7ad1e9b87b7257e8760c9da24d990745947f1f96350cf2e673c529b0e6d87b26225e83eAfotgQDp7VXWMqpbC7qaurAxy/yVJGt2nH7VK3RLkdw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "pilihan_publikasi": "datadiri,alamat",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 5,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/236019/pas_foto/1683729757_2fd87f4a-931a-4d61-9ed3-82d0ebe569b4.jpeg",
+    "nama": "HUSEIN SLAMAT, S.Kom., M.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "d6148e904b423e7d25ed114f1cc228659ff46df26a954d57c143651aeebc2e8a39152c1e554db5a4b3ec8194199a53b1b3586de6cdbe189f4fc446e95b732705C+qz79aldSximmuodS/wT4ccjKbPnFAvQgFwZW6ynB8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "pilihan_publikasi": "datadiri,alamat",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 5,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/240334/pas_foto/1683736002_c0f8ebc7-8c49-4805-89c8-4f98f3e96c57.jpeg",
+    "nama": "ABD. JAMAL LATING",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "16442f36111c4183c2485f8afcf0cc7fc18d6c9c8e93ce7d4abc65213c90757a3062a6ea8c2d6d95967e67453f03e01fc5cbdd69a16c285d37212733b5bcfc5bE2PbPyMQ9TX7jyX2tsIJEycpEj/F+Xt7YK3DKVnYmvo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "pilihan_publikasi": "datadiri,alamat",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 5,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/478279/pas_foto/1691761959_4de15123-f35d-47dc-8798-af281b5ae7fb.jpeg",
+    "nama": "FRANSISKA MANTULAMETEN",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "47b23d8e4bd159648ff9bec6fa8389073fd8c3ce9d95966174af322175652b37fca102677f25ffbb1b554177b3fa4e484baa31da4aa19b523ed061f1108635ceupOg6zlXrG05l/7RVgYdlxyBy0Q435Ri95Ws8Hf+MD0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 5,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/464494/pas_foto/1688944486_55d8b868-79b3-4034-bf29-4500e80dc555.jpeg",
+    "nama": "BARHAMA MAHU, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "e716f2fbcc342005766c091374d2792691480db26a28140a0e972e5a6f55ec6c549c33c1b77c64d72ffeb69f3594356db712e36832edf258854f740aa1f11a0dVunL7oPHOKh4Wi4lWb8+AamRMZR+omR1xqt0fbpI7/c=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "pilihan_publikasi": "datadiri,alamat",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 5,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/414311/pas_foto/1688702666_74e48ec3-6958-49db-b159-cf94ce9ac2c9.jpeg",
+    "nama": "DODI NASARUN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA AMBON",
+    "profile": {
+      "id_calon_dpr": "190a969e65c0bbc781cc6be5a9e06d79c37474a70fdd66c69ccc5c8a22042116fdc917204b7db996d825341a90655cb2fedf52a88410b2adc32f9b112b4296fcYb5Qwe727jVRJu9yIyuSPPlZrfrPNnbvyma9hScCYmM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656406064_Logo%20Partai%20Garuda%20square.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 44,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/414380/pas_foto/1688702699_60929dd8-1f3a-49e3-ad68-9e82323e8a05.jpeg",
+    "nama": "HASRINA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA AMBON",
+    "profile": {
+      "id_calon_dpr": "fa6c96939d1cc0bcdc972bbcc7cf598f6bacb6e2d0ad1d5ee8aeab9fa24ea923dbeed94ae078b497ba14d3a15ba59b9d4dbdf03af8fb61df2405a318c4084ca64nigfRLsQBNIMGyh60HL/leuvibHfuX4xCjOmhPBMXU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656406064_Logo%20Partai%20Garuda%20square.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 44,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/414434/pas_foto/1688702714_a9719362-d8b6-4c0b-8afc-585cda6783a3.jpeg",
+    "nama": "STEVEN LATUPERISSA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "1ecc6b45820906de6faf6714243030317036fe76933ccd04d58fc9f7469f65dcc8aac34db9c28c1feb616bf6e8c341c4e6fff13a7703a2c7db346c7035bd2b4eYkNoGkK4705dMyDYtZeTI/taJEfZCbd/l8+pKsGPOrQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656406064_Logo%20Partai%20Garuda%20square.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 44,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/414413/pas_foto/1691674376_3254d405-4a6f-445a-949e-ddf27d1ae97c.jpeg",
+    "nama": "USWATUN HASANAH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "d0abe2f7f5ef081eceba19253a3f9e45ff945860f488cdb1448458349db124b53a6166b791f18f84ed84a136e300b99d81b0856e2e321c1bbc9c3ab63871f63bwk0QWiLfj5Zn9RzkkeFvm9psI/OETCtElPt6bRRaz8o=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656406064_Logo%20Partai%20Garuda%20square.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 44,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/414375/pas_foto/1688702691_bd61ceba-db82-45d4-a529-82b0935bd5e9.jpeg",
+    "nama": "MUHAMMAD ISRA WAILISSA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "d36aa71ffe78b8d86aec58227df54c1b0df9c342fbfcaf425a4a4af1362a1ce002022301d68ed94227e17c96e57e30426ae735027a56ea72d4e1afa826f65033un83EmXaWcedVVOvTFuSC5gvgWV87pVKKZr1Jj1vA04=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656406064_Logo%20Partai%20Garuda%20square.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 44,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/414358/pas_foto/1688702682_0af88fbc-04b9-4fe8-b7d7-82ee5052cc33.jpeg",
+    "nama": "ABDUL RAHIM LEULY",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "25f551f3f447f923b8e0ff0c0682ffa26ed41381da5e921fa3c6d6abefc1aa0f0156c226c93c5cb7d25f212c927ed063c2d1850d5c379f507448811d9a2f8ab5rlDT26I1H/eN08D8RfDTlbj2t0axje15xBAwNthqbkA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656406064_Logo%20Partai%20Garuda%20square.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 44,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/414385/pas_foto/1688702706_5141d74a-f3e1-4b0f-8422-877d0e9526a4.jpeg",
+    "nama": "WA MARWATI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "adea55c5194c6c8c743ce634db42ccf73621568dc71181153278f1d50e681644655fad612b4fbb7f00a96d70ec349ee430de8ec03d9e28eb277a4f77a5b37b74cwtaPfKrf0SuGjeGdiuEDVRPIoL5RwXTrP+U3GjM9y8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656406064_Logo%20Partai%20Garuda%20square.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 44,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/111962/pas_foto/1683731480_f8f9c3a3-7872-4e56-9e74-abdbd57b8473.jpeg",
+    "nama": "SUBHAN NUR PATTA, S.Sos.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {},
+    "id_partai": 7,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/305612/pas_foto/1683856824_7cefe9c1-13aa-480e-9ce3-2e6c944a02c5.jpeg",
+    "nama": "RIDWAN MALAWAT",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {},
+    "id_partai": 7,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/306395/pas_foto/1683901912_d890803b-9d8c-40ab-ae24-de192b31cd48.jpeg",
+    "nama": "WA RIA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {},
+    "id_partai": 7,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/141650/pas_foto/1683506892_8357e3a2-5cfb-4020-9fb8-1ee7ca04c034.jpeg",
+    "nama": "HI. MURIDUN WAKAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {},
+    "id_partai": 7,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/169542/pas_foto/1683849314_bf848db2-1b3c-41e7-8471-acd2d8d70f7d.jpeg",
+    "nama": "KALSUM SLAMAT",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {},
+    "id_partai": 7,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/305849/pas_foto/1683926082_737c470a-e8b0-4312-a874-f5ac1e2dd226.jpeg",
+    "nama": "SAHARBAN MONY",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {},
+    "id_partai": 7,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/288244/pas_foto/1683812919_7cbc018e-98bb-4da2-99d7-d8a23197a7be.jpeg",
+    "nama": "MOH. GUNTUR HUATH, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {},
+    "id_partai": 7,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/330430/pas_foto/1688778890_f059abb1-ba7b-493b-b284-9e5402639d2b.jpeg",
+    "nama": "MUNALITA SUMA PUTRI ELLY",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {},
+    "id_partai": 74,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/452443/pas_foto/1688800695_036d0d58-df35-457e-be72-67a51834e17d.jpeg",
+    "nama": "RAHYUNI PATTA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {},
+    "id_partai": 74,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/453039/pas_foto/1688803868_5b0325cd-71cb-4102-ad3f-77c9700c662b.jpeg",
+    "nama": "WA YAYU",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {},
+    "id_partai": 74,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/97546/pas_foto/1683797811_6bc5c476-4a0e-4282-9479-665ce7c8e05d.jpeg",
+    "nama": "Drs. ABDURRAHMAN SOULISA, M.Si.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "f3e14e5e5a9518685e17979026d25b58f18196be5461aa2cad27b7f6fb4841b70f35217bee4436b27b8cbcaac376d12c7f6dd428ff64d54c8a84651df4a1f038ZnXsCZjL42uevOCjBwkXRmrsocwy8BVoBV3JarDIig4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/97891/pas_foto/8109012705600001.jpg",
+    "nama": "SABAHA PATTAH, S.K.M.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "bbaaf0fb7bf7819549310e2b1af4d8ec14ec5628dda5379ec8986ba7cf0dd7531cd56e6712a741c7edd3ad2a9b500ba4f0e985dd274d3fca7efb7f198c37ca78R1NPTS+kAP2lpJR4yrGuIHUvaCyDHKKNg6wfRpiddrI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/97548/pas_foto/1683797731_53fd0968-ea5e-41d0-be12-1a8699bc507d.jpeg",
+    "nama": "YOHANA PATTY",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "a10e0e75bac30f6bf16d88200ea241536284194b2a4d06ac04304dd64d62794d6fa752b6ebe33293d552d9f4c9c9c305045860da520cea4bd5be213c4702034emm24cTJ5fKfp51oIh98l5OxIg3E1wp5q3plFWVV4y0Q=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/97891/pas_foto/8101170501610001.jpg",
+    "nama": "Ir. SOUMENA ABD. RAHMAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "c825212c23e53c1b9871858beac1114d30c7c53a69fc7f9cf7c5c64062cd75b03a6a3bc5da2e543e2b2aed18200676334ca394e4f2f12424bf0b735c65dd47d5J0yor4I9qyH1jUgyW6JMh8AQD+iiW2yVKG1bghDqP5M=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/97552/pas_foto/1683797676_fbdfaa69-7b22-4447-b66c-dcdec0793988.jpeg",
+    "nama": "SONYA KALIKI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "2f6c8cef95a4229838391ea70084068e03194b5d4d361231654651f7f556ea67d23bc0892b34f7c72cf196ee151eebd5aec8b802f491ecc99823e70904f1fab7wHtT7jZLiV0cd3c38YgnZJY4v2pbtvZsk0K6s9+b7J0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/97551/pas_foto/1683797888_78255acc-8a72-4475-90ba-176c5eaccf9d.jpeg",
+    "nama": "ABDUL GANI TAMHERAJAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "a06c4a86b15bb4a4a2924da71d2dd43465c72c097e8a3ad05ec994a56eea0407a21386b0a394cfd3563ef38fbb4105f3c79abe08597839438f0381d2e95cd44aewhC77uLUcvzSCRVEhhXcWdhEcNstj9a4n2m7YqQTsc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/97891/pas_foto/8101150911660001.jpg",
+    "nama": "LA ARIP WALLY",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "136155486651b2b0149dc818748f07daa8612b9a715f84306328c75614777c2d9637ed67586b469dc2b37139a59e6fde4cf9d485f06bcdeaf434dbea8b7553884DQ29rsULOzVLakNBjrDdrf10Jhxh1t+rZDWuGLcwRo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/292516/pas_foto/1683823808_ede7d5d9-4d58-46b5-bc57-893edf56c25c.jpeg",
+    "nama": "M.KASIM LATUCONSINA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BURU SELATAN",
+    "profile": {},
+    "id_partai": 76,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/292586/pas_foto/1683889983_4f444de8-fa7e-4770-988b-f99f31e75b13.jpeg",
+    "nama": "SERLI KAPOTA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {},
+    "id_partai": 76,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/292701/pas_foto/1683823899_6a48c366-0541-4bff-a0c1-10bc32d5361e.jpeg",
+    "nama": "ISMAIL LAISOUW",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {},
+    "id_partai": 76,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/292776/pas_foto/1683823929_29da7ca0-c31a-4b1d-96e5-10c4d833e08c.jpeg",
+    "nama": "SAIFUL SLAMAT",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {},
+    "id_partai": 76,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/292965/pas_foto/1683823965_e35aaa86-6398-4af5-93f7-2e3cf9d939c6.jpeg",
+    "nama": "SYENNI YANA MAHULAUW",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "JAYAPURA",
+    "profile": {},
+    "id_partai": 76,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/431902/pas_foto/1688474550_b89f8913-e305-457c-96d5-96c094f48051.jpeg",
+    "nama": "SAKTIN SUSILAWATI UMASUGI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA AMBON",
+    "profile": {},
+    "id_partai": 76,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/293419/pas_foto/1683827585_c54519a6-489d-4b55-978e-d2b55d69631b.jpeg",
+    "nama": "DEDY JUANAEDY NAKUL",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {},
+    "id_partai": 76,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/42509/pas_foto/1683150942_27938a88-20b6-4a6c-88dc-e98643f50c15.jpeg",
+    "nama": "RAHMATIA SLAMAT",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "708ba338c30e61a719feabbfb36190d625d35c7fcbdd4990504b8221b66c46aca0ce350064a69414cc379dbe4c1ad40d52deb481901524b6f2503ab93156555cz6qvxmdkhvFefSh1O0M2BOuqB9gPQZ5oio4ejL20uJc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/40259/pas_foto/1683125196_4998016b-a3c7-4a89-b214-2c0e98bb5a20.jpeg",
+    "nama": "ABDULLAH TANGKE, S.Pi.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {},
+    "id_partai": 18,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/40129/pas_foto/1688732662_118414a1-fe3d-4218-b88d-577340604808.jpeg",
+    "nama": "ABRAHAM SOHILAIT",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "5fc431dc6b787e4c1a369a832c3a286ff6322c2cb845c13da06ae75f5e8669cfecd6dfd80279632954a16e000151a12cb820dfa4c7504596feeb07eee5cfee99Pn1BeC1yE306Os9CymM4ROl0p7LiPYJgiOUZ2uwwYb4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/42596/pas_foto/1683388064_f3554a50-866f-40a7-bd61-d2fa267b974d.jpeg",
+    "nama": "WISAN LAITUPA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "3c9bfd9f99a729125cde4c7d361723e72acfc9b7c29744621453b140781f7fba685e2ff3c22e29eb79f9a28eaf9eb2166cfc7bf37dd1739d7eef0973bdb4908a0Dv5AVYpKSK12WgPdZgES94PMf0h+43RgKblxX52o+A=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/40151/pas_foto/1683124977_5739fd07-930c-47d1-b87b-c5310008fc8d.jpeg",
+    "nama": "M. KHADAPI HAUPEA, S.Pd., M.Sc.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "37ee9a410e643297c624a9582d804492e845cfe1e751289b96ad6e7bf65fa196072e852ba797b4fabc97154357d917972d2db405e166e0a0b89fd8159df4ffe5pbKyLhOk4zkLVbInONzfvnp2stqoKlaU9pfyW36KhUc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/40175/pas_foto/1683124933_1c96286a-4fba-4ef0-91d8-4305048229a6.jpeg",
+    "nama": "MURTI MANUPUTTY, S.E.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "8e7ac487d73749d61a8130d71b34f4da7d3898f9f6a2528b7a738fd42ac89b709c79990e91da1d5ccfc8be29e9d76320fa508eb70e4f399b7fb6ef7099b9968aRndl4MPh8c/kuRn7rfK2ST3P7a9PLXkrk69AjoW0Fqw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/40027/pas_foto/1689293555_deb64f49-59b2-4168-b8ed-f5905e0dcdeb.jpeg",
+    "nama": "ILSAL NAKUL, S.Sos.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "6d3686ec7034e308a6fd63cebc13642b05da1e86dfff25d3fbabc9f0ca0eb64e74258c484a4bb36ae8519bfdfa9f904d446183fa88d37d77e5624a6bb0469705hsUsqgng+oy8oekD+Y7HQ+LUywUv0Re4PFtnBCDnkRA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/42022/pas_foto/1683701046_739932a4-5532-48e4-829c-aaa451275fed.jpeg",
+    "nama": "JAMALUDIN BUGIS, S.Fil.I.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {},
+    "id_partai": 11,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/56808/pas_foto/1683246545_48cb9f18-2a7b-4fa8-b121-745ef8199a77.jpeg",
+    "nama": "EKKY ZULKARNAINI ELY",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA AMBON",
+    "profile": {},
+    "id_partai": 11,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/470760/pas_foto/1691589530_c3cfe1ed-7a32-4146-b781-df7c91ed3f3e.jpeg",
+    "nama": "KALSUM CONSINA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {},
+    "id_partai": 11,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/42031/pas_foto/1683246967_15dcb9c6-c0b1-47e1-aef0-027f32d5600b.jpeg",
+    "nama": "SAM USMAN HATUINA, S.P.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {},
+    "id_partai": 11,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/470873/pas_foto/1691592080_e5b811ab-a7a7-4cc0-a2fa-667201c0b23a.jpeg",
+    "nama": "SAQINAH HILDA POLPOKE",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA AMBON",
+    "profile": {},
+    "id_partai": 11,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/369493/pas_foto/1688867336_cbf4586a-768e-4de9-997f-5f5e3e4fb4b7.jpeg",
+    "nama": "AHMAD SOEKARNO SOULISA, S.H., M.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {},
+    "id_partai": 11,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/56814/pas_foto/1688867846_1d2e09b1-8338-436f-b0b5-ba3333273ce2.jpeg",
+    "nama": "ABDUL KADIR LAITUPA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA AMBON",
+    "profile": {},
+    "id_partai": 11,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/466086/pas_foto/1691387425_c0eee43e-ec1a-4f12-9461-b702eb074c56.jpeg",
+    "nama": "SAIS SALONG, M.Si.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA AMBON",
+    "profile": {
+      "id_calon_dpr": "9cd71a5434ce1a6b3d4ef05d9ad805cc5f26d18ace60c12964e435e269a09a170eed55f8da77d18e42bbf0ba18a0115bb6fef77d7092c0e40d6b9f328fb6f303sdfhv/+nam4rmWmDtG0i8lpEDbponUczd5CJ/fNQxOw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656157120_LOGO%20PARTAI%20UMMAT%2010X10%20CM%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 78,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/466084/pas_foto/1691388382_70bc987c-0738-437a-b59b-de26e1bee057.jpeg",
+    "nama": "MAURITS MANUPUTTY",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA AMBON",
+    "profile": {
+      "id_calon_dpr": "d6ff23a70c295d694b993f9ee3e616c3863459ba4ae62741a5983aa0d9675d02d985db251e01c3b92af3b28e7fb3f43cacfc367cd499c4409ff42103a515e760rQu7/ZJZ9MI+t2n7tnMcwM5Ltaq08BvItJ2fHCrb0Z4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656157120_LOGO%20PARTAI%20UMMAT%2010X10%20CM%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 78,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/467054/pas_foto/1691413024_0e157f80-a422-471d-90ec-eb5ff9a744f2.jpeg",
+    "nama": "FIFIN LAUNURU",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA AMBON",
+    "profile": {
+      "id_calon_dpr": "8339276eb0646cd0f755e734a0e828f853d8a80694fb7d7765f0ec044e77fc8006a067620cd8212183d91b1385ca73424e465552234aa3533d4680c70f1431eaBVHKQ7bu0t9T2wz71DUNAgI9aTmJtpPZW4f7o3JxCJU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656157120_LOGO%20PARTAI%20UMMAT%2010X10%20CM%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 78,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/466080/pas_foto/1691389913_544d42a7-b8e9-4d41-85e5-341640a7f4b0.jpeg",
+    "nama": "IRWAN HADIMAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA DEPOK",
+    "profile": {
+      "id_calon_dpr": "4b367dad7b6b1f7fd549e2b2e4161875e22d4e18d790f5f14dcaac5f613c728ebba3324b708e9a0ff729247330507872bde65ed63bc4bf4a8200d70ab172fb98Ca3souaE+syXIL9kw3RNEQFUYLXtQTdcDgtgHwQbHew=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656157120_LOGO%20PARTAI%20UMMAT%2010X10%20CM%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 78,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/469729/pas_foto/1691561057_c73d369c-d8c5-4aaf-afc3-b0ede1306c80.jpeg",
+    "nama": "AMIRUDUN KALAUW, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "bb87cf544222732b26b351a8b51bbcc48faf0fda1443cde6a5db16434de0a253379e1fef8cf150d20d222170944f595f2332b6898aacea3dc9d915d06ba00509nfLM/tmbCgw8Snft//nGoV+j4bqdGwSyZvcWd4hRTB8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656157120_LOGO%20PARTAI%20UMMAT%2010X10%20CM%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 78,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/467154/pas_foto/1691448701_ee872c04-3c15-46c3-876f-2345d9562664.jpeg",
+    "nama": "SITI HAJAR AILATAT, S.H.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MALUKU TENGAH",
+    "profile": {
+      "id_calon_dpr": "f6fd7b555ad616a66d1af1bd03077fc99e4fd424c8e614d923f4063a2df0434f2c44a569bc9714099b5626e5cae49e6f655927fea45b1bc0501f9390f7cbdf056NQamzPsdz3hOXjnr9SGd51/Z6bJyf7PgkViQcNgUGc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656157120_LOGO%20PARTAI%20UMMAT%2010X10%20CM%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 78,
+    "kode_dapil": "810104"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/466078/pas_foto/1691409386_11d380cf-dacc-49aa-8dd0-97db22874712.jpeg",
+    "nama": "FIKRI MALAWAT, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA AMBON",
+    "profile": {
+      "id_calon_dpr": "7f41b3d42cd30cba297e0ae8cec6b5f52b6feb7789ad51d2779739c01d7627ab31a0c4d571328d121b9847e77e9df98abe930ca8003f7f0cab1eca3234fae552CP8OfdK7+f71x33Hc5jclKkeaQlEkSg7lnqf8tE3+IU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656157120_LOGO%20PARTAI%20UMMAT%2010X10%20CM%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 78,
+    "kode_dapil": "810104"
+  }
+]

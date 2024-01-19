@@ -1,0 +1,1864 @@
+[
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/100560/pas_foto/1688729569_155b794b-336c-4602-a7cc-4055c9dd3df3.jpeg",
+    "nama": "MELIANUS BANA, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "bc0dad66da4c89107dec7b279245e7aa6838740ba5452b1cae1949a8ae04bc13569c2685e7d808f6e2253735fe5f3b2cfdbe770f958c337df81a80ab204489a4gUR2HdjvfYzrBb072e3er8abA9tb22UVHpaus5X4s9g=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/20514/pas_foto/5303051408680001.png",
+    "nama": "AGUSTINUS TAMONOB",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TIMOR TENGAH UTARA",
+    "profile": {
+      "id_calon_dpr": "b9a120846ab448590c07349fe9028ad1a272e1886de089ee5117a72d53845a1f6c1ebe65152eb740276617a2881c2dfa6063da71ae86e54566c799d7d6a60ef4ccg1yin5LlPSVGRRXIjijP6w/TLhKDEpChdo5sASIE0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/100564/pas_foto/1688305196_a789e316-432d-44e6-9dbf-1c0b64094625.jpeg",
+    "nama": "MARCI PIETRONELA TUSI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "199ff04c45023fbeaf8f120e63f5d728f94063205c48c2d062fc7d1f08546f2080c466bb0d4e29650c7162f8bf157c249064d6e0c93f1ac88ef0018832408908ppVK0UfgWkGN9R9BblX9MwZU8vUugP1pMLYKaf9SO3I=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/100561/pas_foto/1688285551_a3513143-abfa-4054-b7d1-4aa41e792899.jpeg",
+    "nama": "SILVESTER TAMPANI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "d4e4f01fbe9b455051a7296765a00ea36192e9673f6ad689545fb808813e27dc7d47f6640f324715fe7bbfc427be98088130b6864e956b0d8ed54b1731abf89bHA9PF89Jbouxee8upbcTkDlpBgG0mU1AT0qyLTg6NiE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/100559/pas_foto/1688647626_a9122fa0-5da6-4a26-ae1c-9bf2184afc71.jpeg",
+    "nama": "FREDIK NOH DOMINGGUS BEUKLIU",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "b4243796afa2e6b5670a60476d1b879eeda44c3f086159e63891b140ac4b0f1ef071f25299e6fb6b7a2914ed34916c6c2e1f0cb8d2904597630ee37e8363caccEQbG5h2behNRjwSryczY8asnFiQBP19eK54if3Bjj98=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/100563/pas_foto/1688306347_578ff061-501e-44e2-82ad-e905f61be44d.jpeg",
+    "nama": "FENLY DEWI YANI MISSA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "3296cf1928fc3a467a81c50e1f257303bb727453db4afed81ea68ce6e5b84ca7259357e65c84d247cdf854f67954ce457a299cd0a934731a959b581da914980971ewrXFxH0lu28mIPhK8d2A0LxXKvht/ii6UCwp0q+0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/100562/pas_foto/1688292646_aa1656ac-7757-4b0a-8492-3fa26b787220.jpeg",
+    "nama": "YONSON IMANUEL TAHUN, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "9affe9308241530e09e5398f37713ea31b52a93033646154e2bd5942c6c1ff7fba73372d1b9812fc499b7e28a4aae5898f8284f2820e974ab22d8483fc5205eavKvWkU6eBKNRcrOGzRACZ74CTB5oNWKY8Xs0bMfKijM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/100566/pas_foto/1688458580_d92a8dfd-4e1e-41ce-b1a7-7a42eb2a7b67.jpeg",
+    "nama": "MARTEN TALAN, S.Pd.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "2ee430430c83b15a0572261836a700579f7506ee761d6e2276018682a3a49f58dbd3be7fc8da6b28049a543dbd8f1205c8adae45ca5b0e961c992a2a3efc1275te0CxRmGjf/gWkh6rzPhfxu08Gt60FhEzzAzg0mgTFk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/54290/pas_foto/1683208545_4efad7bc-8dbb-4c84-b526-d34b8d9e74bf.jpeg",
+    "nama": "ARSIANUS JURLENS NENOBAHAN, A.Md.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "77ac93d62aba20094b83917f7c240abd9fafbad9f99c515204c22498b36c8bd32199a647fa93f0fe56fd0569daaf1147d7650c0aa49a44b0b373738a8c3a581cvtdGIyxp0gSqPhLUExw8XW2SHDfm4YXTfncGqy5hAEw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/55266/pas_foto/1683213193_3c5716d4-bf8a-4ad0-afe0-84e567e645db.jpeg",
+    "nama": "AGUSTINUS NABUNOME, A.Md.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "4a312d9207509742c402be1f0f8bf3317b1e878116a22b293e1d5cf411b2954878e46fccb7df6884b73182a42ab7471df0b74265d8cae5f422a4cfc6441a55e9isrg3gyN9jvqhf7YvlAG3gnzmxHgmx1vHWkOY8MlOTY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/85376/pas_foto/1688278567_368fd6bf-cd99-45f9-84ad-a90257ee80a0.jpeg",
+    "nama": "LUDIA LIUNOME, A.Md.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "44e2c6c25382d7b639121cdcbca606ebc90db91661f0fcb1d62ae1d547d837ffdca5474a7209f87b7e36a7d405d67c1f19fc29e958dfe3adc2336d13a30eb043mSSLtF+FUa7SyUG4TADSCxoaDSLFwMrWWHefJFCNiZw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/84690/pas_foto/1687955974_bc54c46b-1c2c-487d-8459-558168dca15e.jpeg",
+    "nama": "YOHANIS BAKO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "4d70f2867328e1c29c6ff405fb54ce124031bbb80dcb8aa8bf574d7eb530928f46b489e58431d5c397bbbeb66a897a4b2c1523b18ee85016050438c4d0df8248DoeUBJVCNoTsohULJgTlPW77ZcMmi0G+2XkLwbb1kSs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/426761/pas_foto/1688276350_d595da68-6705-457e-94c7-90bb3af46be0.jpeg",
+    "nama": "DOMINGGUS Y. NOMLENI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "fb7662b3fc69cd47b4284ab91501423be80d030711e6ee1f3c2c280a46c50a0edb612fb9e121fd1e03f2e44bb6e2118ad42ea63959518637a030bfbe8322ba51cCXmLZgl5Zqd66b0/sjFiukQP9rFWqW/rY/JhdS4OiM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/55820/pas_foto/1683215616_6aafa7da-8125-43cb-9e14-bd60c2d0435b.jpeg",
+    "nama": "ORPA MARIA LENAMAH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "53f09aa3a76e6514cb0b7726a807c12a5d87a99f04bcffc99545fbd6634f5de15f4d88a8165aea6c8c0f5c907777cb4d297f3cd0769c835a5ac54e031b1b9319Ts+atyQvJOs3FErlkGAQSlCfg6vXbwUku/Wo1iueekQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/83670/pas_foto/1683498366_1373a4ca-39f8-4f2d-9621-8ba54591719c.jpeg",
+    "nama": "NEGORIUS A. Y. NENABU",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "246c564705874d83fd600a0ff79366c050a2a4d3653cbc09b82e6a91ce09e98017e9a0751e694666c7065fb949c5ce3f3e081dc4612ca01e6fb9986075419042QdIzlWcN8Dw32zrAPw9dLAuMUsdJxp9fQNZipV2s07s=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/62158/pas_foto/1683271467_c8588a44-c513-46fd-8263-665f2ed88a1c.jpeg",
+    "nama": "YEFRI ERIK OTTU, S.A.B.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "49e390c6a786d54e6b1201bdb39e8bb302b31011c9012e7fdb76aaa08a5cb386680cd34211395b781c2d03bf4dfbffe2503df805cba072093d075fda766d220bmEHw2EQxfSwNb6uGPfch4GFrRU9s0QN4u/9/mrSz5b0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/19048/pas_foto/5371042701750002.jpg",
+    "nama": "EVERD C. J. NOMLENI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA KUPANG",
+    "profile": {
+      "id_calon_dpr": "e776fe4120a5734dee9c393181466a50245abc8fe2321c898c372f984d9bfa0e6a28b06559113cb84f97d975b99bdfca3fd69bd6a78bc659b3b30e0c3ee7bce6qvQGvdQm1QuCWn0Mi0x6Ht3tIIl3LLqq1uYkVsR8tZY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 12,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/19048/pas_foto/5302151812630001.jpg",
+    "nama": "DAVID NOTI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "307a68d0b4af24d2308b26dd87bd260fd035c54e80cc6597f8c56881aad83376478574406fa1a2a99b8cc1358aa93f23f81cb74bd0b8068a90265b0381da2afbspJf3HZYNVyomVcuDD2LKjlGrUF4QRzj0vOlQFUP/a4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 12,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/19048/pas_foto/5303056507960001.jpg",
+    "nama": "MARIA ANITA NGADHA TAMELAN, S.Pd.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "a9a82de799f7bb62c16b8337f444fc0dffac47b1864d092abffbb3931593ba3f83fe52687fe770ff7ee3e3445e135a24f2733457199f927511b9c007eff8c40bSqukpGzc49A1Eb3zWV4NCKtlKd5iw2jSpgaVG0dHm6A=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 12,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/472578/pas_foto/1691651406_03dd8103-691a-4704-99c7-cecdcff6976f.jpeg",
+    "nama": "YUSAK TALAN, S.E., M.A.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "688ee425b55d61d4bf3fbb23f7c54731bb7937e4980988b60d63783d589a9af2dfa2fc17ce5747048b589d5005d9ed2fd386da8409f73de2e45387a08b41801ahD62JLD5Cs3iovh23rfCThFjCuInuYguHDrlv2pQWEA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 12,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/19048/pas_foto/5371022008850005.jpg",
+    "nama": "PITTERZIUS I. KEFI, S.T.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA KUPANG",
+    "profile": {
+      "id_calon_dpr": "f53ff49f3895a312da85591655e956ebca1e1bd16188504ebc99e90795c3ccfd8b50947f46fc6774dda09f2a5ae3774e57082e8207b90f649962b32f4d83ee1465pgEhIuhJNtikfKmcFRTdzILXuXrf28Qj0DBoKliPk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 12,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/190843/pas_foto/1683708302_3c6f4b1b-0fd6-4542-ab2c-e5d3a79d76ef.jpeg",
+    "nama": "SEINDRA ESMY RANTY LIU",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "a89996d07627a5c11b24106b8273846a8722d51b1891f1e2d96d76aca587ca8b726c562a2a9394f37b61f35f52808c8bde93451637c9e57a309d0bf6c7a895c2+b1sDp3DvUt2gHw21yd84FzCh4p0mT9FvkibRjce/Dk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 12,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/19048/pas_foto/5302033007640001.jpg",
+    "nama": "DAVID G KASE, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "3a4185bd252f44ff20caeffa710521f6ad9355a80507ed8cccb232a067492ac6b8118b84d9dd0890590508469fe7abb1546929544c7013b11c9663f7aed58e1c/yngCCMx1Lmn2hWVuvYwuTH8SS1sbm5P/1S3Sz08YHA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 12,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/19048/pas_foto/5302175010010001.jpg",
+    "nama": "JOFANTRI TAMONOB",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "b848aab0f230b1b79afd6f4fd4567f2c8c5e1ec66a6437941219c3994616489edcec32269cc4fbdf2e979793b3c5b0205de322c45c493d3da57bd6210d6f63669uLexH0ObaV7QsDidkYHUoMTD7P5rBe1aAufWPOYyUk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 12,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/160741/pas_foto/1683551968_757ff7d5-c7cb-4056-9c12-eafacb9b783b.jpeg",
+    "nama": "RUBA BANUNAEK, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "e6bb195219ebe041b9d985ec8348b4d692a4c606df725aa2b07d5f918253f9a468303f7ef23c1039feaefc2799e3f53838813f422d49d41e0d8aa41af2dca6b1c0UbM32VTDRV03beHTjab6l81/6s2GRp1wr7ukPGo3Q=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/161427/pas_foto/1683553832_dc377f37-5cf4-4e74-83a7-df24f960af91.jpeg",
+    "nama": "Drg. OCTAVIA SEOBILTA NUBAN, SKG.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "77adf30d25536f91a8b761acc02278cc971e0b8d967dd48858b3951c2da996acd7aa35f2814b5802cdff9d32eba64fdfd92f2982d6f0051c0b03cc305a1cb547efEnl13p48dgvQpYbLRfKAJvVEtAV2ZeSm71s9w4/jc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/158201/pas_foto/1687761755_99b38407-ded2-4958-954f-821e64f8e51b.jpeg",
+    "nama": "ABNER M. TAHUN, S.Sos., M.Si.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "ccb0adf3d1c03377b0f637872e9ff41437986bdd2a6b6cab80705df003612e186d85ff20b2a244e6c46aec22eed478ea63a0daf560929af321d20223c9f3590edA9/vxBDQbPgBZZARXuipAKU5P2mIoXjv7gG62OFGe4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/155988/pas_foto/1683541579_0fb4ea6b-a33b-4e83-92bc-aff6d5e17eae.jpeg",
+    "nama": "KOSMAS D. DIHE SANGA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "6482776afda724de96451a6e51c02d6597c9200b4fe4c53e50da61e813722a2747f26248ea63beef459a7a2fe6d1235020522f0da53a2eab9c78d1fa1b8e82ca0W6NEnUl7OeR8GnuiBbLQxVYdyiThOq15X8yUelpa50=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/159966/pas_foto/1683550479_1872d2d4-d24c-4ab3-af70-5eb7d35da626.jpeg",
+    "nama": "ANTONETHA A. DJAMI, S.T.P.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "ad38852c29a9e9ba764ef28af12ba0088a7cb56da8b561da52b8fcd99f144ff245c706dc4761dccc5fb855a517d2fc48ac80c48032a065b9281538215b2208beGM+Tpuz53FYACmBcp3LrEuDy77OUwWGSd8ngL83Dy+Y=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/154799/pas_foto/1683539374_72013a09-0ca5-4592-b058-c78784427274.jpeg",
+    "nama": "DENNY WADU, A.Md.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "c48879aad1becba60a9506b2d7504a17fd181d12b9d8b2b395af9e7bd802226f1e8e409d4f2665eeb570313cbb5f29d7fc8109df49076ff0e1f2636ebbc76603iPXS8GyJhBGZVVUJO9k0GQqwF7FoRDyqv8UA/fY7cOc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/157168/pas_foto/1683543886_4860c8c9-c8a3-4789-b36d-8c62594b3d0c.jpeg",
+    "nama": "NITHANEL NENOMATAUS, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "a84339018034936e3108698eb2a4da63dcb890def222763989e2c1c8fb0a0efb7424b0378befefba1e4d92015ed00250e03c02c33779e7100c580232ed13c2c25GDsu1MGHavir9LCmi5kvezlqUUOFFvqqmEfHtkfHpM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/159176/pas_foto/1683548559_184e9379-e92b-4a48-a62c-ce58196951d4.jpeg",
+    "nama": "NAPOLEON ALBERT ALUNPAH, S.Sos.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "337c6f265711ebb65c652a9384f856bb61a384f1f1c1062e10753aa72f4c5a19ce8280e7aadd4ebc0190df4ccffdfa2e3a676b2e061fec5c9524a0706791751dH31upjSjE0m5G2bFHMoOY+cwnlO4L/WaQtDptcqVrj0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/247379/pas_foto/1683781598_89425e2d-9f25-4f56-ad16-8d9cea4968b3.jpeg",
+    "nama": "ASKENAS GOMER AFI, S.Pd.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "854670eac042169c34548d5053853765834f5972511a94e7f3c8c4d31546d9ecbc6d896297a640a2ebda811ff46e4541e44c6e349a2fc8184bfcbbc77e7dbf32I9UV7iYnZKCTPjIZz+bRagGJonb2WY640gV6UhXhu6A=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 4,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/201651/pas_foto/1683660120_e9fcbdbd-0e2a-4285-9686-769eec10c157.jpeg",
+    "nama": "JASON BENU, S.Pt.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "502bdef7e117e81740871eef286e732f6f671b1e01c31b06f6e8c9c9370d1b7dbc016bda1da85f4023ceb367bd82c684ba4cc1ca4205664fbf089697dde01f1a7XBNOmOPM+JGwx1DKCo5MumIVdFRql9mMDDPIi2T++w=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 4,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/198289/pas_foto/1683651099_56a88b09-fe7d-429b-852f-dae0b941a3b2.jpeg",
+    "nama": "SERLI NOVITA NOMNAFA, A.Md.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "3f2fbe015683d96e313399047b5eea60837051cbd2504053d63795bf3f14c456b4fa2d8d1d01f1a960125eada7546fd2530ea5042d073e0d34f1f74c353a9c98f58BizpFpMI0D+Se4ojTPcHm2D0MS1drWIohLgBVuW0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 4,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/204113/pas_foto/1683665623_f455e97a-ab5f-4a99-b09c-8444597be377.jpeg",
+    "nama": "AGUSTINUS GERSON BENU, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "df4d4bcfc3f07bc5a3d91fe02435d75cf903604ed70600b49de268a71c3cb5a0f3892237a3f6e4ce189f305d437d158e318502aceaac76716ed3744402315345tJy61GBJRFAGNYKEaxrI8uOIbdg/uC6QDIqE4wrunKY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 4,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/199058/pas_foto/1683652642_fa5ffda6-3b5d-422b-a4fc-7595053f23b8.jpeg",
+    "nama": "Drs. OBERLIN MUNI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "4665cbb5a55ccd3573e5d08efa2ec1c6992381e1e037c3bbbeede72a715afc72b4aaa7128caddb4cc2570fcfb57c4dec4b1b6eece9a367b835087aeb5cde1b60Pd4Dgr136z01hpjIVDQKg3OhiV2ev6vFoDTPwryBB/s=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 4,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/234245/pas_foto/1683728825_f26172cc-a89b-40f4-bb5a-7f965689bf4c.jpeg",
+    "nama": "LOLITA ANDRIANI PATTIPEILOHY, S.Pi.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "29ad427c726c5be575569bf62e7745c03cae60b05aa655ba3896623310940e857cac3a5448717e75e3f8e0d2879fe4289ca9f47cab980b95bcbfc62d76e152b0EODvfa3yBkhqEEFc5eNlRnGEIUDbP/n/wsmYSQTgaKg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 4,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/199915/pas_foto/1683655324_3d21c4ec-58b1-4da7-b8b6-c16b07a4c524.jpeg",
+    "nama": "VICTOR FELIX NATTI, S.Pd.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "3f7d5c2991f640d0ff8e2fcc7eacc1e6d26f032347e402240244f23665bbef3c0160093791e8b395a1bca3513a5b6e71576681100ea51bee4b2d9c2f3f4e52beQNFbPbpGEEF5zzLDZeHVxEx+DA9qVioq5BAYTmhBf4w=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 4,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/203150/pas_foto/1683662975_c88154aa-58af-4121-ba36-eb9929e1447a.jpeg",
+    "nama": "LUDOVIKUS KAUSE, S.Sos.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "8e95c66ed0893cc31b90c853f696986c96f4b088ecf8df83e7522493b6c16cfe9ec33d0f3a3fb4f2859d1711ed1dcd73793bc60aaf77a7a64792c1282c0cd8515YVerNWF4QXeLIzY4DG4Kof8pqXNuNTN6FJWrSSbD1o=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 4,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/483922/pas_foto/1696081058_3f2c9792-b1ec-478c-ba57-cc9ed074f4bd.jpeg",
+    "nama": "YOHANIS TUALAKA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "b3d66c381e7985cba8e73a6b254d5e6b8c2f2a77703ad0ab8a2dc2b0afa49875f08faa8e280bb44700f40cf10646e21eb91145ce3431efb78655f95b722cdad0FLIewL4Xt+/vrMJ7R+FtQ5raHu7m4fu7MlaYcvEhjf0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659959325_LOGO%20RESMI%20PB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 41,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/441869/pas_foto/1688669661_cf4505d7-15a7-47c3-ab43-b80d98ad071c.jpeg",
+    "nama": "CARLES I. BANUNAEK",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "72564fef1e35b887f6e17f3d428fdb6e8ec75d6344cace2a5078dc0e0e72fb043d11f838fb4dbb5bebdeb3327c30957a5e74e736320c2e8f1982e6326b22806an2uws+fUgqaXrx3+QR63lmfPSfLYL2/k9l6v6nVdUjI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659959325_LOGO%20RESMI%20PB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 41,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/471178/pas_foto/1695740583_555beb83-170f-4acf-a760-7aa8023d0772.jpeg",
+    "nama": "ERNI LIU,  S.H.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "a092c396838ac2d053bf379dd5c8383216c54d04291b30f064b881b6294fc2bc9dae0b09a18fd44c015801ef93428f188670496af29e15d1df3b5282873995ecKR8iBBO0k6MzMKUHh8gPsACcf/jm7ob+P52j9/BhXFA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659959325_LOGO%20RESMI%20PB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 41,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/483961/pas_foto/1696084948_d580df11-dc00-4f82-af9a-57cbdb2793f1.jpeg",
+    "nama": "WANANDI KABU",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "0d67a074a5a06b012e8e4ed32b4fab6835546545da85f675b2f134c086882907a01118793fb9da18e2b643d4704bf7e495c411bad64d19f883acbda7694496ebPfdzRgCxPUVfKmsWQRUR/Upx+9eHHLUAv5ORCgSMJU8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659959325_LOGO%20RESMI%20PB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 41,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/473534/pas_foto/1691663252_2f4ad50d-fc9c-48d9-ace5-8774a50bb13a.jpeg",
+    "nama": "MARSALINA Y F BENU",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "358ec323d2f4ec6afaad708f1eabf80fc8e297494bcbd86122bb072867b5e16a4e57bde95d7f1d407df7184dc270a00919e33282ca38ca39aa474d1112036069OUmlAfLiG0IZpd6y5sVDz3TYpkKuzkYsHjNbuLeIbrE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659959325_LOGO%20RESMI%20PB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 41,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/382665/pas_foto/1688075098_105328bf-0cc7-4c69-97e5-7aac6ea8a96d.jpeg",
+    "nama": "ROBYANTO RONI NOKAS, S.Pd.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "937a4ccb1745cb18c83d1b66738732360c98cfeaf72d7dfc39f1f2ce0e787a9e03589c4b97630be29e84ec0dff242b1f0bb647e4bf4704c8d60ea6e419bd54c2S2R5K67z1yXyz5U1oGrxF5EB+r8AIKt1a1YmNmS4rPE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659959325_LOGO%20RESMI%20PB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 41,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/382666/pas_foto/1688075893_fb699dfb-9380-4816-af93-47df58b2a570.jpeg",
+    "nama": "AMRAM O BIA, S.M.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "bdab0977a06e38ac51308719fa7c21f35303a3fc61f169f363aa3ed387f6bb00242978ce63a24685034724bfa3d636879a0dabf6fad2c1fe7371ece450007d1agcqsYURZ8TgVctB7dZjPvEIXSYLqAACLodeadczvNxo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659959325_LOGO%20RESMI%20PB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 41,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/382667/pas_foto/1688074485_2bc4dda0-3645-422b-b013-f286f018bddb.jpeg",
+    "nama": "ARDI EDISON TEFA, S.Pd.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "4fdbc133197914611bcead5b7f1b667c2b134a4b9d93134dc086de1107c579ebb72bc888dc03d62a8f164a5a22ea3c85307c6aada27e10be00e7b10d3797fea3W9w/qPQFvjDZgjuRW21olmbNpSK97tRptKVI0N4OYZ8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659959325_LOGO%20RESMI%20PB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 41,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/415753/pas_foto/1684163033_9e800a42-5440-458b-ade9-a771015fe5df.jpeg",
+    "nama": "DIONISIUS L. D. LEREK",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "67cf6ecb74afbb99a72a3af642b8aecb12da872b6c417276950c53e3b8e2c7b285971e4148830fd3eb2157c48d4fb6e9f6c18fc390af5dcc6737d0d82f0283bbpLD34Xsm9Km7RPm9xcuJ3fx8pXJWbGB0X9dtxskkEDU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/415806/pas_foto/1684163799_4afff17c-c307-4141-b4cb-b6230248df4f.jpeg",
+    "nama": "MARGARITA YUDAH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "7a25b147b9897cb79b9e218159b206343cf9b3a495662aa99c7302949461abcee28680520a6da0d5bea9cf4cb633a70121bd9e1968ea62e2d26ab811fe2606aeeZ+7/bxB15ojFTUbf0VJ6/EAWppiAszOcFExP7QOpC0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/415852/pas_foto/1684164683_1d4996fe-e46b-432c-a20c-285b50ee4fcc.jpeg",
+    "nama": "YOHANIS MISSA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "d75d7137db02c40157276f466f56368ad0d65b4de98bf50f39615882b51866323866c7251e5483661c1380c45a5a1bb68899a78e44459891215e04d2d8f470aeJBjU2U3QtisfHpH9K3AqtJ2sIC7GLKN/SWWb3f1RdQA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/451963/pas_foto/1688796972_3b67469a-4542-4c6c-a5a0-bdc07adba535.jpeg",
+    "nama": "STEFANUS MISSA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "4a029f5603182344969c1cf39b5f65489e92ddd6e7921621a743d0cd28967b239e52f5531bfe3fd19f60b1e1399fa35a1d66f9fafb60046458d5936d4ec93db4MfWUbZuzJKJcI6zW6HScKXTzlBSszvQxXDKwsv2gNiU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/415970/pas_foto/1684167125_14d01230-407f-482d-8813-f230c334b48a.jpeg",
+    "nama": "KATARINA TAMONOB",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "4d2bd0b669469ce9dfb0898e2905d8855f00ef3a2ee0b277ec6416e121baf2c9f5cfdc633e2358acfd9cb5bc2ddaa3906242e84b09b3c55143c7398b3de3e446wRDOXDh2cvgXCAm6bRW5Ny6xqOWSV8B2H/s3I+MYqFs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/416061/pas_foto/1684168082_3ca773b0-7e41-4c13-9169-1f4c577ff5fa.jpeg",
+    "nama": "INO ORISEN LAOS",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "90a61f5016b580f0b33c04fcb896dedcbfaa01f37855a820824e6fd1cf6585a4b0ebb76aca22a7f281eac4634898baaa124b20d960797e8f3d5be88f847b534d3ZMxjoV/WwQB7+ynGtz0Pguy4VitK6Xo1oN7z8osf00=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/416223/pas_foto/1684171089_715fb7ed-d94b-494f-8e63-24458b738190.jpeg",
+    "nama": "SABDI A. BANUNAEK",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "ceba69e690354f25fd109e18f995d93edeb85611faca5e4ef1335ae85ae195930af806811c7badb53af2c015ddef20674f41a7836e399b74561b456e3433a5e4Tyu1T94sgnm30jfTqkIyOScRbzOMjsu9Wj5eGH4ylyk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/424287/pas_foto/1687991215_c9d47a4a-a135-421f-a2a6-0c6ad86e0f01.jpeg",
+    "nama": "GODLIF NENABU",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "adf66c17adbc110d642844b9a6ea8383ccf054857f7d668801f7fe3954867dbbbd45137a79901b2fe01c2fd4690eb9d7334216b9ad11b364ddf4c2c7ef702813di0Yaad7pjjTPHhSIJeuEMULbao4le4DoTSH6kfPGkA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/97378/pas_foto/1683381137_994a5562-00d1-430a-a5c1-dbe70a5d3bf2.jpeg",
+    "nama": "MAHIAN ASBANU, S.H., M.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA KUPANG",
+    "profile": {
+      "id_calon_dpr": "5177eed7db57b319e4274810f716e018d25869d307cad41388d58f792cb5646c9a01110ae4e09ac03b8afb405c1cbfe1926afaba51a912edf8026f83db9cdc7b/Q5JSo2dbxdReqhHjt5yN9cOVWIQ/XTCYOEym/WK3nc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/67990/pas_foto/1683290332_0a4800ae-20eb-4ecb-86e8-4332399443db.jpeg",
+    "nama": "YULIANTI KRISNAWATI OTU",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "01c5774d2dd3db9408bd8e8f3cee50a3b8548f3b5e3fe6d0297681cfd2f622f6e21b98176ff6a0efbddf5913357dbe61c102c5712386419181184c7e66051bbb/Y5gy0ZouQWJze6TCV4yz5H3jpalmzZK6RxyL0bKTZA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/87356/pas_foto/1683364586_8fc8b27c-ec27-4595-b264-169667447292.jpeg",
+    "nama": "MELIANUS LOPO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "ab32e53ecb448dba297cb2510dd20106667a84889c6600b53ccbcdb96e5609a566818b2df8227e3b87113a77b31508aa5e8e4617d0054ceaa98320e56807179bGiH9AKs6JjqMtshb6P/QfJMNWwF6sSRF03nfjmuEFzc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/115627/pas_foto/1683440382_4d2d6b8a-c87f-4d4d-95b2-d6d6e87597c9.jpeg",
+    "nama": "YUFRA NELSON BANAMTUAN, S.T.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "a623da7613191268e0b4f93e3ac10c7618d79173a322e04d16914a5f2b66511f068e153fdda7b6b5d002cff45edebfa75a139db1eb22768ab7c2886282c4bdbfjfpFC+0iMUS3uEteTJ1xF9c0VTh9pQVMgxtygXyqVHQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/470155/pas_foto/1691569662_f5154685-c0c3-48ba-9f32-455b32aef96b.jpeg",
+    "nama": "Ir. MAXI D. MISSA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "3bda31c614fd736cc1c92d63af8b7cf0ba5174066637a0a4902ded5dbdfd00d9adec14bc5ba4d915582ebc0b7f614d3558c397c8eb219a6fabebadea31ef7a1fBXbacmCzXZxN4ic8/pvNOCgWvMVTubaFRuMMW2ejelM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/94932/pas_foto/1683531764_aaaa3e58-a996-4040-8b4b-ac6b6ba9417c.jpeg",
+    "nama": "DINA AMILKA MARIA NENABU",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "58077e3b52ddfb3fcef38a228e4b0e2e954b271230c01d08056f1ccfc1c208bae80e686e74e493b31721f611eb0220a30546ad69294b69925b9da2787ef471dcbSfIvxO3TRZprPHbJJO9ET2/qEgiklwYyD66KDZP4EQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/94252/pas_foto/1683375720_6f989fb5-afbd-4548-ac4c-c18576ae3444.jpeg",
+    "nama": "AHMAD TALAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "b65908811a100bba97788e58ddba548510b97003773438356a336b787e0bf80d71b384d01716d1e59e77a671eb1bf0844237afbb88b683c5474a9cfbc5f9a6a5coa51hSko0k03epZM4srAUXg1+4wGfwW6dCYGdjUWNk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/68983/pas_foto/1683293978_40472453-54c9-4f6a-ad05-a70f1b56e8c9.jpeg",
+    "nama": "YERMIAS KABNANI, S.Pd.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "ff1f0dc791659f064c78c2c69e6fae18ad0cf80d1d94a0d0c268811b859f2e47083e71bfe0d77bd1a7df71fffdb3548dc4741001bbf1cae58be0b099180b5c05ONJX8KZtvV4AO7AAmy38YGQKKhJPGg08nWd0KwkhpGM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/34003/pas_foto/1683099961_aa4a43d0-524d-4c04-a800-f462f4aa197d.jpeg",
+    "nama": "YUNI SILVIANI, S.Pd.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "3a94e888988326c562067550b7a9ce8db0662138faed997c7efca4c24c2b64edfc59f95cc3dd35f56727087c82400e1b0cf9a5ba1ca5a0e90fe89ff988cb2a94sEzRuCh65SHCUw0uYuIs0UNDBuQZ9HA6GTJFE4LbyC4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656155242_logo%20PKN-.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 26,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/37338/pas_foto/1683111708_d4fd0f4e-076a-4016-9c25-d10f2ca4849c.jpeg",
+    "nama": "PHIDOLIJA TAMONOB, M.Pd.K.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "a4b8d3a72b77bb0b131acaab97fcea9dd3fae228eb37892135075983cbe55ca5a937401a001d9d14443b81c9e736459e12e97fc3d7a0af9df59d35ff56ac65a6RTYlzwaPEZ2XtNk4K4chyJHLZfjrv3zFE9WWz1lMmwY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656155242_logo%20PKN-.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 26,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/37697/pas_foto/1683113104_c42c4981-8d02-42c6-9bc5-271f91b7a4af.jpeg",
+    "nama": "YERMIA Y. B. TEFA, S.Sos.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "1ac35ac66be29664e6f346a244557eda967b0f002d610d1c1f1a953a4f2d647bffc95281e4b8b20494acd6e615dabd068f9c01de54c687e89b333f30d291447aVHSiC4Ew1zaqRwWvOIGt0l5h7qUQdUB4WiIEJ1ivxs8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656155242_logo%20PKN-.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 26,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/453028/pas_foto/1688803874_563caba1-73f1-4428-8275-d7c2fadb8b16.jpeg",
+    "nama": "MARTHEDA N.Y. TUALAKA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "bd572248119e773a0bc5687153f7d1c888b69e2dab05b91caa5370d4a9ddc9f3aea13e2f142f78fcd78724f68e09cc53f3e989534a3303cb0f16e11f2e60e7232obiQv2hU1RtiV7ZKE5dXEY6gbvFamHtAcqrG6P8Etw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656155242_logo%20PKN-.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 26,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/31697/pas_foto/1683092664_a14d90c7-941f-462c-b109-11190eb11a9e.jpeg",
+    "nama": "OKTOFIANUS SELAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "58c0e1c71b12437a67d0f661b8aae5a2ad26ae4dda0c8d5688b41e287acdb5849ed7cb0e124b94aa4c87c73d0b14a55fccf6a8a6e1b4a43143c3ef6020553735SUxawgHK5x92LVIcqalKsp9dHTbYDF9hBkqa5XotLnw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656155242_logo%20PKN-.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 26,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/453881/pas_foto/1688808936_2d6c301c-9e5c-42ea-9268-01eee92f158d.jpeg",
+    "nama": "ELKANA LIU",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "7ee207526a5139443531aaf178ca9e64fc250ed506a5d8bb0c26e1a0c6811670b080c3cba58cc925143d060ce43229814ea06dec1b6a5a86746f953d321298d41tMMjCfCAochKRUUV3jW1kXu1K+lnNJUoPGstWQg950=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656155242_logo%20PKN-.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 26,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/37374/pas_foto/1683111971_a110e894-df3a-46a1-9d58-e2230cc9f886.jpeg",
+    "nama": "NITHANEL BENU, S.I.P.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "ea04baf22c951a3bc59edb53978fb0dad0332faa225b6f29e6a87a3901963ebbe015bef6e36a84b969fcaef9a945831f92261ada78d87f064db4b16611ad86f6aw/KTZKnixZQLJcH03vUYemr5+gmtYlAiRjsSDBDUMo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656155242_logo%20PKN-.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 26,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/290500/pas_foto/1683815384_027041bc-11c6-4aae-852e-d0751b78e84d.jpeg",
+    "nama": "RISAT SELAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "42e5707ded6212e6e53d285be68d10da2073d6d5d2b544d403999aed070a8b6f27df7bc29f8d5d179d7274ef41613203de3950cfda7d88db5c18f41903fd2a310kN17WwWBk92brDuHiG+/N9YM4dfdmMaLlDkLtZVUZI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656155242_logo%20PKN-.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 26,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/30443/pas_foto/1683088552_b9d70668-9638-4d4f-acb6-8fbdebd2e10c.jpeg",
+    "nama": "Dr. MARTEN TUALAKA, S.H., M.Si.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "ab710af5db360c4def55fad0a8bc4ff801fdea9c9513863202a46e65d5ca27e0b9cc9eb7aba743a5268e2f631cf0eed7de5367644605354b813cc2cbb357d73c0rDQ7zfPmtvenkFW9IKzDaxsznhlocH2TVLkKvv6AMc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,pendidikan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 5,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/21966/pas_foto/1683016326_80db6dac-4214-44c6-97d9-403e395177e7.jpeg",
+    "nama": "YULIANA BEUKLIU, S.Si.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "124cd88745d2ebe3cb72d368a9f1a093d8c56d71c84b91cc5c1f44ad286561133a6a687197cfc9b20133585719a304be4b2c8459abf9ab00af63d3cd728d08dahgKNg9xT8KwluGl/fOQiHpi+S3kN0BWz+0uqpqO44mM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,pendidikan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 5,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/29466/pas_foto/1683499919_147e4700-ca9f-4d60-977a-c7fb9fba1a3e.jpeg",
+    "nama": "SERISMAN S.Y. LIUFETO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "6f3f0185beb74694499e8d060ea46322202717e18eb7753a53dc11feb608c19818f224d649c959eb965bd851392bb898861fdc168ab11ae1ac7084e1c4a3974fy4Zr4xyYemDCx/18gp09uqyW9pgY8EOJhiX0vADQqY0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,pendidikan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 5,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/37332/pas_foto/1683481825_9a2e31a8-4530-4619-852a-cf91e7901ffa.jpeg",
+    "nama": "ARNOLD ERASMUS ANANDA KOBI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA KUPANG",
+    "profile": {
+      "id_calon_dpr": "f1938ae196249cfda21f3c6a5d0c83b1a8399b758deb3e08b4fb43e582b6782542afa98ddfaa4d539f6a38f956714d01805d4b602977d2d7b052f5605e76dd1bOipBBEhnu3Vu2diO+2r2uGBhcHaXcnPYbhqdXXuTiCI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,pendidikan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 5,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/23181/pas_foto/1683021336_d6f2adaa-c507-4b09-bdb2-60604bb3dff7.jpeg",
+    "nama": "DAULIMADES MISSA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "4d435fdeac318f11601945599e34e043fb7a490521ce25fe6358dc777c6694c1756de822f4de3ddd6afd3044dafa8bb58fd8284f8828efad071ddcf02574c979ClqhmwqB9ikH5ePeVQ65nebbQfD2z9ltFAypWEkRnqc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,pendidikan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 5,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/30884/pas_foto/1683089680_66de4f0b-b7a0-4dce-b618-f2dc60584aae.jpeg",
+    "nama": "GIDION APRIS TASUIB, S.Tr.T.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA KUPANG",
+    "profile": {
+      "id_calon_dpr": "7e309e3c55f2f269d1fae8984dbe4be6f3356329b4b734e306c1b753800a9bbe2c1f58fa5e60c1c496b13898739da640625d97bbe76558a67f5d5c29d7c98b6a1GzmsAyRbZkQppoHNOrgoMB/iTPkoBycekCptqI6/vA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,pendidikan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 5,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/12328/pas_foto/1682932786_5db4223c-0497-4476-9085-e86ac1e6308b.jpeg",
+    "nama": "PATJERONI A. BOYMAU, A.Md.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "14c9e4e5ead542455108fba6d6106a78199f3faacb93187ab20fe36f7ad4a5550672e601105a72e6e29f0956e7a1127a5b331f4e8e2f4824a4782ae9fb6cb91fPeRR1QycgT1DFqrAoi91wqN2g8GjdxqJccvlvoTDFSE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,pendidikan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 5,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/29364/pas_foto/1683092482_877e5aa0-3140-40c4-85e2-5d9df66d8683.jpeg",
+    "nama": "VICTOR TAMPANI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "db24438436a58a239c8cdce072c4a0d1af6b493d0def596d7c5edb16b48b2282c22cf52269ce242ed8d8f84a80b7f3529603f82e3abb4be3ea0b44a2daba4952Jfl3pSTbjSjG2j/GCdeCWEJp0jOIfHil6x3AtqbJUGY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,pendidikan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 5,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/399843/pas_foto/1688596325_2bb9b265-12ea-45a3-ae9a-2fbd504e6d4f.jpeg",
+    "nama": "NIBU BERNABAS NEOLAKA, S.Pd.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "d036477f36d6518be3c146fdef3b0e5e7f13d354323729ee7bf49edba79b47f66fbeff59cd33c7ed0e9d8f4233aa67e76a2ba2b281e4c243698d25d52f6834f9MPxhPlXcDSYvbplTt/5Mjqrfv3brQzHSOYqpzU1aRdA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656406064_Logo%20Partai%20Garuda%20square.png",
+      "pilihan_publikasi": "datadiri,alamat,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 44,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/416812/pas_foto/1684209696_a03a933b-3278-47d9-8147-1343390736f0.jpeg",
+    "nama": "YUSTUS MISSA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "fd816a8a739f7c565e4f1a9bb199f75da48ebf10fe547ebcc9a5860f6832d1588b284830d964a79982e60fdde5766dc34b2143d809bc6f5cb481ee3281108a1eawMcb2gWteDgr8a59BAhN3Jthcisb2W+7iXL/WO8fE4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656406064_Logo%20Partai%20Garuda%20square.png",
+      "pilihan_publikasi": "datadiri,alamat,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 44,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/399841/pas_foto/1684209967_1e5664de-ae7b-479a-867e-6fec1d911913.jpeg",
+    "nama": "JIZRIELI ATTO",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "d79aa55d6b8567c8aff2f9bd2b3bf88fae6a996d6b30af3e5c7e2042c0916227e5854a4ea5b2b0c7c875921426ec07b0b7e07c3bcb8109cc3f046411e7b229dcpZpw4TOAFYQE0C6TE6IVhX9kJdgpiua6lvcg6TnyZTI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656406064_Logo%20Partai%20Garuda%20square.png",
+      "pilihan_publikasi": "datadiri,alamat,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 44,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/416831/pas_foto/1688607219_5d432660-b1b2-4258-acde-d25056da7fba.jpeg",
+    "nama": "CHORNELIS TUALAKA, S.Pd.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "7adc98c11e7f3e9bdb777e953f2a2a4e90fb4a8d11035c8e39844591b732a3441c4262edb56d717c4ad8241ee226e6081a8a2941a7a010d6ce52c7a43ca66f34fq/MJM+CSF33rwlozibx6Ty8rb+m02/OsTNhRM3HOLo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656406064_Logo%20Partai%20Garuda%20square.png",
+      "pilihan_publikasi": "datadiri,alamat,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 44,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/387339/pas_foto/1688611312_2c2b766b-3576-478f-920e-64a5f8e13280.jpeg",
+    "nama": "RENSANI TALOIN, S.Pd., M.Si.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "7357d6b8b0a5f1544ce6e324e8b5c089acc95a1931b55cb4cf353cfd40e2b38c1bf457b8462e2ea69dfb8489c747f2bd4b79a91db24bd1b27652acaccd96f6celCQEKLSrtuYB5FTBmd1qPCxJFrwNxyhfOET+cKPHCt8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656406064_Logo%20Partai%20Garuda%20square.png",
+      "pilihan_publikasi": "datadiri,alamat,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 44,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/416865/pas_foto/1688595629_cce8c27a-44fb-46e1-9180-ee7f10abe3e7.jpeg",
+    "nama": "SENSIANA TUKE",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "cfd0e09b8837bce5c3d6705fe9265c1876589205942c5082d646158c6ccc5609638c3a0ff1bae3c267362c22c090158f1fca1b8cb983397ef16430945c83f00879sVtddLyZJd8hjMIkEtxWIZcnutcebWNamR/kdYpS4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656406064_Logo%20Partai%20Garuda%20square.png",
+      "pilihan_publikasi": "datadiri,alamat,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 44,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/416868/pas_foto/1688619115_33442302-0407-474c-8230-94c6448d1aea.jpeg",
+    "nama": "ARMIS NUBATONIS",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "6f9bfa4b35ee8ad1cef01cd185fd07417554d3b390a66637c1de5fa91bc975e09d10b0d124355dd426ad940e4721937e6068b05581b6a35ef820fea1e6cf9fc1bYHT2qKVGdiojJjrzkWTNK+0lWyui51s7LGPvaKb/SQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656406064_Logo%20Partai%20Garuda%20square.png",
+      "pilihan_publikasi": "datadiri,alamat,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 44,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/416971/pas_foto/1688607589_a808f5ae-a5a8-4f7d-9eca-4eb704c6d4de.jpeg",
+    "nama": "Drs. HERMANUS WUNGO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "112096fe02852d912e346eb37614a8646d174a802ddc572b22498ccaa6325548b61cc2a8a689f117b7cda2234dae2c96cdd8d43714b4eb0753cfe0cc2a70130bcUr5DfW/lxA5uvuxGlvUdq//3Gk8tfrrNEu65f4VdXU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656406064_Logo%20Partai%20Garuda%20square.png",
+      "pilihan_publikasi": "datadiri,alamat,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 44,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/172031/pas_foto/1683846101_c41d6ef3-b0c8-46bf-b22a-7bb0bdf1ef7f.jpeg",
+    "nama": "RIA WASTI MISSA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "03b31396c04a35d296dc0c16f0e73d9059ede47b10b15389a882d1fcdf3d444dfa6b9b8e99b2584042ff4e4095aecced1d99484b294da73d23aff7b72eb0ace5lC4eCWluv1HhnNDcoajgKmgL6IMtp5+yRPEHoo2xJ34=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/143422/pas_foto/1687847540_af2077eb-2dab-4ed9-ae36-04ff0829cc4c.jpeg",
+    "nama": "NASER IMENUEL TEFTAE, A.Md.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "e078b99001b4990b3ed5baa46e06dc47bfe40d842add685287aa3c3ead0937679ac354497ca077876b6801a0870ba704f8bbd05c840db89989fccfe5fa47611cYpmso3LRpmHV7O07ppq19o3Z461zsZSYwtL1Nv1gmr0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/146228/pas_foto/1683845196_11150ae2-39f5-4bf2-88b9-ab67d7c94df2.jpeg",
+    "nama": "GODLIF G. NOMLENI, M.Si.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "6afcab054d804c75bb4bba37593b95beddd8a92ab279b9eb60518ef641e037fbb476f7959d1c4b045c20407ef189262883d7955e1329827be08ecaecaff2518al0VzcVQs+CrUM/arEnMpSgcDWlOIk0hs6zqDKYnIAYo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/214701/pas_foto/1687850068_b78ecbc8-f713-4d66-ad09-ecd8ddce38fd.jpeg",
+    "nama": "PETRA YUSTINA MANU",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "b0c129dd7766c145ece88a3bc4a6852ee79fea1c6ee88dd42e817d3b1729f2b6649b4330c3c75ee8309a1511ebc1b6b82d79561ed2b79dee6ea776e57e118b5aOfQFArGuyKKiZXnsHRvx2X0hhetgRwPV9uM/qf06jR8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/145150/pas_foto/1683845743_a7d0acd6-e8e7-49a7-a69e-429b5b5b11fc.jpeg",
+    "nama": "ARBETNAH LAKAPU, S.Th.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "f62750e8b13ab591e024b220088a6e02109a05c1ad03fcc3e25a5577968a4f7079dc17e5ab92147b2742c544496af2e0e2e25f0258d9c1ef6808c2c5f4e5fddenEZB7WeLgeoc+fg8yjIEaUt3RN4aGFLtVuUy7HBdsmw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/148616/pas_foto/1687851561_fdb30e0d-4e92-4580-b76d-8c5fdaedfe34.jpeg",
+    "nama": "SEPRIYANTO SOINBALA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "781913f3369f00ff942e30f602d2a9c3e1d948bf8fdb862fa12c2aefc42432d4d895d9ffbf4ed2a36803ddf60938063dec4b10abba2eae2abeb1ead732cb101f0NEsVx/tCKMpSv5VvjfJ/ILBF1g3QTrw6tt34lS5OdI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/142772/pas_foto/1687851075_5000ff10-4dfa-423d-bd04-39586ada09fe.jpeg",
+    "nama": "NITANEL NITBANI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "55de9d9563bcb646618aaee0b3b00b65c462ee0618abc9523e30418d4b9cf11b502fbda329dda32a192fe1fd1c5a338a50fb3e98229f954a2eec88e4ed83aa11MFpSinEV7cUQxDExmroRK8oME/50kug1YRD/nUI2K7g=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/451670/pas_foto/1688797476_6307eace-885e-449f-a00a-c47d856eb191.jpeg",
+    "nama": "MARTHEN ALLE",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "2c47b1819a283e5a2a9bb069ccc8a39dbc4c65ff270fea275bb446aee63daefe383f71cad7ba67a4696c1234df4aa792e8e5f424255113005da14417196b51e717MSBlvc69DTyrchnJdWZy+TgpywZYBFrCZpSe63IAM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/468808/pas_foto/1691501203_a08ea402-6989-4fe5-92ef-97f36dcf4098.jpeg",
+    "nama": "RISALNO ABRAHAM NINU, A.Md.Kes.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "04765277c5dd39962d9c90c44bf90cecf8e8c2588a09c3b48879d69ea4340a8f64f703ab6b86b0fbc87e858a78f5f32248ad99582f418468c8c1cf38c3b99a3cTVTeWidXF5SGYoVz+BqOBia4lnpmBtTofrAgr2t9Axc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659262742_LOGO%20PBB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 74,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/470345/pas_foto/1691573854_7d0e17a4-5454-4252-b0b7-be686bb8e60a.jpeg",
+    "nama": "MAXI MAUNINO, S.Pd.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "da8f060352c35e9a69b036adf795ac8e58d436d414d71cb9c38c7fef51ce9aa2668cde251efb9cab8d5d958a697c7aa40f48e9242fd86b44c22df0bf7d0adb9d4CPacBehivhpMZ3gdwkMzXKAxgjs9h+x4k5Gbiv0EM8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659262742_LOGO%20PBB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 74,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/468674/pas_foto/1691496573_6d9a04e3-2d43-4c5a-8708-2f328587d225.jpeg",
+    "nama": "MERTI Y.R. NENOBAHAN, S.Pd.K.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "2e596f96cb04458d1c8a099c51fa623876ccd1632cf1b60bc4af3c4e193cce9421be5dd3b078236a8399ef04553736a509de534321536aab8fd651581e13be4bSJt4obHFJyC4udToaaLy1m8VarWKBXNY5zLNgH09g2o=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659262742_LOGO%20PBB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 74,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/85695/pas_foto/5302021304830001.jpg",
+    "nama": "GEOGORIUS A. NENABU, S.Ap., M.M.A.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "c43ebcb2a820395fe7b9abeb5ad92842dd3dd5bbe495311bcea0f4e60439156596e6a67807c0e4161b97ba745c9a4d9f773b84c685fd2bfea9707417dedd099beceOsoSmJDFhFpVJXv2YHG26n8XEY/d0RHFCsuXsDFY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/85695/pas_foto/5302025011820002.jpg",
+    "nama": "NORLINA LIU, S.Pd.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "2454d909c3a4e4ebfc21132e621b02dc5faf43ec2a4401e716222f96a9e4e578b70197ae15d107f46fb985138a0a238e58e6db23a13b36872514de039a6e3d19RkDSGuZKMXqybeBcueiy5Pv/lEJbvUkjwoBc2v6fvH0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/85695/pas_foto/5302082710610001.jpg",
+    "nama": "JOHN JEFRY VARNOLD TAMELAN, S.Pd.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "f136ce572ee2243939b2570b57f8e1aa06aac6e8c5b7f17160755acf4f97abd0d40c82ede099fb8d4c4a42266073a3ff56b4f5e38682b6727f80f74680f661a5qLL3Uwh+Gzj/3ZLVEBFthrpS2ahuI828jYAr2aQC448=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/94263/pas_foto/5302082412600001.jpg",
+    "nama": "JAGA LASARUS",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "b77db1b589083e473dcf65a1f9eb4153803f913cf975ffb0563a3e77e31f2cfa062474a5c90a6c498eaff4d0d82bc9f1be7358a70d21b5cb48b1f2bb231fc67begKkz88lYvHUlYRdD1TDaPqpZsy7/Vxfs9ivF5yNB8M=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/85736/pas_foto/5371045608760013.jpg",
+    "nama": "YULIANA A. OTTU",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA KUPANG",
+    "profile": {
+      "id_calon_dpr": "21bb5315cf3f163996a31a7b20590ad72a74562127f36bf400f49678f4fc8c2cccbc1f90cba8e17b67d61e44b8736fd87088325b489164d80787e846455d3287dRHVN4o0RpzeYxaLYPr5rDuHSvRf9xCRPp8WS0XibqU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/85736/pas_foto/5371020401650001.jpg",
+    "nama": "MARTHEN BANUNAEK, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA KUPANG",
+    "profile": {
+      "id_calon_dpr": "3b22b9ef181c3aa4e0359ca1de0a9b25133ac9d4f9026876905a83f5aa8296358e52bfd1293504a2f63e915c3a9fa86135fd7a9d2cdf0307630a8e8ffa5bef06WReiXIjqV1aijHXV18MHqXfy+S1XGbc/HYCZj68j42I=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/93057/pas_foto/5302050101650002.jpg",
+    "nama": "NIKOLAS MISA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "5b01246ab94f19226663bbd107668cae079721082637b15091e12b7b9f0c66b6be5d7a4228e3d71632276d144fa966649e04f52dd7977af334153a77e4e729eabxegrZZpC5qRVa+zCTmnwiNJ/efXCvO/8M4zn21SQbU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/85764/pas_foto/9171021907570001.jpg",
+    "nama": "JUSUF DANIEL ALLE, S.Sos.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "JAYAPURA",
+    "profile": {
+      "id_calon_dpr": "70a3c87f84ec7a466ef8107c45eb3d6dfef71afff2c38de1f79d6eb4879c397867dcc076944a0e6f254310bf682741e29b5a3f3ff8e6ab795d24a7008977cf21II9GR4sVCl8m+rTF6uuQ16ND3QD6741ortTZorgv8G0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/84577/pas_foto/1683434664_abc3b0d8-c68f-406f-b135-330307017252.jpeg",
+    "nama": "JIBRIANUS LIUNESI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA KUPANG",
+    "profile": {
+      "id_calon_dpr": "5c1f1b314294fbc9f450f312dccf63d063e7a4ec70e177cff97be59acbc612c055a980cdfb91ca23f02757b9da817c5b845da5be4820ede185f57e9650e0dbe7UcNA9ORcCjagrfjKyTL2Re5ByqT50pZmYF3KF6eUZ+s=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656419883_logo-10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 76,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/470417/pas_foto/1691574973_a10d6e79-f593-45cb-904b-95267568c2bc.jpeg",
+    "nama": "Ir. GODLIF YONATHAN NUBAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "0faeb4dda167390fb4468ded1f128dbd2f2ba9c7d9ed7f18a776cc8b1676a475cc47b654165e866a4382cb6b4b2651b8b85b3b7d2198d4408d0fd79a0ee8b8c0u44q/K02R2hq4jC/LO7KIwlIg4P3V4KdselWfeMjeHo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656419883_logo-10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 76,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/85206/pas_foto/1683435984_2c4723e0-91b5-4144-a6fe-c2ca4e9ef16a.jpeg",
+    "nama": "YOHANA BULING",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "c27a288f2dd2da856cac1f3465a3d9be7be2fd6d9ff5d9eb8531f1ddae7214a3904ecd89d97d4d4a095ae533edbe3bf75c3b282dd274fd56db8ad8013d51e6ccBX+DfMPxJnNmq12oqCH8LXsf3t0ZaNGKNkDzH95TE4Q=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656419883_logo-10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 76,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/85587/pas_foto/1683436278_61afaa73-c466-4e0a-a505-1b85c6510eae.jpeg",
+    "nama": "AGNER E FAOT, S.Pi.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "04cee0834998f24b994e731bff40dd0662fa5ddc3c9404ec54664d174fd15ebd6c9a2d2041f1e83534e2c849e9bc69895a9446cffcdff98a51dec28e6f3a1973NDF8G7Qgy9PIbyvHowAEWD3hi3udK66fzNDbCUqyrdo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656419883_logo-10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 76,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/85883/pas_foto/1683435548_69d55b05-ac04-4a12-aaa3-df333bdf714a.jpeg",
+    "nama": "YOHANIS MISSA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "2596fbe2c1bad81656360685f7b203d3f061eb779dc3f04eedf9d2a2b57c1bb4b8fe6f2657f84af147fad5b28d8c7e972982ab687941f6727e9dc7cdf8e5d171wvg8Ui7RQbIQxy2kqhRn5KlDdkT/+b4d9sLmwHaTv+8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656419883_logo-10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 76,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/169310/pas_foto/1683586050_73ea0208-7887-46a7-8532-270b89a52c7a.jpeg",
+    "nama": "YOSINTA LAKAPU",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "56ca50cd677bdf7c8783313d08e5dbf890db66a7ac736311b20692370c2a4c0580007960a0a64f9a00764077fae50df403427ca68f30fd195b80affaeb5a2b8aWpAC+hqsAzPa3BfNR0MmHiscMP8wmcmsyF8C4SBoRuk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656419883_logo-10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 76,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/86381/pas_foto/1683434197_354cfa42-2a92-484a-9abc-5e2cb8a16667.jpeg",
+    "nama": "SIMON P. HALLA, S.Pi.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "9bf6cb800aa130bdd1eba4dc52d818d73a06edeaf50557ee061703c454d72f85083c67b2fcb330d295dedd4e7e39f16f045e3d5f51d1751d355d47fbbf2676bfwfphI66pOwytPliOZzmmWe4wf04qUQys641Xx/5SDL4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656419883_logo-10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 76,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/86816/pas_foto/1683364991_5a5850ba-64cd-454c-a34e-a147813ef251.jpeg",
+    "nama": "LUKAS SELLE",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "fd0a2299126d68d408bd3d4dabe38943fbcdc107d499e3b2d492a2adea90f32d83470dc8806fa4d7735900dd52dd60c8442ac615dd46dcefa37d30569c6e7971SFR2MTceTOmiWDcgHtfmP5z6NVqGSLDOvlcag3Cwa2k=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656419883_logo-10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 76,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/185292/pas_foto/1688611954_a00d50a4-e859-4648-be72-9fb4b0bd2c48.jpeg",
+    "nama": "MARTHEN NATONIS, S.Hut.,M.Si.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "3d202ff7d86e0b7d49604ff98246f6ca738e8829126627d0efa0e1ff7b02c71b231b6b2aef05b1dcfbba95279e0cc5424b7da9bb3a089d68fffae203b0c304b6EC25fwVG6MsMDBGXmzAlmxGnjymcwjhmE5gYKwk6iYo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/194129/pas_foto/1683648898_cb038395-1b17-40cf-8bce-24584f6b8109.jpeg",
+    "nama": "MARLIANA LAKAPU, S.Pd.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "03d80600da4ae771edc11602db03b2989cdfab38aa8dd877efed599107596cbb742fcc99047cb0828b760b4bcb6d40f24f3e57f7472517a153345cbfcaabfbf1N465rMzTcos9ggwXZImvGHkBOK6o2/YVZ6QUZX9cZQQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/188361/pas_foto/1683649054_1a7fbdc9-f768-4e86-b0f7-41d34b0f35bb.jpeg",
+    "nama": "FEBRIANUS MISA, A.Md.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "8166f79643a7ecd18bcedfd2373ee880a371b2d5c96ab9d0e10133382ddfbd4669ce236bc1a3e6b1b1d89b72fc1d37f659d3d7c19a8c31ace1e3fc7ffc4852e7ujEcc40I9HKn9ThTq/0d+fVy7DCUNPPlAXLtKstpRcU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/191268/pas_foto/1683649150_bd38881f-a6ff-4f03-bc6e-257b8f650774.jpeg",
+    "nama": "YONISIUS NAKLUI, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "481288f594287aa7e1737b91de54afc109c74f2df535fbddbd7dc2dfaba3a747c7fdc30021980465afad56e0a5f74ab2bfc33e24e21b6300122d7ce7a0f780358AFsd3ezwDmo/rLhvc07NRTnZfVbFpl3HI78fRuL9J4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/186426/pas_foto/1688004159_3c8f4d63-2f83-442c-a67d-4aa3962f2443.jpeg",
+    "nama": "ELI DEBORA B. BANAMTUAN",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "0ec54a0ef4606acc44c204ff444045ef4c9ad48dd46577c81751905cc84e61c189178c1a174ad9f2351da7ddbc2f0663ca6d2f448f236b8fd60cfaaae0ed3ab5K6QynI+iV9f/+ARfF3qZzuypLLBsr/7LRLdQXWGFazw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/425709/pas_foto/1688363661_7bc982df-24eb-4a40-8a9b-0a157fa620b3.jpeg",
+    "nama": "MARTHINUS BANAMTUAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "01b4772f1132ec5f89e727e55f6ea3be7d554e148d7ead4ec4aa25732dd3176358893ffb3165a1df54608c3a5c1609a42d910e8379c2710a80bf49cfb561d1a0qJRpeIw3Y3liD9XjkaaPdbydV4r+bjywvle8dad0ncw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/193027/pas_foto/1683648849_6080045c-ecab-4130-b477-21c8acdeba04.jpeg",
+    "nama": "APRIANUS YUNUS BENU, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "fe9b0e3988cd99153ba7916938d4d5167e08a2c62430ec1df683f4b1f57b367e64a727c41db465bea1d3c828d5e8491d4b316f41b53b479a2df4b39e08a3459aVD6iNzZfUb/qP76c2a60+RzC0+9pQFBrTZTH7EVAN7o=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/436863/pas_foto/1688604824_566cca96-fb81-4615-a6ca-308ef26b4717.jpeg",
+    "nama": "MELKHIOR BANUNAEK",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "f756edb51c90382e17e56b3aae08a2ece809007e42a71c9eca0720e497f8b985a08b11cbdce0676817924984ad349315bec71e5e5620bba0839a10d3534d1785CIoQ9qT+7pvWg1boJ77SImoa2xuVLZljneg3xS5CxDg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/286732/pas_foto/1688302219_29544392-ebee-4d05-9774-7e54fa7e0b34.jpeg",
+    "nama": "IRSAN NENOMETA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "88a9046c468f301e8469712851aa5da77819a61af4405eabdb9129273e89a339e631c9781031c892ca16bf5be30c397089c4bf9495950a7f0b4f2e44f08c5581r/HC9X3xDNSgj3EalQpPz/yb0NXot4PBc+QT5d1qa1g=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/448564/pas_foto/1688829542_cd467732-8082-41bf-9f87-72d2c4b9aaa5.jpeg",
+    "nama": "JEFRY ATTY",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "07d949c4a38c44ecca3cd4aa5bd582cdf63c9d1e77feb24e4890e39b74875e26df4e1c80c52468be158d3ab9bc22816a3c8fa74f0d152d1f84c749155373e465Qjzz5zhLt8+KV/kfTB1MjRw+5Ger8JoH42nsZEyfAlM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/323316/pas_foto/1688302529_af225320-d8eb-43f7-8544-5f59f7120b4d.jpeg",
+    "nama": "INGGRID DENISE TALAEN",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "17d4e191097f4df31f33912cecb766cdd3db6315bc117ada01f9528143f1606e960a809d797abf4d3e6a1672660138ddd67f3034bea6bda21a4116cfde7f3407GS50r+Bqv+zdpUNJRMryHthmen7shGQII9tb5iJKV/k=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/312001/pas_foto/1688305062_334f9520-9a67-472d-b1f8-a0dd3d600959.jpeg",
+    "nama": "DEFRINIUS A. SAE",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "02a07eb4466d8ad49cc502a3bc99ea297bfb89cc8ab17e0d8cd4cf2ce6b750ca170bf5e0ff2590428e22f71bf41a9f92d9a58632f86fbb2a91f3da0b76fadbf16VhZWVHEVgXfIEBAmgbUsI/s2StYk4CRvni8oiNQoZ0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/474134/pas_foto/1691675290_aff43d1e-5da6-4471-949b-98997300258b.jpeg",
+    "nama": "JITRO JEREMIA ATTI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA KUPANG",
+    "profile": {
+      "id_calon_dpr": "ef93bcbb6a09f56d76ccfe01d18555f2520c3f48d4bfa3144e8b1e1c4bd426008eac3943050f44f2b7c02e9bdc08fde2dcf0cbbe22b396b57ce99aaba11894530DURWHXko+LVRwfWSJTJmcwpr7GdjLjjsGZ4YTVjgEw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/324909/pas_foto/1688304808_ddb56114-215d-43ff-9930-313a11d9714e.jpeg",
+    "nama": "SELFINA  MISSA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "db649b8f79342208b276dda913c0d600f2204437d69edef71198ab2815f5673b7e7e86f1263a3d8a41c9aa9b03e02579d354db89c495d9590ed94fd9c740d0c5WCVBZaxUhR/Sz0/I7+qENoZqvG3N6BunG7gIOsGQo7Y=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/482926/pas_foto/1695980389_bb5ceec7-981f-43f8-bccb-24bce49f959e.jpeg",
+    "nama": "YULIUS TAMONOB",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA KUPANG",
+    "profile": {},
+    "id_partai": 11,
+    "kode_dapil": "530204"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/287863/pas_foto/1688303273_918b8a14-6259-4ce4-a119-e494fae11704.jpeg",
+    "nama": "JONI ALOSIUS NOMLENI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB TIMOR TENGAH SELATAN",
+    "profile": {
+      "id_calon_dpr": "86a866d5869e84ec4dd9365464e122ba9a8a6bb675092abde1eee724819cac6c52494e3ba6eed69212fcbec44703ffe5e9c12cb199b2a2105c0808947aaf6460sdSGh4uSgYof3geHj/1WOawYAL/PHJIU5KfV6tRrPXQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "530204"
+  }
+]

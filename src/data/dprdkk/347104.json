@@ -1,0 +1,973 @@
+[
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/34824/pas_foto/3471042812850001.jpg",
+    "nama": "TIRTO SAPUTRO, S.H.I., M.Sos",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA YOGYAKARTA",
+    "profile": {
+      "id_calon_dpr": "f6054a57edc5daabc2fcce1dcd43d1d881dd169fef2cac6376db65969a95447713abc73e6dc942bccca4df627858f811d3c9b16a29f323e7b229580d302a263bJOn3520MqyhZKDIQp23BlaNobP26ADZqjb+V88te3o0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "347104"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/218992/pas_foto/1688752240_ccbf08a4-1e3e-4a3e-9966-eb79cf997c87.jpeg",
+    "nama": "ILYAS P NASUTION, Ir",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA YOGYAKARTA",
+    "profile": {
+      "id_calon_dpr": "7f456606c542c44ae672354bcda1d17e017573ea30f79b9d9bc32ed59dc3e8a47badce78b6eff5b29acf2bfb9bc4afe6c41b3b17d56bee1f9d2c657d6113e4a8VsSuy2FJ2KkDKLL9UXokyK+Xxt5ntAmaqUtQsCg+88g=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "347104"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/218990/pas_foto/1688753290_3a9801a7-6b3c-4d52-baa5-125e91d7326e.jpeg",
+    "nama": "WIGATI WERDININGSIH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA YOGYAKARTA",
+    "profile": {
+      "id_calon_dpr": "20e27888366386e554029b896531c06e3664f1885c1d40957d225319b20700571c99cbd15cf077b115aa21b49d7d16f0829adc92d6e1c57d5ccdd7883c0bd7f2NDyLRM8c6l3Ffosh91ZhmwCoUKb+PaejHFhoZxukzvo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "347104"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/218989/pas_foto/1688753362_fd3c1c80-1f06-443d-bf06-f9ae96511a08.jpeg",
+    "nama": "SUPARTINI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA YOGYAKARTA",
+    "profile": {
+      "id_calon_dpr": "244dc64703bd8a580c63e58c61356d83d65af7e26452cd46ec1ecc6f02c0413b6b91ac0f425dd69d8f9d188b2def8cbbf5951b9b693e358c3e975ed283dfb657Xl21MDdAaaNNZ6x9myH49QctnlcE3l1n79iBnO+a1V0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "347104"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/34824/pas_foto/3471030411580002.jpeg",
+    "nama": "RADEN SUPRAPTO, BSC",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA YOGYAKARTA",
+    "profile": {
+      "id_calon_dpr": "87f86a6b68d6d1a65208a8460c7bd123b74e5a7dcc44aabcb2db5f775e3ac9b5a07f13594e416ead13b331b8b9fe8286e17733f09e8a7fbab04fb2717d9379edqKmDJbiIYK5LaWk7J9/hBHIfDRVUsn1VION+Sm3MQEU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "347104"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/218987/pas_foto/1688754118_82e02153-8f46-46a4-a226-1f5e3938f0b9.jpeg",
+    "nama": "HASTO PRIBADI, S.Ag",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA YOGYAKARTA",
+    "profile": {
+      "id_calon_dpr": "61361dd02c3c6f89c4fd535a39fb9200213286488bfe2f94f67bae82447da4def169004512e1d82e8e22b31079f586fdf9ad331468e7df91532850f4b7ab16e8J8eB7ktYoq06hg2LMg5dHszD3zu9HWVrIPmO1xR/96Q=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "347104"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/23269/pas_foto/1683729320_744f297c-c366-4825-9911-c9328bfd5a7a.jpeg",
+    "nama": "RIRIK BANOWATI PERMANASARI, S.H.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA YOGYAKARTA",
+    "profile": {},
+    "id_partai": 10,
+    "kode_dapil": "347104"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/23301/pas_foto/1683806014_54d881fb-509d-4c25-a8be-771061402536.jpeg",
+    "nama": "WIWIN FITRIANA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA YOGYAKARTA",
+    "profile": {},
+    "id_partai": 10,
+    "kode_dapil": "347104"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/23414/pas_foto/1683621151_f2f24a0b-4fb8-4bde-b547-d6f394984637.jpeg",
+    "nama": "TUGIYONO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA YOGYAKARTA",
+    "profile": {},
+    "id_partai": 10,
+    "kode_dapil": "347104"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/23332/pas_foto/1683772684_6e90f985-fd60-4a7c-9a71-62a1bbf5ef88.jpeg",
+    "nama": "VERGINE VIRSTA YASSIVA, SE., MM.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA YOGYAKARTA",
+    "profile": {},
+    "id_partai": 10,
+    "kode_dapil": "347104"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/23342/pas_foto/1683748815_3c86f86d-6df4-4f77-861c-216bae0b9885.jpeg",
+    "nama": "WISNU HARTONO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA YOGYAKARTA",
+    "profile": {},
+    "id_partai": 10,
+    "kode_dapil": "347104"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/23400/pas_foto/1683619555_dc28d24d-8918-42bc-821c-47e50741123b.jpeg",
+    "nama": "UMAR ANHAR",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA YOGYAKARTA",
+    "profile": {},
+    "id_partai": 10,
+    "kode_dapil": "347104"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/61980/pas_foto/1683442970_5630f477-398e-4cb6-b126-7f1eb3dd35d9.jpeg",
+    "nama": "HARJONO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA YOGYAKARTA",
+    "profile": {},
+    "id_partai": 12,
+    "kode_dapil": "347104"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/62029/pas_foto/1683439638_77c96b88-7c98-4f37-b7ea-8e7eced32557.jpeg",
+    "nama": "R MIKO PRATANU ARYO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA YOGYAKARTA",
+    "profile": {},
+    "id_partai": 12,
+    "kode_dapil": "347104"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/62091/pas_foto/1683385004_6ea670f9-18ed-4573-85f9-4363935812a7.jpeg",
+    "nama": "CICIK LISTYORINI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA YOGYAKARTA",
+    "profile": {},
+    "id_partai": 12,
+    "kode_dapil": "347104"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/62295/pas_foto/1683439675_6cea8994-1f91-4af0-b021-6c97da5bc74c.jpeg",
+    "nama": "ENDRO SULAKSONO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA YOGYAKARTA",
+    "profile": {},
+    "id_partai": 12,
+    "kode_dapil": "347104"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/62377/pas_foto/1683441422_dbabb28a-ef77-4d58-8db9-194d6e1fb476.jpeg",
+    "nama": "AGUS RIYANTO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA YOGYAKARTA",
+    "profile": {},
+    "id_partai": 12,
+    "kode_dapil": "347104"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/62460/pas_foto/1683441609_e1241fd5-9a2c-49ee-8ec9-1f7bcdeab85a.jpeg",
+    "nama": "OKTAVIA RUS PRIMAWATI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA YOGYAKARTA",
+    "profile": {},
+    "id_partai": 12,
+    "kode_dapil": "347104"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/257644/pas_foto/1683866124_bb902418-569b-4c1e-8dd2-0e5dec96ae5f.jpeg",
+    "nama": "BAMBANG SENO BASKORO, S.T",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA YOGYAKARTA",
+    "profile": {
+      "id_calon_dpr": "bf610b5339c183a7bc9f7bb21f7917e051250f4d35787b9aa6ab8e6d6c55d61487dcfb7e9a43f0bd88d936a10a6d478869a096bcf7f1dfa9e740e76d03bb99d6JjRkFbrSdbiHL/LRVL6iZ/GfIg3MTzIcjXPge+zqMKM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "347104"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/300645/pas_foto/1683831084_620c39ca-c2b0-4473-825d-f6996c911537.jpeg",
+    "nama": "NUR AMRIAH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA YOGYAKARTA",
+    "profile": {
+      "id_calon_dpr": "30a911e9a5154e89c31db9a0c3fa4aa0667f6b312558676eae14011d6223784b6f6c22984b2080fb87746652911cb50ccd493c948c78663204718613098a0a10EGNBKQAVufVZJiGpaNSJEGzsTNSJxddZt4GmxXGGvjE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "347104"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/277139/pas_foto/1683798365_edef8b7f-e353-4b33-b2c9-6203a295c882.jpeg",
+    "nama": "M AGUS BUDI SURYANTO, A.Md.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA YOGYAKARTA",
+    "profile": {
+      "id_calon_dpr": "8f5b9f1da41da9ece409879d946cb4d685fc9e37ddc8a04c654b428b4de8b8876c3849714182081dc06bb9235a606244433ac83e790e631fb7ee683f2a6443cewFAtNGvVR4/UnGv8zasALugn6Hk+3Dr66IiiZX4f2o4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "347104"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/292793/pas_foto/1688740747_4175829c-dc1a-4d6c-b218-d2e5b94a3e8f.jpeg",
+    "nama": "EKO SULISTYAWATI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA YOGYAKARTA",
+    "profile": {
+      "id_calon_dpr": "223ed2e51a9facd13a9187858701201c88505a689cb038005fbeab573acf5c038b5302a25ac99002c28d13839daa7e6870b568907c44f7f279e618da8601f98cFXiyRckTBjYrLzTlNzmx6j1vdEJLBhJ091TEOiK/zHU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "347104"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/325983/pas_foto/1683891299_4feee570-3f1d-436b-b8fc-b51c0892ef3c.jpeg",
+    "nama": "DEWI KUMALAWATI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA YOGYAKARTA",
+    "profile": {
+      "id_calon_dpr": "1a50a7c576440d26c2de2b23c2f0cc5e653299537b2a7fca10331959b2a7f009ff319c6f33eca9df0e362c6659e534b28d06fb4472647cb9620ba1ebe8164caboZD6B5EVZHL7VvVqVSasDoIBDmhDaASDhHp9HaLatEg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "347104"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/313189/pas_foto/1683872412_0740925f-d66f-4a8b-8597-537a10920866.jpeg",
+    "nama": "ENDANG KUSUMASTUTI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA YOGYAKARTA",
+    "profile": {
+      "id_calon_dpr": "a4243067cc579559172acc202657063d46efe31cef26829eebe13c2744964d66ade0e144e90f550e6dd890b90892e4a203784382e97479ff0d50b14336416676Svfi6iraqrWo0qrImSxuVR9rIMGISu5hMTRQkT4GsV0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "347104"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/15982/pas_foto/1682966912_c9b4d0dd-3855-4156-8457-133a74fb9815.jpeg",
+    "nama": "IGNATIUS PRAYOGO SUNARYO, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA YOGYAKARTA",
+    "profile": {
+      "id_calon_dpr": "d09803e6bf4e2874adfb141db97f6b3e48e730e5a9c57cf56b10ac8ccf4f8e2d6419161c09a1b2c89be86e094acf45e696755bf473c0ec3a95cd1b86f875a111DrUlfSQpx2qCco+UE7qG62ZPWUM0dWP1Yd94Vcnlxc4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "347104"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/21199/pas_foto/1683389272_09a49fc7-efd3-4d48-9087-a8b2284d5559.jpeg",
+    "nama": "HJ. ELLI ASMARANTI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA YOGYAKARTA",
+    "profile": {
+      "id_calon_dpr": "decbe69df7e73cbebb68c4038901b0c176c874d422347043036760f073258c4d5c1df90fba13a3fad9f2d2a223e4ae3a531084d9b03b9d50cecb198aecdff8fdKEaH/r7vXV8PDNhDoyvsVmNusKpoVnCyOXIjfQAdGJI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "347104"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/21444/pas_foto/1683311129_82f1358d-75bd-40a6-8a9c-f0b78abcf02d.jpeg",
+    "nama": "FEBRI AGUNG HERLAMBANG",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA YOGYAKARTA",
+    "profile": {
+      "id_calon_dpr": "e55bfd5714916fd35d5234a42c82313853fe47c678c4a9e63af22058a708f51103823541baceaa39884122d1b5388fb4667bb68346ad7d73b7aaa38d7d1ddcbcOQYmhwm7F+EbS/zRAGFy65a2lrj29x/CeeNqha8dzlU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "347104"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/21555/pas_foto/1683311191_dcc71e12-2654-4a26-9d7b-912252519676.jpeg",
+    "nama": "PRIMA HASTAWAN, S.Sos., M.M.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SLEMAN",
+    "profile": {
+      "id_calon_dpr": "9e537e3ef79d460bc57e399f9dcecb8f564e57c10ce895686937110099d62154ab9c7c90c6863c2bab59673390d4ab40db361c1d5d94ff61afe56b90effa3cde4C8O7k/rI9H9lQS3YOTLbuXaRinMw5IYHjREc/zALGk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "347104"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/21931/pas_foto/1683283816_7b72d423-50a0-4829-998b-1d928ddf7046.jpeg",
+    "nama": "ZULNASRI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA YOGYAKARTA",
+    "profile": {
+      "id_calon_dpr": "ac606bae3e5fa53be74bfb7eb5b8c085baff7a28fad7bc2e09b526f0ffdcc60e0112656eccbca4c8b0613c77bfe785a5b767a7d4ef7f4d7d2ba5c8cb46655055+Cfxpq4RePg2yVqikdtlrNvRKfFimFx+aKZmAX1LUv4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "347104"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/25825/pas_foto/1683283979_4334dc28-eb4c-4cab-968f-d6f9e01dcbda.jpeg",
+    "nama": "RR. ENNY ASMAWATI, S.H.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA YOGYAKARTA",
+    "profile": {
+      "id_calon_dpr": "ba2e041f65fba8af3637aec5d82827c8fc151dd5b93e15ecdea22fd9ec83d6a596e3fe9fe68c6fc71bdb3955e508b2e15f2c4aab7b6ebbda92ca2ca226f85d59TugHphPNTdIdEgM16NrMuZ+B7+K4mrCG9U7p64v8c1g=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "347104"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/453681/pas_foto/1688809669_744f5ff7-2caf-4398-8105-46d1f126f708.jpeg",
+    "nama": "KHOIRUL ANISAH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA YOGYAKARTA",
+    "profile": {
+      "id_calon_dpr": "49809843862f7be9f41ea5e4d4f6cab76c66461bbf61d0d58ced89c017aaf66623a0a41f62c11ee880dfc09b8dac164bf9eccf463d79cdaa18454cda8a7c1667ksuDajekC7Vo403fyDBXOlaijmXGB0xvRyfx1XrSsKU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659959325_LOGO%20RESMI%20PB.png",
+      "pilihan_publikasi": "datadiri,alamat,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 41,
+    "kode_dapil": "347104"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/393845/pas_foto/1688402837_da99a90b-32bd-45ac-83aa-0d3e574ff7c3.jpeg",
+    "nama": "TAUFIQ HIDAYAT, S.KOM., M.B.A",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA YOGYAKARTA",
+    "profile": {
+      "id_calon_dpr": "efbb3b3cd29d5bd53e2042eaac5f5a826e58d7031fd225de76b87deafd0c2e299555d58ca782afc2465481bf5851ca3d8163cb83d27058346935c4ed59a7772fl8nC/iiZqpzsqdxmlOYalLWBQ2U59xiJJBqFiQTuyC0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,pendidikan,riwayatpekerjaan,organisasi,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 77,
+    "kode_dapil": "347104"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/393843/pas_foto/1684075779_595ab6b4-9dec-4e19-bb8d-7b9e11a1654c.jpeg",
+    "nama": "NUR APRILIA HERYANI, S.Pd, M.Pd",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA YOGYAKARTA",
+    "profile": {
+      "id_calon_dpr": "26fbbe108c9448a04526ffcf32a500863eb223c5d3f7d3b3749d2a35b927890243d422df1e0602e3ea7203568a6b4307b63afbe01418af9fe3cc28e15e3ac1028O36a4bGCWIwR0NwNhia5WvgBe9p5l3uPcaRzlBHnYI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "pilihan_publikasi": "datadiri,alamat,pasangan,pendidikan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 77,
+    "kode_dapil": "347104"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/402187/pas_foto/1688755562_c5c7af19-e9f9-47dc-9e3e-a168144e6a0c.jpeg",
+    "nama": "TONI FAJAR HARI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA YOGYAKARTA",
+    "profile": {
+      "id_calon_dpr": "e7a6acd01d6fab11205c04fd3a9e3e2833333b979e19894895ac0664c0a7ee368c84870ca1ce12dc62466d854c1bbf50c42d02c9d34b1dcd4cb389561d7f445fDJeFNb1yWhd9wlKdDP6KmmAqrxPFDbJRjhqpu9ZdupY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "pilihan_publikasi": "datadiri,alamat,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 77,
+    "kode_dapil": "347104"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/9889/pas_foto/3471035211720002.jpg",
+    "nama": "DYAH AKHSANURIAH NAWANGSIH, S.Si.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA YOGYAKARTA",
+    "profile": {
+      "id_calon_dpr": "e67c822e0cb51328c07f4b26f0b297586ec1ed508da41f8e1b5f2d926cd9a3c9d3cb5b485f97d5e48f132dde2f96ce085aa73c44ce2b5ee0733b44871ab209831npbBdxHncYIyNKdjAusyfdzmXbQhRF3XN6pJlRp7a4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "347104"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/9924/pas_foto/3471040307950001.jpg",
+    "nama": "MU'ADZ A.A., S.E., M.E",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA YOGYAKARTA",
+    "profile": {
+      "id_calon_dpr": "6048f25a6a3899dc14550bbb5aedcdd1a254ff3af7a7d91accad484ac3a536c2befea242dfd98e4c4c2d36daf65b831fd88aaa4e22a799188e928a5cc1c21c785JdiJ6ANJF70yFx2wQfcN+KTwW/NOULUZDYxNISTZU8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "347104"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/9933/pas_foto/3304190705890002.jpg",
+    "nama": "H. WARYIN, S.Pd",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA YOGYAKARTA",
+    "profile": {
+      "id_calon_dpr": "7073de4cbd791c1e48b85110d7958ad7bd64da1e1e022bd46842fa24847e81877659e972d8142a89599479e578d6657739e747d1cc587b031fc94acd7b405631Io/xU/w6EIPEevbgR9f8dc+NcM5XdJIegXhVpreXTFQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "347104"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/15370/pas_foto/3174091112860003.jpg",
+    "nama": "SIGIT NUGROHO, S.K.M, M.B.A.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA YOGYAKARTA",
+    "profile": {
+      "id_calon_dpr": "33dec5c948d7bb906ad34390e994e6ce83856f97e028a19e1e1a91dca5da3fd2ec25a09311fe4047c4cc8fb1bca0f0556aa6cca6ee1e8126f9591ab086e41b27knKnfHL6pTHGpvLqxyFL1ivrA6XsZahqtd4s61t5AvQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "347104"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/482578/pas_foto/1695960622_2d735d4c-d934-41f3-b51c-a7fc47eb4dc3.jpeg",
+    "nama": "DENNY NURCAHYO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA YOGYAKARTA",
+    "profile": {
+      "id_calon_dpr": "e6afd031d49321b598bab253f66575e5c8791f19a5899f5af9ff6f3bf10e375ad0178ab03d8e806adf778468d9b1c8e1cd721fee7e42f96294725e1591aa28397UO1qqIjfr/Frj6/L63PqTZhICg2nFsNjwrjcDxbiPM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "347104"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/9924/pas_foto/3471046203800001.jpg",
+    "nama": "NUR WAHIDAH, S.E.I",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA YOGYAKARTA",
+    "profile": {
+      "id_calon_dpr": "900d20229efacfcf9325d7471dcccb7c7e3decec5a64449f5ae29c24f6950e25d485edd14eb0fd6f0c1bc779b32760cfdd828f74ae29f604b68f523a6fd54d8cEXCKuopff4csCg6OAEIkHIoUzU/c5VHoGYQC08hZmKA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "347104"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/473614/pas_foto/1691663875_62615d93-6970-4ffc-b460-160cb47d2641.jpeg",
+    "nama": "SRI MARTIYATI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "SLEMAN",
+    "profile": {
+      "id_calon_dpr": "aa7f60cd641dbd35159e58fcc25759497674fabcc2d997018794c14bda45a0cf67a6918ae12b1fef9c6b4f597841aead859e84735dcef2d49dda85ada4ee0106dnWh/NWFoR+lSd+vgFBSglfNomwxBdGRVEiKf1v3Iig=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656406064_Logo%20Partai%20Garuda%20square.png",
+      "pilihan_publikasi": "datadiri,hukum,pendidikan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 44,
+    "kode_dapil": "347104"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/124583/pas_foto/1683704477_754d1fa3-06c1-4815-94be-3f0a4842153a.jpeg",
+    "nama": "AFFAN BASKARA PATRIA, S.IP",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA YOGYAKARTA",
+    "profile": {
+      "id_calon_dpr": "5a4544c84e2c9a55f52b8f457fa7dbb9608c5a9d55fa139ab4ee6921b79236d65378f69d3723ab40efe7c649c77957345bd17d04a653161e36ffe2c079518751cozTos8lXmDJxw6I7817U477766F61QbzmXFP/jJVd8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 7,
+    "kode_dapil": "347104"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/124984/pas_foto/1683711932_5955fd59-c691-4827-8750-ba91ce46b063.jpeg",
+    "nama": "Dra. SITI ASFIYATUN INDRAYATI, M. S. I",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA YOGYAKARTA",
+    "profile": {
+      "id_calon_dpr": "a3636ec83b636f68f625406f878a917caaf45008bfae08b936880eb9ada22b38fcf746d15733db22acdf969660b960431aa697f47a239bf67575a996f3ea7dcfLifv/9ZOWynq5ZzUuBM15h2GinAgR4/pt6NY/EgITOY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 7,
+    "kode_dapil": "347104"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/125471/pas_foto/1683710463_009b448a-1f89-43f7-a534-297f6d98da62.jpeg",
+    "nama": "DWI RAHARJO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA YOGYAKARTA",
+    "profile": {
+      "id_calon_dpr": "628d086ee2578a7bf8d7a10e274048d95d6a865c38f1e3e12ecb09cf0b75dfab9a5a04928fad9db51016e40033b65a9147c8ecb154d3b16e03730957f74f84c2h5ZFgq2aCifovIBKdsQg0cFSTDa1yuhLt1hiBUqeiKY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 7,
+    "kode_dapil": "347104"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/126089/pas_foto/1683711796_32aa96f5-ff9b-4596-86bb-43fdfbe3fedf.jpeg",
+    "nama": "HENDRA CAHYONO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA YOGYAKARTA",
+    "profile": {
+      "id_calon_dpr": "9aa6b35164a42d2e2add11213f907b982c8b5ea1e777a26e1892590794969e52d64cded3866516321680f9805d9de989bc28cebb17a87cb00220193eeb5e8e42fxcPEYTI9hjvdad8NXgrHey35DFJdD0q+IEqd4syGZg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 7,
+    "kode_dapil": "347104"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/127197/pas_foto/1683712008_dc021db2-49d8-4ad5-947a-8d1cdad5f7e6.jpeg",
+    "nama": "ROYAKI MUKHAROM",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA YOGYAKARTA",
+    "profile": {
+      "id_calon_dpr": "671de801a06d7a1fc09aff13e78bdafd4916efa19eb03f8a83294e3e04ac68883b4e3475bf61efb28dbbe9f523512a7a6f16bdca6af9bf5b4f2ffc1bea6f2d62fEmOZ1VF6nQ0LjCzdxc6laEpDIwCBzcGQqJlal30lZQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 7,
+    "kode_dapil": "347104"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/127791/pas_foto/1683705559_531b1396-5179-41cc-becd-10061820212d.jpeg",
+    "nama": "NINGNURANI, S.Psi",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA YOGYAKARTA",
+    "profile": {
+      "id_calon_dpr": "09de4af35909433c3a2587786e45677d6bf565d7d4de115347f85bcff67efe811962ab74a440577f4664b68372bdfb8150544034dbd93eae5b0513ffc90547dfSpcgXstCp9GITWtHL1YGSC38DnQEDwvL38gHXVaeHA4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 7,
+    "kode_dapil": "347104"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/211994/pas_foto/1683880177_63901bbf-1eeb-494b-9a70-0cdd8f489a88.jpeg",
+    "nama": "FITRIA ISTYANINGSIH, S.H.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA YOGYAKARTA",
+    "profile": {
+      "id_calon_dpr": "4c09f6ef64e00384a83fec470f4030670b5571dfd07665a12abced3c4e46f88fe02ad726a339181da16e6edea8e50c83982c5debf8f265d178c1574608ee26984R6XrFavzQlRT7W6UFdsK8kBdk6uxIPVDoBfgFEwgT4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "347104"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/211996/pas_foto/1683878075_4b87352a-ea53-47bd-8bd4-be5ba344d3e3.jpeg",
+    "nama": "SENO PRATOMO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA YOGYAKARTA",
+    "profile": {
+      "id_calon_dpr": "637c39ed0d89a9d019519f0a626ddcd4c402e121ea7a1fbec6d8f652f0d5572eb28ba219616a6c20e6ad76021507a0cda416caf434f1f42c08b9d96a6dbbe5acTHCI046MWSJbJae3COdLjof64Y3sztDI+tBIrhbfUf0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "347104"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/211995/pas_foto/1683878099_9df49c76-b6cb-4b64-8ff7-04fb7e753dbe.jpeg",
+    "nama": "SINGGIH JATMIKO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA YOGYAKARTA",
+    "profile": {
+      "id_calon_dpr": "c5199477702a4d31c7ec23530e8e311617d9f70c47c31cedc98b9184cca9ead0b02c6b880938ed5f146727b4008c35d3bc7c02504403096ff099d92aa72f77ee1KDFlKItkcif7vIkzG+cbFcvtgtif5NTJ9x2UpuKunY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "347104"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/211997/pas_foto/1683878129_12be7ed4-d846-49c3-bafc-b359470d695c.jpeg",
+    "nama": "RADEN MUHAMAD HARYABIMO JOYOKUSUMO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA YOGYAKARTA",
+    "profile": {
+      "id_calon_dpr": "4197aa695272c2e35a50089c901071b8a411d6269e0282f48732970570741d4ca041b3d137a2055fafcc45df2d32227e983c4d6d7b6ef34a9564febfda7b93eet6rU/pMjH2Y2gXOknbRJLdKDt7O15XaS43p6X/VUaVo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "347104"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/211998/pas_foto/1683878153_2a02525a-540f-4bdb-963d-1dc154d28557.jpeg",
+    "nama": "NUGRAH VIDHA ARYANI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA YOGYAKARTA",
+    "profile": {
+      "id_calon_dpr": "b72cb7befc7e2601daa1613eb97fbb1812116e01ea9b04a5eb82161277198bc850af8ff505863b503613e692a2400ab4429d954b58ac665835dda04d0ea30c8fgDZk13yWTYNbWefE7j3mOYtqNzJtz6jBmXzGsbd0nrc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "347104"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/322468/pas_foto/1683910134_e8767002-c01d-4402-8795-f104aeca021c.jpeg",
+    "nama": "DERWIN NATANAEL, S.Psi.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA DENPASAR",
+    "profile": {
+      "id_calon_dpr": "ba83954494c9c62ebb5c0e521b7a1216a525f96df42a90707458ee540d91d9fff4b89384e8d7c15e65c31af71c5e059d07893af3a2e038983bc2f13e1d7d3ee5Rwh4yQJt2+GD5JV47TISbNSifWOpUr1lSeMYWAAc4gQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656419883_logo-10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 76,
+    "kode_dapil": "347104"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/191894/pas_foto/1683785109_1f402fb3-2d8a-4f2b-88c8-f74cb40d54a9.jpeg",
+    "nama": "YOSUA LAPUDOOH",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA YOGYAKARTA",
+    "profile": {
+      "id_calon_dpr": "c0a9d6884760787740a15e719c113a0514a6461dd30faf41b9083e72eed06f17d8213db92e9dff44ac2195657e332aad75f6aade61401a0eac86954a31960359rBcelnV+JJ3H0OE+QKsa0/lAFcjacDHx/dkfHvynstU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656419883_logo-10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 76,
+    "kode_dapil": "347104"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/195345/pas_foto/1683784469_7775fece-eecf-4e31-aed0-de1afcffb9f3.jpeg",
+    "nama": "THERESA NAUMI SUPRI. H., S.Kom.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA YOGYAKARTA",
+    "profile": {
+      "id_calon_dpr": "8c9db530c9ede121069cdfa13effb91625cd6af78d0e93dc8516f16e001db242694786d698228bcba47bf2072ba2d39258d61114d22b37b9cef1a51c3f09ec3ftXTWJ/8a3Nhnh4ExHmKzB6nsrRVzrBQm+zLOScf62Qg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656419883_logo-10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 76,
+    "kode_dapil": "347104"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/198815/pas_foto/1683786321_aa8e54b0-1cac-40ab-ad4e-81a63d704c6c.jpeg",
+    "nama": "NASTITI DIARJANTI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA YOGYAKARTA",
+    "profile": {
+      "id_calon_dpr": "03e84f145d9435aefadd93e7ba91990954698c4138c68be8f3c7b725b0b5db14fa15c9c15df720384295674c874c973c71cd1f481b70e013c2d3ebaff0ac4b352EwqP9oGO07tbrO2Gp8F9QjHrQXdl3s8vDKyeV7Rfn4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656419883_logo-10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 76,
+    "kode_dapil": "347104"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/300364/pas_foto/1683830091_dc6530b0-eedf-4048-a6e9-77b971e9fd32.jpeg",
+    "nama": "LINTANG PRASASTI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA YOGYAKARTA",
+    "profile": {
+      "id_calon_dpr": "d9a80d8cafd0ed3766d826f86d0002d39a904b034874d6fe37a921f2a75f6b37a1ef3563f9d774a2cbf2c50d9102776c01457f2fb03bcfb410f714a4235f2fc4skHHqwvZn6BQrvrlrbheu6lCD6oM8PfzQAZbdprOcaY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656419883_logo-10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 76,
+    "kode_dapil": "347104"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/189828/pas_foto/1683692107_08b0aae3-57d2-4309-bad2-10814a730757.jpeg",
+    "nama": "RADIUS SIMBOLON, S.E",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SLEMAN",
+    "profile": {
+      "id_calon_dpr": "568953b13f600985d276d0232a77a82f7a2ce92fce8cb8932d5f2b1e3c4040caab5f6f0d7b7190f642651f09976f888b13e6aae6d1d75143b20d18faad62fdb9ST2mtWIYa0cXMBgSr/3fkm08d6xS92B5lHJYFIi87+w=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "347104"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/234159/pas_foto/1688624022_f0ad552a-678e-4d93-b5e3-29c98d0d4c00.jpeg",
+    "nama": "RITA MARIANI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "SLEMAN",
+    "profile": {
+      "id_calon_dpr": "b7d5bd59227ba8d1e409012bb5b627a4606f0c9c05ef273aebe92fa11971b1f721a6d8ee4fe39ef27f9bffcc1e3cbe099f860a62e06e96a1fcaa318f3d6ccf79rw5f/zOO2kQ/Z1W0KDA9uOHYuFVrPf96dP7hUeCTBRw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "347104"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/234249/pas_foto/1683905114_abf24e7b-7cf1-457e-86e6-9deabcddb18e.jpeg",
+    "nama": "AGUS SULISTYAWAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BANTUL",
+    "profile": {
+      "id_calon_dpr": "23700bffe39f06194f85a61e502473e1c3b12c8f0ab59ef3d0412ae068a29ebc4d2747645756bc279eb307eb6a2c4aeb85bdab096bbb7515a555ba543b564240lUI01uAycAet6Y59AzEaDCzAnVXsvWXN1x6EQ+RJFDE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "347104"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/347547/pas_foto/1683926416_629d4f95-c1a9-4f2f-b4e5-3d2d0e40eea9.jpeg",
+    "nama": "INDRASATI RUMLUAN",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA YOGYAKARTA",
+    "profile": {
+      "id_calon_dpr": "773b472f0c3ba247ddb045c9fa016cd60ddf0f4993e623c8aacc75ad6b324e466aca568a71d1720f64cf03465b6b60d96604ed326c34676e0461729d35513eb2vXET5UlveLGjF+0GvQX9BDt3QGF5XCJgespDi3/Mdbg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "347104"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/234411/pas_foto/1696299526_cd84697c-aafb-4e3b-8ece-e542c577d6f9.jpeg",
+    "nama": "JODI HERMAWAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA YOGYAKARTA",
+    "profile": {
+      "id_calon_dpr": "320a3620508fb65b855181f501134d0f216bfacf7d7f6bace8bf09674e64168251fe2c42edecf3cb2a8f56a5a2a3a070f2eb876b2621549844abce33e5e5c748qXx/BAKpKSZ3FtV/peITakPmV4ap6ji7zl4Z3ONEeFg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "347104"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/322008/pas_foto/1683896147_6a455833-3c75-4783-a502-e6314d2d84c7.jpeg",
+    "nama": "TRI LIYANI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA YOGYAKARTA",
+    "profile": {
+      "id_calon_dpr": "1969d90039ee826b37090dbd4c5dfcd122fd68419839e201f13cc601e3afdcc003c8191f90d4b294b6fc73a616d4327037f31db8fcc23e67619ef2ff37b6e57cv0vQosSIaKpE7mvAWzhKRUEpM5YrKpMGGagwLUHqPlE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "347104"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/347786/pas_foto/1683928800_94d6a277-73e4-442d-9450-6087046f374e.jpeg",
+    "nama": "QOMARI ZAMAN, S.Ag.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA YOGYAKARTA",
+    "profile": {
+      "id_calon_dpr": "114f0eede2f95ecfe613462da0196d7dc3434168f7098ed3540ce269a7d12a2ccf51e9cb879814638b94a483b4922571fd974e9420b206bd810363e85d7e6dc0MoaH1PLoXK2XrhwuDmbinlk4jf6/3933jbdnRBITyuU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "347104"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/348564/pas_foto/1683935770_9e5e6198-73ad-441f-b38c-fa0189c65bee.jpeg",
+    "nama": "REZKI BAGUS PUTRO WAHONO, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA YOGYAKARTA",
+    "profile": {
+      "id_calon_dpr": "13a394c0bc7830ded681cfdcf69062bc3ced7b1ecebb3943357461f849a83a8192484009b897d7ac60548375dec18619576035e81e853fd73c71c3e42f6b76dcMsE+eV3lNm9hKWJT3Pwhl0DjdyCuCIujRP3DjG54Yos=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "347104"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/352293/pas_foto/1683948920_7f956557-e4fc-4cee-aea6-e670e5e3265f.jpeg",
+    "nama": "FITRI NURHAYATI, A.Md",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "SLEMAN",
+    "profile": {
+      "id_calon_dpr": "08c16306da6864bc379b6a73ed0a8170e10b9ada55bdf3ac4caa80e6443d4b413b16b0c244af22e8b5f41a711adbaa7c98a926885fec608f21d9365d127d1f1e7xiNb3Io1NtYYbL7JNA16X2rRSagAe79PhfGdGDdbiA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "347104"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/347902/pas_foto/1683930081_ce66bda8-262a-4b92-b6fc-10728a91326d.jpeg",
+    "nama": "Ir. MOHAMMAD DIDI HARYADI, S.T.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA YOGYAKARTA",
+    "profile": {
+      "id_calon_dpr": "bdb9b6b50b770218f85f8e19fa162c024e4f659f70a44c1370fb41603f5bd232bc5fe6a68a249e2d9a6d420501996aa3f4bbe0be279bb35e8a82d45c04944bd4rfuUm62zOBDWo8gthHTuIkjf1cihgpmTh6/5EJLf/Tc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "347104"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/454126/pas_foto/1696231836_ee3f1a35-fd45-4819-bc50-bbdaeb5c7dc6.jpeg",
+    "nama": "AGUS SANTOSO, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA YOGYAKARTA",
+    "profile": {
+      "id_calon_dpr": "a86ea06c4f1617ea266bdfb85ef44b568d78d80fccb1a6a30034b8059d9ec2e942f805bbf16776aaaf1b99adf627a0272e3e9049d07cd2102a5b8da314924824e7zjHoCMdqU50/q3vtZtLl5Dz5zrEyAIQ1x7WfvtVX0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "347104"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/348122/pas_foto/1683931740_f8947214-978c-4b3e-9953-6a623c1d55ea.jpeg",
+    "nama": "DYAH FEBRIANA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA YOGYAKARTA",
+    "profile": {
+      "id_calon_dpr": "a4ba4ac05bbe6909b474b3009a3750e81150994c7f0d7191f58b86136876a5220f3d9c0a310c035602fa6c70b4ad6b322873abeaf6713de10f024ec5488b1aafPCsGtMfpAN5T987dI9timfbzrN+o4TgZqbBFywmnCME=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "347104"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/70065/pas_foto/1691597217_91af4f81-cd49-4d8a-a1ab-cc037ab93acd.jpeg",
+    "nama": "ESTRI UTAMI, S.E.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA YOGYAKARTA",
+    "profile": {
+      "id_calon_dpr": "4f7f6a2cdac1f03fc516ac9b348e1ef6b51e2f3cd23bd472e67ec62d3019ec5890e301b6fc21420592fdff86947d144d4ec3f00d7e20cbc6308624c9ec5967d1xk81rreABBmHLuExn0rWe/ogj3JwxVTqYl92IlEfG0o=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656157120_LOGO%20PARTAI%20UMMAT%2010X10%20CM%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 78,
+    "kode_dapil": "347104"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/78733/pas_foto/1683344605_42974428-a867-49b8-94df-8205785cba0a.jpeg",
+    "nama": "YUSUP JAMHUR",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA YOGYAKARTA",
+    "profile": {
+      "id_calon_dpr": "8e3f0c729bf7d74058f19c44fbb4c2b77612c0520292fcfd88953b571382a83bb1e6beec504ba88ccaa5c0d798d34242f8b134c616a6341b55323796bd3c9cfaKa5+cDNgvpQfnOZTdYe3trrkMdZz3oSTY36AlAVJen4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656157120_LOGO%20PARTAI%20UMMAT%2010X10%20CM%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 78,
+    "kode_dapil": "347104"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/169692/pas_foto/1688555918_0acf6099-c79b-4ca1-aa74-b518d9f1f43d.jpeg",
+    "nama": "SYIFA RUFAIDA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA ADM. JAKARTA TIMUR",
+    "profile": {
+      "id_calon_dpr": "4f1508613d234733ce2f19f167933fdd3f95d22133d22fe9db47bcf974337940adc0e9b88597fc05461d8f0bc3206d7bc87632705bc50ca53c097dc6d9b79afa1OoQzrclXWhrLxuGskyL+NfGMxlzSrwwAAF1KCV9bzc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656157120_LOGO%20PARTAI%20UMMAT%2010X10%20CM%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 78,
+    "kode_dapil": "347104"
+  }
+]

@@ -1,0 +1,784 @@
+[
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/27136/pas_foto/1373023108770002.png",
+    "nama": "RONNY EKA PUTRA, S.Si.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SAWAHLUNTO",
+    "profile": {
+      "id_calon_dpr": "816dab707f355c4e254030b405c754f2d3d2ac72a4bd3bfc2567d62fd0f7c9c1869a6db066d0dfd287af94d5e239b91c4d04309e265302381b39323167411a41qXz87m0djXpIQjRsAw1cY7ywvDOLXR8uZAsCTYGa2PY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "137301"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/99618/pas_foto/1688064538_9a63e20b-762c-47b9-82b0-f98c1a4b265a.jpeg",
+    "nama": "SYAFRIJAL",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SAWAHLUNTO",
+    "profile": {
+      "id_calon_dpr": "eb55d2612c88dc16fa149e945011479d32707e767cad47ef64326103d6823332b11cbacd2fb0c5c82dfeef198072b2a7d8292f29947e8448c7de918888fb71efx7MXNU9ikOjrM9RY0zXxOmo10W47hrF76/HAOaaDKGk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "137301"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/27136/pas_foto/1373026503750001.png",
+    "nama": "YENSPIL HENDRI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SAWAHLUNTO",
+    "profile": {
+      "id_calon_dpr": "572b26a1dba2f38dbe13db103ec828c7230eaac3c1ca48766152b92bf06548b1ed671e6881205b71e7e3ed358299cbe74b085b93a9e7d79d7c17d2997a1f6140xUN3G0kzx3gaT/vU3aLymNgqAYEqKCK3Edi/6UVInm0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "137301"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/27136/pas_foto/1373022609750001.png",
+    "nama": "NURHUSIN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SAWAHLUNTO",
+    "profile": {
+      "id_calon_dpr": "e8815e01c331ecc62f92e98ae997a401a385681664cf3bec52724d5b3755694818b2c3a41885290bc15973621fb9cc9d4b2daabddaecc6f4538e3d05c5d1f72fCkaRtmUwyfL2Qb8xRb67dSxd0RfgwI0iiD/9eiAX+oQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "137301"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/99616/pas_foto/1688064701_1938e673-36c6-4e50-a666-65a5e43d4a99.jpeg",
+    "nama": "YANTI NINGSIH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SAWAHLUNTO",
+    "profile": {
+      "id_calon_dpr": "cb02320195f1b9a8471a6bb501f90c6dc1b37f46aa2f6f2e90cbb823d0b467ced72e6ce5a4b68cd5be695d44623aeb167a8f856165a245ce7d2f9285023eb099NxoAa2RijReCC/fq7ZHZm14r4z3mlcexeSAsShtGF2c=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "137301"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/99619/pas_foto/1688064745_366abf8c-6737-46a2-89c2-b9f5fd0a4630.jpeg",
+    "nama": "ANDI ASMUNANDAR, S.T.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SAWAHLUNTO",
+    "profile": {
+      "id_calon_dpr": "6d14262fd71cdc4ef83861a878a5232a731cd5f10485e3e712207944f6becea72689c5ca1cef0b9e235394d51f77c8a84a565a2780b8c93619e9c08bc9a5b9dcruVcpOo0d+ZQ4NenUX+4s7dYphrd3CWcYmPKUEOGPqw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "137301"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/289536/pas_foto/1691572250_2e563936-6ed2-4c90-a398-e228ab905011.jpeg",
+    "nama": "EKA WAHYU, S.E.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SAWAHLUNTO",
+    "profile": {
+      "id_calon_dpr": "2f80d913447afcf0857028a4a46fce438f4a5553163d7af1ee3afe16f9c8ac9384d93b490c5630bfdda69d27fb865d083dafc4d506f9c622ae4da4fb636697102ASNnTbYms1I+TMrNgTIXGQRh2SXY3FIP42Xv1xltmU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,pendidikan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 10,
+    "kode_dapil": "137301"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/335376/pas_foto/1691568765_e29b3816-7c6b-421c-98ef-0853fc2bdfc9.jpeg",
+    "nama": "H. DARSON IRIANTO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SAWAHLUNTO",
+    "profile": {
+      "id_calon_dpr": "58b3cb87bb02502a78dd5f1232325b4ceec85b68c2490797a266064e1aa3ab5f1c14c86e6c6ea0bd04983057072739337e3d2c48a247f54507a589e06142611dJ5oUttG4B0DQyks4T/ljlpapGkB0srW6rJe7GonnhEc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,pendidikan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 10,
+    "kode_dapil": "137301"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/261795/pas_foto/1691568691_c34b29d3-5bfe-4c55-a4c0-d3ec9d71bb87.jpeg",
+    "nama": "MURYANTO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SAWAHLUNTO",
+    "profile": {
+      "id_calon_dpr": "4f5cf72502bed1087320f92f98ebf65e2af391ef9f19843370a1624f567d7d3af4ff2571810a2af344b31907a1d40e7269518cdfc7658998a0fbdee4d7007314ySQIrfRlVC5ZOt7b2+v9Z8SKUSIBGFLBK25rItQ1V/A=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,pendidikan,riwayatpekerjaan,organisasi,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 10,
+    "kode_dapil": "137301"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/286210/pas_foto/1691555710_2c69f600-4cfe-4398-b058-756b8a227f1f.jpeg",
+    "nama": "ANDI DESTRIANTO BASTIAR, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SAWAHLUNTO",
+    "profile": {
+      "id_calon_dpr": "ea86b69b2d09934b5449a1279279fc80d88b516e5d953cbf2409a05a28a13ad8a338b2e4bc9243dd363d5f7682ad72184fececd23b6adda6c516c79ce1ace6adbVCXOjMDvTxAIBBT4lzXE085yl9WZtXf0N/7qy5htcY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,pendidikan,riwayatpekerjaan,organisasi,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 10,
+    "kode_dapil": "137301"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/313489/pas_foto/1683895219_c551ea4f-3c4b-4d4f-aefc-e42b13e0441e.jpeg",
+    "nama": "DINA PRATIWI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SAWAHLUNTO",
+    "profile": {
+      "id_calon_dpr": "aceed95035ec0048d4785b9d9dff7752395f85de9d3979d4aded1c51bd178ff6e79f45ebe2be4188d2f3a976475cd0fa4a000c832f4ca51aebb45624d305508d9jE9g5XmFMlQFeprZwCKK8hZwSGO+Xan2bBg0Cxk3+c=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,pendidikan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 10,
+    "kode_dapil": "137301"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/234590/pas_foto/1691557011_ea95ea35-bc0a-4bd2-a7be-6f3ac8148518.jpeg",
+    "nama": "FERRI AFDILAH YOMI, S.T.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SAWAHLUNTO",
+    "profile": {
+      "id_calon_dpr": "b09abbbc7adad98fd18b88cabb2aa83cd7d33cf20eac36e8c6609ed2cfa746371c3a77da3977c20fba809012b02761cf25fefe903ab7efc8e1babe0d6a4cc20f76Mi1f5PnbixI0hXLlPMYa3hJh5snNAVsxTGIAhHcHg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,pendidikan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 10,
+    "kode_dapil": "137301"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/248886/pas_foto/1691641502_c832116b-4f87-496e-860a-5ca85f3dcfb4.jpeg",
+    "nama": "H. DASRIAL ERY, S.E., M.M.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SAWAHLUNTO",
+    "profile": {
+      "id_calon_dpr": "28f75048bb7a8e9d914a1cc90b0630a336f804e66a107b6fdf18d2436080fe384dfa6223a12346c5e434b8d74a45cb9654b03c6a0bf56f21ef30995e2d68f017p+78yECWW5EEHW4HSjy8bAO3JyBdMQx1l3BYOQEUknE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "137301"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/248888/pas_foto/1687748685_77d3a93f-f573-41a5-86b6-5321cff4ce21.jpeg",
+    "nama": "LIZA RAHMADANI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SAWAHLUNTO",
+    "profile": {
+      "id_calon_dpr": "ea904e7d5e095cf7a4885a3764d685cca54a94054692923de94a70694a175905a3e33b2a881d7a9eb6d4cbfe55af1cbdda372991147f7c0202a2978598233612C7JQU6xV3DeWxmSk5GePgGp2CGmTz4vl50NOIAtfVqg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "137301"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/248884/pas_foto/1691588326_c0d566be-efea-4966-890c-c2ac0374ef4e.jpeg",
+    "nama": "ANDRIO AN, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SAWAHLUNTO",
+    "profile": {
+      "id_calon_dpr": "77cb5cbd62e7509d287e1949e7bc35dc3d4d7028da09f4a4c92dc8754fc0205377838fa632a6275ad25d4c90d630c07a03756458c972c220106d255a8c817bc7QjdHdQ8K+q6IZEFsnQLZlZBKlyFeLprUR6FhRbz5WIE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "137301"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/248885/pas_foto/1691387602_049e4a66-58dc-4ccf-b9f5-252243aa6565.jpeg",
+    "nama": "GUSNALDI, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SAWAHLUNTO",
+    "profile": {
+      "id_calon_dpr": "359c7a7853b821637e1be04afb906738357720b860d3904b5a27ff904ecb78ab3ed37d58afa8f31bb071ecf698714d95fc8f11435e51db5cefb83ba29199088cYLGI+gmTccbSuzJqFq8drKckiK3SLpmmqw89VG7Dluw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "137301"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/472767/pas_foto/1691655099_b12930c6-2a33-4f4c-839a-ea9d3925070a.jpeg",
+    "nama": "ARMIATI. B",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SAWAHLUNTO",
+    "profile": {
+      "id_calon_dpr": "2eebd1f9738d51ec1b0776d7f3bc12d3690334bbfeb06548b0c528d835d68f30bb1b07cd9c3dc436f0934b5b6c1387ceaaf7a02e0f089352545bbf9a198ed152F1lLAxcHCDnWnHPNjNremo3g2XBitIv5wV4ju9bX6g4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "137301"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/248887/pas_foto/1688527719_d6ab42ad-5b61-42ff-bd66-70082879ee88.jpeg",
+    "nama": "IDRUS SALPENI, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SAWAHLUNTO",
+    "profile": {
+      "id_calon_dpr": "96bbfd9e311b4b55e1c2dfd121cbc151a6a7212822ae2426a8b53dc0499a7bc5778dbcc4a3df1b9f2de16b06c162bbd46d9df089274211b5def56d551f86988b6UbFmLyD7BLlLJjGs4Qb/EyHOCZP95XdJCw1v+PpKrE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "137301"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/288908/pas_foto/1683813132_e9eb490d-d45e-4917-a18e-b8fb125b52d2.jpeg",
+    "nama": "HARTONO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SAWAHLUNTO",
+    "profile": {
+      "id_calon_dpr": "59de464dcc384718c582d2c5258c596cbd031b8210b90fad72d56d1dbe33fbc95abd8fdd3b4d3db72364070f0546052d783f083bbe1af5e4c4f46b7c4d1b5cdf0OW1b5skkkuxYTG14jd1uh9dpiPMzLMfgW8tp8LKea4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "137301"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/306498/pas_foto/1683852375_577ca9a8-6996-42af-b6ec-350811fa9b1a.jpeg",
+    "nama": "A. SARIJANUS KAHAR",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SAWAHLUNTO",
+    "profile": {
+      "id_calon_dpr": "da9e762cd35d61b4a970c0c0e0261eba546fc5c621eb73725c485ffb350a5603655ce586964b9e10030a1d3ad74ddb373db6a5acfb41df9aefb24ba8e1beab3ePA46iSMX2HYl2gU9H5TOSgq/llqwLAvCfK7ftu6z1L0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "137301"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/285651/pas_foto/1683809166_f0bb596b-b216-4cf1-aafb-729bd6805115.jpeg",
+    "nama": "SARDIANA, S.H.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SAWAHLUNTO",
+    "profile": {
+      "id_calon_dpr": "ad87c22c5156561136f1dbc28017368c87be02450aba5a6038f494b0d7bbc3e8a61f6add70a53069bac0e29409732080b2833840eaf4bdd69e81db95d2bb7419mwt+todQwKabX4PwP5yLvCVToDD9O5/0n6rTWGoVMc8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "137301"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/289655/pas_foto/1683814114_8c748c31-ba51-4fb5-9e04-b97c56ecbedd.jpeg",
+    "nama": "BEJO KARYONO, S.Sos.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SAWAHLUNTO",
+    "profile": {
+      "id_calon_dpr": "2ef36bc25d09836234ae9634761aa54c67e0ca20bcb754114fcd3a3d842bddc27e823ae49f068e7f34d80eac74bdd0a66c6735319218e27ab5c5ce6abc6d913885SukuSM3zfQ7vNgbwDDWCRNhMbSmAqiEWeHz/7fVe0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "137301"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/306826/pas_foto/1683853806_7083cc5f-6ca5-4232-ab87-f4633327fff9.jpeg",
+    "nama": "LISPURBAYENTI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SAWAHLUNTO",
+    "profile": {
+      "id_calon_dpr": "bf8444a66d121e29cf6828a6a2915f10a7d72fcef726382d29e1c31a51f3adb5cf16e7870169248dd34cae478383b0c3ec67f734af684c5e52a2acb12b0080e7GQdC5ThcwYwWimqMDzuUkLrIiH49dfbolSTA/a5wrac=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "137301"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/307440/pas_foto/1683855848_07232b40-3143-4c7b-ae7f-60a170bffa7c.jpeg",
+    "nama": "PRISEN HOUSE, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SAWAHLUNTO",
+    "profile": {
+      "id_calon_dpr": "c1e1116f5cd976874c9628b5b7198b7cac05d280cc5de35987c1a3b7bdeaa54a5c5afdeaf557839daaeecc54f8c66875f4177ca3a5fa24e8bdb78d2ebd7a0ef3xo1w9xpq9sh+9H2TXi9T8BVwv8jSPLfhJ0tBOhuedZc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 9,
+    "kode_dapil": "137301"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/18871/pas_foto/1691652562_50fdd57d-95d1-41e1-b801-5e711dfb9e26.jpeg",
+    "nama": "ADRIYAL",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SAWAHLUNTO",
+    "profile": {
+      "id_calon_dpr": "d97e5e3ca734535ff2e4231c3224b71a1720b4b1d55464da2818680d36c048593f808bcd06e43c85b7eecb7b88d47faf10efd75e88fa9a86170e4d868c83e51cvwTG6MuYMqnqdblVppD/aF/Q7nstSfg1mYXKKTegHOs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "137301"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/20277/pas_foto/1691661815_bb32ea6e-148f-4386-97ad-78e32b575186.jpeg",
+    "nama": "Dra. NOFIYETTI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SAWAHLUNTO",
+    "profile": {
+      "id_calon_dpr": "c91b39b28f2a449b04ad1ff2f5fef945c0760797d30b328b761386b040a6f752d6a718af7cdb57c54f9855afb03822db8ba777657ed423356bb47f92f292cd1cUaAjNHBoX5arIQs6PB1XYmtYzpDSMWsbWdslsrp0/X0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "137301"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/19264/pas_foto/1691481075_9b8d456f-6206-4cfa-a9e7-7a857afd80e2.jpeg",
+    "nama": "NOVAL ISMARDI, S.Pd.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SAWAHLUNTO",
+    "profile": {
+      "id_calon_dpr": "32b4d4d6e168367b3a40e8ff5e8f2b3f7be640c56e22d730c5aeaecd48caa72e7b5a754c5ef50ed677084fa238743eb231f98a3e33d043999f67ce2f1ee74053LL0z/jLjP8g2cR1OrjQ5/1dIUtoS48RIWNOvyNOq/LQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "137301"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/451062/pas_foto/1691661991_652f36a9-ce28-4465-84e1-1defc157a4b3.jpeg",
+    "nama": "Drs. SYAHNAN  SIMATUPANG, M.M.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SAWAHLUNTO",
+    "profile": {
+      "id_calon_dpr": "861c9f000ed5ab1e932234e5e56b84be983492b52fce322a1ed3248106cdecad8bb7a7d57d14da30057537f40ee4a76a28d7bf3d9e893c4d93af9cca291d0a82+5IiLKvU8WwxKxGXisqbL6F5B0zs6toaZt/E0wsro7c=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "137301"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/32640/pas_foto/1691482032_88dfc948-e8fe-4df8-b75d-84a7f1ad7e41.jpeg",
+    "nama": "FINDA YULIA, S.E., M.M.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SAWAHLUNTO",
+    "profile": {
+      "id_calon_dpr": "84828f6e54e162aea08b763bcde4a660dcc1af68497cd1bb20e73f488cebef673804c47dc8e216740a622c2a838ef6232be065380cae4603a104dd4446d59b3aCwJv8DgYNYb4Hp20iW60surEH041pPLjmPO0ckF+Be8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "137301"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/50690/pas_foto/1683896195_3d052ac9-c23f-4ac6-a17b-c653ac3a7495.jpeg",
+    "nama": "dr. MUSBAR, M.Kes.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "AGAM",
+    "profile": {
+      "id_calon_dpr": "40fcc9ad90a08512add9f592c3dec4fe15e6a3e898c113388f7f11b9f0be424d3ac5c6e3fbef6261a8293ce7e62318c01d25f05d62b94d11abeb75503c88c722lTM6sNtUsaK0sWGg0vNJ2j4mMgHeBEkbtlqPsEG4gsg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "137301"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/30438/pas_foto/1683726406_146e07d7-c144-49d4-80a4-b4ed8509bc25.jpeg",
+    "nama": "YUSRIMAN TAUFIK, S.Psi.I.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SAWAHLUNTO",
+    "profile": {
+      "id_calon_dpr": "de796de1dee7e6de20c21b671f06ad9b5f7d750b9795318bf177afad8fc16abeec930515525f28c10f0e677d4d983af816bfbafe79c5917f11f3d618e5f7887b9Ik4RuF4CwOIlV7BBDFRopoYXIhEvewr4L1cKr+cULA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "137301"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/32574/pas_foto/1683725254_42db373a-3186-46e6-bc61-678861213289.jpeg",
+    "nama": "ZULHIJANI, S.Sos.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SAWAHLUNTO",
+    "profile": {
+      "id_calon_dpr": "76155d472a2ea5394ffd2983a8da26b1ae834471545a0790d4a6511403b4c10cd94bdcdcc046c25d549136b59e07b0b97b587df8976a60a432e255dae5bdf8d6yyvWd3Jx3Hys9XqLtiJq0/YyZsP2UA0FsEke2041brU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "137301"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/30090/pas_foto/1683726485_a5c4bcd2-d83b-43ea-bd35-468ea5c303d9.jpeg",
+    "nama": "ERIZAL ARIT, S.T.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SAWAHLUNTO",
+    "profile": {
+      "id_calon_dpr": "cf89a64d0c0128e8baa46b434c2bbd0da745682fa2a9059e5a1c073a3525af0233d9b7ad61446f90eb5701edff3d977f58d44195ab278fc78e5dd7f10bf6cf4dfxS49KtsFzrV1F5zph5lOSjARu+R8z0axxwGD6ddxdM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "137301"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/30671/pas_foto/1683725584_576bb746-cdfe-4188-a4b8-e4970ad96f9c.jpeg",
+    "nama": "SALMAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SAWAHLUNTO",
+    "profile": {
+      "id_calon_dpr": "664912201a01f18d78c814e31fc47984ca8701c888728f8ade3059d09b8c37fa1cac2a57c7ee27f94e2148380f463f81c76f80356ede2cf2951cc1546f45cfe3e1t0vNRbEmRWr0wObcQOWyXwr98Y5hIbeKLrBmBicwE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "137301"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/44114/pas_foto/1683815678_a78f0801-3f4d-4093-a2a6-c8585c21884b.jpeg",
+    "nama": "MEILINA LESTARI ERIA SANDI, S.Pd.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SAWAHLUNTO",
+    "profile": {
+      "id_calon_dpr": "4c38d68ac387656c1edc4494ab47840f9b14a59f2d97b688e5000ee2b8bf127cc7fdc33dcb03b2df5f8dbfbc63a0ef2f4d7913fd079e2edfe9e18928f4b058254QL76M8lnOO3lQLOcyEk9nuSOvbADntDIUwFfy5oexE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "137301"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/31136/pas_foto/1683725468_12223d4e-5487-4fbf-81a2-7c7924c53632.jpeg",
+    "nama": "LAZWARDI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SAWAHLUNTO",
+    "profile": {
+      "id_calon_dpr": "811a876081494f530367c7703df13ab33972df2b6f758a4bee90aa22a34376db7df04e776afd8371c0e2cd07694c69efe4711c0973ffc5c465cc5ac90d9ad0746FZbqhmQK6RJgK0/ODwKlecCdQZ4h1ys5/FzTx+kaiY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "137301"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/86873/pas_foto/1691471411_8939463f-684d-465f-90ce-875ff7c57ade.jpeg",
+    "nama": "FATRIO NALDI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SAWAHLUNTO",
+    "profile": {
+      "id_calon_dpr": "4f7624c3cc9b5056486f3103e8c42b482429d6da176c4f0eee9b9769e8492107ea4e666df2fd8b42b260c28d57fb8b766532459cf2e46c0fdded369b840015e0D5bhFpZsCosaIy7byFX+ZI3MLkSmFWxDfloDE3fwO3U=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,pendidikan,riwayatpekerjaan,organisasi,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 7,
+    "kode_dapil": "137301"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/86900/pas_foto/1691637029_bb1b8fbb-8598-42c5-ba89-5070b72cbec8.jpeg",
+    "nama": "HASNOR YARSI, S.Pd.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SAWAHLUNTO",
+    "profile": {
+      "id_calon_dpr": "e28b3e1da549ddc44dec7fe8ab8730453a126978473c9cab71025658e38ac5a8111fdceb5462f3486e103b070db10268aa7494c14cef338a6c9581245d4d8d28zM5Om1MGaDIzrLc3uDg8tt6u2WtzhyG4Xh6/dnLTXyo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "137301"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/86917/pas_foto/1683626355_02db3896-7172-4725-a096-d8ca41aebe79.jpeg",
+    "nama": "INDRA GUNADI, S.I.Kom.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SAWAHLUNTO",
+    "profile": {
+      "id_calon_dpr": "d6dbc084a2f9a845d82401589828552a1e2f327e97fa5d534f24cb7d32f30c8ba7286fb423621e32ba8e5e794e6ceee301d6e6081111e2d9840ece8c04280064OEfm6WL0oevfzKUpQ/1CakkYvleScNNbFkFwBfeIhYk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,pendidikan,organisasi,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 7,
+    "kode_dapil": "137301"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/86977/pas_foto/1691475675_ea58358d-d649-48a6-b694-9bdae7601c41.jpeg",
+    "nama": "TRI ATMIJAYA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SAWAHLUNTO",
+    "profile": {
+      "id_calon_dpr": "dd286f45bb55ee5ecf5be5d889458e393aa1d857ffa43fa4bcbf20b46e3ea2266f676bf618304042b961fb195362cef45e424111a67c30cc580173f3588c00400UyGhuTueDEmcNopSJd4CN3bsVvzrSugIZ+Jwlf8VIE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,pendidikan,organisasi,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 7,
+    "kode_dapil": "137301"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/59526/pas_foto/1695714332_37cacd85-b88f-4b4b-8ab5-22d7820435b0.jpeg",
+    "nama": "Dra. NURYANIS",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SAWAHLUNTO",
+    "profile": {
+      "id_calon_dpr": "8920bf8d4749ea8fcc5cd4a087c3fe5bbc13505512026dcaa42a552abf2967549cc4fd1aea92268030f9deeacc0f0276e28111a826281453ae0fe1d37fe70c12IfVnTkNCubQPM65SRTEZkYEYgDPIORzN2KmxGe5gP04=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,pendidikan,riwayatpekerjaan,organisasi,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 7,
+    "kode_dapil": "137301"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/86943/pas_foto/1691643725_e9ffe460-9ad8-4176-af71-efeaf1713a9d.jpeg",
+    "nama": "EFFENDI BOER",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SAWAHLUNTO",
+    "profile": {
+      "id_calon_dpr": "fcd62eacf6df69394ada2476dd7f89cce661d5aeea02b34200a6a7b7bbf85619db0d9c780f0a6b6f8a18d3eeae530fb8f15b5d3082af2d059ecb6b39b2f73099dH2Z/jS5fhec5rNSuNfEkBA1zz81jxBaDTaeGdz+zOo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,pendidikan,riwayatpekerjaan,organisasi,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 7,
+    "kode_dapil": "137301"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/101149/pas_foto/1373024709720002.jpg",
+    "nama": "IDRAYENI, S.E.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SAWAHLUNTO",
+    "profile": {
+      "id_calon_dpr": "16a913c4109dceffd5df3e29a578159c9877e0b221d3de6e4ddc55352a30ca0ade05db9c7422e02a5a1918f4cb5a19b7941227e78c29bc035d88a5712cf322d7mVPoKUs28Rama81nEMuWsdh+9sSwsAanA5AXbM/z/LQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "137301"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/101149/pas_foto/1373026611920002.jpg",
+    "nama": "RIRIN CHRISNAWERI, S.Pt.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SAWAHLUNTO",
+    "profile": {
+      "id_calon_dpr": "0dfade8b42299133131cc16221bf4cab2582301a1e6faae5b184f3fd73867f92d5455aaad4764b157d4ac92c726da1e22ac9e3cfb78b9ff8a2f814edb5ac8583/3/27vRkY5xSpr8zmIRSFsw0UQj4ulOpTzgWs5WYIZU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "137301"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/101149/pas_foto/1373022206830001.jpg",
+    "nama": "IWAN KURNIAWAN, S.Sos., M.M.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SAWAHLUNTO",
+    "profile": {
+      "id_calon_dpr": "6f7bb97dd5500c150404e007bc0a9c70f93863735e0aa9f56adde39f79b825713283596d974bc6e3b03e1036458becba5ab263b370bd5d9e56b721ec88b9fb450whx4NvzKZyMWEKt9u5KtpLzBt+yWf+kIs7TTjRqqYw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "137301"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/101149/pas_foto/1373020609590001.jpg",
+    "nama": "MAWARDI, S.Ag., M.M.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SAWAHLUNTO",
+    "profile": {
+      "id_calon_dpr": "bf87cc0849dc4ac425affb1e55a4021c9bd6c74d47a39747eea79985fbb142c649dbc8f4f941a1bef4fafc3ab4e5182719a1cad306287d946c9f120331fac3fd7T88ExiaCl9YPo78eLveQBQNv/gM4GiQ0P7WhuYW5pU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "137301"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/101149/pas_foto/1373020702890001.jpg",
+    "nama": "FEBDY PRAMANA PUTRA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SAWAHLUNTO",
+    "profile": {
+      "id_calon_dpr": "9e7c5ad09425b3f2269a252da821bd0e3d5474412de1b3973a3907cb39db7a22dea0998bc80e9ea634cd67bffc66c313f9bbf77be1aac060fa7614c2ee2687fbxTRme0YppFQmRHIIRvo6u1oE1Pe6kq/mMKiuPZEZcp0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "137301"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/101149/pas_foto/1373024404720001.jpg",
+    "nama": "NURHAIDA N",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SAWAHLUNTO",
+    "profile": {
+      "id_calon_dpr": "25aa4deba32f8dfda90a102f5cf4d27f36f22a191a8401df17a46fc66a898d06233b7f722114fcfebc4637f4423c58da60f61fc019861671ee50fa4ac19285c88wBBJEcppj6eDr3fKfLh/bJhX2ridcIRCIohuzZqj8w=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "137301"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/26187/pas_foto/1683084611_cd3c76c0-993a-44b2-98fe-3d13f41e1460.jpeg",
+    "nama": "IMADE SAFARI OKTARIA, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SAWAHLUNTO",
+    "profile": {
+      "id_calon_dpr": "a85828c9aacf761d0700a1d886b6adf91d59fdd6a68f8a4fb38bfff270d8769faf1c4a21bee4c0765ed05e7671281e9af661ac7e7765d62043d08357d09004141QPB4i5BMj9IYGeSeulzfGcEkQ5yYeWAsAG3YSLp2vA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "137301"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/26324/pas_foto/1683177751_ca37ae51-e7b8-49da-aa74-680a52251718.jpeg",
+    "nama": "MUHARTI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SAWAHLUNTO",
+    "profile": {
+      "id_calon_dpr": "77d88216e038470193c56d6625de03ca4b88de79953c85c56821eb66faffaafd368950fa3158707af04d88c36465bd26f88b2307405adb204f847c568812b98c5A+nTS2BXipJUM6vGXXtbkMlOU4TtQ4bCYgLdC1QB+Y=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "137301"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/26550/pas_foto/1683177592_365e714e-d4a3-42c4-afe6-178984a49d5e.jpeg",
+    "nama": "NURJAMAL, S.H.I.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SAWAHLUNTO",
+    "profile": {
+      "id_calon_dpr": "2a1eb0a045d1daca05599a7fac5a16996fed09e3f264e0d35ec23f0a153f53f9fdca2354a7b2d3277eebe9a926b0824e0477ea46ee9f8752a09ba2a415764c13pHExvZRJgBUxKgpkNbkDr2RgkvnFeNVjGLOb+U1rrQQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "137301"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/26253/pas_foto/1683178138_3e602da7-0f14-4f7a-89c5-236600cc8876.jpeg",
+    "nama": "SIADI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SAWAHLUNTO",
+    "profile": {
+      "id_calon_dpr": "15f8d0b1cc371baf10a619c2a0fb9c32f527d2326d3101dbb35ce88b4267a81888f4b390849cfeaea98ecc0f74589d252653d7173b20428878bb81d7f3fc6431fkAy3Mp3Ephb56HDn+k4D84WsAx1C992Rmszl4YdUHY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "137301"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/26431/pas_foto/1683177858_ceb0059b-ed1e-4a5c-b733-35408c1428ff.jpeg",
+    "nama": "RINA LESTARI, S.E.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SAWAHLUNTO",
+    "profile": {
+      "id_calon_dpr": "4970f38c13eaebea77106db641046d63c67e141902f82e5cd58bb1e991133b386010949921ef2e67054bb76c83d6eaa17998018647622b412263274413a87971fpFsYk4Izt7YYoTzyl3QRvSEkATXp7BsmZd6mBcbI84=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "137301"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/26105/pas_foto/1683177281_4876066f-56b6-4f5e-a359-b9fee067735b.jpeg",
+    "nama": "ADRIZAL, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SAWAHLUNTO",
+    "profile": {
+      "id_calon_dpr": "db19599509eb9ee31f5534241ef9c97c66904d8649f8234b5f0f82ae9766b6bc94bb62b515907b2556c3f33ca2f42fd43881854404a911ef5b800f018bc4d249IgsAFAZqslFKE/GJiME15S7yWof8Fs7BKXsg0qic35Q=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "137301"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/436523/pas_foto/1688652889_67f47b10-cfa5-4036-8d10-541029c7f301.jpeg",
+    "nama": "Ir. H. ERWIN, M.M.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SAWAHLUNTO",
+    "profile": {
+      "id_calon_dpr": "286e907386779848c8f3af0f84e17ee38c8930d22097633012951fede4506807a49fedfac9e41779edf1ead0b1b9f317a865e01c351c42fea70fbc557d391c61d6Or0litw5X+pINAgyS0ZhnPL3IuR5/QLGU9TLxVTy4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656157120_LOGO%20PARTAI%20UMMAT%2010X10%20CM%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 78,
+    "kode_dapil": "137301"
+  }
+]

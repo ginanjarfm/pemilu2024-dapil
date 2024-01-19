@@ -1,0 +1,958 @@
+[
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/23843/pas_foto/1611043010760001.png",
+    "nama": "SAIFUL ZAHRI, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "EMPAT LAWANG",
+    "profile": {
+      "id_calon_dpr": "7a1305babaf8f3ff2e6fc0192c83b63c6bccb9f58c9cfb3f9751622b1b0755c438193514ca015419a1625444c42e85811f466183ce7815a838e4770e94d150e1V8mFw7O6p0goowbFJNQhLYP3AniykL/phjan/P7BSwQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/438413/pas_foto/1688628907_5cfc56a6-eb53-463a-8262-3afb43f10b4f.jpeg",
+    "nama": "SAHRUL",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "EMPAT LAWANG",
+    "profile": {
+      "id_calon_dpr": "7abbeef967d08bd2c5231948f7aa30a76ecf7862eedbb78dcc8e3c7429066487e92612e14e91364ff2552a153774dd75cf982ddb4556bdf711f01e874b631e794Zkya8ThLMX1K51WpfcFQ77mMwlxKweeAvb3u+hBOkQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/134115/pas_foto/1688621451_b4127866-dc0d-46be-83bc-439c3d63e80c.jpeg",
+    "nama": "FAHRIYANI, S.Pd.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "f52961b220699bdca817315cd1b5bd942008a62f8debe6bd987c1077a5cae3e963f34f41a57d5ca8ebc2776c9fc547db3384f67425ab70e866e2dc68c20284edWhzuskt+EOLyMVrz00EY9EPUZ/QVpdQ4bMqrlEhRAx0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/437552/pas_foto/1688618768_68ff5397-fa18-43b6-b6a6-3ab577d2c2bb.jpeg",
+    "nama": "CHANI ARTATI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "EMPAT LAWANG",
+    "profile": {
+      "id_calon_dpr": "81a3e9e6efcc2fb957d8edd572cc272f2722f5dfeaadee1fd82fb2dda0733ff4782778b01477e7d06b9bba09bdd97339042d84568576ab0fc0a583062517f5853vCsPhxY1e1j79OcOYMStdiVTqwTCn6pC0IyGzJrVNw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/438485/pas_foto/1688629629_bf39d1ed-985e-4dbb-aeef-5e33b9415296.jpeg",
+    "nama": "EMPRIZAL",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "EMPAT LAWANG",
+    "profile": {
+      "id_calon_dpr": "c1e47cbca78d37b7808f5b9116cb93396a79715c9d00ebb61a8311e50d81fad6b765dfc896e4ea3fc8170e366f803715fe219113d70e2e9512f8d0d17dc55c5eH74NOZ8/W+RWkkUDcsXMAmrjYN5Fy6Pv8GDu2lz0CvM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/134119/pas_foto/1688623187_ab2169ee-cca2-45e4-a099-cf756dd7809d.jpeg",
+    "nama": "TUWAJI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "EMPAT LAWANG",
+    "profile": {
+      "id_calon_dpr": "8706d0648f84addff70888e80647683dff91dda565bcd61210f91c0e5901ef5dec652299bd9ac2e11f5c0d2950eea8611d0c21deb54b59ed9aca4c1c3be2829dHozML0l5AQpxzRltfE0afz/7EuR+OeJ0Zs8pxuEDARo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/439676/pas_foto/1688641515_6153024f-ca3e-485f-9bfd-10add9439466.jpeg",
+    "nama": "NIRWANA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "EMPAT LAWANG",
+    "profile": {
+      "id_calon_dpr": "6dbe2fe28b4953d1cfc21a5ac58532b2ce29a3ef2e5522da03cf85554e69ef18fd696d47a69000b5b4a838b0da149a6841a0b7a2e2499176e615a97165cde4f82tbmDBRMII2Sd64/4me+fQX9vao0ON7M96/CIJmIv8g=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/439771/pas_foto/1688642405_234f7c67-fdca-4602-9642-fc9e14f7b576.jpeg",
+    "nama": "M MAWARDI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "EMPAT LAWANG",
+    "profile": {
+      "id_calon_dpr": "97cee22780322a598b9b025b32b9c064f27b73bdebb3b1600374610842f7aed4e89806818cfa9796198d5d5462b88ec4d1a6be790da177f6218ff6e11fea5eae912QEI9xIoPywhOT8RBbvmioh++bHAw820Eaxuc4vrc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 9,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/439835/pas_foto/1688643421_34cd359b-7583-409e-bccf-8f7b105b2898.jpeg",
+    "nama": "AGUSTIAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "EMPAT LAWANG",
+    "profile": {
+      "id_calon_dpr": "de79a9d1f630bc4eb8a45064a2e9b2cf9db5d3720575df7bdc28f7ce8e765292b07039bd475dd86ca11e7d7a73e7c71ab90e9c97dad6010981d2b1d23b989f745pCcIYcVXsv0gaznzTxPQzDTrjC0GbR5WngJD4dq4iU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/94918/pas_foto/1688462557_1a1249cf-41ff-46ad-a4f8-e2919ffb1489.jpeg",
+    "nama": "HARIYADI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "EMPAT LAWANG",
+    "profile": {},
+    "id_partai": 10,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/47198/pas_foto/1688651226_97005b89-987f-43bf-ae3a-993b7cdac934.jpeg",
+    "nama": "HERNAEN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "EMPAT LAWANG",
+    "profile": {},
+    "id_partai": 10,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/47174/pas_foto/1688628853_1c9a4d9d-ddd1-4ed7-a882-f06704138c61.jpeg",
+    "nama": "SUSIDA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "EMPAT LAWANG",
+    "profile": {},
+    "id_partai": 10,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/431438/pas_foto/1688628428_1c70efdd-f27f-4bac-8a53-0c80b21aa6c4.jpeg",
+    "nama": "ADI PUTRA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "EMPAT LAWANG",
+    "profile": {},
+    "id_partai": 10,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/431709/pas_foto/1688628476_a8692749-b648-41be-8359-52b7e966d953.jpeg",
+    "nama": "DARMAWAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "EMPAT LAWANG",
+    "profile": {},
+    "id_partai": 10,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/431721/pas_foto/1688628540_7eabff40-4534-49b7-8542-81c203e3d4fa.jpeg",
+    "nama": "LESI SURTIKA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "EMPAT LAWANG",
+    "profile": {},
+    "id_partai": 10,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/431724/pas_foto/1688628611_60bf458c-8ebf-40d8-aff0-d6a7b77ce0e3.jpeg",
+    "nama": "MASKA JAYA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "EMPAT LAWANG",
+    "profile": {},
+    "id_partai": 10,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/431730/pas_foto/1688628709_f143c5e8-3632-432d-9370-e983be60db98.jpeg",
+    "nama": "DINA DIANA, S.Pd.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "EMPAT LAWANG",
+    "profile": {},
+    "id_partai": 10,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 9,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/482609/pas_foto/1695961163_fafde080-3a1c-484a-8f51-c4ffbbf2b01c.jpeg",
+    "nama": "JOHAN SAPUTRA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "EMPAT LAWANG",
+    "profile": {},
+    "id_partai": 10,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/259580/pas_foto/1683794236_3fa8c063-1929-42b8-ad36-b5a701546ab8.jpeg",
+    "nama": "ARIFA'I",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "EMPAT LAWANG",
+    "profile": {},
+    "id_partai": 12,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/275599/pas_foto/1683795572_d89b02b4-1e83-4438-a5bf-6588dacd2c9c.jpeg",
+    "nama": "SAUKANI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "EMPAT LAWANG",
+    "profile": {},
+    "id_partai": 12,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/297947/pas_foto/1683824913_0230b021-339c-4f98-baba-244c752bc690.jpeg",
+    "nama": "SISKA SYLVIA, S.Pd.I.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "EMPAT LAWANG",
+    "profile": {},
+    "id_partai": 12,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/289125/pas_foto/1683813385_feed0724-341b-4563-8475-536be217d4e1.jpeg",
+    "nama": "IRWANSYAH, S.T., M.M.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "EMPAT LAWANG",
+    "profile": {},
+    "id_partai": 12,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/289857/pas_foto/1683814374_33425417-58d2-4701-88b8-e27f7aeb088c.jpeg",
+    "nama": "SULAILA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "EMPAT LAWANG",
+    "profile": {},
+    "id_partai": 12,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/276419/pas_foto/1683797293_08ad9575-3d00-4961-a6fe-4dbb7abaa965.jpeg",
+    "nama": "ISNAINI KASMIR, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "EMPAT LAWANG",
+    "profile": {},
+    "id_partai": 12,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/292615/pas_foto/1683819755_c53c4521-db7a-42b3-8a98-cab868538b88.jpeg",
+    "nama": "HENNY VERAWATI, S.E.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "EMPAT LAWANG",
+    "profile": {},
+    "id_partai": 12,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/295711/pas_foto/1683821668_5dd5c23a-0722-4f50-8935-fd9eb5e9acf3.jpeg",
+    "nama": "SAPRAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "EMPAT LAWANG",
+    "profile": {},
+    "id_partai": 12,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 9,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/473803/pas_foto/1691667841_a75081c4-27aa-47e3-9ded-14e3860b1cb7.jpeg",
+    "nama": "YAUMIL ABDULLAH",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA BANDAR LAMPUNG",
+    "profile": {},
+    "id_partai": 12,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/295339/pas_foto/1683955621_450944be-55a3-451c-b598-e5d70d4be4ff.jpeg",
+    "nama": "HIDI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "EMPAT LAWANG",
+    "profile": {},
+    "id_partai": 9,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/295924/pas_foto/1683914237_8be8bb03-e2dc-46e5-981a-383b88acf951.jpeg",
+    "nama": "RHENDY ANDREA SAPUTRA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "EMPAT LAWANG",
+    "profile": {},
+    "id_partai": 9,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/295006/pas_foto/1683956371_200c73be-10be-4ca3-89ad-61a81ba79e9c.jpeg",
+    "nama": "DARMAWATI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "EMPAT LAWANG",
+    "profile": {},
+    "id_partai": 9,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/295623/pas_foto/1683955740_99905de6-8037-40b1-8aa1-5e5661325d25.jpeg",
+    "nama": "IKHWAN ASYIK",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "EMPAT LAWANG",
+    "profile": {},
+    "id_partai": 9,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/295775/pas_foto/1683958976_04f9d9ff-ce72-48ee-9602-085ba757be49.jpeg",
+    "nama": "DESI HERIANI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "EMPAT LAWANG",
+    "profile": {},
+    "id_partai": 9,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/484834/pas_foto/1696185746_3f701042-2b0c-4c36-b7f8-96847d383ac1.jpeg",
+    "nama": "UMAR HASAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "EMPAT LAWANG",
+    "profile": {},
+    "id_partai": 9,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/484841/pas_foto/1696188011_c58ee6ef-8dd7-4777-b110-4031985d5db8.jpeg",
+    "nama": "MUHAMAD ERVANSYAH",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "EMPAT LAWANG",
+    "profile": {},
+    "id_partai": 9,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/484843/pas_foto/1696189858_2fd7dc0b-7cb3-486d-95c7-18c4694b4697.jpeg",
+    "nama": "MERTA NANDA PUTRI, S.Pd.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "EMPAT LAWANG",
+    "profile": {},
+    "id_partai": 9,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 9,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/296246/pas_foto/1683960191_16e2d854-8eed-41f6-868b-7806677413ea.jpeg",
+    "nama": "SYAMSUL BACHRI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "EMPAT LAWANG",
+    "profile": {},
+    "id_partai": 9,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/86878/pas_foto/1683552316_ffafecdd-4ffe-457c-ae77-b1a425455964.jpeg",
+    "nama": "KULES",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "EMPAT LAWANG",
+    "profile": {},
+    "id_partai": 4,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/89437/pas_foto/1683566885_7ed6978d-db5d-46f1-b7bc-5399358c0cb0.jpeg",
+    "nama": "HENGKI JULIANTO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "EMPAT LAWANG",
+    "profile": {},
+    "id_partai": 4,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/90693/pas_foto/1688357480_973b926a-75eb-4110-9312-54e724316700.jpeg",
+    "nama": "IDA PERLINA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "EMPAT LAWANG",
+    "profile": {},
+    "id_partai": 4,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/481263/pas_foto/1696247384_22ef7b38-41c0-454b-8c74-855ec5cecc94.jpeg",
+    "nama": "CHENDRIK FIKTORIANSYAH",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "EMPAT LAWANG",
+    "profile": {},
+    "id_partai": 4,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/88768/pas_foto/1683450819_2605da2c-bb62-4482-981c-a28f43060af1.jpeg",
+    "nama": "TRUNA JAYA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "EMPAT LAWANG",
+    "profile": {},
+    "id_partai": 4,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/480467/pas_foto/1695795636_4445b736-b53a-443e-b34e-6f5b96bd0a3b.jpeg",
+    "nama": "RENI ERLINA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "EMPAT LAWANG",
+    "profile": {},
+    "id_partai": 4,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/480110/pas_foto/1695953935_487f950a-23ba-4d16-89ba-150de4e48f61.jpeg",
+    "nama": "SUSILAWATI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "EMPAT LAWANG",
+    "profile": {},
+    "id_partai": 4,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/87499/pas_foto/1683551193_07bc9f4d-81ca-411c-a36a-80d4ead29650.jpeg",
+    "nama": "RIO IRAWAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA CIREBON",
+    "profile": {},
+    "id_partai": 4,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 9,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/94288/pas_foto/1683561810_318dd54e-2270-4171-9605-a4cb842f06fc.jpeg",
+    "nama": "MUHAMMAD SAFE'I",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LAHAT",
+    "profile": {},
+    "id_partai": 4,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/2436/pas_foto/1682959305_d0b8f7e6-587c-4250-8a91-9c5567681efa.jpeg",
+    "nama": "FAKHRI AKBAR, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {},
+    "id_partai": 6,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/91633/pas_foto/1683388337_6ea72feb-4268-4f7f-b723-e30507f98b1a.jpeg",
+    "nama": "drh. BUDIMAN JAYA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "EMPAT LAWANG",
+    "profile": {},
+    "id_partai": 6,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/2422/pas_foto/1683042381_3b57f9f9-da11-4955-8a8a-aa53f37779c2.jpeg",
+    "nama": "NELMA YANTI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "EMPAT LAWANG",
+    "profile": {},
+    "id_partai": 6,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/2434/pas_foto/1683041402_37525fed-185a-4fe9-8fa0-cc493170eac2.jpeg",
+    "nama": "RATNA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "EMPAT LAWANG",
+    "profile": {},
+    "id_partai": 6,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/2830/pas_foto/1682958504_d4dd14a4-4209-4ac6-b64e-d3b256f3566d.jpeg",
+    "nama": "MUHAMMAD AMAN MUBAROKA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "EMPAT LAWANG",
+    "profile": {},
+    "id_partai": 6,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/450208/pas_foto/1688795238_bffe1cbf-9be5-477b-a683-1049e149ecc5.jpeg",
+    "nama": "HIDAYAT FAHRULLAH",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {},
+    "id_partai": 6,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/110823/pas_foto/1688687969_673142fe-56be-4b1d-a0c4-ca67562bc555.jpeg",
+    "nama": "KARNO, S.Si.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LAHAT",
+    "profile": {},
+    "id_partai": 6,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/2414/pas_foto/1683300184_e0f6ab11-2849-4918-9502-61a4bbeed584.jpeg",
+    "nama": "LETI SUSIYANA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "EMPAT LAWANG",
+    "profile": {},
+    "id_partai": 6,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 9,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/2418/pas_foto/1683042624_51147aac-9f63-4441-9647-4793f51fd05d.jpeg",
+    "nama": "ABU HASAN AZHARI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "EMPAT LAWANG",
+    "profile": {},
+    "id_partai": 6,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/318525/pas_foto/1688819507_d36cd2db-1a62-42df-b415-dabef64268d2.jpeg",
+    "nama": "ADIYASCO HERWINDO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "EMPAT LAWANG",
+    "profile": {},
+    "id_partai": 26,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/320857/pas_foto/1688823678_397cb5a8-9927-490a-8e34-acab2f077f6a.jpeg",
+    "nama": "FITRIANI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "EMPAT LAWANG",
+    "profile": {},
+    "id_partai": 26,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/487533/pas_foto/1696315289_30a16ae7-1029-4f15-bdc3-ba0df5bba1be.jpeg",
+    "nama": "ZULPIANI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "EMPAT LAWANG",
+    "profile": {},
+    "id_partai": 26,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/472959/pas_foto/1691660113_543ab452-ab58-41b4-9327-ac9b33d7a6eb.jpeg",
+    "nama": "ELGA AFRIZENDA PUTRI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "EMPAT LAWANG",
+    "profile": {},
+    "id_partai": 26,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/324209/pas_foto/1688829067_377443be-a262-4c92-b66b-89d045bd8021.jpeg",
+    "nama": "RAHMAT RIO KURNIAWAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "EMPAT LAWANG",
+    "profile": {},
+    "id_partai": 26,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/487638/pas_foto/1696317678_8de00afc-932c-4efe-be3b-51a01a0ed57c.jpeg",
+    "nama": "JONI ISKANDAR",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "EMPAT LAWANG",
+    "profile": {},
+    "id_partai": 26,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/487774/pas_foto/1696321310_9fb8e6d8-9f20-4400-a1d2-ddffcf1311aa.jpeg",
+    "nama": "DINA MARIA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "LAHAT",
+    "profile": {},
+    "id_partai": 26,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/243357/pas_foto/1688627017_00aaf0a8-8ee2-4dd1-9e40-400a540ae69c.jpeg",
+    "nama": "EDI SUSANTO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "EMPAT LAWANG",
+    "profile": {},
+    "id_partai": 5,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/323618/pas_foto/1683886876_847ccbb0-14b3-4f0c-afd8-d3aff35fbc83.jpeg",
+    "nama": "LUTFI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "EMPAT LAWANG",
+    "profile": {},
+    "id_partai": 5,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/351434/pas_foto/1688627589_ef393d31-d6b6-47a1-b8ae-4cf845bd2254.jpeg",
+    "nama": "RIA ANGGRENI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "EMPAT LAWANG",
+    "profile": {},
+    "id_partai": 5,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/261183/pas_foto/1688454326_329eed0e-c7b4-46d0-a09c-c7cbf7743d55.jpeg",
+    "nama": "JAUHARI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "EMPAT LAWANG",
+    "profile": {},
+    "id_partai": 5,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/485453/pas_foto/1696234570_755f9c2d-0660-4feb-93c9-8b374c41d194.jpeg",
+    "nama": "FROSTA GANOSA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "EMPAT LAWANG",
+    "profile": {},
+    "id_partai": 5,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/438544/pas_foto/1688738597_ed74f58c-84cb-466a-a164-90384db77b8d.jpeg",
+    "nama": "PALUPI MAYASARI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "EMPAT LAWANG",
+    "profile": {},
+    "id_partai": 5,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/266840/pas_foto/1688627085_e5b06543-f600-42d9-8c38-a8b12c90999d.jpeg",
+    "nama": "M. ASENG BUDIMAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "EMPAT LAWANG",
+    "profile": {},
+    "id_partai": 5,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/456384/pas_foto/1688827588_a57eb06c-c65c-4c64-b5bd-2bf000d27ce5.jpeg",
+    "nama": "RAMLI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "EMPAT LAWANG",
+    "profile": {},
+    "id_partai": 5,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 9,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/243505/pas_foto/1688711077_9fafa7b1-456f-4b65-b807-081cff28cd5c.jpeg",
+    "nama": "NOVA DEFIYANTI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "EMPAT LAWANG",
+    "profile": {},
+    "id_partai": 5,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/32656/pas_foto/1683099235_34a68360-17e3-4aff-9b73-33b53fe42ef5.jpeg",
+    "nama": "WANCIK RISKA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "EMPAT LAWANG",
+    "profile": {},
+    "id_partai": 7,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/83991/pas_foto/1683605080_2a463619-42fa-47de-b349-8e4a585a1387.jpeg",
+    "nama": "APRIANY",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "EMPAT LAWANG",
+    "profile": {},
+    "id_partai": 7,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/47937/pas_foto/1683256442_95914c32-8321-4430-b465-0e93b2bd1194.jpeg",
+    "nama": "MIFTAH ULHAQ, S.T.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "EMPAT LAWANG",
+    "profile": {},
+    "id_partai": 7,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/143731/pas_foto/1683526998_80701e6d-17df-455e-b1b0-c7dbecaccaf9.jpeg",
+    "nama": "YURNALIS",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "EMPAT LAWANG",
+    "profile": {},
+    "id_partai": 7,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/48265/pas_foto/1683353690_623bd609-75d2-4d3c-979f-8aac4f83537c.jpeg",
+    "nama": "RIMA SUYANTI, S.E.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "EMPAT LAWANG",
+    "profile": {},
+    "id_partai": 7,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/438183/pas_foto/1688626295_54c2fadd-f694-4185-bfcb-d5f46acda8cf.jpeg",
+    "nama": "HAMKA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "EMPAT LAWANG",
+    "profile": {},
+    "id_partai": 7,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/44398/pas_foto/1683171970_68644bd0-31b2-4ada-93c0-532bee1d51cc.jpeg",
+    "nama": "MELIANA, S.E.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "EMPAT LAWANG",
+    "profile": {},
+    "id_partai": 7,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/21946/pas_foto/1683082565_e2bbd4af-8871-4442-9746-6bd3609d7f12.jpeg",
+    "nama": "MULYONO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "EMPAT LAWANG",
+    "profile": {},
+    "id_partai": 7,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 9,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/43491/pas_foto/1683258509_ca8108e5-5464-4022-b0de-7eb5a11a44d9.jpeg",
+    "nama": "KAI BOKTI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "EMPAT LAWANG",
+    "profile": {},
+    "id_partai": 7,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/459305/pas_foto/1688854460_26cb3188-5173-4a7e-bb00-77aaf00ec383.jpeg",
+    "nama": "Ir. HOLDA, M.Si.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {},
+    "id_partai": 13,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/211029/pas_foto/1683693208_37bb2df7-d0ab-4731-bec9-0b600b3ab926.jpeg",
+    "nama": "HERMAN RUSUL, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {},
+    "id_partai": 13,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/211030/pas_foto/1683694556_129786f5-a384-42e1-a58b-d10b1fcf9570.jpeg",
+    "nama": "AZWAR SUBEKTI, S.Sos., M.M.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LAHAT",
+    "profile": {},
+    "id_partai": 13,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/23914/pas_foto/1611046803750001.jpg",
+    "nama": "SUSILAWATI, S.E.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "EMPAT LAWANG",
+    "profile": {},
+    "id_partai": 13,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/211032/pas_foto/1683706089_a70de50b-5bf2-4fb8-98c1-de20782fc659.jpeg",
+    "nama": "DADANG, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PAGAR ALAM",
+    "profile": {},
+    "id_partai": 13,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/211208/pas_foto/1683708414_5acf0a6e-e646-47af-926e-a002abd6debd.jpeg",
+    "nama": "GATOT SUBROTO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "EMPAT LAWANG",
+    "profile": {},
+    "id_partai": 13,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/23922/pas_foto/1611044107900454.png",
+    "nama": "EVA IRIENCE",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "EMPAT LAWANG",
+    "profile": {},
+    "id_partai": 13,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/23925/pas_foto/1603020311610002.jpg",
+    "nama": "MUNANDAR",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {},
+    "id_partai": 13,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 9,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/211037/pas_foto/1683693989_8e1fd0bf-27df-4430-8aea-fc65d06b72fa.jpeg",
+    "nama": "BUSRAN, S.T.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "EMPAT LAWANG",
+    "profile": {},
+    "id_partai": 13,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/421890/pas_foto/1687752185_f5aaf5d1-ffb3-48af-95b4-23c2768aaff4.jpeg",
+    "nama": "LELY MARLENA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {},
+    "id_partai": 76,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/144516/pas_foto/1683529261_341b7979-3a2b-4659-aee0-53cd6d2c400a.jpeg",
+    "nama": "DEBI PRAYUDI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "EMPAT LAWANG",
+    "profile": {},
+    "id_partai": 18,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/480923/pas_foto/1695735862_30343b44-ebcf-493c-a32e-cd6f72be5435.jpeg",
+    "nama": "ASNA LETI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "EMPAT LAWANG",
+    "profile": {},
+    "id_partai": 18,
+    "kode_dapil": "161101"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/480889/pas_foto/1696045011_2a224a0f-7459-46a9-84e8-78cf789af286.jpeg",
+    "nama": "JUWITA SARI, S.H.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {},
+    "id_partai": 18,
+    "kode_dapil": "161101"
+  }
+]

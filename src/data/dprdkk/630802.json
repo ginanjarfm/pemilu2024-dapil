@@ -1,0 +1,923 @@
+[
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/99004/pas_foto/1683552444_47c746db-0d15-4910-8c1c-7584ed15252a.jpeg",
+    "nama": "MAWARDI, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "HULU SUNGAI UTARA",
+    "profile": {
+      "id_calon_dpr": "74af7529ca5b8deb0677474d6d930638eaa331c7e6b28131c87b4220459e16f7ccb629ac8b9f244837f3d690628fed88bc01f58f034085d9ccc16b97f1ffed89Lrhia+lYYe3++JQ6lJ0i150g6PcjHdAQO3cF9m4WVbE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "630802"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/99006/pas_foto/1683552362_3968ea54-f3f0-49b4-92fd-14d78630322e.jpeg",
+    "nama": "SUHAIMI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "HULU SUNGAI UTARA",
+    "profile": {
+      "id_calon_dpr": "ecc7b681175093986673d76a6902734502575e9c43a183d1a1df1970a210c09886ed04f7f950e9b5691fb33f2b35240697a6fc8255caf37b11c0e792a5b7a1145L51am6c7mCJtPA08T8n5/Gw067Mpkbih3lDbqndpq0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "630802"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/487839/pas_foto/1696321630_ffef636a-3c2c-4268-9dfa-96e1d0a55f43.jpeg",
+    "nama": "NORHASANAH, S.Pd.I.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "HULU SUNGAI UTARA",
+    "profile": {
+      "id_calon_dpr": "ee6f06612358891c1cbeaf8f00e62a6f5d009760ca0fced57e06e25b7a6f5d60b9423c3cd3d44323aa702e219710969c437d31865934397ba6bfe2f8390e9cb2tM/6D6nHRi5KvO3w/TgGA8NgMn9J3lpUfqurFLbpOx4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "630802"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/487760/pas_foto/1696319368_68b4c5e8-007e-4827-9913-df3db2a55194.jpeg",
+    "nama": "H. SYARIFUDDIN, S.Sos.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "HULU SUNGAI UTARA",
+    "profile": {
+      "id_calon_dpr": "5ab3fb762bb3f71c827a634ed87989dfe58888d3fc8cf06870e03525b7da1b0a4cd44c93c9d061e01f5e65f868ec2c41937a0abbb31550e302bae055af1df109FvF1hQPjkVs3RhMs4/ZgU225IxZzjGWzXU32d+1TRzU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "630802"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/99000/pas_foto/1683550249_a42a30a2-a4b6-4b76-ba3a-681c7b2bd0c3.jpeg",
+    "nama": "Drs. H. FARIADI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "HULU SUNGAI UTARA",
+    "profile": {
+      "id_calon_dpr": "2dec16494c6552753bf4777592ca6233e417aefb8a50ed93a4634f4928b670cee17cc277811bc2c6f6a3ab4161cb2fd6eae95003c208e9f973ec3f91c2c98516ZXpZG02x5ItmBPqcnwDgTPH/vJbNre8v/xCV1a1Q8f4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "630802"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/99003/pas_foto/1683549884_93ec0180-d3e3-4dc7-b4a9-ae334a33299d.jpeg",
+    "nama": "RATNA SRI DEWI, S.Sos.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "HULU SUNGAI UTARA",
+    "profile": {
+      "id_calon_dpr": "3f491cd48c2f1b45c3e101c9398e8427ae4e1db5b5432170946bbf3d3ab1313ea26b3e83774ac6d6c1de4378427181df29a5bcbeff9ff3ca5dce11d2fc2b814eJ1T8dWViuuF9GRJ9TRtbGkfi3hcDS9zydnRMYmR0ChI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "630802"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/265089/pas_foto/1683782730_ea948625-87e2-41c6-8c3d-82d94aa43f19.jpeg",
+    "nama": "HABIB SADIQ MUHAMMAD ASSEGAF",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "HULU SUNGAI UTARA",
+    "profile": {
+      "id_calon_dpr": "fe0468b1ae96af581d8a967e25d4aeffb4d787d7dee0c2eda25f2ca7d1798d700e02d4176e29f5f04a78e454daf2607b79cd4583d3f6180348a11e70c29d3b80ZIgEytDE0mN2oMCJRElhcOFXWQm7CcTVIaCjKioILKE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "630802"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/279955/pas_foto/1683802185_fe70302f-9df4-482d-89b1-b2300873eaec.jpeg",
+    "nama": "MAHDIANI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "HULU SUNGAI UTARA",
+    "profile": {
+      "id_calon_dpr": "a323028c520a194d9d20ab9f114cac089926edb99b340ad30e92b1ca1296940e412396e0c825343aacdd56697915aa7ad9bd9614746b4287cee4efc42d211ef9eChnIZmPOiO9pLBerQylg70UJoEPkk+Gp7mz2aHV9Jk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "630802"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/279767/pas_foto/1683801754_1057afd5-7bcd-4081-bff0-2e292bcda9cd.jpeg",
+    "nama": "YULIANITA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "HULU SUNGAI UTARA",
+    "profile": {
+      "id_calon_dpr": "663d263453efc7787b79510ba7972ec3110037bbb91eaa9783fadf701aa3a2c7c6d5479a49fd38e3778285aee3e85249560be85957fba4b0bbd797b8ee61fa60+yCRT4dQaWXTuoyipdm9xCtgZAp1ggm5uNDuKC4jd9c=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "630802"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/487380/pas_foto/1696309839_a93b38bd-7ff6-4199-9854-b8326e1ed13d.jpeg",
+    "nama": "MAULIDA ULFAH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA BANJARMASIN",
+    "profile": {
+      "id_calon_dpr": "7f89233e363b4a78988da8f2b999fb7ee475d9bc8dd446f8286f4cb1ec8d41a4c9f54339fffb22ce658fae5fb673dd7fad9b0b0bafc40bddfa0fa8a4cb87cb72Nmi6L11TbSwTWVYOKY2GGpUyIYNzqpeADnB1Cj4SGmc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "630802"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/477032/pas_foto/1691739279_eff356e8-3aa7-4033-9b53-68466d03e627.jpeg",
+    "nama": "AINA SAVITRI, S.Pd.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "HULU SUNGAI UTARA",
+    "profile": {
+      "id_calon_dpr": "e583898c65aff5947057cf1cdf437ea17020129bca800c4b68c9373bdef421e31a82e3b25c9cc1c871c81458f818425924338a4fb4ac01ae09374f05abf5073dWHQ/WsP4hxf+aS4v1QRZFKtc7z0rF5b6R2qD7ez0RWw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "630802"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/455593/pas_foto/1688821916_edbe97b9-4b86-493c-8b6f-1fb091399cf4.jpeg",
+    "nama": "YUDHI MAHENDRA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "HULU SUNGAI UTARA",
+    "profile": {
+      "id_calon_dpr": "1d1e6ae00348574fc676eca28140741bdc1cf6aedd8238192c94dedda0a980cbb67971dd9e9f8cf255c47ab3103b2bcbafad07e1cbbd98767f4f06a9d0af4121eWJEKHhYLOGHP1rtgESs8yhIA9zd8GD9w+f106YWfYA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "630802"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/117385/pas_foto/1683441672_a8207551-b383-4d41-b8de-b17e337d1522.jpeg",
+    "nama": "TEDDY SURYANA, S.Pd.I., S.E., M.M.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "HULU SUNGAI UTARA",
+    "profile": {
+      "id_calon_dpr": "94902dbad48c3c98d960f81f703253516decb5063a7cf483b624f2feffeb2b93df27cd2df471be0291132ec8ef982a6873787bdd18decc946ee69add56b8d0d4SF5XNYSfpKBt/y9R9BOAhemV3DX5GLtqeSuUZ1ZIpv0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "630802"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/117386/pas_foto/1683640671_b9639f33-dbcb-49bc-a768-b789f7c03731.jpeg",
+    "nama": "RUSDIANSYAH",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "HULU SUNGAI UTARA",
+    "profile": {
+      "id_calon_dpr": "56e8ec3563b6f07c33cfa0c085c2eda2003220bd22377bfad96f67a2ca3d32bc50f9024e06877f02c5e82a0b697b4f2ac621b930b978d93684a620f263b0231csONZMxKBWgQUSPMvsSR0K9FAv83biVwQNsVKiKVi3MU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "630802"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/117387/pas_foto/1683641030_a79c7cba-69aa-4460-a712-71ae960ea73c.jpeg",
+    "nama": "NURUL KHATIMAH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "HULU SUNGAI UTARA",
+    "profile": {
+      "id_calon_dpr": "c4cb8836546f31b7e90f266f347960d927a20cc1cf765523d1076de47924832cfe9223bbdfbab8dfa2dd67e9e0826598cb9b209d42fccc5c8444289c54c47e0eDhuU7akApCYlhSjEEnIRIgP8Fnh+0U8HlHUoK80HlfU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "630802"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/117388/pas_foto/1683642523_5af8cd5d-5c21-4399-8744-b8c0f1e0c539.jpeg",
+    "nama": "MAHYUNI, S.A.P.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "HULU SUNGAI UTARA",
+    "profile": {
+      "id_calon_dpr": "daefc5c6af0b2c4c5123f4289f5c1951762438cd1dc9acc190024e0c0b60382ba4bde415b80f100e77c192844d57f8ac4ca0536a830d5f979adc03dbe2be0419Cz29fCuoBYhay8SJsfLj1GdXci7lBTwBvP1MiO2b0gc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "630802"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/173360/pas_foto/1683643436_63f71f7b-f2d8-49c2-908d-d35a17ffb2c9.jpeg",
+    "nama": "AHMAD",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "HULU SUNGAI SELATAN",
+    "profile": {
+      "id_calon_dpr": "b5f0a3db0d1ce9e71c3e499ca2ad4b35ecfa9da2824e8ed1b08d8ab884e6df689a3098fb5a842774eb8dc89d3f2c2277688127772645d91b3c01e486bc51a2eePJpi0k52HwWbj6TEjiKniDWCowdmh+kA/ubPXnGMIcs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "630802"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/478367/pas_foto/1691762581_1de17d81-278a-4922-8a57-59c9f6b1d6f5.jpeg",
+    "nama": "PURNAMA SARI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "HULU SUNGAI UTARA",
+    "profile": {
+      "id_calon_dpr": "cdbdd9556f23b8ff4618ad703e3e47f21b72d93649795821cdb2b1895180c2cfa052a443f6465f46e666f3cad188380ef9e5e2debaa38c193fee55f627807ea0yaPhTrpDlxiAFdEkdShwsuQX/GQ1OfWtJWwKM0SpfuE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "630802"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/224623/pas_foto/1683713154_2f34a347-3bf9-4358-b5b5-305e6ee5e59d.jpeg",
+    "nama": "H. BASUNI, S.E., M.M.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA BANJARMASIN",
+    "profile": {
+      "id_calon_dpr": "6f365b6ce82c9f14cab96a5fded644a0715c3e894d5a760c732975fbb67ac3b6c30176df3a293b660d68540d630cd55fd635ca6ea323cd36cffc87d7dfc24ba70S6IlwviIWjhRGwHYqr+bjxrDb61DP2Yu+9OK56BN0M=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "630802"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/219243/pas_foto/1683706096_6bd7b3e0-ad85-4d63-9d33-9f302a1dc9fa.jpeg",
+    "nama": "H. NORANI, S.H., M.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "HULU SUNGAI UTARA",
+    "profile": {
+      "id_calon_dpr": "647329dfd96b9e3221e608e07408d80f877f27771e44a39a7674e42981da2b2293924541e40e982d12dd1e0119e99d0b0180b73586541e123d65d1a25d3133fdJWpK5P2g/oSfbdqAZKMxt5n3teTF/NRPXH/22MqJCw8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "630802"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/232927/pas_foto/1683728602_b5a46a3c-2c4d-4d4c-a7f3-54bd0b849988.jpeg",
+    "nama": "TATI KIRANA, S.A.P.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "HULU SUNGAI UTARA",
+    "profile": {
+      "id_calon_dpr": "a65c72a762a277cc7006e9accc0df3eece799976f39e26a51985ecb914f2d935e777cfaab128f0ed060d3106b0af04320bbd604bd343017092dc97513b2dd399jCnkbcf5ojaefg7CvP2SP+LWKDxumA6gXX32yUcwnKU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "630802"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/235960/pas_foto/1683730245_20d94cbd-3624-4c23-9b9b-1173e464d3d8.jpeg",
+    "nama": "SAHRAWARDI, S.Kep., Ns.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "HULU SUNGAI UTARA",
+    "profile": {
+      "id_calon_dpr": "fa1f21291ab7a520153b2d580cbcc0c1a90a1aab5a371788849db8843fefd920cfd3437f55bf2455b9941c41e2d0455718006330f7f12d802574bd784e8057baXbMLEI+Ei7zwkZ2+ijNwgXfB3MN1d6tpDZKB1084naM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "630802"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/238062/pas_foto/1683732581_1aea004d-2314-4832-8515-a1976469bb34.jpeg",
+    "nama": "Hj. MASNIAH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "HULU SUNGAI UTARA",
+    "profile": {
+      "id_calon_dpr": "c0e8950b7840decd5bd19a79e075c7cfd514d29017d5dcf96a59d05cf2300fff0fc7c269d9c6ae72792a54a9fd1a280a45bc1ebabcd3ff6d35b6f179c992f7a868JL4sQh1sI+WXK7fYXLbhLxAC7ziv2B8jm5AOdsAIA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "630802"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/239016/pas_foto/1683734580_c3c4847e-f062-4344-91c7-ed9d97cfebf5.jpeg",
+    "nama": "H. GAZALI RAKHMAN, S.Sos.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "HULU SUNGAI UTARA",
+    "profile": {
+      "id_calon_dpr": "939136a9644df7f6fded4dcaf1f46db0ab51de62758d017be8a0b8bad140fd3158874982bb48c48e2397b7f551cb5d7fc76fdcc02041de8237250225d52595beipT4daIz0wI6N0ZeD03JJ5+fIIWC6ZueJQmhPmLG74M=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "630802"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/32884/pas_foto/1683206413_aece703f-c358-4ebf-be8a-8cc44de9ca41.jpeg",
+    "nama": "H. ANSARI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "HULU SUNGAI UTARA",
+    "profile": {
+      "id_calon_dpr": "b58309bb1345b4251bc2c60774fae4168f22c1b6038a5f3a94d68a024b240ee8525172d0af2aa18e9d8e2cb785e034ae85025a23028232316e1c3f22cc189feeAxNBk730fJaHmnHX+sRdBSplVcnhdbdv4P+srJPFico=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "630802"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/33291/pas_foto/1683206588_deefdfd5-0c1f-40d8-b8e9-c1fa20007c23.jpeg",
+    "nama": "HARUNNURRASYID, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "HULU SUNGAI UTARA",
+    "profile": {
+      "id_calon_dpr": "0fee806391e086b77769cbd656422ce6356d84218eed4c99d3efcf9374162e20f4da7942c71fb2798bd1829250dbd9bd6d485d5097ab4d1f427225d8155e6867G6arlvYa+ClMMLSY69/B0sFKg/YFGSaGqh5TUuxES+E=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "630802"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/222706/pas_foto/1683711810_10626c75-268e-4248-abdd-c443c971a96a.jpeg",
+    "nama": "HAMSIYAH, S.A.P.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "HULU SUNGAI UTARA",
+    "profile": {
+      "id_calon_dpr": "a6bb147b368602464f0e8cefa9d762930db340a19c487dcbb0c85bb90438a6b53f2be91926db6704637b56f7a8a50a72349654b8f8b19257cf17426a0902b5d04cPithRHkrk5dq33ckLoDoNg1nqT3g5YfSvIE7CjbVE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "630802"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/33348/pas_foto/1683207402_f6069005-e1e6-4dd0-a832-8c35f71c6090.jpeg",
+    "nama": "H. AHMAD YUSRI, S.Sos., M.A.P.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "HULU SUNGAI UTARA",
+    "profile": {
+      "id_calon_dpr": "2dc8ebe50f9e6020571ebef5714645000494f67068f0dd32fbb8b16ed1c8fe7c2d4d32242f6f3d898eed76c233d275547c93bdd4adbf971f725f8d21aa5ed753ppCDOJXJw2d2COYjH8ihlZ5VuK2xk1Ph3l/rW3zT3+o=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "630802"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/95522/pas_foto/1683644068_8953de6a-b2c5-4891-bc9a-3ab484f9b592.jpeg",
+    "nama": "MUHAMMAD AMIN, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BANJAR",
+    "profile": {
+      "id_calon_dpr": "e87ed9c2c63986ad1d3d6802336484fd57a62c06aba7e053fbe51570820e433965aac4c1e9278694c3fe914402e573a46ef69f6e4421c51214b4cda486f6a3a0RJbl/c0VCFSMkaBbYzthTlhfcrr5D8ldYBdH2taOXac=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "630802"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/433779/pas_foto/1688535759_9bb88faf-bd95-4e69-86a9-61d10fc631d9.jpeg",
+    "nama": "SYARIFAH AULIA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "HULU SUNGAI UTARA",
+    "profile": {
+      "id_calon_dpr": "d7d40d88638fa5bfe1858d196794625444dcde1bbdf1f7a0802efeb9fc46ee92541bc25f9040728a8e8454688df63838ddaac70dc71539a89486c148f51c0bf2//hZWExGMRtn3LhOWnsW6WTkbwnubu9XOtuuYN9n3HA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "630802"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/403009/pas_foto/1684120571_2c9b810d-7a69-47f9-816a-1c3e3ed59af1.jpeg",
+    "nama": "MILDAWATI, S.Pd.I.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "HULU SUNGAI UTARA",
+    "profile": {
+      "id_calon_dpr": "70e03398d096eaff59ead95007dcd84caaa78f9cad895cc6c6e404726dc73ef27f48a364629c11f07365cdb323a330875dd35fb23f6b2efb83e33404a6ffbf33b///eyGKW24WNxgfSiPWsiVwKktyShKM0nOx4Mon7V4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "630802"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/403010/pas_foto/1684120845_5a21834d-c9e8-4a6a-8a82-b30a1159f47d.jpeg",
+    "nama": "AHMAD JAZULI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "HULU SUNGAI UTARA",
+    "profile": {
+      "id_calon_dpr": "7ba0edeb2b8c54176ed2659a25f547674157484505a5f04004f041b3e986ed1a2eea1104e9ffe6cab6bcded1f149d20505c0fadbd41b7094ae52ae3cdd218a69hE+zUxL5DuzfwQ262t+KYypziOblk1PL/+vS7Ngeyys=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "630802"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/403011/pas_foto/1684121027_f93a6ce3-ec7e-4a19-b888-13cd5ce3c781.jpeg",
+    "nama": "NORMAN PAHMI, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "HULU SUNGAI UTARA",
+    "profile": {
+      "id_calon_dpr": "649123b09700c392d1ed958315fa07cd54aae053c55a66a9f70e92be10dccf75d668737ccb30dcca35e36c4ebae079cceb8dcdc7af2241e7d3c6f35dc437c423Zc2toi8GmPiklwnfN41uxtlgUxrVmKVBf8v1hQ9Kdgw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "630802"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/403012/pas_foto/1684121193_2a399b9f-9d23-4415-b72c-81b9daa58f74.jpeg",
+    "nama": "RUSMAWANDI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "HULU SUNGAI UTARA",
+    "profile": {
+      "id_calon_dpr": "81aea8396d8dbb186bda5869ceb01aa07639c65001ba368f47b676e81b812ee06ec035c58d0f0a16a506e1e720595807da07cae9dd3d315b048ea4c953fda920zLiVh9uddP1sFc+yrg/nZBRmP0KGQgpVZijNXLhYYJA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "630802"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/403013/pas_foto/1684121421_c73318d4-29ae-40f9-96b3-57ea2dd1b2fa.jpeg",
+    "nama": "SITI FATIMAH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "HULU SUNGAI UTARA",
+    "profile": {
+      "id_calon_dpr": "77dd3242b09e25e95d52b3fad0078511ebc28d944d6c49413877757dd508fdea25eaa6fbf24f86b048ca9001ce40943551d6f0f78126acdb546d727ef986a351cjS6RyBZe77xFcOniDykhK+8uXyOQAq+KW1vFM9tcq4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "630802"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/118194/pas_foto/1683453141_c051391f-4595-487a-bc40-5fe29d582577.jpeg",
+    "nama": "SAMSURI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "HULU SUNGAI UTARA",
+    "profile": {
+      "id_calon_dpr": "d340da4002401552de05ce1a8b305923dea84ca32935678957924ec00c21982e0a2ed1470c18a1c996102e66d0206b5cc40f270ea4004fffedcc5f544502ea93dIDO7FC90r88sXmXef2Do30KjAHsPq2tz2mWwNa9iTw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,pendidikan,riwayatpekerjaan,kursus,organisasi,penghargaan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 6,
+    "kode_dapil": "630802"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/446185/pas_foto/1688731005_cdf8e41d-8be2-4b47-8fc8-1dcde4e75a09.jpeg",
+    "nama": "KHAIRIN NOOR",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "HULU SUNGAI UTARA",
+    "profile": {
+      "id_calon_dpr": "cf50c67a33cc3f7c7c1e16f4e4dbc86368e2aeea9fbdaac939f74e8a1d49857fc8ddc307a9ca35fdc6aa12d97f770c910547067e9e2dcc7e837468a349d627540jQph8Z2a4/LnIGJLzTCF/pocA8JpBmHvzVZhf211wE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,pendidikan,riwayatpekerjaan,kursus,organisasi,penghargaan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 6,
+    "kode_dapil": "630802"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/117084/pas_foto/1683442155_f1cd5539-9a48-4634-b820-d8aeccf9ab84.jpeg",
+    "nama": "NAHDIA HAFIZAH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "HULU SUNGAI UTARA",
+    "profile": {
+      "id_calon_dpr": "1331898b460ef00eaf425c76ada1c9e5cad069177f72337c32f5f968e4c78deb78a5aaa0ab1ea7000b9e2c5ddfd43892d4fade9a0540cd2923b7c42602b767d1eiODCCOpyTIhIEAaSN1/6aqu9TOHNNMXB8a0pBqfD/4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,pendidikan,riwayatpekerjaan,kursus,organisasi,penghargaan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 6,
+    "kode_dapil": "630802"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/117524/pas_foto/1683442204_af514473-fdce-4b48-b5e8-364496439c84.jpeg",
+    "nama": "AHMAD RIFALDI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "HULU SUNGAI UTARA",
+    "profile": {
+      "id_calon_dpr": "55546ffafb63d23473812f84ff6aec829dead0fa17c360dc671e2ab785f2569d5add1ac56f35088ac253c7e874f9fb10d4efd89384cf3fff9065f0c09f50b4cear2oaHfl5U9kKchcYUob5veNYpbehuYjr4hVn39Yhdo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,pendidikan,riwayatpekerjaan,kursus,organisasi,penghargaan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 6,
+    "kode_dapil": "630802"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/117811/pas_foto/1683452140_40da3dbe-02e8-43df-b50a-f90419511ed0.jpeg",
+    "nama": "RACHMAN GOJALI, S.Tr.S.I.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "HULU SUNGAI UTARA",
+    "profile": {
+      "id_calon_dpr": "4e07d4e591a2fae6d57849284716b8a5bf426feb55890451e99c80e83d1f903225847f6d48a8579f07c2590d1bda62d7bbf2d1af82c07c32abbf6edf07801b12hgqh69tOHGh3wqVCYwuly0jP6kdlSPw8tojeaX9Uqp4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,pendidikan,riwayatpekerjaan,kursus,organisasi,penghargaan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 6,
+    "kode_dapil": "630802"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/479325/pas_foto/1695620395_c2e68589-7725-4d40-9b58-d5e1151a64bb.jpeg",
+    "nama": "MAHRITA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "HULU SUNGAI UTARA",
+    "profile": {
+      "id_calon_dpr": "fb315c968530c50e50017d1f5a8b491392afc5a08c08474266552ae8649ffec64c3c139dc80250cad425f74ab80a10fef69261a4ab4a7c482d9d044e6dbb12fdGBW5qPKis1H4QOBxoehSkLctk+d4Bd04XRECZerWAv4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,pendidikan,riwayatpekerjaan,kursus,organisasi,penghargaan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 6,
+    "kode_dapil": "630802"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/280030/pas_foto/1683810325_08b9cc6d-b85d-4bc7-96d1-684cf051ec9b.jpeg",
+    "nama": "JAMALI, S.Sos.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "HULU SUNGAI UTARA",
+    "profile": {
+      "id_calon_dpr": "568a08f19701c9b3aaa768b41dd5e9d200731108fa2136648a1fd6d9a308a8fddac27e801a8a69363b9178510a334caf7b742ece6de5b760e8e1fd90d1aaa14aKr3+UtAXmxdD8hNTtyHz9hUSp73ersdreS1XP7vXPTU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 5,
+    "kode_dapil": "630802"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/315556/pas_foto/1683874983_ea2f964c-732b-4268-ab55-754dc9caba50.jpeg",
+    "nama": "WIWIN NOVITASARI, S.A.P.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "HULU SUNGAI UTARA",
+    "profile": {
+      "id_calon_dpr": "4a020603bcf14dc2a1e3a7e0a3399fc3a7ac591c4b7233e95b6fe5114bd3104067e679cbde337a277427b12d310b3ad226b4447b10b359d6e74369654286c52d5z1oll7F9FvtAXj9dAExUox0eRrfRP6WNlyhTmsSRcM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 5,
+    "kode_dapil": "630802"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/129833/pas_foto/1683463716_1e7a603d-13d3-4f04-af83-28043d431629.jpeg",
+    "nama": "FATHURRAHMAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "HULU SUNGAI UTARA",
+    "profile": {
+      "id_calon_dpr": "24c0cdf5aa3b083609a22eabbd05da37364570cdc9130eae5aca02f5270595072c6034ed9e453777be5987e0435e3bb630c9d4d8819331afdc6e77b861e8927fJXk+eSr9mf8O0seYfb7ePyI36nLpyTb8fet593jxZtI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "630802"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/127795/pas_foto/1683465778_858a8594-ad1d-45e1-9cd0-e21ac5d99fab.jpeg",
+    "nama": "SITI PARHAH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "HULU SUNGAI UTARA",
+    "profile": {
+      "id_calon_dpr": "75693e06ccf589b60978513f11ddb4fdba6b46992c57958ad4ec7618c68a5237bbf38749f72b67dc2a2365241a9485f1bd487728c0afaf5d8c9dcc974826b645xRjyCW7k8hWZ+vbuOsEgCn3BmXYyz/orFjmOlzLRbog=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "630802"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/177587/pas_foto/1683615888_a9a04e21-a626-4e62-9b65-8517195958a2.jpeg",
+    "nama": "MUHAMMAD NOOR FADILLAH",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "HULU SUNGAI UTARA",
+    "profile": {
+      "id_calon_dpr": "86c8c24464d48d8b8fa584deeef777f121117721927592aa1cda51a30a1b792657d3c16e9b5eaf377a9dd3d3c11170c8780b067f5540df986916babf1160f150qJs/Fnfp3G8yDTnwQ7SqQa7stuMs8JAk+k4QYikR550=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "630802"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/129425/pas_foto/1683463743_5998fa23-9b02-4236-94c4-0be85849f811.jpeg",
+    "nama": "TAUPIK",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "HULU SUNGAI UTARA",
+    "profile": {
+      "id_calon_dpr": "4c7e2c904381b50bf058581b554a3afb628ad8fcbefedc090b9b7baf9ae0aca2ed69222935e49a67d1d6f47951e23ef8dc94cb411a624c90bbad6b2cdd4e1d28hCSU2oIrA37Wdep1zbDrjA4DgogxxKkbzWFhMYHWlsc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "630802"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/128939/pas_foto/1683465348_7388bab1-7b6f-45dc-869c-71a3e959bc64.jpeg",
+    "nama": "SUSANTI ANGGERAINIE",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "HULU SUNGAI UTARA",
+    "profile": {
+      "id_calon_dpr": "2f955ca47810d98cad8cdaab6a35557d620d08e761a6a34742cbbaf02eb4521a3540e64cfa1de0afe2fa0ed66276a0e8a27cb846a2d6a28fc38eedbe3a3b046cD0PTbnmdzXi4ump/plHVrt4JuJRuSS7Ii96+NMv4FJs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "630802"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/128529/pas_foto/1683466061_0c3a22e4-9853-463d-a2b2-107de4994938.jpeg",
+    "nama": "RABIATUL ADAWIYAH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "HULU SUNGAI UTARA",
+    "profile": {
+      "id_calon_dpr": "3f25439eb70a33e8c15562465eb657e4f94371ea19d693c3d794b0ff15d392fdd8fde91b0877291063225431a3c7a17d7d2305b967e0324fd1a0a9926ab279d33PsMEHxwff/K0HssxZXYoSYLtWW11uuHGy9L1CqfbGk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "630802"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/78828/pas_foto/6308031811890001.jpg",
+    "nama": "HIFNI HIDAYAT",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "HULU SUNGAI UTARA",
+    "profile": {
+      "id_calon_dpr": "eb860cbd988445b4ca3deb4e9550bf18617693e36d12740d1ddb7aa4c0803389934520ffb1c47a9aefecf5038ff980ad53c4cc74f932280f9be748ba5f262bdfjMkxrgzDEhucC1DwJowucQHQiVQ1ZDxRuCcvAF+vp/Q=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "630802"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/78829/pas_foto/6308034106610005.jpg",
+    "nama": "MASTIPAH, S.Pd.I.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "HULU SUNGAI UTARA",
+    "profile": {
+      "id_calon_dpr": "552434d039c8fc6e542d3ff7a2234fc72475483a6850ed3d2ba252095f152ffc4d2a96fc6627ce4a9f1b9d248c79ba005f196b5ad956cb0a8979e8dc781e445fApnNAxl/bBh05V0gwgQZpuSp15j2GTuKfDu9qJ1OWb0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "630802"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/78827/pas_foto/6308030708800003.jpg",
+    "nama": "HARRY SANTOSO IRAWAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "HULU SUNGAI UTARA",
+    "profile": {
+      "id_calon_dpr": "a29f4edf342b8d3ff2d8e030d3aff37b72ae9163aab8bb69fee875decc443f4249035f0f687188fd49b23dbd4e18a82eb55f17d9afe5880e85651c64cf1df6b7nNZAvp/uj+YBMLqsmrQSQ+Jn165tXmAw36Vid/ULJN8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "630802"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/78833/pas_foto/6308037006940001.jpg",
+    "nama": "NOOR KHALISHAH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "HULU SUNGAI UTARA",
+    "profile": {
+      "id_calon_dpr": "bd3a0d856546f78f3d5ff6298f7d91d92e952477fa079d713daf9db69f7a5a30b60bb48a10a6df646fe9bb47fd3c3e4b19351d4fb337e3e5d41509dd414038eel95n4+XKueP0CYi8xtm5kuzbaZWjEIyGKDTxC1sPbsQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "630802"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/78826/pas_foto/3175061910970007.jpg",
+    "nama": "ADE BAYU PANGESTU",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "HULU SUNGAI UTARA",
+    "profile": {
+      "id_calon_dpr": "b7e386fe588b083b9ab9c7f15cf2e8666ac225ab2f59962243eabe99696277f0e17fdb9ee4da048122536dfba42672cf8ff21d79c9bfb4bccca588e313854c4fOwQl0j1E5e1w2OvlsU3ZAHo5nIDX8NetAWuw9zutcZc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "630802"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/38298/pas_foto/1683115955_40dfa08c-f000-4a04-acfe-2c897e7bf20e.jpeg",
+    "nama": "ABD. RAHMAN, S.Sos.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "HULU SUNGAI UTARA",
+    "profile": {
+      "id_calon_dpr": "08ee3cb30f3e004707441dc29975c59b67c71ece11e469c3825812301dcdfe9cccc91c97a1d61023f8df97c80f16d23c95d202cf9e74768b033225fdc58bbd76IKSSlisI7s+wUe6jWS9C5FBa71pWt5YlWCIf+wKzJRc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "630802"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/44785/pas_foto/1683179822_1b856ed2-f61b-42fc-9388-2b3c120322e3.jpeg",
+    "nama": "H. SYIHABUDDIN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "HULU SUNGAI UTARA",
+    "profile": {
+      "id_calon_dpr": "980098a759d752c344f432b72af7cb0b3b476c0841bd1e8e849421ac6bf65cac0d63f20c38bcdd1bcd61d7a75a28ed886e2d23d4589e7c3cea2d174328d4650eul28tZyVMhRrSDwpqh6hBQ8LOX6P2RAmRDuT/9YYjls=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "630802"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/26239/pas_foto/1683113880_24dc0fe4-76a6-4007-83da-21c9a0316f36.jpeg",
+    "nama": "Hj. LILIANI, A.Ma.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "HULU SUNGAI UTARA",
+    "profile": {
+      "id_calon_dpr": "52c43ba2cae896677267b0ba2e97c9746ab5a72dd6f3470fcf1d1edcbfbb82f7b1b9051ebcdc5a4e33e67a4ddcf3dede50a09daf4bba01a5a074880bc6ce49d0iQSqJ/AeW3J2OaHnIw9KF6rQ6sRn37N8D5fbeUPYucg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "630802"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/45701/pas_foto/1683176791_6b8b004f-6f92-4953-b22a-3b9bcee5c434.jpeg",
+    "nama": "RAHMATULLAH, S.Sos.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "HULU SUNGAI UTARA",
+    "profile": {
+      "id_calon_dpr": "3f95f61edfd429c50e0c43e22479efbb91d7e0c437e43414e734cbb831c5e183e4144614d7e7efec6668be6dfafa79b86fdb450f3c94e796bd68d0b056342ebbuWH8mwYoLKrxAxm+wQKb00jH/msoYWGTbspI9WRyv/A=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "630802"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/46946/pas_foto/1683183914_61bcc6b1-edbc-4133-97d5-ab18d307366f.jpeg",
+    "nama": "BUDHI RAKHMADI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "HULU SUNGAI UTARA",
+    "profile": {
+      "id_calon_dpr": "56944d1c87f28443aca680bdee1289dcf1a97a7633dd93af16dc2ff7f0fbff7c77e0531698f5cf0d5227e21708d094d92b6dca916f46cd5e4bcd1198538a9c3c45Ha+zLsQWDwE52cUZHoixXlSdBbNHHvQ3eZdG9/dE8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "630802"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/48136/pas_foto/1683299939_435cfe6f-7cc4-4817-ad7f-fb983a2830e6.jpeg",
+    "nama": "SITI RAHMAH, S.A.P.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "HULU SUNGAI UTARA",
+    "profile": {
+      "id_calon_dpr": "afbee60f45701b1ca3228e72c393eecbfe785b3abd9fa0d0557eb366865ae123e05b973c7a70112842425d13b72f04a466fa9992e7df74d1e944078fa3c4e89fKt2c71ZQzNtZQ64CEXsyfc1ZVJV0s2Zx43Gg2r2zwbs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "630802"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/54624/pas_foto/1683729990_dc66a739-96d1-4bf4-b1d2-8aff2bd69e58.jpeg",
+    "nama": "KHAIRIL SHALHANI, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "HULU SUNGAI UTARA",
+    "profile": {
+      "id_calon_dpr": "8bcefcbd5cc13a4c84277c91d704ed6eb702ea90c0ba694bb72a3c2a7e86a13c6a09669935c11250a5ff63938bb9e01d223086235abb2aed84c71885907806aeRAIkup7OxnJ3CZj16gyNNAsCOgtORtfspsLA2wikwxY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656157120_LOGO%20PARTAI%20UMMAT%2010X10%20CM%20KPU.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,pendidikan,motivasi",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 78,
+    "kode_dapil": "630802"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/54787/pas_foto/1683730170_7e15185c-9e05-4c9c-b5fd-77a470b65cb9.jpeg",
+    "nama": "HUMAIDI. HM, S.Ag.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "HULU SUNGAI UTARA",
+    "profile": {
+      "id_calon_dpr": "3584e25e06e37128430ccdffbfda2182517594e70e34d880d0a1ddbb3bc80288961ca40940303edf998d00200b84dd9038a6e4a2716d2eb4eb3dcd2136e11adbwlDR7zMoNBtTJsx1DYWlTON8nl8Y4nMIUvd0mLMGtrE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656157120_LOGO%20PARTAI%20UMMAT%2010X10%20CM%20KPU.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,pendidikan,riwayatpekerjaan,motivasi",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 78,
+    "kode_dapil": "630802"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/54948/pas_foto/1683730278_7db6516b-e56b-43fa-84f9-83f4e86fe746.jpeg",
+    "nama": "ADHAYANI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "HULU SUNGAI UTARA",
+    "profile": {
+      "id_calon_dpr": "701e6dd4cfed97e22f04369c449bc90aa62f27c3ed185e1540fb3843265e48034a69940ff8a3bb7b5157d9da3c26712a61ed61f5242885eb04aa6053bc59356fBTguMthwhS0k2ldCvkx3n/ryUwI9zFsLac+E5+rYZhY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656157120_LOGO%20PARTAI%20UMMAT%2010X10%20CM%20KPU.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,motivasi",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 78,
+    "kode_dapil": "630802"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/55154/pas_foto/1683730363_22b575d8-6a5c-4c36-b5df-06ce5779a004.jpeg",
+    "nama": "H. AMRUL WAJIDI, S.Pd.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "HULU SUNGAI UTARA",
+    "profile": {
+      "id_calon_dpr": "9913e24def61d809a62a0dd6d022cf5f3bb8a7bb599058e125ea293231ba2c458aca66b4fce6a901cad2b4c176a78d791f8ce42f4a117c996e108a9d15a5a6bcAEkU+8hinrwnNJ8FU2HC5Le0fzPGLBQHrXqhzc8VVm0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656157120_LOGO%20PARTAI%20UMMAT%2010X10%20CM%20KPU.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,pendidikan,riwayatpekerjaan,motivasi",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 78,
+    "kode_dapil": "630802"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/55300/pas_foto/1683730492_3759da48-59bc-4bc5-8c1e-0b3383792cfb.jpeg",
+    "nama": "NORHIDAYAH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "HULU SUNGAI UTARA",
+    "profile": {
+      "id_calon_dpr": "a745d59cd286f75f3d742c6e892793ea0f114ba98edf371a2ba47f94628de03d582f8ef94ca99891167a53f488aaabe8356168f1d4a1ed33304a470c1386c293ajkscimVC5qr84NLGX72HvrZtvlNtnYCcj8QYMgKT94=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656157120_LOGO%20PARTAI%20UMMAT%2010X10%20CM%20KPU.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,pasangan,motivasi",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 78,
+    "kode_dapil": "630802"
+  }
+]

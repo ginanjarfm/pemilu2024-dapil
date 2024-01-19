@@ -1,0 +1,1283 @@
+[
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/255930/pas_foto/1688418379_6c0b6161-2475-4293-8304-c114d908e6b7.jpeg",
+    "nama": "EDUARD ZAMASI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "d41cd021355d152f9bb88b64b48383768ad529bf4168006d18e11abd970442d7766d2bb9c2bc4bb127e536a872a81d36dec23e2d8e17d9c4dc140aea8da0ad1flzuO50LrJ7ES7BBPNB3t8vjflVfVqIa/v1c8pgbAzy8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/255925/pas_foto/1688418449_1d4a1438-ca97-4ff9-9d4f-9bd43fa24121.jpeg",
+    "nama": "FARDINAFIS GEA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "623b0939b4fd5d9a914a772b5371c4542774d6f125b3a118b195382220466a58f2426804674d0f06196bfc5d6db3571d5acc9a51b293e7b7e9acd3a8683ff7d4eTkawUKozuC3nUKdbF4VA3bVCTu0IF9IPKiSZ0mv5iQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/470286/pas_foto/1691573449_d71fc576-5497-4ee9-9639-78960fd59222.jpeg",
+    "nama": "SUNNARTI MINAWATI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "a12f3aeceef79b86462d0ede3b5f8b46c08ba6578b338c7960d16347dd8f6384b5249e7e7b6935733f132a1e641c5d89b66324edbf535f75d5e2bc15f5ccf412f6ztgeWCeAxAeuwfJhYK8pevxZTyYxtlJUVu3YrRzuU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/255936/pas_foto/1688418616_d5ffdc6f-d284-4554-9a6d-6a6d590f2a95.jpeg",
+    "nama": "DAMAI JAYA MENDROFA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "3825d12c6405882869f1578dfa172f9f9f7ee545f01591e83e6f64e777f57f6cb81e4427d52f35f325dff9265165502348744feaeb6a149861b0ce98efa085b9wquMlXZe8GwUaFfz8kizE3UGBaYmYAhM6Hb9OPjeB6Y=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/255939/pas_foto/1688418575_21e57ab9-9dbd-4d46-8a92-7ef1e49b1ad0.jpeg",
+    "nama": "MASKUR LASE",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "679ca261aee171a0aeb761306b95d5dde45e51df24fc76c2e877957b51399757a83289a8d5b62851170a586b0bc00a5a41d4c653dd76274816b72982ddcbacb29n15vn+kQhU2S0Eq3ImCSwSLajUP32QsKJt0YAaTjzE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/255929/pas_foto/1688418657_70ca63a5-3128-4e3f-a243-005585f012e3.jpeg",
+    "nama": "RINI SULFIN ZAMASI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "6fdd6cf2f7819f1ec0e5865539f27a9fea60a4286c398ea656ee69a4d3409185f2376bab99d91c3efa406e8663a55f48ef67c6421a136a398b403470327acd55bb1PC7RYN/EIqll0lJ3UodIXvYZVhk0lD50A7IbTpmo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/255928/pas_foto/1688418692_1d100a2f-c1c7-4726-9930-0353dae5aacc.jpeg",
+    "nama": "PASKAH FAJARMAN HALAWA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "c85a764534ca9ac829e5a1ab2c75ffdf04b7d87c3f2b321ff746f9b11bf645325c385834d29e5190240f62ff1ddb2c11d6f2625694ee29d73cbeb59853b90b60UryR/zp30Ovv8tdos3QiZEL4q7uJNawwCyA3GJjxuyg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/89696/pas_foto/1204011611630001.jpeg",
+    "nama": "MARSYAM CANIAGO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "b135c59890f465447a9dc1dcc274fef2077b84906080669aa0ecf80ab07187ec67442fae5f9e79ac9f4d7bc12b7caf83dbe8f0c5cebcd2cc65f068cae97cf4eadkDZGBYhQHAk3Sz2EvHGZdOsQ1SpCQwGogUCYjHPaJA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 9,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/255943/pas_foto/1688418752_659d9764-cf7d-4f96-b072-b74082f00c8a.jpeg",
+    "nama": "SERLIN VERDYANTI WARUWU",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "67ff703f6ccd6ee4321f79c5c026532f9c27a33188375fd55acbd35246a5d74f3bf99bb5365625b14248ea10ab13d004d5769ba2aff5aaf6eb2dbcb1e97d956ab0Md4fA+KBx4rKx1jTvCoILNaohBMAH1nr7BrALRaQk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/34509/pas_foto/1683101686_0c9d9cad-dbf8-4337-9220-5ca4a0aa7127.jpeg",
+    "nama": "KARIANUS GEA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "17902a609f9155056e56ed4194f54cd9ba745a0111ddb0934a78e46d82df2668888d159407f02336bf98aa63310ee4650222eaf2d3a22876093e697419daafe3/fTtooLLFVd+Ki65/0Eyzhse0EWgPKWTt8FI8S4JQNU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/35754/pas_foto/1683436982_db4a5bba-9e64-480c-b3f8-f5fd421ba67d.jpeg",
+    "nama": "FAIGIZARO TAFONAO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "ad42b16446f1bfb2f7addc3521c31e1f153228e9dae5272c4e9693332d495cd85a38ac551c5853b34167f989edba0bd84f2f679c28bb1a51ff1c151534a065d0ig63arIUcv213A2uybysKr27cG2MPVCFn9PnfSWg9BQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/444305/pas_foto/1688716985_7c90b781-7c95-4b0b-b555-31c7d3d991cb.jpeg",
+    "nama": "YANIADI ZEBUA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "bb1ea015497864a8cc29d47c6bbd9a25efd62d7852b73f6d37476721ed87900c5ab0bfe726c8611ab7aa89d069512d073da4c7ed7b28812309eb49ed0065d69blaNgwef4uMBeDCYxwYTA0eeFM0fs2HPf4u1qkXOFdKI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/443948/pas_foto/1688713493_a68b1691-9acd-454f-879b-bcbb9e039347.jpeg",
+    "nama": "WIRA KRISTIAN WARUWU",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "dffd3e9609294682c0dd72c9101363815e58b2696e6c7bbe473154b1cddf254d468da93dd992e45129465bdab8153e6d421fc258247ed5e148421812099e3e93r2KaEaJ6RM/zIDmHltxZ43I1DeDWgwiXJ8p3lsjjobw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/35257/pas_foto/1683436717_ae8f29d6-34e7-4f9d-a71e-f63977cf4a12.jpeg",
+    "nama": "RINNA YUSLITA LASE",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "e4ce4b4762daa7dfe55725b1a815e261a7ec520c33ab407fea7ff6cb1dcb403fa92c97a66a4900a97313125956b0ba48613ac3fe9649282da7b44917e531fbe6ZXbQQgXbzU/ZS2CzuQnlZ6amxlqVmklhAiOWWWerhBM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/35171/pas_foto/1683436823_58d75f34-3c3f-491f-9e7d-23798faaa7ed.jpeg",
+    "nama": "HENDRI ZEBUA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "ae8723d29ce45ad3c829ffa8e6dcf4e22ab6bb0abd21a514af7aa3028f4804970aa29e0392996e0fff48c6968c14b0bb95cfe93766d1c919ee7fb4a07125a61eyJuqN8fiS6fzbqRV7mRI3yTwtIur5BHN0KjBbVzwEJ0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/36880/pas_foto/1683436883_bec7edda-b35f-44e4-8ade-ddf4dde99d54.jpeg",
+    "nama": "ARBALDA MARYAM TRIMKA HAREFA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "a48620accde94458dfe98bc337fbdc3d5e570543a96580a612486e7cd89ab3e92603b00e863c4a4eec3c9e45120840d19abaf8031c312f5de2569bd1a2550480SmJTR6g+pKZ27jJxKHnUaU1pd1Zrp9OG0u9PIj6Yb5A=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/34922/pas_foto/1683436557_1f8c2c13-b67f-4cd0-84ee-8c0d6678e6f6.jpeg",
+    "nama": "HERMAN ZEBUA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "6cb73293b784a2dfcf140f9acf1187914a70b8294c7339888b7cfe2abff86c6ef96c163aa7020b6cc319a55373999ede3ae064d24d60c12edfdd592de16adb6cQ5jTPcRRaHdBFMUMVLzqAYr6A0mU5p3kg8T2DuHS3lc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/197416/pas_foto/1683649951_bd87c00e-44f8-426b-bb19-47f1ca54918a.jpeg",
+    "nama": "YASINTA TITIAN IMANFATI GEA, S.Pd.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "e6cb4434f94fa37696d77b46add9e429222ec219116ab0fd26a082de4dd4136bb4a1505594db3e6f14944f26b8dc079bbee2d6b9975ebd854b861c987d2f4054qga4MTlOxHaHGjnFqDpVud1mEhO7y0cGMSV11OCh8H4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,pendidikan,riwayatpekerjaan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 12,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/211355/pas_foto/1683691615_66f5f3c5-acfa-405c-8f7d-d1241371a131.jpeg",
+    "nama": "ATIELI ZEBUA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "fb0b7055443c7eac1c9333d17cd9def4ee02bc695c0347e56f0dd1f20719d94f7bbe0f08b06850632066fa766f031ac235674775746dc99585e9e0c696395e87Gz6XNiA0F5vxFlgatrIKjpjMkSKcsc69FvMKzjdoO6A=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,pendidikan,riwayatpekerjaan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 12,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/211793/pas_foto/1683692376_f304c935-9526-46a6-afd5-9b6a8ad7a134.jpeg",
+    "nama": "SETIAWAN HASRAT JAYA HAREFA, S.Pd.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "b03815e6dd32e1ee59e8ed1aa29b1ea4665bfde9d2ab0718abf58d2d348e99530e5368014b042bca49488b67be3b804c9ab19208ce2178f82993189f27f0c486gVDrs6Qj1eqx/chEp9TEfH5tDd4Q+vMhg9tFYVn+HFc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,pendidikan,riwayatpekerjaan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 12,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/212150/pas_foto/1683693122_9d6b63b2-f8f7-48c7-9980-c889ec49b48f.jpeg",
+    "nama": "NOVELINA ANDRIANI ZEGA, S.Pd., M.Pd.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "f7cbd9812abb00e745e331bbfd02152150f2090736352066a33c29f900711a01a057e6137907ca1372d9ed4d78855d5e6aa3d7ba5d548c1bdef7f92de65240fbjmVvo/rhuChEPjXTopwRNSG5vod33eoSgPSzti8S9qY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,pendidikan,riwayatpekerjaan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 12,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/473271/pas_foto/1691659482_d20794a1-5b11-4472-8916-8259b22e245b.jpeg",
+    "nama": "DEDI IRAWAN ZEBUA, S.E., M.Si.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "a39b2cc44777eb4e9ba8b70d7be287dad94306c6c52a3231e4cf387268d9af9beaf315d9b5197533370385097d21468193915ac022a7277eb7ba55aba5296896sQabwTJWVrfQFECHR1kf4+ZSXZsjeKQ/tIt0Q6A2feA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "pilihan_publikasi": "datadiri,alamat,hukum,pendidikan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 12,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/215168/pas_foto/1683699046_a793878b-4dd1-4258-95e4-3cd2f154fae5.jpeg",
+    "nama": "KRISTOF MARTIN EFORI TELAUMBANUA, S.S., M.Pd.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "7a7924f9e718004b4034d89b56e50e4aabde5a591adebb807ecc6dc74504eac06597870816b4f2e48ecd8f160e1f8ba1f20cd4898767ff227d4b40fe54448f833pv+nwusdqQaR9n/sXdHkhpVHwVZrKQicaAtLcZSrLk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,pendidikan,riwayatpekerjaan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 12,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/215850/pas_foto/1683700169_0c78e7d3-92df-429c-ac55-b8a2b1034dde.jpeg",
+    "nama": "HARTAWATI LAOLI, S.Pd.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "db022bee20aa6b167366c1e7749f950ef2c271a190f3cc4c1dca8beddfad7f3b5f33beeb4932a949c2b4726426ac51e5661e929afcd9a0d57480c59432261a40i7Jeffh67JeDO1xEtb8Ed0+iPjcE9Nx9Yamm93gSwFQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,pendidikan,riwayatpekerjaan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 12,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/216377/pas_foto/1683701067_c1ce9882-3401-4d6b-be43-a89d731aa1e4.jpeg",
+    "nama": "WALTERRIUS WARISMAN  ZEBUA, S.Pd.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "2dcebf13b3f1a80241dafbdc2b1fdfee74e1d8f142b27b494dc9a5c79fab0e7d9ab2c98b03e6fb77f978d07bd9bdea7c0c3b8321f47255bbcaf67d0116cf1e44jeX8/Euqx/SaJ9+hyKIXtfR2ZHOB07v7KuFgxk+smso=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,pendidikan,riwayatpekerjaan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 12,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 9,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/216589/pas_foto/1683701696_ebe71a73-9b96-4eb9-9b30-21d3596630b3.jpeg",
+    "nama": "SYUKUR MEIMAN GEA, S.Si.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "13ef73bc54556df83b4c8e509cc00694c5608804908f88038fba30461a5c165169e21f6b8c20ead51df2e0839633c2b8a096f3a0619fbcbeb614baa4e0795dbcNKfVFfDak0C8fCeJe2OUJ4fwfZyw9YSyYJh0caO2PY4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,pendidikan,riwayatpekerjaan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 12,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/296209/pas_foto/1683899210_40b3651b-78cd-42f8-87d2-1e5d844a8a77.jpeg",
+    "nama": "NOPEDI LAOLI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "ab7ddf5839b33d35d0339b518909c2960209959a600ba1a59f8bd6f5677d3548054559e12c81b945fa7d988e624241c04b74afc28e424a2a6dc2b52f847ad31aWvBeAZcfeV4+10gOwFsjKCe7C4SbRNINitIywBjstqQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/296196/pas_foto/1683937386_8629a9f7-251f-4e26-bbce-9dcef3c0a450.jpeg",
+    "nama": "ENRICO IFOLALA, S.Kom.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "46b263c629026de57109dd996490371cd78bc13dcd78aba72cea2e400fd6759d431bf891be0924ae2cf99d61bfa7261a04bb67350eb838c1464ce3c55935c1b66UsOqCKP1kB5d0GGcgeHQy0w22TyKfabjVLlOQ4ZRQ8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "pilihan_publikasi": "datadiri,alamat,pasangan,pendidikan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 9,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/296206/pas_foto/1683956792_dd2ad60e-9446-40c8-aeb6-c24e1e32e0e0.jpeg",
+    "nama": "MIFTAHUL JANNAH GEA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {},
+    "id_partai": 9,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/296188/pas_foto/1683912986_bfc60202-c24c-45c5-9381-63ed2b853fea.jpeg",
+    "nama": "Pdt. AGUSMAN FARASI, S.Th.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "a0d6dde3458ef988dc2a3615bafa02bdaa0ec319c58f1e14b6c32d9eaab351619a0556316f4f2eb970c3886744787de82480c75157a9095d01dbe48de8d3cdc8YxR7dyxTEb9jTleStI07qMDJGJ+TCyMuGFxnp5tERvk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,pendidikan,riwayatpekerjaan,organisasi,motivasi",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 9,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/296203/pas_foto/1683966250_d0a9b1b7-9e1f-4d9b-8dde-51d89b9e4fe5.jpeg",
+    "nama": "MARKUS SASTRA ELI ZEBUA, S.Kes.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "57d4f6fc04712948cc1f22d8f631cfeca355048bfd94caf5fe2f2a7fd7afe8017e0d372736869163e0f363d5df695aaaa4a58c93a538ad26db6875192a6720f53z2TzPPGfLmL0QQZ/+WafMGDU6pLHZMqXeV3BYZ2D1E=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "pilihan_publikasi": "datadiri,alamat",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 9,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/296211/pas_foto/1683963715_0af2e6e1-1122-4f90-9f01-c96d7118a118.jpeg",
+    "nama": "WAHDA ASTUTI BATE'E, S.K.M.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "d7269d1faaee35e6d3765b93fb2be903410027db718a4dab9a06b124fe9016952b696f7c53d6680fe7d46140f2b3b57fbb0fab286c90798c775ab803e7bbc0366XB0G/6BJtKXIzFgoNmav9F7kwylLAWrUw6pf1a31No=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "pilihan_publikasi": "datadiri,alamat",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 9,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/296202/pas_foto/1683966625_43dece69-4431-47ff-97a0-5b896dc56319.jpeg",
+    "nama": "Ns. JUNIOLIS FIRMAN HURA, S.Kep.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "002b3a1e29582d9ec1f2bfd3c01a7c179134b0cfd37127188fef769f8f77994e041a829274a58fafb6f391d09d392c6036fa43b151d63c23d350a806af1c7290h2dbRutRwTZU5KnTM9SWVuT77tU6l11UQEPJVEe4yZE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "pilihan_publikasi": "datadiri,alamat,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 9,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/296198/pas_foto/1683940903_94369244-a3e4-43cb-ad00-97b62d98a25b.jpeg",
+    "nama": "FITRI INTAN SARI TANJUNG, S.Kep.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {},
+    "id_partai": 9,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 9,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/296195/pas_foto/1683897388_bc59647f-0e45-4439-a042-9f305131835e.jpeg",
+    "nama": "ELVAN HERRY YANTO BATEE",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "0f3da61d2fbef22fc0f4343942124c572ee475dc610b9c7a6c108b4e7ad01984a0cc4805b2864bd9df186c8a7a73a847dc49bd8760404ffdf84bd3870f7dc24cOQFLsItjzGMlWu6CBANwb5jzcaHYaYKy8PuIQNhw2ic=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "pilihan_publikasi": "datadiri,alamat,hukum,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 9,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/156918/pas_foto/1683566428_d24d85be-1695-4419-9b9b-e173e6084a3e.jpeg",
+    "nama": "YOBEDI LAOWO, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "10bcfaad31b8a52e88ac6cffbfcdded63ff909b0c91c238066d2e9368efd0cfaab790bb37406bf239274466a63f78439af9a2f26b0f83be6c83f89f52187fef1XON3dxYfGSw7Qgyp5lBxBIsxurS9qwCuIpxfv3IKwlQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/445354/pas_foto/1688740402_99d84ef0-d5d3-4eb4-bf24-04840e176f1e.jpeg",
+    "nama": "NURITA HIA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "32139a7449daf98027ca62d839a9f4c81c1177d778b8763f5e5dbcbf1824afe9d303af14c12c7bce240b2bd5d5260fc20d4f827f051fd247b6c6d4aeeefd89faJM5T34DIMAAi+tt17dUwikIw+vtOMpOE4qRFR3RLp6I=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/455232/pas_foto/1688826621_9b7147b2-dfb9-45e1-ae91-a5b1032b9317.jpeg",
+    "nama": "ALISOKHI HAREFA, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "12a0b272d1ea090ff3c5aa95cf8f8a35bbbc3e171653b54226587ebd4eb485d384cfce7612f4c78d25255f69f73a928fa772f38fd1b9bb9a0ee50c516dde19ebtNcg9Lz1LbcbMz4i11ELDlyXTZo4kpjQd01IjoK0Sw0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/453420/pas_foto/1688814441_d0ed0b8c-5365-4281-9c4d-b3b3e1038a8c.jpeg",
+    "nama": "ANELIA MENDROFA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "46efa4b31745a52847623a186338f058931e794fe3b81c30b9973a8bb169a79c576af818e1489800e8ca2708da738a34128b3b2cafefe74e8d276756ae20c641EPbpouydT5iuPmelP3W55TzHZm1Iaqs5wvgUEsQ0Lr4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/168068/pas_foto/1683626774_e0537c46-9cfd-42a1-af7a-4b222eb8f9f0.jpeg",
+    "nama": "VERIANTO TELAUMBANUA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "9d534fac805e2a2c2e684fb20022c8f03f453913d88efb37daceb10813ec3778f2d1a83be62c0486fbe37de067ec3a29fb1c4cb7d9cde19f767d361bcd844233hWRUbCGwTD4Ib0dkU0eRTSErD/gJ6q4u1N3W3K3EtZE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/163741/pas_foto/1683575857_1e0779f3-d80f-480c-888e-86e082071332.jpeg",
+    "nama": "BEZARO BATEE",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "33c8bfc21e78ff24e66804c156c30359ad32ed39332507d7841ab6b0c0e476e2533cd75a006562b412d28bb97d6789f881885da24000c420b4c8ff38bf8ce25bShpyV61Fjx2TUSA19nG1YNvH9TwAdmMUNs0QMzN7tlo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/216705/pas_foto/1683716398_7f8f96b9-c39b-4cb7-89f7-8f52a14b8452.jpeg",
+    "nama": "ESTER MEILINDA WATI DAELI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "75de449b11f40d2298b510866c7604b64f92c30f3f002ead4c046e2090d66fa5c2255853c04b9e4dcb56dd7379301580c848e74bd4309a04d8a0fa67b74adb38lAQQmQxQIVIxRtVBcJ/1pAz2e9d/wkuFymVMJ6I94XQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/191280/pas_foto/1683698085_6dccfdca-912d-4873-acda-0a1b4502a839.jpeg",
+    "nama": "BUDIELI DAWOLO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "04ef3fd7113870954373d00506925277206b6843dc62518ed0eab61b6f1904ab239bb5ccc2c79e95380eabfcc41c4df5efe3546fd5a103855585f2238691fa7fbupG+O8UniI90ymoHfVQ552IdR/ZANzIvbWGcwyshI8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 9,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/187998/pas_foto/1683701191_62e52957-78ec-4cfe-b1b8-19e753bfe227.jpeg",
+    "nama": "YARMAN GULO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "2bcdbcf66184cc0a88b93d98a02e1302f5d6e0d95c5534c08a097e408c331f5c545c2f6663d1d8ffacf20bd7d718b4a28bd5a916a2d70af6c300b21ddedd8313HI73X7Sqjh37HAKbnSTZXZWa/Og4PHhhdLCBSb3bx5I=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/24841/pas_foto/1683217390_75922b1c-c2fa-48c7-94fd-7c6353c4cd5e.jpeg",
+    "nama": "FATMAWATI HURA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "7d44cfff0eec9bb4dd0f5c32977a2b0e8d8e5baee55bc34dea59c1e2e2709c9344b0792573dc01849a8bc7fa318b6a471deee5e2a8d78dc15294eb2656766239a6GQnBAgULuKHIB57hXrTHvlbqDYDC6hCVIgrkSmhJE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/25380/pas_foto/1683217427_2e739323-94d1-4077-8853-78f871164ae2.jpeg",
+    "nama": "HABRUN TANJUNG",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "a4dbdfee7ac5a7547e9832212e721300d1e120e6fc37f6b93a5348c021f4f794152edc076ea668dc68df72967105ccea6ce8c56fa23074a14b06bb2c9f4d32c7fKPEPpv2djMDrZdp3JKJMCx5rcjmAobX6NHxl/sPxOc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/25924/pas_foto/1683388606_7f32e220-65bb-47e4-9a2f-b4a40b085765.jpeg",
+    "nama": "YUSKAR ZALUKHU",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "70c8e2981aa68bdfda0be6380efa9a7f585fea15d31775cb08318174c55f51092ba90be7fce316fe5f2ef0c85f183b7899b9d0be031954d0e34931492cc9c654UvrrSPH10QCxHHHVe+5T0oSpSaB2d4yH6RKXlCByTYg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/178916/pas_foto/1683618790_1f8316ab-be76-49a7-8631-eb487b6c67af.jpeg",
+    "nama": "HADIRAT ST GEA, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "883b585abe585e1511789a70948d9aecb2e5268f9e675f2c08d79a2a9c68e0f24e730d6a6b36cd4c11429965cf52a63255d5c145418630c7239fa8b1e83369bemxAGBSiKObhy6O4lpEkv423RUD2ecQ3Kv5Tjl9LOyAI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656155242_logo%20PKN-.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 26,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/180594/pas_foto/1683621494_d0e16158-cd27-40ba-89fd-453d9deb9531.jpeg",
+    "nama": "FIRMAN GEA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "7b5097fa55ce2f5c1b48456c3c6565b79e3e40af95b74522a2ebef8a82b20d63d972b7c22fa0239c8d93442882ef9405ec4008cf51e4dde97ae4563177f84f961nh6FIRE8sno38aqbdwadnUxWidALYXHmRWoxcnE5fc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656155242_logo%20PKN-.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 26,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/182834/pas_foto/1683625290_4b5e5925-56a7-4713-93ee-a87653840dfd.jpeg",
+    "nama": "ERNAWATI ZEBUA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "cd88ffb1306fff829d1a8b0722dd634249e14b2f92972c4ba7a723cc8cbd88ed3bb5d7b44bdf2ab7d0296a5fb791ec925e8a9ee5cd8c385e83a7eb4a90894f15qC1zd03RvPBPH9Tov3bjZX4CmIhi+JRqfkWUXUlqOd8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656155242_logo%20PKN-.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 26,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/194299/pas_foto/1691651197_c8e8a730-cc7b-4669-9428-b56db8f7dd5f.jpeg",
+    "nama": "DARMALIUS LASE",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "2f235436b37e5e44dd667e89b2631d5a02a8f2741c71252d248416908ed86ced9ec72315a70a5b673e520440e1ff840ff5205ecdad9c1b3ab6bc51a2b9b2aa50i5vkzE4q8V+jp7CWOU7HLELShLSlu5mCLzloCYi5gI0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656155242_logo%20PKN-.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 26,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/194463/pas_foto/1683646699_febfdda4-2cba-4c26-8748-598118620241.jpeg",
+    "nama": "IRAMA PUTRA ZEBUA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "98f1a3b9020420b56a777d4393f22165eacca28b4b4e0ca6c62920dcda0e10cda50f6d1ba6ccd7658ec33fa9f41b890f643840e1141f114bf5241147c81d86ebq7lzjqmpZRo6m4Z/PRDgTttqin1zweGXaFqLDHZI8Zo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656155242_logo%20PKN-.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 26,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/191388/pas_foto/1691651243_5c60051f-8cf7-4605-b6b0-b53ff554c5d9.jpeg",
+    "nama": "MEGA SELFIA LASE",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "c165cebef619714b1e8f1f4be4d87f1d1e148ab0760bf9cbecc4f7cd18e5d1e9c42cda31dbdaa8dfd713d7fef6442c19cbc2ba4c10c25cdcdeb50c79e0b03696W8jQNcy42ailLSkYzAGNNWfodZDjzdZkj9uR+/O3cmw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656155242_logo%20PKN-.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 26,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/186738/pas_foto/1683631615_1c70af80-bedf-49c8-b104-a3167fb64139.jpeg",
+    "nama": "YOSMENITA BATE'E",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "7433493fca6ff7bad82a50a0ee1cf1b2064dfdd303cdf416b9b5d675d912fb882774fdc18af46b58b44ee9e2e548ab0b3184a9793ce5ab07b31c63a6c2b5971cvZlK6Vbj9td3z29ZsUFdaXDH0pT/zVABvm3i0YQkDCw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656155242_logo%20PKN-.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 26,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/183400/pas_foto/1683626070_2523a3b5-a88a-4775-b1d9-b181ed3b47d3.jpeg",
+    "nama": "DAVID SAROZAWATO LOMBU, S.T.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "54f3bde1033e291523d3c9d9ec61d36afa4b37e74a508cbce4fb5a6e3521e881e0e5adff585071096b72a1c36ef05d55512bdd5de4b1e2ef8e556ef5c6415c0eGMBAazVwmd44VqYfIJZtegscaXFD3JPUoFZxMvtZ94E=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656155242_logo%20PKN-.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 26,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/173574/pas_foto/1683781709_9539185c-ac27-4711-a14a-35711c183466.jpeg",
+    "nama": "TOLONA LINDUNGI GEA, S.Sos.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "2d7736023f83ccf3a49112094de08262d3ded28d5be01cd3ace33226ff35fa963d3a01b9538cfe58e99ea165b7c1e3227fef1905e1a7f2baa4c1373b8b6f26fcE2L4KhDXMoZv7iZZ49U7C9rvtW/mVf5aIReAbiJ5//g=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 5,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/173486/pas_foto/1683788257_19083f0a-62a1-4600-8e7b-dea66543f030.jpeg",
+    "nama": "FIRMAN ZEBUA, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "384e5fc5a79d66aff3d2f6a137734129081602d44ada784a0abbe1553f58f35c36da617f13c1c4b3b60946368eed93466082285659d8b1af68ec2bb39fa50e5bVOcriLD0DBjjhHDNr+nZrg4Si8QhyKphaVfutMPll74=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 5,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/209361/pas_foto/1683782881_c2f3e1a2-4da5-45c9-996f-c4623cb8be3b.jpeg",
+    "nama": "ESTER KURNIAWATI GEA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "b906f70063534c1364680592b8e45cd1762e9d54ab88d692480c90dc813dc94b5947728f610572519a63a87feee650c0e3e37583bddf8856d84e07cc01cc41daGK3yqRh/UzI7ezhluE3xYw/SlwgRy5/zkG+e1KhSG0s=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 5,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/209251/pas_foto/1683784716_7825de0f-fb98-49cc-a113-18f6f52beaea.jpeg",
+    "nama": "DASMAN BATE'E, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "a68a236714d65f4c7e04c4f90c52c04a7e6ebb88e7e93a165b0837b4e851b75fff8c3083575987c790017e10ceb933f0bc77107179965442ec6ff2163157b792FCLPC1UT8KBuI4MfO7mTJMsiNc4n9HPftNVBN+/RuNQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 5,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/212590/pas_foto/1683787657_350ede77-436e-4358-b7e3-369f35207137.jpeg",
+    "nama": "ESTERLINA ZEBUA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "953c561d1b784011cffb5267f2e2123901c617b5682cc89a4270fa9aa44a95cb22d2485124ef3b624e06d5671665735f2fadb609a263020382d7a08401375d02kUDodu9LvOu9bMxf2F8pyaEfD3YChcT2IhYquSgfeHA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 5,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/219548/pas_foto/1683789909_4010dd20-d401-4c74-9a62-2971d49d63ed.jpeg",
+    "nama": "ROBIN RAKHMAT ZEBUA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "cca2568e04dd000752790875e7029075d29120653e328a453bac73114b064619707635dd188fec984ad8d8daeac94474f370d4e504eae9eac4cb8502724f6be1qJAb6yrDnQ/aEbhNQHyOAfaYolgy0c1j7R6Qr+i3l/0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 5,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/218820/pas_foto/1683789473_87be8741-fcfb-4ee4-81c2-104ab417f336.jpeg",
+    "nama": "LIBERTINI HURA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "dad125c5af6238f56ad2dce78db99a2cc79096ac9eee9c4bef79c0cd9a17bc181096b6eba6efc803f25b77c8d4b05f995d1e55690a93503ef093c3075545e34dSFRONm2PJ+6ANXRtiZvhOxQ1P7rLlbr2yhGTDDUb3yA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 5,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/208933/pas_foto/1683789660_e87883d4-1c15-4b55-869e-2f37b1821d30.jpeg",
+    "nama": "ANOTONA LAOLI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "32769b9e491e3d1554dc025b2a2f5d8ce8f5dac9396606c9e49f18c0456cb12656f21edcf845926f6907a8b30a880ddc509c9618c0bf3f14df95e0551a851f7fxB0Os9UHWJgA57SfW9+0ZvzEvuT3LFYaOnuR1ubR3gk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 5,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 9,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/208856/pas_foto/1683781908_9a4fba88-5cf8-4cab-ac39-6ca3e7be9ccb.jpeg",
+    "nama": "AMPERA WIJAYA GEA, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "fd3a13e0b75ccfeefde1236ff82d10523df25ac09e14e9a8f0bc48bff4743fbcd1457e6c72873b03033240592c57af2ac730421eaba4f02dc4252cedec163da0uxa4O+07yLh/0zgb7PoaCs1dhdME3eJ0EFDrhhLtE6Q=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 5,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/183141/pas_foto/1683625851_dd012b68-955c-46e6-a9c1-df02b45d89a1.jpeg",
+    "nama": "ELFITRIANI TANJUNG",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "a1aaaaf33db16b624ccc8fffe459a7e7cb09cb2de23e7bef21c3c5c3bb7cf68fbed36197928d964edebf3ef278abde3614cdea0bf5af80b6831bd592e531c580c8yD0FZ5sLo5YmbNLm1JACgHIVry8QekuKz21GiUWW4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/75196/pas_foto/1691496852_46fb0625-c61f-46aa-b73a-3afa1c7b4c7f.jpeg",
+    "nama": "ANISNUR TELAUMBANUA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "d4fe1930fa5d4b6b75690817bc67bd88043288d2ecc716d2dcc0e101ddb1defe78f39dc0c70f1d4cccfb02d20ff9578012606ce2269bd50393716eae2364ad3ehqsOXb46zSg2QOgLTIRGWASjyBj0s2eZhhXP40O8hD0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/44929/pas_foto/1683173883_fd3974e7-0837-4c5c-8f9f-a06a25f66a16.jpeg",
+    "nama": "ONIANI BATE'E",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "f31dd6fa9f6b0be6dcc6358eb51db12fa7fe08241e19f80cd1a756742f1b9be056bece1cee8ba06a4833a83cd7b2d542d723c16d76d37fc583eeae92ffebef455Wq2ypEK/lU6H9ztHaaddsfvE9q+yOcMlyl/WYmIlIc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/81467/pas_foto/1204161602910001.jpg",
+    "nama": "TRIMEN VEBRIYANTO HAREFA, S.H., M.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "233052e4005c8e7d8468f70713e2a7400b82ee38d6c106427905ce06f9a91ba9b36a16530cc4e4c6f3018a0da798a81b0272914c087040ae14c76a0b15bfde53rx414KNc7SDEf3CGPNnj2sEIpQu2YFZ4M8A1ZX4Zkv4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/81467/pas_foto/1278046005780001.jpg",
+    "nama": "MERIASA TELAUMBANUA, S.Pd.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "c42df9e93323803e26c84e3b85f8e9c7c5452bedc4e545c9cd4f4694bd0fef7b1f69ebd75cbd7e644248ea248f2459389284d93d78867d8d955e4bc97f58b8332xYc7nuosM3AGUdF2pitsOuPMqSmz0F8y7+5p4Wc6S4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/81467/pas_foto/1204170802890001.jpg",
+    "nama": "FUKIRMAWI GEA, S.Pd.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "fe9911239601831d2577058be05d1c6ebd256322a7c44f4a2bf40bd8d3fb0bbf761b34e62eb09a9260528f0253f115f822553fbeca5ce8223a725acfd0053cc6Hh3ocXNB3BuAqJv62O7yr1jfnLOc/0fxJn8LxDH/QVo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/81467/pas_foto/3175080311910006.jpg",
+    "nama": "HERMAN SANTO ZALUKHU",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "27fa55976f53ab456b3971df08afbe8e982cdfb941ce88488dcdbfcd7248c49dd5889f7ac2aa9cad9e1a0841cb85abe8ca5fdbec13ddac6dab3763b3e01105c21aJqMGteW1i0GI3PWm+/UUm5evWeifzLoLl2ny/I23c=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/81467/pas_foto/1204170807990002.jpg",
+    "nama": "ANDI KRISMAN LAOLI, S.Ak.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "509db78a674144f88beff88692ae1697d47ff8f35e9e3e3cf52493d01ec2f26cce7627561316ef55ff17c5292815fd6c29f1b9b5116d4a68b4f05f7aa6f5d6cdqPNpNX92cPHCuZnIhrTRdhpjWVAEGJM4yuNjtZLojWA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/89667/pas_foto/1204017004770003.jpg",
+    "nama": "VLORENTINA LAROSA, S.Pd.K.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "26587e1101f84b9bf14af21a839b747a2492a4b75da15e0844d7333eedd01414d5398cb1a0bd0f09f13e09a42a6d27287b20595a46ffe25a072c74e0a9974bfajzlMYR1nnWvmw67GzYPsv/EFuRxBNVgqAZ7FNdRKBos=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/429604/pas_foto/1688406802_fe1ea87c-e964-44d2-84cd-667964ebe704.jpeg",
+    "nama": "BEZISOKHI LASE",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "b45d71f2bcaa34719a49bb840bd448e3c66558c61e94fa3c85dad1537209a928bc5f1b41543f4d6a659bb3afca36ccb30c62df526754728e8692614e677cfc2aEumSjPDf4xEf/u0NZYpO8aZnjjuzwipvG8x9vVy86Io=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/81467/pas_foto/1204014402890003.jpg",
+    "nama": "ROSANTI DIAN FEBRIANA ZEBUA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "e094e32b70509f4679c7608e658d6df74186d2c93cc0b78b02fdd5fea3cd0b8aa098c8e92f847354e9fb1823d5ca2303d908fe91f2bf13290c46ef91218ebde1y1hc9VBJStBf7j+shAr3l4CSpPEyee7PMqmNM8sdtNw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 9,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/81467/pas_foto/1204172308620001.jpg",
+    "nama": "SARONIA LAOWO, A.Ma.Pd.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "c0094333720ffd23ba3c1ae8a125e39911f35512b1bda7b32b821bf525aef7808b687afe2bfd98dc812ee595b4cf8c70e263871234dd9f15a51525b953f9097bPb0nP5B/yYFSF/u5aYejs7bQMNyqcoU04cOSf3ZK6+0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/28613/pas_foto/1683077092_55938881-5058-45da-9e5d-844745b78c0d.jpeg",
+    "nama": "BESTA SOPANDI HAREFA, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "58cde990691f6b8d8946f656cd07037a23412da92b5f55b5e1883e5d3ac61b4186fd78f321675e626d6380505744dc50fd3f770cfdb4c677983b00ea3cc2e815xpPbmTL1AXBpXHSUhjllNR7akVw01gaAGB8Hod2hr6w=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656419883_logo-10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 76,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/52779/pas_foto/1683202132_24004991-6b4e-42a4-ad74-b47e574b29e6.jpeg",
+    "nama": "SEPTIANUS ZEBUA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "b2a8bf697594ccfbb39dc5d412dd011675815dbf4fbc22a9475b6ac088ffe2cfaff3cb50b6aa4272d8050210149b5b8a3e24b8cf2642d60909b827e1763bf158QNdQjIuXCow1u904scM/VV6aN++TW/C1QvEZcJZYHo4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656419883_logo-10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 76,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/78731/pas_foto/1683619452_230dd9f3-c0fd-4985-8202-235bb0f91de8.jpeg",
+    "nama": "CHALIS HAREFA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "7cd96b99a866a01e1c957ad7baad654b9ed8cd53d8a129e98b2df427149d7c362945b4997bc7a7fa5d3731f8d57876d200ae3f2a0dac80c323750cf0cbf2dd57+RN8Tl48vBuoNdWOzq4j/6IxxvfJiR+GJBIzLyi2EMs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656419883_logo-10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 76,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/94033/pas_foto/1683570991_c5e6640f-2658-40a4-b278-5547ec2487da.jpeg",
+    "nama": "MARULI LAOLI, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "9fe26c8d919a86b64541fb2ebed977f778ac62284b859c72113a2faef13f54500623b9eab4fc8711b0a6d7751a6798760c38b1f2f7bc279e467e1ba849d6ca3fBcC51fNI2dVaAP7Pz3FzPbGimQBvZcyfsQ5aLAG+Z38=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656419883_logo-10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 76,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/95014/pas_foto/1683569739_377789c8-e0c3-41d5-b709-5e0185f4036b.jpeg",
+    "nama": "YAMAMONI ZEBUA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "567e0e705ba6cfe1a4034197872d3acaf2bca664b47a13a047af4e033c04e2576d7ad186773178bd240b54ca9cb60dec17930449230a0d432b07020417fa3489FIonQibOWQlNQ6wQgUbkPwQLG+hLwWLGLzMWTENVwQ4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656419883_logo-10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 76,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/184201/pas_foto/1683629407_8e2592b4-abcc-4982-9dc3-23105692f801.jpeg",
+    "nama": "YEMINA WARUWU",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "9777fb9cb22267b1dbb032bd324520d2fca1c02049177f76358aa69387cd4f4f4ba8a1b36f58758d56283eb152569ec5cfc8315d75a41b0f5687807ddb705fdepC70y2M95QpXigq2iIZ/416Z8vVPOtUI5cbFd50OSzI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656419883_logo-10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 76,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/23318/pas_foto/1683731248_dd92e26d-7a72-451f-9c18-d4f9e1c11ff9.jpeg",
+    "nama": "INDRA RAHMAT SAPUTRA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "8b50688ca8e7f0c5a8e8f312aac6f11eda7e3bf3ee2769ea6df98236dfb1bb65376f54acdbf3c39e246af537ee061d2f3ad08fbe4d27075f487a7e8c8523f4c37E0cJB13l1sBH6cp8bPJo1atKKFrxKmHbTylcg3WV1Y=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/458721/pas_foto/1688844822_7babdc6d-1a57-40aa-af0b-9957565f01f9.jpeg",
+    "nama": "FAJAR KURNIAMAN ZEBUA, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "7e0f9bcff4805760f41d119b5a762915392b715a287cc93d19cedca2cdf01909fb53dc794b193e6227bd537fb996d688aa0b5a9d4a60df312b6ecaf0660c716bMSj8CgfFwDXuJLdCphMr2oZDdarvyBrNYEp56vENzGk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/298395/pas_foto/1683826024_90c54cd9-9d7f-427d-a71c-2406ca3d8825.jpeg",
+    "nama": "SHERLY JULYANTI HURA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "a10b8ec9755fd71f056875154275680bd0dda183b9fd7bb7c9d552f34173e8feba4f6c6197063d58f5adfe99d52dff3b953234ff5695e93a5bf97dff4588f1ec2fgXXMfnDelWNL7QARVzxZY02aY9cNGafxZBJG/Czsw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/458550/pas_foto/1688842993_ee90f909-6a2b-4265-a5c3-76e8e0a678f6.jpeg",
+    "nama": "PERLINDUNGAN GEA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "fc1fef89c6b2030f424555bc81a6c74375f0cc7a3407badd9d34c801b71b735561e05cf436585120408a13081a51e1ed6a95f9b802b9f2bd3d6da2c7d0e18109wmX1ukknXLKnkPFBMuDRpB8lnxUrt9GYVYP4VZLD+j4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/476820/pas_foto/1691736284_89af0da4-3072-4388-94e5-1da321e4c481.jpeg",
+    "nama": "YATATEMA ZEBUA, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "1e6aaf6de08a54cb1ef430beb934d7eefed7512dd44421727072d040d4c76edf35cf68e2bb0cbac741adf216c79e11ad3a1a690d78328a560624d4b153ad6257v4w4O0MUwBVonf9NoSsG0ZbbQAwL/v5aN8SQw7asMB0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/299366/pas_foto/1683827884_bd95c4c5-f45b-415c-b216-e5a96cc461ad.jpeg",
+    "nama": "ELVIN SUKA ADIL ZEBUA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "dbee75692877ecb1913ef967e2ab4c5ef193594d6305137a1e0faa4c5895a390f2b14de42ecfdb3da195c920531cf8b67263c61068a7fd374529dc74a45f3368w6MtbRZF4P01fEfqQ6KDKFq2ej24HSJh+8IjerultOA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/476998/pas_foto/1691738818_bffe10a6-fc3f-4d27-8f72-e868f9ba6a47.jpeg",
+    "nama": "YASONA GEA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "7a511e4d640a3250b5bf440e2d1c9183fb9c1ee8c751865859a48e212c53fd7c55c7f8e98d1e88e5f27c6b03543b72f5136d76286b80be502245710e044670b8Rw/CEMnWZ34lWEqyleEu/taFpos/4ASSmfRzj4Y5Wdo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/303249/pas_foto/1683835104_25aaf14e-2798-44cc-a2e3-9542125b6062.jpeg",
+    "nama": "ADE TRISNA YANTI LASE",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "da8a47f381ef91fd8cf7b746c88ce5198c30dfc0b1254c0c7e6ace2ac469e0fff2dfbd85fae9af97d1debf9822e09aca2fc44a314f45bcd899b2f4f1e3bcf5cdhzyTpVAutEeshPUSOc8Yc5JdVJGQJnwEdgOZfpukiu4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "127802"
+  },
+  {
+    "nomor_urut": 9,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/477126/pas_foto/1691740337_55c67731-6f25-470e-90a2-933b4ac2f91c.jpeg",
+    "nama": "MEIRITA KRISTIANI LAOLI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA GUNUNGSITOLI",
+    "profile": {
+      "id_calon_dpr": "3234c6c85963301bfd46404bd96746b1199f91e12079b4fa5505470f8db3d6721a015ab795aa06a5e0f8bc41df2a061cdc6d201a4b09f23f8e382e09d3a8537aIVdbJb7ZBVRYzCBzSVUeXmuifUUZKxfWphD0ub+fQ+8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "127802"
+  }
+]

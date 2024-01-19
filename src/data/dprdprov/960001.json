@@ -1,0 +1,1581 @@
+[
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/134914/pas_foto/1688190581_ed634b08-b3a6-4980-aa69-0b31532cdbc4.jpeg",
+    "nama": "ALBAR MUGES",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "d2ffb785cc0b961472eae425c3c8007b19674997eaa7fd40cb3be8a5de320fce0d522520cbcf6dddf0c88b89ca1406619a27baa6bf03bd30468e49c9ece54a9ctz9enHvR8DYeL3dIObw/sDvSptRqX3H7UeNFTWIgFjw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/134922/pas_foto/1687768604_05657d11-23e1-47df-83c0-0763fd848a24.jpeg",
+    "nama": "POLIKARPUS KELBULAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "2efa9161aa6541e6ef3d62f1b7661adbd28998f8b098aad142e8c799c2525e3408fcc07a34cbbf3c0947556374bd4c5bdd1398adb0ea971d51ba435880bd34a2HgLAETMNqXzcBm8CXTJ8pcoQeKXgk6UrYl3XJzQaBlM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/29734/pas_foto/9109015111950003.png",
+    "nama": "HALIJA SOAMOLE",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "5a29557abdd45a9fec1148459b1696b91b1b69d835e48b1ded7d898d58b4d76d345c8f5c0282fb22bf78fc1432542efd400cb82e21b64caaed992f0ecd0f3e66pGhA9pjxbP9FjpF93yTQ+XXL2c+0O6YuXrobbI6NNWU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/134921/pas_foto/1687767118_7c41a015-c089-4e2c-8e3c-38c2960bf401.jpeg",
+    "nama": "SUPRIYADI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "1ebb7fd270adbe7b4d3e656cb7d6675632e693cd34f30b3a95d9c429b543dafff8f2152bc1a80138f0d9a82b8e696cbeaedad64da2bad374756889620ade9bf2CCL58QfqeDeyaLXAluTerkNX5TvWMpIGdYtE+oPPoHs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/29734/pas_foto/9271021504670001.png",
+    "nama": "ARLANG, S.Sos",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "6652ef4b35c4fc6ec3a3b8c31e358769e85e1896873e00c162e95ccfd6629376f02d14f40a5e646314c118c29bc1596985ddd2fe63af0bf0befe5de42f8678e49Jbxk23swj1dDa1zo9yEdTOcNjmioz+BRi3DR2hwIc0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/134919/pas_foto/1687780350_4e4d2ddc-e8ad-42b7-a82e-b08f6ee13987.jpeg",
+    "nama": "HASLIA NAASA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "4cc5425a4470e8dae9ae377276e4a78a19262628072160d668ef2b3af2283858b057bb465ca13456c0beb842336c309d16f688953f666c7f3f8a7e4381db087b/6STt6A4UMOHLVar0GvmS9LLXmtEtK9/KiuJoNH6BA4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,pendidikan,riwayatpekerjaan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 8,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/29734/pas_foto/9271064203950003.png",
+    "nama": "PELLY A. KATIPANA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "159389ac43d59da7c5dbb1187e945210246c6c263db4c7fe9f655551273d43f9465e5b75d248e24c0ceb6df7d2810b8706383d2f25393ebc208cf7400b73c075IFt8ePXopSi5g6nwmGKguFIVBMP+rxxReaIe/nwh5cg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,pasangan,pendidikan,riwayatpekerjaan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 8,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/448800/pas_foto/1688751034_9f68a82e-176b-4740-8d19-3f4c392d80e5.jpeg",
+    "nama": "RINASARI PEBRIYANI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "57d7c9dec408dbed0467de272c7d448a98a773c5876e51811e03da7183d115d927dc06e83b0181a5e91a89fca97e1a771e16990ac78c23ee53cb88305c8c784fGbmbTgVgd63n89hqXrYfAfahl0MZXP9c1j+RLX5ot04=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,pendidikan,riwayatpekerjaan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 8,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/267485/pas_foto/1683912697_99dafcfe-7a2a-4069-ac6e-23f478911251.jpeg",
+    "nama": "OTNIEL HOMER, S.Pi., M.M.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "8e6318a2246aba53d75f999c7e8f9b078984f71bee93b163a8e11711a35adf070f987ace33ada3ee2b7563dcb1c44c4f1535c157e2866568bbd00ea4b6ca71d3gMAJnfcFHm2PxlntDbIlGmHKO1aXQAzg+lns3OyLm0Y=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/463573/pas_foto/1688905763_e6254455-8dd0-45ee-bbcd-a76977f7b97d.jpeg",
+    "nama": "MASYITA SHIFA ALKATIRI, S.AN.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "25a01607a679694435597d506e8067042a316c4c01e6a18f318c4069046a735b83ce8fd6ca4196a6f0775a45c9d9e50663fb21b5a9e4fc636944e4506b92b57fvqMlDOq5wFK9Hz6TlqyBOHTjKzryDWKpD+88/3t7WKw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/262374/pas_foto/1683912513_dc8e9fea-346a-4804-b3c3-f46ec961e605.jpeg",
+    "nama": "HAMKA BAHRI, S.Ag.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "782f5866b082cea50d5262bf7ffcdf97593947c2571e0a94949506b0e6815c345a117f19b0b3ad8e029ac1a55f9886bae935d674b94f93438dc280d872e52f1fIL/YZaVjF1wYmS9qZasUzzUBsHZTuS9hWwX3WWokXrA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/436510/pas_foto/1688578912_a25fa7e4-c593-4376-b0cc-9fd20ca24956.jpeg",
+    "nama": "NUR AISYA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "cb3a325fe41cf8154eb93a0fb31a11ba6ae1f308b29e757db9039916a8b6a37f2d2781c8272b06a8e530a81da9716a02e1359234e876a4a3a05f52d0b29b1e6cB/AeqxAZixKyElITA6vpqzh4CfNUY+n6WJXhfaqzdZw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/268752/pas_foto/1683921888_4f21d85e-8e34-4129-a3bb-bcdb917b3a1f.jpeg",
+    "nama": "ELVIS SAMALLO, S.T.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "174f2665d17facf061125dd1e34f3afae586918d6810ff1307bbad6eb3ea215633cc32a69b6ac44f3beac331b648362e384ad24f1432e6d61fe249380d65cbc2ShlogJaY61s2gK5MNO9AVYQet9nU6sA52b1EVnm+wx4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/266360/pas_foto/1683903930_f6ab0196-0d14-4d8b-8a47-450f7c6f47d8.jpeg",
+    "nama": "BARTJIS FRANS TITALEY, S.T.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "c254f6877801c2ff69321e657230bb58236b9a70d71df0e3cd0f67a8d84129ea87a6cc15388c3d75802f301016ef833bbd1d326c5267c75c9f8c114f79bda9cdNjUMrgSS60SptZrT58eazd815V9QUb5JsbJwa7YbSf0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/267873/pas_foto/1683927852_4f761160-78e8-4acb-b481-55e8349041eb.jpeg",
+    "nama": "HASAN SOKAMETAN, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "75e1137362e0dca900138ab40b91cc550d5721cae72c67912a658d771e64679d02f371efbc24085bc9fbf1a7614705d09f9a26a7c58ef81ed4d457d78d2c50fbSkp0ExbV2iOwQnnlnFWjxMVMHVtb+Q27GTAfQ0gxakg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/233817/pas_foto/1688722080_4b74e17c-0b9c-4771-a32f-795a1465015f.jpeg",
+    "nama": "FREDRIK FRANS ADOLOF MARLISSA, S.T.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {},
+    "id_partai": 12,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/233818/pas_foto/1683736199_fdafaea8-978d-41a8-ae7f-df2e60d42bc7.jpeg",
+    "nama": "ABNER REINAL JITMAU, S.Sos., M.M.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {},
+    "id_partai": 12,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/474354/pas_foto/1691687277_b32d36fb-b1af-4237-bf65-65717af6988b.jpeg",
+    "nama": "MARDIAH TANGKE",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "SORONG",
+    "profile": {},
+    "id_partai": 12,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/233820/pas_foto/1683736670_2b701a69-5e27-40d9-a199-85b3344215f6.jpeg",
+    "nama": "DENNY MAMUSUNG",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {},
+    "id_partai": 12,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/471464/pas_foto/1691683920_2e26f505-3811-42d4-9217-952239aed6e6.jpeg",
+    "nama": "SIMON PRIMUS MATURBONGS",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {},
+    "id_partai": 12,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/474926/pas_foto/1691684917_0c536d0b-5a4b-44d8-83c5-1d14c4fe1894.jpeg",
+    "nama": "HAJAR SABARUDDIN",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {},
+    "id_partai": 12,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/475014/pas_foto/1691686219_a24016c5-7733-40e8-b2bb-a794fbdade2c.jpeg",
+    "nama": "MUHAMMAD RIZAL",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {},
+    "id_partai": 12,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/233824/pas_foto/1683737256_f49c5b85-72c4-45a4-8862-1ad3b747f64c.jpeg",
+    "nama": "LINDERD ROUW",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TAMBRAUW",
+    "profile": {},
+    "id_partai": 12,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/142943/pas_foto/1683516059_feb45b03-3fcb-43ea-bd73-2c2a8ac278dc.jpeg",
+    "nama": "ERWIN AYAL, S.IP., M.M.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "ea4fb724416d86940d6e4c144183dec6a52d47cf031fbe544a5133b53e652dc3c42a6044048dfe8d7ece269b46a19d8739af60d181acc81e374e630198e3b885zuxFl6kyWeMZYY8SUQl6VXAkg79zVbocq+GmHVxfalM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/238073/pas_foto/1683732439_804d667d-0798-489e-bf6d-46bd07b493b0.jpeg",
+    "nama": "JOSAFAT KAMBU, M.Si.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "8e14c328615b20da66aa60569d192241b344beec73e634f977e01ce1b4aa876b341b26c23c846e8b1bc6d15fcf7a1a869925bf73900b7288060cfce9536020fetCGyYlMtKCR6GqO2l0HpGJLfmAOEQx9cql1eJS4AXic=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/240791/pas_foto/1683736969_73b7683c-8597-4cae-a60b-7f7129a95902.jpeg",
+    "nama": "REGINA GIOVANI PAROY",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "39c2ed16907b6cce9a118ceb373f1b5a81a4aef82b4c27efd8bffe3b4e50b25c63b7def1643423677832c4e0bfaab05543103f1c289d260778813338051a05f9F51mUDvC2LoLdt2qbZnl1znaFm0yfcjhadKDvewnKuk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/242177/pas_foto/1683738142_04954062-3728-40d1-9d24-295ceeb4dc97.jpeg",
+    "nama": "YAN PITER BOSAWER, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MAYBRAT",
+    "profile": {
+      "id_calon_dpr": "40d96a2d5d14233ae57906e0a3e229646d52f064de13ca0919f27a6de1f5037d8352e1c05f995835a49481dbd4cb1f13ad22a36274992c9a0c39a745f3d3815euEZbcOVDb0QPGRsUH4VhA1B1fL5X6m0A3gHWmSRQ/rY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/237204/pas_foto/1683731202_0000af2b-d56b-42a6-807c-4d1b0c5c68f7.jpeg",
+    "nama": "MARTHEN KAMBUAYA, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "a46deb0cd409582051dc030eb7da4604966e172f1161680f10c741c3848b5199cde91bd212195a00060146f2ec5e914a30f17a9731cbfa775420727a3c1eb818i7l86QlE4tg6i78uBN5ChY7ln1ZkYhzBHSuEMvgxz4E=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/238835/pas_foto/1683733841_e89c728c-df8e-45ce-86f9-7a8174f08dd8.jpeg",
+    "nama": "FITRIANI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "f318266f7ef0162df02d0edd7b3af173f497698b78e40c532ebb5b1e7f86037a3dd24ba63eb86f5e64889a354715013f3611c8a14f38f52023df6f93e261d882VqE+1Lf4np8KC2oD5BNAiTqWmzNsgCQymgjqIFBnnGc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/239981/pas_foto/1683735407_b5a01045-3aee-421a-97bb-a3250c88a16b.jpeg",
+    "nama": "KORNELES JITMAU",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "d062c761836c85eb092ab92abb3032b086af3e3c63939af1d9c34a9d08bed00052d04e669188a64696641e9955b0a7252dd666499952459c5a69f6a99d0b4758snBgWA/+UsVi6QTDGmf/bshQNPB1KZ0wSQd3U3skzwQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/215138/pas_foto/1683699108_5de835a8-1426-45f6-b480-66120872b114.jpeg",
+    "nama": "JAMES TRAINES DEREK RORING",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "9682b57936830e917ff4c18ccbb8fea502bdda0f9571fcdc5fad3347e8fa26547807b9e9c81431794d55b2b30aa53bd601f7ee564c33220a3b49695de12694e07E9JXhozXpRtWDDU0am2ffBJErZvmFAzQgqrEyU7Sho=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/46205/pas_foto/1683256739_300ba485-5bbf-402e-aa84-217a7b23ef15.jpeg",
+    "nama": "DRS, MUSLIMIN ZAINUDDIN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "108a462d11e27d423c36614030f0f20091ecbba8c0501ee1735ae5526f0d3ec830065e340ed56dc365e53b548dee67a0dfd7d94e731ab6f40734785b256cc2f2vaLFcKkT0VDZyN7MSVo6dxWLxQIvfBIp0WLBMXeejAU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/162910/pas_foto/1683621964_e19d2c11-ae8e-4edf-a1e3-3a3dae4a9340.jpeg",
+    "nama": "AUGUSTE  C.R SAGRIM, S.T.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "7a5014b7f96f757cd769d8a728a0b22f28bef7857d3e5bf4d09d0be96f85b3ca0102be072a2d24900f2eb00700b8a9591cdd9f178533e0f3b818bbcfca0dc6b5qK2j27EEvIDwi0jtuGFIJTzWjYopozPrFEkKUW2ezzI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/142585/pas_foto/1683602878_b73e43f5-7942-4420-a09f-eb6bc233b366.jpeg",
+    "nama": "MERGINA M. SIMBIAK, S.Pd.K.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "e9d47add9af5ed3e37e08525474f3981960e6152a051e39b1921615c64f0edbb5e38528c32c9995f2f6a98e94dbb0c7b003849372b0944de641f17c438c8a7a5hns8361IJAIrVPF2ehUq82vTHJ8XtexsyAQwxz6QGUE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/34999/pas_foto/1683118104_850c8b95-4704-44a7-9e97-85596d1fc78e.jpeg",
+    "nama": "DEDE YAKOBUS, S.Sos., M.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "8edcfc5c82b531f796102fdcc857555d02ca53e8410a34a3368006874029f3052eae5add9709285096f3796520c4fd976a4cdcb9f261d1e65e12b6f4ff10648cTc5YKGL6Dyk3SLOdayDCwvReJDF7i6b+VRBqXQsrCgA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/34461/pas_foto/1683167156_3cf4b727-0a24-4f7c-851e-13ebe11a1a28.jpeg",
+    "nama": "FADLIAH SANUSI RAHANINGMAS, S.H.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "6446b5183ca4a76faf8ccaf542a360528b6c5a3c8ffeeab11d9326bc596ef8897f4bf91fd759683be6da2cce40cd1f29200a1f078e1c6153e28a401160cee90dw4pQnm7P8Ip8pD8E82W5Ms6jSpTTcFdI6bRR9hsR8HE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/28816/pas_foto/1683165607_af25d718-5d87-435a-b797-d8b1042e608f.jpeg",
+    "nama": "IIM ABDUL HOSIM, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "2ea9d06fe92e2381b67df283c0ae2b2433e470e69c76247d9d25176f748cdfb9cbfd79e825971c53466c7e3c0ae427cf26a64b1914e101f48646fe26a9075c942yAQ+UzBSpSyB29ERBuV+VmGiH6smv2pzmxQTEkPjMQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/31583/pas_foto/1683168046_6e4776c4-68dd-4f1b-9b4d-739fd238faef.jpeg",
+    "nama": "NATSIR TJIANG, S.T.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "3595f012430b4828f1c1decea4abd5f7812c05cb34a8720577aa1fe33bfd7db70646c557e04e94942aa110792fd32a69c9b206fda0b896d09e41729e6509aff7HdxnQxcXAeiQJ3h9f4GgkkErTolyS4fEpNWkKHvOGZw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/36335/pas_foto/1683170594_eb5be5c2-de1c-45f7-8c5c-440af948a867.jpeg",
+    "nama": "JOS RINALDY",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "09cac33ac87847ce0d02dbda96eded21ff008849aeb311c14a2be5186e9df524406c5042342c79e62d87765f3f3162e2c1206e10dbe87bbd36d1312d1c8c3f9fTuz07Eb/ANfP3HPy0Hp2ZRxJPPCccZlVzZihwS9YW7c=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/61896/pas_foto/9201393004810001.jpeg",
+    "nama": "RONALD SERAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SORONG",
+    "profile": {
+      "id_calon_dpr": "839bcff66bdd6cbaaaf445d9a3b6897ddac8eace0b66f2f1324650503948be44baf56ae3327442ba4b41d275297717ac578b1293505e68d38d6e11cbe008572f8fP7NvS2h9HWcSQguhbLNohgeVl6YGEZXsiDaHy7VPw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659959325_LOGO%20RESMI%20PB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 41,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/61896/pas_foto/9271041108750002.jpeg",
+    "nama": "ISRAM DINAR, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "b28d281f9a57ff7e6316dc71e96a772853000cb9b2fb951496bb444f0065b26f6b1a3557a6c21ebcd3abfa35fb5cb17d28b85ee8a18c548bee95f3a2498fde7ftL5n1PxjJMkiEnt+mzXUxRM8QGm1bWF/vE0jAoggTBg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659959325_LOGO%20RESMI%20PB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 41,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/61896/pas_foto/9271035704770006.jpeg",
+    "nama": "MARTHA ATTY FUGIDA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "da69fdc8e64396c6c0512dd5689c440a53b3368c77b46499ebd178b96c99112ae945ec243dddfafde340fe3c6e69db0766e416adebab549fd8d07bb4a30cc48842MiwVxjVuOYuGgltaHcn4PFl3x6DZ0axGG5dMqdgmU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659959325_LOGO%20RESMI%20PB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 41,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/61896/pas_foto/9271032703730001.jpeg",
+    "nama": "MARTEN FANMANI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "a5ae20b359875d29576d130476977ba2a58064fc73e355cd4f534da623a544405de30a4c42d0a1a32fd2ea470285e29f8d056815be1284443688a22fff389a59ifaqMIkq6Z6xytoYtcFhMDxZKYcz3tclk/Q5YCFNeww=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659959325_LOGO%20RESMI%20PB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 41,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/339312/pas_foto/1683911958_56606da5-544c-4ab4-9a86-a69b0e1cd248.jpeg",
+    "nama": "ESROM KAYOI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "76f8b44e3ef2bbeb8f899ba467ac0296135623ee4430ecfcdb0276bca145b3c7b29e0374004a72a291b0942b4cb1248f5cd1dbc265537cc2a098cc5c295c370fBj4iRvSEV5TCITh272LWt4BokXlMjxtEF4xX3Gvs4GI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659959325_LOGO%20RESMI%20PB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 41,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/425411/pas_foto/1688140498_580bebac-8022-447c-be32-affa4acabbef.jpeg",
+    "nama": "HENDERIKA BINAN",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "78527e9f7b644212126289ab73292922894a79977078ffab10535620dbdbc494a69d799c1977e865d0a905c7a457ce120d89a57c403afcb05f7e20f7195ee46ewja3zU/NS9FlfuxypDDi5xXBW6suE9skBZsSFb4baW0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659959325_LOGO%20RESMI%20PB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 41,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/338888/pas_foto/1683910769_c01f9285-2350-4ffd-806a-e82a319c995a.jpeg",
+    "nama": "ISAK MASIPA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "30bf75db8c574b58d363ccbede88e9f252ac7a13bcbae0c1b60691c0a9eb0342fe0b2858323c22cb35a18d5fac0979a751d49e492ab17b74516a8096bfbde2e3MvoP63lc9s7j5yqTQmx9ZtqKOxg9isxINvBkrQJNpJo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659959325_LOGO%20RESMI%20PB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 41,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/341429/pas_foto/1683914235_7776a610-1dc8-4205-8d1b-bff8d0ce99ea.jpeg",
+    "nama": "NOVELLA KILALA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "98f7636b71a846fcd1f035ddd58c8b3834a3153d64df0e10d632b1b9dcc5b6050bccf1266a990533d4e3e8303f29634688b704fd23936cfef3990e1614010b33aBMQz3qRHp1Md49F398DuDL3Upw0IJBUqUlmMhxmqM8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659959325_LOGO%20RESMI%20PB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 41,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/395999/pas_foto/1684150449_7f90acc7-dd74-4f8d-9e47-3c17d14e1d65.jpeg",
+    "nama": "MUH. SYAIFUL ABIDIN NUR",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "b46710b1a108d5aa92d6567c8908fe093e9ba8c95617d17ce995c2377b73c43e07dfac9cd9a1ef7b3e7b3bd251ea1d0e036543723f571b1fa6c8ad4f68ad61baxZg8IaYl+kImtJb6N+zFyeAlxljWou3F+InZLKCIeYY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/396004/pas_foto/1684150668_e43edf67-e1a7-4fbd-a5c7-42127a1c446d.jpeg",
+    "nama": "MUHAMMAD LUKMAN LATIEF",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "fa56516b32b64e8634b0f0fa40f90aa630ff9e629147a5816f52b58135dce803f9f1f19f6efcd50b8532d698baa949030fb45a4b87cca6537b65855b2eba9a75LjcCdWsizICe62kqgjVfGTw7L+qZpgfpC3an78XXBKU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/426328/pas_foto/1688220543_7486c068-b25e-4463-baf9-943dacc31bb7.jpeg",
+    "nama": "LENI WANDA, S.H.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "808a8cc09ef10e370b29106f13165f8dd4526d2b8e8ebb31edf5ff0e8c5a6ba1c1aaa7a9640a3b1ffbae4de66806a50d33a90bb713e2cd87d5fbb3a7aee6fa15peU+sa8KndfS5RqSjFSGMKVFO43AQMLXbuFzJws3Tsc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/426341/pas_foto/1688221272_5fb0ae28-5837-4b0d-93c3-e31b05667e10.jpeg",
+    "nama": "SYARIFUDDIN IPUNG, S.T.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "65790b1289586cbb29a63125babed4e88edab7fa917849692260082e93b239172074f8a5d64f1c7ac8bd69ef6c6fc3e5a381ed1c24c3f084114c1ca77d727c99fR0tOqrqoWdEokqF1my7YSA1nZW6YkCMDWvv+3+ZfIM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/426352/pas_foto/1688221637_d5c7fcc9-0eb3-4942-9ae1-23a0e3215027.jpeg",
+    "nama": "UMMU SALMAH, S.E.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "51bfe8c16b4b87dbb8690ce402ca3abe42b4541e67dc12a2fd0815097ef4fcd161f4a49439341d24f7dcb449392c8f785244be5ea35ddea352228af2072f7c01xB9kutkFQAJA/HBojgXVsed6mTMox+bmYsvV84UXlsQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/396003/pas_foto/1684150636_d82dea19-4086-4b5a-b391-c3dd12b38e40.jpeg",
+    "nama": "MUH. ARIEF AMIRUDDIN, S.AN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "fc21fd9286aae95d9cac6668e5ed83f76204f6191a76e00e2e1ea06a332d50b1e841227ce67248aea17c91bd27b397645766b8f0c303d36b65ab78dd913c69532sFshwQ+4JT+T/z+hF5m1iPw5ryxSMRUODfNfTnRu6A=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/396006/pas_foto/1684150703_906953bf-5fe3-420f-a85b-a0242cae0110.jpeg",
+    "nama": "ZALDI ABD RAHMAN ARIF, S.AP.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "7e9cf343da13f0d7aa34b5b3f37b181b2df61629510728e1fd77ec1c575146f46787f497ba7279f1691048bbece8295efbb6144eea317e573b0216af33da9261I3/FrWOCAsjz+WEz9wxgGzCcm4kYLsAVXnFCc67Pa5Y=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/43412/pas_foto/1683296762_92fd4f58-6c21-46cf-8869-8b92f672bbf1.jpeg",
+    "nama": "LA ODE SAMSIR, S.T.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "eb0eb666a4ede5eab6043d54a9c5646a4d4fa59c5c4edfb4510d91fe6e79c004fccc847215c82eadd55e8190a39e237443998d0070daf6d809e291f1b3a0797eHZmgjPqSyQ+hLoN/ZRs9mQH1DpIhpXACLFUZ4V2yl10=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/43716/pas_foto/1683868474_64c305de-af2d-4ece-9de8-1e476620913c.jpeg",
+    "nama": "AZWARD, S.H., M.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "371730441866d45e552eff2867ca0f5f2829e79b5cd6ef8043c0586135d13daeae9f90d55c73c6c110318fd3b977b2cdf66e76be60e4ac1f96fa1f11673a063a4rAC2WFzA3z6g8iqKW4021QbosdIALSdSC9ZsSXj2zg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/43933/pas_foto/1683260804_98385f65-5b05-4bfd-b487-0a04bcb3c160.jpeg",
+    "nama": "HUMRAH SYAM, S.E.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "SORONG",
+    "profile": {
+      "id_calon_dpr": "66b4746ac617d74f5ac3733d7c35d9ab9e1ae15bab03ba2eeb96ccc05e18f35c4eef9a020f97fe596fc8a1e715eca47f654d15a15a5833b203660bed9a32c74ez9xpd4hdbED+uDxcV6fnWiSEqjZpRJmK+HEYnmxCC1A=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/43869/pas_foto/1683260552_744189c0-8f78-4948-9591-f7b73661f44f.jpeg",
+    "nama": "SJACHRUL RUDIANTO, A.Md.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "7bb152248df15685ea52746b9ad84fc1d95e4a59b8ea1b2322a492bbf47474dfd5ba33bf37b422365fb5fea07eec5ae66489353ffe61067db46f3eea81bdb0257KQKxPWR77pN6L6fnb681qBcoF4RL7TwXWIdXw9RTYk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/44272/pas_foto/1683260855_5f854e66-2021-40cf-8e3c-378a8be8f62f.jpeg",
+    "nama": "KASMAWATY, S.E.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "0d735d34179fd3c00922e82af252af113e5ae8b3b02ff03ea25c746a82c9a7ae6b6d2505512823d89b5317dae070d734d747f97059c190693de47ef7f11995feJEmYdA51TRAczZHn/kLxIpgJro56meIfIM7GcyQ59hI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/64765/pas_foto/1683286104_cefa8cdd-f6fc-4385-86a5-b5650fc49c05.jpeg",
+    "nama": "LA ODE MUHAMAD SABRI, S.Pd.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "ebadae6e75919e077ac90205c8113ffd8467c7c79945ca918d6efacb642f7e5fca4e088f47c45b9092a90ab8ac2820db65e2650d61267d41514b060ae8177fbexob6ZD6bZxUbq+LnXJaDZgZQRzzeqb7WYtR8xQxXCCk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/313564/pas_foto/1683871597_a0d8affc-859a-4f12-82df-c7ab147dcd6c.jpeg",
+    "nama": "HASANAH ASKARI, S.Pd.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "6ef5314d7429f6355616766c26c90c8e14f4072dc8e8d807afbbe4a0cd8c45a3073a75a51bddc765bd2d213708821bf2f82f6a70632c19f62eb3524cfe80d2b5QBqLqrRv31KB6NYonp4pyC7swcf2+U7MfVk5HDen4mE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/11517/pas_foto/1683202921_8a790af9-6530-4237-a9dd-f8a71736a27f.jpeg",
+    "nama": "MUHAMMAD MUFSIR",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "704dc455590f955a6d810492c3fa1da5fb12389cc7ff6621704ce304a9d2f405f3a68d6bd9e4746d0a7d68815e4f920be8f49d114288b49c368ecfe4ed583551GaoBPwjIXGSIbXv+nIESuf1dd2yqGiaqIpctnnZBV0Q=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/457413/pas_foto/1688833612_a5883dfb-961d-4c50-aa5a-1c62895b5607.jpeg",
+    "nama": "CHRISTIANTO P BANTEN, S.Tr.T.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "12332f12216fa16f2afb6557ed97bb4e9d2ee53706de7456223afdd9f9248bbead7262f7f3419bd84219fb9196e544c3162117666790af3608e7968bf40d9f6d3hdKeiHTvR9weHM5YvmdM4AByl7SBI28QLkWsh8nusE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656155242_logo%20PKN-.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 26,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/407194/pas_foto/1688832074_4e0767e7-59f7-4868-af2a-bdc04a449801.jpeg",
+    "nama": "NAOMI MAGDALENA RONSUMBRE",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "NABIRE",
+    "profile": {
+      "id_calon_dpr": "b8ec0fc75e7e8d085be138cd2215d1596dcf8adf10166afd4b8f51d0b8c1802132d167f730cb8a91ec4be5474f8123f3c1f78fa2c6793c143df6075f2615945a2XIx6A2+cfghbt9L8p6kJkhzEeQoi9VWKogFTHerAVE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656155242_logo%20PKN-.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 26,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/410435/pas_foto/1688880408_f3c83c4e-ccec-4144-9973-40ff24e8789d.jpeg",
+    "nama": "ALBERTH KARETH, S.Pd.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SORONG",
+    "profile": {
+      "id_calon_dpr": "dbe07e126211b0ec4b3f0d008e30b42b124f16fd666ef50f18994311a338b1abe08e4612b6b33074677a943d00e88064693b373bf233b37b4c21c140a49f0579I6PFrYl1T/FpmDPLcCHNOhCo2Wuo4gI6VHl7TaG4p0s=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656155242_logo%20PKN-.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 26,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/72780/pas_foto/1688547071_6cdb785e-c126-47cc-b821-9a16541755bb.jpeg",
+    "nama": "MATHEOS E. SELANNO, S.T., M.M.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "dcfc3441790e8b38db0217e9fbc7f323d4e193878ffe8cee94160b53bd8c54f9e71e54b9bd1b15b1b4bfcd9f70b7b182a92bf9aa9effb95baefe965040c3ef77ZU+GzjRE87fa5v1PZqkgNF71NeTMTXlwj8qipDrWyR0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pendidikan,riwayatpekerjaan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 5,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/51663/pas_foto/1683364566_066e33f1-b4da-4a76-b5c7-8651ffc5275b.jpeg",
+    "nama": "MELKIANUS WATORY",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "d2d9ac586df38817a68a902b7d3d418aa2ca45ac6556f3e73b195d2019f054b3b0cbbd6b94ae71011c57e23ff18bcf6679febc20706fd5e23dae50d4f3c42be8KcvqoeN5HqcEA5B0csbBkcvmGvhmQYQt+EWtT6RwXm4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pendidikan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 5,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/308035/pas_foto/1683858831_fb8ce0af-f3a8-475b-b9e4-b69d3dbc0ca7.jpeg",
+    "nama": "STARLET MARIA YOHANA KRAAR",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "12597f9016456d3acecad925237e66ff1fa1661929c05b87aae5fa0600dcb9b05b13a0ca27975a6a54f266ef64d9f5274b72d8541608f519ea503a397ffcdfbfxgiab198ejLBOVVKeGkoARzpY4bxz3bEGlxTIGKdgoU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "pilihan_publikasi": "datadiri,alamat,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 5,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/93603/pas_foto/1683373987_0dae94df-87e2-4f70-8dde-f592888cfdfe.jpeg",
+    "nama": "FRENGKY M. RUMERE",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "f4e71b08151b7bf11b3242c7d429686d02eb9c68449fe1b8d50e3f5d75f2e6919a19c3b38b48b3da874825b3ed03a98eb15453ed69fa2a222cc428ccec31fc34rOQMjwDamS4FYhlYYLQec8wiZ2/jN7qCSBhEQuSw8Y4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 5,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/124931/pas_foto/1683454501_2f749f0c-0bfe-4692-b37c-ed26ba722486.jpeg",
+    "nama": "MARIO REINALDO SIWABESSY",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BEKASI",
+    "profile": {
+      "id_calon_dpr": "832bdd2afee5a0ffc0e0b430c37c569c2c432f269da6739eeba00180cb7cf54f40a8eb0e4b3af2778801a3851c949ba214a471b837a8e75c987e42d9cf3ccd4azcO1DbMwLPEDTzvXy8nmpecjZgiKfAFN5fKWOCko9ZE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "pilihan_publikasi": "datadiri,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 5,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/86622/pas_foto/1683456037_dae9bdf0-c9f8-41d8-99c3-4746f8747576.jpeg",
+    "nama": "YOLAN MARSELINA AYU VANDA WANMA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "d7d252f77f94ec22d4442f2ee35520888f8348cd5acfd5e8674f1353e645ce548f7448e760241930ac96b72d8e2b1b6cef8128419fa3556d5b2c1ff2b2c7fa869a8ABJlTMkMtf66VgF0j1zNndIZAxZJQq0xtDyyiwfM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "pilihan_publikasi": "datadiri,alamat,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 5,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/444555/pas_foto/1688719691_e72e749a-59d0-4947-84d8-936fb72e96ff.jpeg",
+    "nama": "MASYE OVELIA J. MAMBRAKU",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "96d13434c78efdd223d11c03adc5f6279928988f0179bfa5122b6094ea8c5b46144a9a325f510c918ee024d8d6ced61a28e544d5486eaad3144aee2ad8c8ebdfKNebEGWx4oor3xiO00GC9mG0tiBlf+gizKrxgMsT/Ak=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "pilihan_publikasi": "datadiri,alamat,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 5,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/124273/pas_foto/1683454686_370a6791-db06-42ab-84a2-1a69e58f51c8.jpeg",
+    "nama": "RICHARTH CHARLES TAWARU",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "59f0ef1587d498998e32a1727303b8ff47feb6c5a12458a3d4d882436727949b9684048d422131a4c6e25baa533c27108fa5050f6e198971fb847c0a70f6480dXxC0iSsl3MXSxcU5cRAU4KFUFoxuDrA90r5U1jOUlwc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 5,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/395675/pas_foto/1684051044_b9cad86d-203c-4417-85e0-0772d519c4db.jpeg",
+    "nama": "FRANSISKUS TUPAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "2956886bf8818221ca05ea170f92aaceefba2f875b7759639e3d256613d3c07dbd4962ed26a1dfb41b2917af209f7021846e50be0027202ce831ebb347dc5f6c6TYEJLZd3TrsTEai1O9a66lijB+CkQZLWyUkgUvMFiA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656406064_Logo%20Partai%20Garuda%20square.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 44,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/395676/pas_foto/1695959096_d3bb41f8-876c-4e95-8c8b-f96179b1e1d3.jpeg",
+    "nama": "JUSACH EDDY HOSIO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "51e686794203e0249b0df16b9744afafd278d78dab70e81259d00d36f8927c5bb8bffdf1daaee8394b8b6d1e6b76d0e90f3420ba552c75baa76999aa97277dc1HXHiThISgxw2ofxI+6oQ9qXpbwo+k6BEhqG//rI6Jh8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656406064_Logo%20Partai%20Garuda%20square.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 44,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/411078/pas_foto/1696020593_3050b3c5-0090-4eba-8e62-873fcea8f46c.jpeg",
+    "nama": "KETRINCE RAYAR",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "440cd1480432d33e86b63eb901a7a97120a6cdca352b485b3289facf0f8ca2faa0d8fb22dbd0506ea21270058553d8603a1b9896ac35479e1924f07eea45d2cbwG0i/sr0l/mMDx3TtzYMvVbtt26Il66CWOqfkFgCw8k=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656406064_Logo%20Partai%20Garuda%20square.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 44,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/61134/pas_foto/1687765344_a9cb1e6f-3c25-4209-b67f-8fc8b0455773.jpeg",
+    "nama": "SYAFRUDDIN SABONNAMA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {},
+    "id_partai": 7,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/78014/pas_foto/1683341229_9d223a6b-9e2f-42d1-b469-ec74759395e5.jpeg",
+    "nama": "HAMIDA TUNRU, S.H.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {},
+    "id_partai": 7,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/215743/pas_foto/1683700045_4b58eaac-5f82-40a6-ae4e-b678f07a082a.jpeg",
+    "nama": "Ir. ADOLF ALPIUS ASMURUF",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA ADM. JAKARTA TIMUR",
+    "profile": {},
+    "id_partai": 7,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/188420/pas_foto/1683809254_3b3ccb35-ee26-4b6b-9314-156ecf0a6927.jpeg",
+    "nama": "JUFRI S",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {},
+    "id_partai": 7,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/188572/pas_foto/1683636053_bc0bbd2e-2036-4d21-9dca-2284a44dc5dd.jpeg",
+    "nama": "SAUL BUINEY",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {},
+    "id_partai": 7,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/216439/pas_foto/1687766154_38520271-ca09-4fff-829a-8adfaf3fd1b4.jpeg",
+    "nama": "FAJAR MARLIN BESITIMUR JONGKOM",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {},
+    "id_partai": 7,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/188472/pas_foto/1683635350_213c9156-3b0f-4e68-9f67-1cad01705765.jpeg",
+    "nama": "JUNAIDI AKBAL WALY",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {},
+    "id_partai": 7,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/170523/pas_foto/1683598699_0d3eaff5-6a87-46a8-9517-66c2590550f1.jpeg",
+    "nama": "JOSEPH KAFIAR, S.Sos.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {},
+    "id_partai": 7,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/295832/pas_foto/1688746550_d5698f32-bcef-4ab6-ad71-3dba4ff0f971.jpeg",
+    "nama": "AZIS ABUBAKAR MATDOAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {},
+    "id_partai": 74,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/295833/pas_foto/1695880520_00a1ada6-72c2-4e3f-8101-ad6319b2a919.jpeg",
+    "nama": "NURMALA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {},
+    "id_partai": 74,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/55783/pas_foto/9109011112830003.jpg",
+    "nama": "DENISIUS FARUAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {},
+    "id_partai": 74,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/295835/pas_foto/1695880867_0c230ca1-43c7-4370-8af8-c9ae12969838.jpeg",
+    "nama": "HUSAIN WARWEY",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {},
+    "id_partai": 74,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/326610/pas_foto/1688180298_23f18a5c-8ab3-40a1-9867-c7996b5e443b.jpeg",
+    "nama": "JONGKY R. FONATABA, S.E., M.M.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {},
+    "id_partai": 13,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/326611/pas_foto/1683902728_a0db0d7f-fc65-4544-94b2-251d3762011c.jpeg",
+    "nama": "ABDUL WAHAB WARWEY",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "RAJA AMPAT",
+    "profile": {},
+    "id_partai": 13,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/81415/pas_foto/9271015112640001.png",
+    "nama": "JALMIJN TINDAGE, S,Sos, M.M.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {},
+    "id_partai": 13,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/98464/pas_foto/9202120504610003.png",
+    "nama": "LA ODE DIKA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {},
+    "id_partai": 13,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/326614/pas_foto/1683903726_e95c096e-1fa0-428b-855d-0ea2dd1ac9c2.jpeg",
+    "nama": "OTIS HOWAY, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {},
+    "id_partai": 13,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/486195/pas_foto/1696247112_c9eefc50-8d2e-4f3b-8b7a-73080dd3861f.jpeg",
+    "nama": "FATMAH BASALAMA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {},
+    "id_partai": 13,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/326616/pas_foto/1683908674_6bebc8a3-0221-4f4d-b0e1-7e74db641e32.jpeg",
+    "nama": "FRENGKI ABAS MANOPPO SILAEN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {},
+    "id_partai": 13,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/326617/pas_foto/1683914763_cf153e56-13a0-4f24-b842-b0e576453e98.jpeg",
+    "nama": "SYAFIRULLAH UMLATI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "RAJA AMPAT",
+    "profile": {},
+    "id_partai": 13,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/148244/pas_foto/1683803381_093c2b48-4f10-4b60-94ba-37e044a82c12.jpeg",
+    "nama": "AZWAN AIDYN FESANLAUW",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "ba23acb159515ae93f52ffd0a47d257c4b22b0ef074db2d64f3214d88044c29ed6e9319572e6e78440163d4e9f2d74ae1afdcd112e0f2efc3ba40aa466e6dc47PxPHBokFEEf7Mi8LRX+QP0BnGEJ+G36ru0gNDhreNgs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656419883_logo-10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 76,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/154181/pas_foto/1683541278_3639eb86-0c43-4386-bdc0-c5c1e672fd97.jpeg",
+    "nama": "MELKIANUS MUAY, S.Pd.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "1d038703f7fbe28a063d14604608b330f1c48669a4da10e3a8e89605f44f38c54aa47dc28a4de1fcb29d277a16a47931f67601abd4150f21a7f0892912b07291jNmlxhNDFgHPlCl0UqU4RPevKyNN+0H0egHIEBoMxxM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656419883_logo-10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 76,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/187871/pas_foto/1683633155_f4e92715-31f3-4350-818d-bdff26f7e354.jpeg",
+    "nama": "SARJIA SAMIN IBRAHIM",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "aa609419fad798abf86ac8620de35e11311e0b416b1264dfc99fbaf7f99a1eec82b8b107d37e62b2e324792ef9d293dbdfaa6920d9ef9e3415fd0b665fc58498MCnib2bXDzPgOG52XqZmrvflMaNlEtZyGSLEDJAeVY4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656419883_logo-10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 76,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/190499/pas_foto/1683639049_4d5d993a-fe88-4b0b-9d77-cd5917ee6f5d.jpeg",
+    "nama": "HASNI KATHERINA PASARIBU, S.Sos.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "91d2b175bc076b851fd333a2a74931554de482969ca526990d3f79c4e740cd82cb8f8b87b5fe92a32cbf7c07d5482debfeb8a79ce956813b0086bccad9e688b3Xf6LaM1Zdfz6/m4959sirUee3/5hYiLgh1AIw6iuyFI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656419883_logo-10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 76,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/191574/pas_foto/1683640951_7dfeee15-4c2b-4128-86ed-9ad358bafdbc.jpeg",
+    "nama": "IMMANUEL SALOSSA, S.T.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "73cd5e296ba0ff0e336043987469f22dc6d89a112d41a2c7321175446c1cd0d1e042daf6e552036a1399218a5e0339f49ffb76eed94116a8fbea38d45daa0827vXQeNhIqvu074rJv+1lMy4BcjpENwAgaHrx07rrXI0s=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656419883_logo-10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 76,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/181130/pas_foto/1683630749_8c8f5e26-dd22-41c5-8c66-a48a66ede36f.jpeg",
+    "nama": "SURJANI KARET",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "4bfe6b8b4cc97a9c8cfcd8a3b080ed28034851b88607d06deba73e6b0e83a8c09c57bcb0463a7162d3a0a68b93105096719d3fc1a330ae1d021072941fc144163GP6Q1ZqD1vZERElh0hi037yTtneh6cV1f8jTCai1ms=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656419883_logo-10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 76,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/286953/pas_foto/1683811172_e5d491d1-b964-4b44-83a0-34bbac7d73bb.jpeg",
+    "nama": "PIETER SAGISOLO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "154bd0ed919795f63b0c5605d8df8e04431f47fbc17dbcfef748b4596f8a6ccb81ba1979e1d741e204f2019ea65ef15cebb8105ad8563e73e591b79a065ed7beb3y9CEH8wMI8JNMUC+eUnOO3HlHOhRw/Fl47okVEIJU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656419883_logo-10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 76,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/437977/pas_foto/1688639038_e0087a29-b038-4b6f-93b1-19387f95f4ab.jpeg",
+    "nama": "MATIUS DUMA PATANDI, S.T.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "92c8b2687b8b509d6353fb3fbb6048be964208d800b35a40f65ab83a99b897f463fa43b9ffc1d770e6397201d63a8dfdd06919f3e6a8457830b589ebebe39be7MeGWMSReX+DX63UOHP2dsrzWvEERRscEkOdiWtVaGj4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656419883_logo-10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 76,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/466111/pas_foto/1691380976_603488fe-3f0c-48a2-8176-72ad08e9ca87.jpeg",
+    "nama": "SAHALUDDIN ALMADY, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "e4ed4d551e996bb43dd3272d9ca15c3a2f650f900165c967d9917908502fc0613cf74e34e112bf8c3f85c71e011ba87a290bd7bc510965d5a3dd81fa81434bfaW4lOKoAebjzI0PiQ8k9To6UGEo0p36r+nJkQPhyE4pQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/19243/pas_foto/1688376374_fdf2b0fe-9130-46a6-824e-c03d7c02765f.jpeg",
+    "nama": "PIETERS KONDJOL, S.E., M.A.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "4ca3f180bc60754840850fceb065f42b82040bc6e273ed857e6d5d195fa11f95f607676b54c357f86942bb57fa0224a2b44756dca67374e6d6fe25807b80c8d7rysGX78d+lbDSC5XOFVz5/RT+qZo+9NKvCOMJ+ETz3c=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/72703/pas_foto/1689318535_679b7449-7378-497e-99dd-18307cb4bfbb.jpeg",
+    "nama": "NOFRIETA M.G.PINONTOAN",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "71441cbddc1d1fe5504beb3deddcc9a916dbc5c0833bb15c4dc68a98a06179d8baac438f5e7755a2e7a051175f11b55800845c837f7438b9671ee3d6e90dbc6ctBr76ZdjS9PlYcoDZClWZmj+coRYMbpOTCEbWAroyMs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/428885/pas_foto/1688532767_76691fd7-17a7-49de-8cde-43040056f6d3.jpeg",
+    "nama": "DAVID PARATUAN, S.Sos.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "389d87d4121e49f19f5a1b0e861ba890a132560e947019dcb1c8935adefa519954546e0b703105914ed8127c681618e49791e57cb385f53652fda2271e52623bwnYzURN7R1CRT/9zKj+n0Thw7vJa36NWp0fMlwt5EJc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/85286/pas_foto/1689382011_69271c33-8d97-428e-ac7f-9adb95a135cc.jpeg",
+    "nama": "MELIANUS KLADIT",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "cabcf2398019d8dfad87471a6f40a02a8651ca072f9eaef4a73fc36d5855ec642f4a15c35171ff70182a8f040844df24087ea68d3569bc28ba1250fc300793c7aKikKfq8glDnQpftNLYjs5LbCaEg2SAchrce4NIq99Y=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/434871/pas_foto/1689315776_1dd93d8b-c42b-4f72-a389-139e9092f999.jpeg",
+    "nama": "JULIANA EMMA MAMBRAKU, A.Ma. Pd.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "7d781b0ba402e238b13faf058068b8a993772cea806eee46bef17d2ffdfd9852907e7d09303d5993eca1ac02f0dfd6c360e3831b0d22b490ab0e958c5fb9ba99p/JJkMMJ81QyLvKGwov8vg+7goIg3ADm12bUD0s+ydo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/74263/pas_foto/1689323829_036d32e5-a68c-44c8-81a9-71359edf732d.jpeg",
+    "nama": "YONAS HOWAY, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "ff15ad176f42e088ea580a74ed7d85b26f0cdc0b29359b68202b489c1cbc822fecc5782b902e0c921399cc88483c58e3bec06a01baa6291f3afe625aa781b579+NWR7d52JWw39S+qtqn0l0Hw64j1Ev8nywwgqsSkdbo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/425189/pas_foto/1689323644_6a2a6071-47b5-4414-9f86-b3a6bf51600b.jpeg",
+    "nama": "HERMANUS KEMPIRMASE, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "47a32f32eeba48a8a48b69b25b44ad73b871db1e48a775ebb965007b6e7b4a82475af736c476865bc5ba3f0178fc95326461b5aea0b1e1a8d6b4e76645567d25E7DLD3Qa5aanFa1TfIzlPIq/NWDj8XKK/XJwOV9xJNo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/285235/pas_foto/1683935883_c3656611-46b4-4be5-9d15-f40b4e2cdfca.jpeg",
+    "nama": "ABDULLAH RUMADEDEY, S.Sos.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "a11c39ca97ec757084aaccc87c776f854d0750ce539f83f347445098b7304070ac9fcd8523114e6c29ac3df41677f562af9abf4ae11ce371a52991f533c48cbdO9I0wuV01PmGHBovsGHIyitgFhPTjmq2UVbPWpoBxVQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/347735/pas_foto/1683930466_9cbefa18-1d16-4d97-9635-a62ccc587d49.jpeg",
+    "nama": "IMRAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "552987309068a809cf307d78291aff72c779d3b7d1fc43dac639ce48b6298284ecc879897adc74147b17d35be8081855352fe101c1a6be372112953c40915932FYQssy6xSaVo1dWTQmh8pfwIoWtboUK3hbt2GXs+DE0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/284725/pas_foto/1683937516_6063f990-7250-44c5-acf5-752eddb3c7d3.jpeg",
+    "nama": "YATRI D. RUSMIN",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "c6bcf2f3bbafb0b07121c888c22392faef9e6a0bc843b951911da4f9bd01b08d49a7e098d88bf59e754ef50da827b5485b12577f9889e6c123f0a388e6e87714BL2tMQ9ZKgC3hlLa/leA7TaceDoQQJFSsTpGFuLqh1Q=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/285635/pas_foto/1683937410_7896b937-1d67-481b-b43b-aa69077ad126.jpeg",
+    "nama": "NUR AMALIAH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "9f0d46a968009e8388e63c8298a55f3012c24d4f86fd98b74bb9a904a346ff70acd4574d9efb4d27d9e6c49d8ab99916798e03085a35b34e273afe9f9c300f511CQ7GY853Ra3mzWY8jEAQo9ayFuguo0pJxy2sJnIo3E=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/380273/pas_foto/1683989946_3d85597e-61e5-4c63-bf8a-ff0b8bd8b606.jpeg",
+    "nama": "SUNARDI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "ae41d6dfebcb0c7edce28829e45695ba701ebab9dacf4d7586f829c2ff6f228334bd4261027fd59f72983ce1978cd4bb2c04aa4f58088e348cd5aa418c8ce99dAWtXYldok2g3styMRxluBFqss+mi3DZblcIjQnp5JAA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/360657/pas_foto/1691556463_d50f08c5-c16c-411d-94f4-82f0ee25e630.jpeg",
+    "nama": "ABDUL GHANI MALIKIN RUMAKAT",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "fecc99edb66486b5c003881fdcd0575bee0d724abc482766c8d427a756391c20d940848390e478e38330ef8305cb9a159efaf3f84b982795b04a4db7832ed2e0thvFruTVt+Qp/9cWBjbGKQAkrESgEkVYl/juRvtiqt4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656157120_LOGO%20PARTAI%20UMMAT%2010X10%20CM%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 78,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/349102/pas_foto/1683939125_1748a47d-4dad-467e-9870-515e72b765c0.jpeg",
+    "nama": "ROBINSON K. PETERSON SAWAKI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "01e5691bfeaa034f74ba93ae0e0133b3c36f58f00c56e02841f3a2b741153ef9eb319633d7a9d18f86e18189fd7f2105f9ffcdd4cdb402b1d4e3994dffc74ea1/VTv8MaPL7JuPZbyKqZuLv2gaR4wJqJ2zxlirwXIgus=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656157120_LOGO%20PARTAI%20UMMAT%2010X10%20CM%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 78,
+    "kode_dapil": "960001"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/459445/pas_foto/1688857390_9e613456-78b7-4f81-8974-d12bd0fe8e2a.jpeg",
+    "nama": "RISMAWATY MUSTIKA UTONG",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SORONG",
+    "profile": {
+      "id_calon_dpr": "e4f89e969d948b82ba1e9f4aa3d57f983a82d75375d6a03c454109c10e29008cfbc7689c248d9ef5298067367b9c6dac4e54555adbaa255a431142ddb0f1df40Gr33eiRCvJu9yjl+d4IGZhqNVqaCtYpMApwBjLt0JBg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656157120_LOGO%20PARTAI%20UMMAT%2010X10%20CM%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 78,
+    "kode_dapil": "960001"
+  }
+]

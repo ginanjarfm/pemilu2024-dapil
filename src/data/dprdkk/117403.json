@@ -1,0 +1,1604 @@
+[
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/100067/pas_foto/1688468442_484455c6-04a6-42e0-840c-e16bcd9e5a7d.jpeg",
+    "nama": "NIRWAN, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "e540958ec143ccb0e386169deb0e9b1ecf3c05a6b351c1fd8a74ac4fbea3ad34e237abf3d7fd09dd39c2035e85e5228a158f22eaf72235df300db839a7230d7cvOGP1k7XbfomslBkjmCeP8tIp0q/6Rv84zlRC4sJtSY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/100078/pas_foto/1688666428_99d95004-d09c-4450-8127-08cdf53f8846.jpeg",
+    "nama": "ISKANDAR",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "8263fa05dfc688f79dfe742554f029d84fc358b56d720ad2ec385d774eb80a22cce6e78f4b9b8b6e5800bc130eab813fea1eff0059c923484f14b6ede50f4512Vz0t1C/0kA/KUSWkqcGZilisZh0zLkWb+a+WJF57YzI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/441106/pas_foto/1688657444_1192de5f-e9af-4d12-b957-0286e52228d4.jpeg",
+    "nama": "SUSI ASWATI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "658b7e480fce9c88779707fb07681c69acdaa0230db3e06b503bf3091e497255efd30f030e5fac43aa9cce14fb636eebff3c19cc9b5697b35aef98a7d99c9b7dBSevzevstSQHZe/AAY/3TLpTHafLgv1F3qpZfykXo/0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/28844/pas_foto/1103041711910001.png",
+    "nama": "BAGUS SETIAWAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "ACEH TIMUR",
+    "profile": {
+      "id_calon_dpr": "55267f79df377a27780f85dcf243309edb477416d2b3027876e67387eb7811ec6c64040a8d49c3d7bf348a734685270e8e61979d55767d18e7ca7e10dad203f2gAIUhBqU65PnuYe06gYrfBOSaOXY4qzxIixwzxhGEAI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/28844/pas_foto/1174023112920002.png",
+    "nama": "MUHAMMAD BUDIGHANI, S.Sos.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "3cd4daf0c704d82b11ba0effc4776aa0cf666262050b6953173af01d66b6af1975601537769dfbd9d4948e19b6377197e292a6bb923262ebe0cf3a88ae6eec5b1BKc/JfeyrCc85dVCVMHk9FynPNgIezmOq06SFZ6dgQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/100077/pas_foto/1688668073_83992fa8-0cfd-4948-a51c-8cd32c64617a.jpeg",
+    "nama": "DINDA RAHAYU",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "26f93c48d815b944d01aed2c34b4f315090ab92ec3dd62b221502dbf3014cc8ce673ef98953d0c26412a8ee700e1881cbacaa50cc3e9f611d99dd395a2f55deegpyR5Lf6ezeTQiUh7hKf7azo2kJIq5ru6MowCmaE5Iw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/485628/pas_foto/1696231700_2c52695f-efe2-4478-8512-63398893d575.jpeg",
+    "nama": "WULAN OCTAFIANTY, AMd.Keb.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "ecb99f3d95a6f8931a119a1f25a8904a2acb20109bb20bac1ee0d561327cd8f2cc6a97d1918277a33f6ebd8942ceea801c304704afc4138b4fcc3ad90bf8bc8bxVtFWt0Hqp6zeQdSf3t0k5Ajx/DBqK38jHHMwaJZMSo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/100075/pas_foto/1688668657_3f4a2e01-f8ac-43e5-b2d9-2fd6f0e24f29.jpeg",
+    "nama": "ARIF DANIL",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "40fced1051435f8617550d3880b8d116518097e835da831a56668ef511d4f6bef642066bfdab262459b05f0dc23b62486f92b4ce4fc808f3e52c1188fb9a2083CRHSt4UhzEhE3M/jBOjIgf7PEOGs2VCMZkXW66HSOEM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/31234/pas_foto/1683558907_acf39f3e-9281-446a-9d70-de408704ce45.jpeg",
+    "nama": "MUHAMMAD FACHRURRAZI, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "4edb84692ee50c672f2041f4bd37ad7869437de34729f57a12091959635eb421998b54baa6c6303adc974e5d4c11c2b065d22fbbd0deb4a9d14aceacd992ab23XTHx/dbGlPbgBYP8/S38BGpA6FCVO45IITSLKhF07O0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/31170/pas_foto/1683559807_a9b7cf77-a4ca-4733-a22f-6f7e018ef3ee.jpeg",
+    "nama": "ANGGA KURNIAWAN, S.Pd.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "ee8d69c2ab338583aba386cb2ea824f749880e9503844a44271a0eec0a9f904c0a6103541f1c114fc8288dd104063492d3a7fcf6b58a56ac41af75159d696796u9VzEZo/EEhMu9c1Q/gHvmc6QE5DfzbDRZDC6Qclth8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/445852/pas_foto/1688728082_c0044af2-9f4d-44fa-820a-0873715301d8.jpeg",
+    "nama": "NOHANA REZEKINA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "8efc052513733f67568712a9bafa21e56516c694eca876bf3429bb358e722bf6a695ba5a456cb72ef0f173fd4293c4586365b8516ba489036b6df74d5f3e5b71PtT5ylLeawvZNT3vd/65BAW/kSgR6wB3ZPTlK/F7oPE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/479576/pas_foto/1695976715_f5b6ec03-c309-4957-82e9-0dd23b7e6fde.jpeg",
+    "nama": "WAWAN KURNIAWAN LATIEF",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "5bc04751192e30867363b33e20fa83f941944306e0da9cf3ad40c2d9d405b89a7eac4fe8c6fdca1637a88c4737a97998d3262bca5080ee89d693fa217a4f2a21VokgyfJzEG2RgUzfLuvCpX03br4zbDITobV/u98Eynk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/434219/pas_foto/1688626094_2a257084-2baf-4080-900f-af3b63f8bead.jpeg",
+    "nama": "ASFAR NAWI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "968bb39784476a88295d58f58beba4d144f7997c16b31fbb597c2fbf04ea408b711b72b502dd71f389c9c01af6cd4c55e1b703b76d57ef214a9081bcde4581063G4iSs4UxFAQJiJSl4eli0WZ6inBOHder4iREboRVtA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/31119/pas_foto/1683560026_806530b2-5c25-42f9-9ae7-005df674ec58.jpeg",
+    "nama": "GUSTIARA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "c7eca0ac90638f8b0d6e0d0603cc56390e21cd0e2c5d5749df86e6536e46ea0c50930840b730023c2863878ef7d41e19c3c3781e83787f1d18f561762860145542M2tTYNojCOqugTDc167uYNxUO45QLOflf8BLqwQRE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/479487/pas_foto/1695626493_05a63bff-cc9a-4288-bfe7-1abec3034b27.jpeg",
+    "nama": "DEBI SEPTIA IARA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "ca1f0b9a8576f220f134c9e57bc920c2ca98369e9ed62827caf39e5fc6158e81d365c13f953a153bff2727b5fd71950b8c27e26557de1f96ad977511521fab43Owd42QxuLRK2HvjGuX4PksX3DNdWoay8O10UtJwloLE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/433776/pas_foto/1688535703_0b14b312-93c0-42e1-89e2-0988f586138d.jpeg",
+    "nama": "RENALDY FITRIANSYAH, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "9a7ea26ed5074b792beecd127317c78f9e6a020a32d019259c07d68cdd5641b399e546c59298cb2c3355a14abee1907dd812ef2dafc8fded3c0c92056eb151b8Zh0VBewLxd2aIRftwZR38fIvfipivmFcFHMdtJTvx7Y=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/237576/pas_foto/1683731723_ecd5a06f-2bb8-4e0a-aa76-df96079eec72.jpeg",
+    "nama": "MUHAMMAD ALI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "ffad50384287edacc245f6df90d2254b93dee8f3f8748272d6f5e5070a444473dcfecd90d86a69798b5a221aac79f22b178824b804280e6e8fb29047cae80f0bzCVyXH8xrARwGMJEU8V7v15WMfsbQGD8/zYQ6jlVdBY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/238992/pas_foto/1683733856_63d9eaeb-4692-439a-96a0-02fbb4c9b92e.jpeg",
+    "nama": "AGUS SYAHPUTRA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "5772e3aec09cdb35a1705f9e744f606c62887ef0778ce1130e7a56cd7061aa85f4e485ff36c8a683a42255d4865ee7b2f7201b8f845ba30d869c4f99105dc0caqzfriNKQi75g9NtoQ7pbb/QCrMSLr4NBVjFNotSGoAU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/238635/pas_foto/1683733408_af49e003-60e2-4d38-8e72-9b45adcf2893.jpeg",
+    "nama": "OLIVIA LAURA SARAGIH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "1ba41081c5bbe19559178d63bf92e88b34233a85246ce02c9501f402aa8adc936e3fa72fb3ace487cdaee4b2f0d8813c624b3ee15f16d15208289a8024fc4b4e/B0LeGeFVySflCCIZ67Pv3fwQQPoxdrO7S3mJoAbWDw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/238359/pas_foto/1683732953_a8ea8326-6e6c-4736-a374-59acc7f9e7c4.jpeg",
+    "nama": "SYAHRIL ANWAR",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "77c02f81a4c2d7eeadf8e79969862a2d5abe8774fc3a309c6cf87c1a45923288dfb814ed709db99ae2469eea0c5aeac1a6924d1ff5d6f539b2268d168b879d740nx2wIVSaqJXuKwow7htb4KXooUgBH08BGLApDB8CTQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/239272/pas_foto/1683734338_34ec9d36-858e-4d8b-8d41-9aaac5688860.jpeg",
+    "nama": "ZULKIFLI T. HASAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "5c7e9de972ea1930ceae466c4e629b883413665b2b722a3a20621e10a09250a3327d66727cfa2fea848e56ceff548d0d81e10eb3bcb004ffaac00a330b524ec61DnDiZlE/TmHsId4Xf8ldPpX9apVs8UbBu/H9wConqY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/239609/pas_foto/1683734854_4def64da-eb59-4f6d-ad72-24ac946d2d0a.jpeg",
+    "nama": "NURUL AKLA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "13d13f4d813d002d45f06851cf972c59fa02092858f8b811dc5bda31b6d4c9550bdacfa6ad65ac6db3debfcc2a8cb359030b8f5b88e2bd6fc7e264a04bda2095codN+IWt70Nw9Am1N3TVdzoGU7kyKVAbSkjam5COs+I=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/479773/pas_foto/1695638601_64dc197c-f95b-4fbf-863b-656a5cb3aa58.jpeg",
+    "nama": "PUTRI WULANDARI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {},
+    "id_partai": 12,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/240094/pas_foto/1683735631_c21be7b6-c4c9-4b1a-8d58-756abea183a6.jpeg",
+    "nama": "GILANG RAMADHAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {},
+    "id_partai": 12,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/327076/pas_foto/1683904394_bc6ca36b-465f-449a-a968-6df562d10757.jpeg",
+    "nama": "SAIFULLAH, S.E., M.M.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {},
+    "id_partai": 9,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/327078/pas_foto/1683905600_7afcf4b1-b559-45a8-9ccb-a65eb23acc91.jpeg",
+    "nama": "TEUKU SONY",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {},
+    "id_partai": 9,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/327077/pas_foto/1683904954_2554532d-c839-467a-9a41-3b73a98f4698.jpeg",
+    "nama": "YANTI SUSANTY, M.Pd.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {},
+    "id_partai": 9,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/327075/pas_foto/1683903910_06fb2897-44ad-4db4-a790-441ae7453bc0.jpeg",
+    "nama": "drh. RUBIAN HARJA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {},
+    "id_partai": 9,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/327072/pas_foto/1683902372_cde0ddcb-3ec0-4231-8fc7-be6664ec7517.jpeg",
+    "nama": "KHAIRUL RIZKI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {},
+    "id_partai": 9,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/327074/pas_foto/1683903575_35aa2ebc-64aa-4460-88bc-b7a5661f5a77.jpeg",
+    "nama": "VIVIANTI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {},
+    "id_partai": 9,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/327073/pas_foto/1683903205_1ca87111-757c-440d-81e6-b70114ba0def.jpeg",
+    "nama": "NOVAL AFRIANTO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {},
+    "id_partai": 9,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/327079/pas_foto/1683906182_5cef79b0-db28-4a59-bc84-32b54930f2f2.jpeg",
+    "nama": "ZAINUDDIN, S.T.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {},
+    "id_partai": 9,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/30189/pas_foto/1695704875_7f17884c-fad4-4cad-af3e-0cecd658d422.jpeg",
+    "nama": "T. KAMARUDDIN LUTHAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "02fa0d1d4c1390f8cf08839add71b918b43776f442c2fcad32c1c54ac2287aabdd5fd6cbef7564ae2b462ef7f2b93d84c969b06136b15d4ee06588db0721ab76MaapMWbjadb5zicsyNPzjH8Z36I1YVhVuV75MWOQ5sU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/30240/pas_foto/1683087057_789688b6-a336-4e18-a4b9-8c03d4fb559b.jpeg",
+    "nama": "HJ. SRI KEMALA NURLI, S.E.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "18bec30e5996c3d6467053b0a6be5c6c00369dd80c233d19ae1fce038a1464094bbb76113a9dde04002dfa85a4b7fb118065de411e1d034e394c029dca278784Jj61y0xfnKqE9jPksuiS3Tzwo2bw4M+jzaW5hSnVKfc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/30387/pas_foto/1683183408_8694492d-468c-484f-b475-b54c63423231.jpeg",
+    "nama": "BAGUS TRI HANDOKO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "4937e04dc92f8f9bded4d68bf4651e787feef0afe84f57945f63662f22cc0267d8477092b0c4ada26260927c56ed9db7e881c4de7a61186b3e22d7b51d10930a4sdZZgn1aT8JQBrAuHuD48LNJFxc2k2rWb9wJ595bEU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/30471/pas_foto/1695705418_8310e39f-ecec-4b61-8670-05ba80446fef.jpeg",
+    "nama": "ENSARI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "c17926f88b9dfc25c9548d07f694a2c9f4590be806d08f592252892313b7746665f7c3f82f2fe0fbabfa44b61b7af7173c2671d3d5a94966bffdad4eab3b8b082dv57uAYH9JGeliO1a4+zABfammDQMDLn4Vi+loVsGw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/427846/pas_foto/1688364971_ef566a12-0263-4eb5-bc34-05fc3881795d.jpeg",
+    "nama": "SYAFRIZAL",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "9ef6a2763fc6947bdbe2c8417e23047298e7f77656e34e4738540e9dba0271353d71329e65865131b24c9d018da24371dc9b3c417fe084cc092334782226fbaa0AmAoJm9I8J2bldozixwErc+O8kWAB8DdL/CxYMnLD8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/30682/pas_foto/1683282129_b79767a4-3f48-4034-b0c0-f2075c34ef8a.jpeg",
+    "nama": "YUNI HESTI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "432070189dce50d04c4a83e0853a69e24417d0df54859f3139b3a8e05f4f4593ba418d94f31a10087a98924c85b25032bb73d423d415d14679c2a1f9037b477busoWyut5iQ7rsVho7k6LSWEYhgL+YJkAOqgVfmovVn8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/422934/pas_foto/1687850709_55eadc71-a01d-441c-b079-15293175cff1.jpeg",
+    "nama": "HANEZA PUTRI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "e8b88b4d35f2cf3a49fa1b710352c830f06863770dcbfb792f9b0d49e03326e24395d73b174d30b1328f286468dd9640f40d35645f2c405b9f626726ed9cb2e9EfMs67iYNLklu+Gr1wpQ2N+86tIF7QECMhS8ClEpyC0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/30922/pas_foto/1695705317_1a599a7f-653e-486c-a01a-c08cd77ef8cd.jpeg",
+    "nama": "HASBALLAH",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "1cdedd539e0d595be0bc8e8be440c11c0d30c8166e2e0b51b6a984ee7ce914d01f2f9a05aa6bd696f656b435ae72528f75da211613929e13cf9d40a1901f6633FGqaPPVdf2Iswwi2DywFebcUfjsOHgxJtpQQcgbnYiQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/401950/pas_foto/1684160745_1bc6d2bb-013a-4d97-9e8a-160a3607f230.jpeg",
+    "nama": "ZULFIKRI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "4bf2cd3d8edbc0fa6ce0ab8b76781c6f38e4ff2bb6eb3e9cd4a806a8b0c549bb270971c22ea820d384a0e44391592eab2be5c01d7f7703d5005bcbcd82d31bb6ppQwrAtTYw0KkgvyvRb6xvpvYeSy30fNVUG7rhiKL94=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/401951/pas_foto/1684166063_25fce321-f928-4a08-a6ba-54f7de2a2952.jpeg",
+    "nama": "RIDWAN AR.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "b5842216f4ac23277f7b003541c63026f01cdf70eedfba49b228590567a59ece3a9817ecd6b0a2090858311ee33be94a9206e9cbf10e3d56175e28dd8b30c685Z2qGDgYdNwQ4kBhG7S4hkMncn3kGS8CQXYxZnUa6gn0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/401949/pas_foto/1688786233_313ce746-bf67-43b0-905d-74278c224a6d.jpeg",
+    "nama": "ZULFIANI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "4f84c09f8f658d1cf901128ef06556d8bce7386f4736da39618c760d31265e5124ababbbc12b980c24ba1d86b5a2cd43b8770f284c761f06f27f2c424646174bQZ/YG8Zju4fYOzlDXg5hpy9vjTPoaisXm3LE6Pf1xx0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/433966/pas_foto/1688831739_d8f6d071-080d-4db4-b725-0b121be80331.jpeg",
+    "nama": "NAZLI HAYATI, S.Ag.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "5e1393b3280127d3888ea755a76f4ddb63f775dbb5adf0ac2277769c03a67b0bac40775c9e53a6fcb7493d3855c388390b0b613ef745cc025ab24debcfe8c3d8UoY5HIEnL62G2tqsyslAgq38a0q260vUOZd2o+/u/W0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/401953/pas_foto/1688826817_e3bb403f-68a5-4310-a80a-f37b9d168ff4.jpeg",
+    "nama": "FIRI RAWAN, A.Ma.Pd.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "fce7d598de65cd9dc4a34122cda70f5512917a60ef230736b4225d8a3360597ea7f63947239f8de4e5d8b30bcfd8f2a35a4727c7a82bd7ee7b6bb3bb3eb9e2bdRk8oZ4PbV8n9Kvy5+LrV4aWE5FH1glVNRyFd4RyAgTo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/154149/pas_foto/1683801572_248d5f58-9b09-45d0-8da2-c1949958db5e.jpeg",
+    "nama": "HENNY ASTUTI BR GINTING",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "34307f7d7d70f690f36c7f3ab7fb79ee4dc202808432a2255ebc3cdfa0cdab1731d4d9bd682dc5abc34fad825d7d461e21ca1ee90fdba608db2e5d62bd4d2ed9Yoq3Cbneo3PFd+jdwlrv4pWD0E1dGfCGcEiqkGJ15J4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/80069/pas_foto/1683613560_9320aabc-4c71-4ecd-8fc7-c21ae80eaa86.jpeg",
+    "nama": "dr. FEBRI HASKA PUTRA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "ea2eca85d38b404b37396eaa8e58c4f223524dd65cbc6ead7341a5af0b4e845b5c420fb04c49d9dfe6af3527baed5f2a509f03a451e14ea340b9a8e6cafee527l+JgaYRlE7RpzilOyO6XOJE4I0fveqSpc/oayjP6+d0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/172947/pas_foto/1683688984_2577c773-1a0f-47f1-9abd-74f01cfd7254.jpeg",
+    "nama": "RINI SUSIANI, S.Pd.I.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "9656400161b662fb9cd81daec734a753b10ee5e025bb707c9460d520f5dceb4b7ba63080b1c9a30c2f0af512244cc790fbe4e30e1be89521f4e416b41d02eeeepzs+0FERfddYwqekXXDcOE1mBKdTTsGnG/3Wv+xls7U=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/171106/pas_foto/1683809024_94b59956-e00c-446b-8a2b-048db73c1318.jpeg",
+    "nama": "MUHAMMAD IQBAL",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "486263e54f1682ae425fbe6336d263469a4bab0f6ac7817ebde0a305922388ec6a992d254167086b8c4f7d78ea338f3a2a1918707ad0cde5dce4b89560c50fe6Ti6w5EPmveF16Kq1o6vii1XALb/cVCJvjphIfHSfFz8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/172394/pas_foto/1683694893_1a5edf0d-a32e-43fa-b4ce-aef7b2882b5a.jpeg",
+    "nama": "AZZAM RABBANI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "7825d1f28e1958047b479b309ede6afc27f13a2cecec867607954f804bc8c271fd094dfb052823ffc4563f972389732929445a2bb467cf1767ea27a207fa83d73NSgFLnafdhKp4X/J+1GmqFK/wC9TGJMVWnX7mARVuk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/217352/pas_foto/1695743702_f9b367d0-b361-4017-adf2-6533963c49c1.jpeg",
+    "nama": "MUTIA RAHMI, S.E.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "4fc03d5ec29072e06977437880c0766e41cdd88386c52e01d3c6da5f042a11cabe429bf070760a067e8e6821d73397c06374806b5bbf79bc7e583eaffa1111f7NSxgOoS8VRylmiSyKuzdzmCFl7/x1582lhYoBK8Vkt0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/482015/pas_foto/1695867640_05d29aba-e679-4858-996d-286847bd10e1.jpeg",
+    "nama": "AHMAD TUKIRAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "d6bdfaa0b01d69ec39ba6a1030773a4035379be60a4507a8210e673a003a082e1603dbbf147b61e09618a03a2e09b55850e2dbbc288a5ae042203499d51510fekm9uBb/6fcwBBv9AVEH82WNBDmFbVikh3jHTIb9xKlQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/170666/pas_foto/1683799318_6d788643-ab33-4d3c-b4e8-056a206fd5e0.jpeg",
+    "nama": "ZULHAQ IT, S.T.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "1b9d1e7b8393139c3dbcc0b7895b41cf1cdffedbc76236cf3463c8ddeca2f1abe87bc9d58f7bd886056b8e14bd5f7c529fa0d30e77c7ff996a454462ba0e0956uFuSI+eyJjQqDg/+8wOc1T9IUW55rmYvBbbXB2uB1+g=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/332472/pas_foto/1695715733_14a6582e-84b5-437d-bed3-7f3293cc4d42.jpeg",
+    "nama": "REZA VIRMAN, S.Sos.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "61345b51b5cded19ec3fe345649f58174f0ee092c9e3e29ea0f03b28ec03c0ed3bc58033d8bd22294c78b33552d4049f01c26b27128c6be77fb15294106b0afdB/BAUVu6J3bnujfyQn3GaEvybRN8pg2d+j2ysChT+Bs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 5,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/486168/pas_foto/1696246384_27d535cd-8251-4433-aec8-2714e3d67808.jpeg",
+    "nama": "SUHARNO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "c5f5dc28d40e2c1962d525bd82058dc3dff06c3ee8200c3cd2fddfcf4d504138badd7cbc1379fdcf3b6555c91bcec507adad97c936afe641647237f2bb0d52368HBM/sgtCIfZMe8Oq5gwB3c1ARX/C1D3/QK3QNVMV9g=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 5,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/486505/pas_foto/1696255255_0d07a194-8549-4d00-823e-6f38cbaa8c69.jpeg",
+    "nama": "RATIH CAHYA RANI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "d363475ff089178db05c424566cbf91f90c7f848b6044700a4e35d429b7bc1ab21a57f5bf8aef2ce2e4af34f4ed67524d3a8332dc34e6ea86a13441cd7b05989lEMIveOKjH7C1NdCm4Zy5dyFbtW/lLM7t+bM54BRFxw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 5,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/488040/pas_foto/1696326738_9ac891b5-002d-45ca-92ad-e46a4bed1279.jpeg",
+    "nama": "WALADI KHAMSI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "1b48b0a52375f2d649f8db81f2cdc7fe9104fd3c554771d4d94634ad3b3c67e2fa22c8d41dbe951b6e722e1a9ff93edd718d19fcb0f02e76c7fc60a233be84c2fFWh7m4NgWeHgB9/CDmKaFK6NHUcGMLdrxt34CaIAt0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 5,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/456303/pas_foto/1688826814_e5831ce1-a323-4c02-beb3-a36a521989bc.jpeg",
+    "nama": "CUT YUNAJI KAUTSHARA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "2e70eb979bacb807c8d50b8a79a36b018367c9887b1e2c9d2174fb4adb111912a4c9cd3f13b687bf1f9b08862cbb9cb20744b683a99d16c9877686ea96221215fp8+taMYiiv3G9G/nvqG0HMEjfX1Za5n7d0bTeWNlK8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 5,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/462987/pas_foto/1688901649_54baeca7-9692-4f37-b06f-9dc834ea15db.jpeg",
+    "nama": "FITRIANI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "dd0f764cffa6455fc2627e1cdb0deda8a0c2e6b43d48ffc2ccbd5f53ee1487315924ba2b1b0d3991cd0ad3571874693c199d5d00219fe690b08cb2e748dfa7e35g6K4LqE1HQCSiYEXu1cRbm8TR7A/8Fhact2HdCcchc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 5,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/463592/pas_foto/1688907884_023fbd97-a7db-4dc6-8f35-a1fb428fe925.jpeg",
+    "nama": "HARIS FAHMI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "5e019acc0156ed3173924caf57b9024146c1e0b91adde919a03e6e507643d1032b3280e5938bba50829bc3b4f1f3c2c2d8717f06fb98e4a05285d6e203164f1b7mRStcbBM1P7qyWxN/UvbvnHrhAvjC9zj6ORS6iFff4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 5,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/461178/pas_foto/1688879673_10a90f91-d921-4da6-b810-82dc094a1ab0.jpeg",
+    "nama": "SYAHREZA AL FAHROZY SIREGAR",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "6caf80a5349c5feb208ee3bcfdda3c3a3f77d6c7b4632b0cdf24c0e19a453ab661221a2c60a87ed6b0a7d5b824d556f7d4785b162129ed8575a0a5275786c23cAJ798sJc5oTx/Bi+J4usMjdqL+1YD0yVDDoSOnh7M1U=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 5,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/442722/pas_foto/1688700068_27e564e5-ae94-4885-aa52-71d9f4224504.jpeg",
+    "nama": "NGATIMAN, S.Pd.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "21f073b873b3cf31d203ec938408efc3e6e2a1a7b13fcf129f72f6130ed256393865a6a1235ecb6e27f6a211440d0cbcb72cf3ef0a1ace5c4dc224a5b13bd25e6B6nVeEi0/3ZVzJ7sUZGAkN/yEC4RA86O7UBuDlc6so=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/292429/pas_foto/1683817628_bcf6178b-ccba-4ed6-b9be-bb20a6409f3b.jpeg",
+    "nama": "DEDY HARIANTO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "afdbffb812c51b7847c4e2604a7835420053c337de239203475572f02ecafc1725b88eec2582f731836adad022c145a95942b249c9827a670778c0ad9380b0471GNOQ8ejYVrI6boOrwRUpIuNnnY1qVkGT/yHWQct4m4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/438748/pas_foto/1688807046_f7366510-7ea9-42ae-ab22-c4f43ee906c9.jpeg",
+    "nama": "LIA EVIYANI, S.Farm.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "775142fc0b06285a480feffadaab13f16dcc385a00a906aaf4f2f910d81618664ef9a357bbac714dff5d40e7e440d7cf369823e16e661b3af879ab130f9e50d1tR392oQbJGKIIKGStIkBSeRp3iaVBKFvmsgT5lLMvk8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/480168/pas_foto/1695699696_1606d12a-03db-4506-891d-3c7a59ac1701.jpeg",
+    "nama": "RISKITULLAH",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "3e234c1d0618427f6a515b870bdf0feb32beeebfca5badcb69b433d296e3a8510e56c7b0bbfc6ef830d986dd3629acc08d57108e923fe091f5f8e033c69f4349DOyQiMhRB3ELroZyLQhD46n9lKuT0kFqEd4Gvm4xy1Y=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/423902/pas_foto/1688619150_2e6f96e0-df62-47cc-aa02-9a1316e22b30.jpeg",
+    "nama": "T. MUHAMMAD YUSUF, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "55a179f9c9d62d8a2df1f3ef503725b53e681a3830d53d321ea37880063ec49433938634e9e23fe31199f626c18fb6bd07e8f5dbe5b102ddc71551e62dd75cb2s53X4mAWipm5fnPu50+4votpev/i+vpXJiakgunFpqY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/423593/pas_foto/1688619807_c142dd76-0476-41e7-a078-84b8491ebba5.jpeg",
+    "nama": "RIZKA MAIDITA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "0f78f690ac5de2b39eeee028d39211a97c54b4ed5a70c06e6bd95eac7432ccd213a140c2618361966b141231ca2aa299107aaf9f9112d025d7f8afc4a2cde91cXhU/tCYX6gRIJHfYzFKiY7OlpQD6cKnXdlt5asMfPHc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/293360/pas_foto/1688876583_c0cd21d9-90e7-4619-8803-77429cf743e3.jpeg",
+    "nama": "RISMA SULPHITA, S.E.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "7c91876c0a653e81feabce39129cc751a11fc1e15e219ad53174c5ff92f658f734f637dc2d814fe824db8fa47515187a01ed276e53daae7d6cab8703bac46543s26wublWXDaN9ViV9NZnBSxV/vlXN/nAjhsbDlAnXUE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/298978/pas_foto/1688444366_0ccac459-d5c9-4376-baae-e2c7a6f14914.jpeg",
+    "nama": "MUKHTARUDDIN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "4027409e14ac842631c3f9491c98646ee3a6f698757d07db01133bfdfb84c071a3b3f484d88c65aecb90e909baaf4d7f9b19931a0aa289890aad7d923288efe1YsioQHXmaPLYOqdK2S/m9+w8zbfkvQbpW2NUuw1/4Xs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/332492/pas_foto/1691731691_33a7c6bb-58e4-4283-8e12-3f9a5fe98cc9.jpeg",
+    "nama": "HASAN B ASTAR, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {},
+    "id_partai": 74,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/332494/pas_foto/1691731731_df9ea789-8a99-4b7f-85a5-587af4b301a5.jpeg",
+    "nama": "HERI SAPUTRA, A. Md.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LHOKSEUMAWE",
+    "profile": {},
+    "id_partai": 74,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/477554/pas_foto/1691749456_3c630996-0c9b-4757-aa1e-4b583a5820de.jpeg",
+    "nama": "HANI STEPHANI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {},
+    "id_partai": 74,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/381096/pas_foto/1688647135_85d387a3-c20a-4daa-bd76-0d3b5f935314.jpeg",
+    "nama": "Hj. T. RATNA LAILASARI, S.H., M.H.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "f81c4ceaf9fdf13470fa67f61e4dede568281ecf841eedc7c9344bc64d2ea995f79c2c03b2b41ca3a079d0d1ee2dcd3085b3d6854729e30186bf61b1f3c59b89KisGSX7ROVg4y9xR8GqA23SEBmsemmcUyVEx5NHYdf8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/381102/pas_foto/1688646646_81b2b9ee-35d1-4b02-bc32-bd067bf9b505.jpeg",
+    "nama": "M. BAYU SETIAWAN, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "c56f9e09e6025b9ea32f6d50888653d381e86907651801439a76c4292fc4b0d49a6ada437a18e81b40e5251e3bca14438efe76ce5b58afc8790e23867cc3c50dd6QfyY/K53BQkUSUFrrLGYvBXmI3uXwCap9kWsd8KBw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/90067/pas_foto/1174034102700005.jpg",
+    "nama": "HARTATI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "c4b333f6103cdf892167bd35648a09224cbfe90253727763b6f9177e855d1fdd1419c2a07242b0a13a49b79acc460339068fda5af42ac4ad0fe8d936e986e6eaWVCsxPeQWvDHD5JNu7Kg1uepZDXFsOxCpR4lLFX/ZUc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/101430/pas_foto/1174025007920001.png",
+    "nama": "HUDRIAH WATI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "3df5b69bed8c56333042ebc823357ca857f5b032ced0182c46d4fd74517378532de81cc849d3ea7a6eac3d111f5714f2970d3d58d24901e23a3b7de2d61f7b83MmlAd4kY4egHx7WUMaDJFb+Y6LvuTqgDifgOUHLpxEg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/101430/pas_foto/1174026210820002.jpg",
+    "nama": "NORA WATI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "224d5346262525fe2e2939b6b7d7f80e52aaade070302dc7755ba8c0d906f25125db6fcc0c0a848b14e5b962d96aff717707f597b511026658f957f4a2556497yb3YUJKcbnWL2uQBQXRrVxa07WGxUQKXiGe0cM7rkOs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/101430/pas_foto/1174021707750003.jpg",
+    "nama": "FAISAL",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "3bdc4d1c14eda31db38ec2ea07c858570fe494ce444bf928a43e6fa7558f198fd70d595dd89290e4ef77066e0e58b43d2003b9f9aa920ea064d55ce3c57347f1ymO4RC5CEM6LSR1SoRzOo7j54JTtnXbKMlwCHKvq8j8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/482287/pas_foto/1695900223_9575de8f-6e08-43aa-8494-d05b3c663330.jpeg",
+    "nama": "RINA MARTINI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "c5f061c69ad70c6ea0794f3b02c2d38251eb6f709e58ffb3c21ca3968928c6feebbcd7e40fe6b7e8001a8920b29b1d7224817c781870504caa9cfb4991bf2209JTCIGZqGDFLwl9T0E/6qyhHlAzxI0ocdPWlNX3JANgM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/165537/pas_foto/1683578537_9e9e9046-6a5a-458f-a854-f94c9a99d57b.jpeg",
+    "nama": "INDRA DIRGANTARA NUGROHO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "9c87a00fb2ccc3ae1692da9bcec7b91f1a28e772039983ba929f525a0fc044f4096cd18fb4f7a64599cc91397a066c110a1e8c899a092aedf493ceb839e740a1tAJICYbyuVSZDQ7E+teCGmarz6UljZ3UI/LRdaQH9jM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/28117/pas_foto/1683695029_e783217c-0ce6-4941-973f-56f0b518e20a.jpeg",
+    "nama": "ALPIADI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "d7f652073313fb554217dbd9ec2d02809518e5c6a1997929b10f2058744b7089f191797f6434de92ddffc5dc17fafc02a033d01bbab7b2492bc248094fb025a8x2QXMvSV/nijXZOWit49EJ0grHgyrzQJV1ov9vae45A=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/165620/pas_foto/1683582543_1cb243d2-652c-442c-82f6-7183de613879.jpeg",
+    "nama": "SULAIDA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "3e9e6bfec5fe8f52969e84e15e8d1c5c3f4ae87b5e5a924b1fd9e80db3188848aa2c355db2a2163b2c3ce448c1bb8c8367a232c8ce3f5e952b13d95e7a861a0bGB0Z1ScQdI7GFpRYEler2yIrG7hsY9KM9S/pTqyoJdU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/28119/pas_foto/1683577858_c78f3c5d-2d52-493b-96cd-bb6c433b6f51.jpeg",
+    "nama": "BUSTAMI, S.Pd.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "5eca0c31f3ea662b3f68fa49c92b94fceadb5dfcf2c9c8d2afb44dab23425961e45bd3678b0cc40349170912fc8a2bac812c715b9df4eb73755174c59f6f919cmmpKGDIu61OIyURnSp5i+EMj9awFikNllYrzktPEJsg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/165520/pas_foto/1683699748_d406b0cb-4014-454d-8f07-08616dbd1bb3.jpeg",
+    "nama": "ELI SURYANI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "70c40d33683e92139921b301e963c9cba5c45c43860de1a54814833bd4bdb05831c356d48d9835958bbdd7620b4a612714da4bf880c5c63a9e45d8542812d419M7vkS7SpmHHxR8F89YikKJTE7FdNCr/cL7dftOOKRY4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/165556/pas_foto/1683580294_868b5ac9-7d91-46e7-963c-219b33bbcd4a.jpeg",
+    "nama": "MUHARRAM",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "3e9ec843989bb56d5c9d07201c2e29fff87cdde645ab3d53e87545d1d9148e4296c158687293b3482ee2384f507e66683860c5872bcab8393fce9e64d125826eoUJ2ONn5TjSXUblM4kbVNKyKAQXF2JhWUt/AxZJqwJI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/428724/pas_foto/1688379821_552feda6-5909-4ad8-bb62-5e1713976828.jpeg",
+    "nama": "NURLELA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "bfa95af47203cec9d5a59ad6c765a1a1da6d22e1f10359bba7b3871d5d1cc95e0a1371d82288a0d731e338eab6d81059052337492207b46d051e62496eb70b49+k/AXB7JLZp1pm8Nzy8tV2PUK3wvryVhoLB91M0tGV8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/424085/pas_foto/1688247985_f8cc4955-b331-470b-9ef7-40a61d831069.jpeg",
+    "nama": "YUDHI PAMUNGKAS, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "9e093d991ebf5c10b4a4ca4f98e6ed2b14ac923a4db7e7cce5383c9da5620bf19be31afdc68443e082ed098f83ec366e29e18894186403c5e5477dad38134e33EHljSHhO3csRQXj71Q3gfQfQ6qCGmWO7IUAc7SlTvqI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/386218/pas_foto/1688466399_bd639e5e-90f5-4c6d-bfc3-35689cfb8038.jpeg",
+    "nama": "T. HELMI MIRZA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "2b0af1c5c75c49bb456d28d03e587243d39fd5a5c36225efde7f0343f21b39c0e4678c2fa2ba991492abd11f708db390541e79985fff5e610ab22b6545974016hv2dm6pVXfF0ZE+a61EfIz44hdWMZUQfgcOUm/WamJU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657205782_PNA.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 82,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/386206/pas_foto/1696256557_7878a9fc-7f8f-4750-bb44-b221370ff6db.jpeg",
+    "nama": "AHMAD RIFAI SIAGIAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "a0804ece862c3d5df2fca35ac5e97eb5b9482460fc52207d72660f6f5b882da20f258c257217a5769938571bae5c6da4afaabd06157c8171b83493457bb1bb7cM1ANC5gZySo5HR1i1GPg6BLZx7WCaSNzxym+UWJzScc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657205782_PNA.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 82,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/482602/pas_foto/1695975383_9f6a3142-c4c0-4d24-9a58-eccfd7279807.jpeg",
+    "nama": "ROSNANDA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "e408231109062752200505ef11bafe59b837f0318fac0b190b018873dbea09a0363926c2c2be28e37493c8ac9f6dfe1c45f73c091b6442d8b2f04c10811a5ea7wS/t4K03k4DPAZDWRz/Tnk40zPE/7ermFjso+91oeJY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657205782_PNA.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 82,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/481489/pas_foto/1696253264_515d804a-480b-427c-aeee-73785167f27c.jpeg",
+    "nama": "JULIAN SUSANTO SM",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "c85ed49af05e91f75bbd4a42e122e591320e27964ce62c566e897c67a1e8d27052ac1fed223fa9edd1183ceb3ef503f59f1600f8a04b0fd323733eceda77d7d20TiaFW1KSxu0FN75/kdZiH1tNBDFwxXWvbbQ7fZBg7I=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657205782_PNA.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 82,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/481566/pas_foto/1696216402_6b0dba5e-7247-4f82-8750-6cf82a474cd7.jpeg",
+    "nama": "SUTARNO, S.Pd.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "ACEH TIMUR",
+    "profile": {
+      "id_calon_dpr": "be7f0ceac3f247ef4b8720af3bae36f34a52c9662565cba1201b73f02384e6d339a6467506335f9cb0a21ac1bd401e8e65401fbe731d2e88ae3b2dafc4512cd8dxXFGp/xt3ZIB0AuqkUd7mu59MjhAB93r7/KtzCPerY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657205782_PNA.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 82,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/481603/pas_foto/1696216221_7b517b80-6607-43f3-8473-367637b87ef5.jpeg",
+    "nama": "FITRI JULIANAWATI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "6f55f231e3df32057701d1ad331ac9adc11cb467abc49ecf26db4970046a551cd902d3fbf77cfb79d3e01f3a1426f194634a790ce90374614834ff6c586f3da0hhA0VNSn2h/zf1wW7IiuYcUdPSYzz9WDtiszGUKFo2k=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657205782_PNA.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 82,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/386211/pas_foto/1687761346_e7b5551d-f960-462a-b3e7-c453615bd612.jpeg",
+    "nama": "ADE SEPTIARA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "8ee770a1fbc47b454e7430b2da565dedfa6f36b1ae4032fc14b37e11bcf871c7c41cb4ace17818dd9e33b44ad49cc25b61e216cdd518abee425228c500d26386H1BmtdbkrpBguV5NPsK/dnBrH87inMoLfa/B3i6bQvQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657205782_PNA.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 82,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/481636/pas_foto/1696241833_5adc546f-3852-4419-8fd7-510b21323582.jpeg",
+    "nama": "RIVAI EFENDI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "d7cf4715a37499af2d17aacd6aafb03945af995b2bff2e150133e740e565b2834c6065dd36d9c40b64e87b060e53c444cd1cc259d24eaac75a67ed74cc235d65w1BXgdl+lOcqiR56AwPC3EnLZvNyLRKHAA1+GJP0Qgc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657205782_PNA.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 82,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/51210/pas_foto/1174050505750001.jpg",
+    "nama": "MAIMUL MAHDI, S.Sos.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {},
+    "id_partai": 79,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/287035/pas_foto/1696254724_a8b4ed5d-fdc3-4aeb-bd5f-a0e0e2252dd1.jpeg",
+    "nama": "RACHMAD",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {},
+    "id_partai": 79,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/287033/pas_foto/1696253865_2797a8b5-3dd1-41e7-933c-ae7d4d28833d.jpeg",
+    "nama": "SURAINI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {},
+    "id_partai": 79,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/468401/pas_foto/1691485106_ef45fadd-7873-4b17-9f40-b9c66cae5402.jpeg",
+    "nama": "RIZAL ICHSAN, Lc., M.TH.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {},
+    "id_partai": 79,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/287040/pas_foto/1696257879_83ef2715-b6f7-44f1-93ff-446dbed25be7.jpeg",
+    "nama": "MUHAMMAD SIDIK",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {},
+    "id_partai": 79,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/51210/pas_foto/1174055308980001.jpg",
+    "nama": "INONG AULIYAH PUTRI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {},
+    "id_partai": 79,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/468346/pas_foto/1696256734_9b02e77c-f4d0-403b-9d77-7cfaecb8a13b.jpeg",
+    "nama": "HENDRIAN SAPUTRA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {},
+    "id_partai": 79,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/468422/pas_foto/1696322244_a3e3176b-ec43-4129-8818-6f965ef821bb.jpeg",
+    "nama": "BERI PRIBADI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {},
+    "id_partai": 79,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 9,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/287034/pas_foto/1696322115_8c5e7017-9278-43b3-87df-0e235aa8dd2d.jpeg",
+    "nama": "UCI OFRIZA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {},
+    "id_partai": 79,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 10,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/468367/pas_foto/1696257445_94bd1e42-f336-42d9-a509-33d1ca934bfc.jpeg",
+    "nama": "ISMAIL",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {},
+    "id_partai": 79,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/33330/pas_foto/1683621965_45b8bc3a-2329-4544-98ac-901f43667f44.jpeg",
+    "nama": "FAKHRIZAL",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "900e73401b39c2cfbade95757d402ac4e8b02c2611eef2f662e1856ffdc980cfc128c3434c9784df8fb6251df7d8830e2e97fb251efefe8d6749c0449442ddc5D2MwLkcVkw2WbDx3zF4xSSfJ/RAPx3lw6A+PiwkdDpY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658500260_LOGOPASFIX.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 84,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/435273/pas_foto/1688639934_bb654a7a-d517-4612-a5c1-c32f97ab6011.jpeg",
+    "nama": "Tgk. ARMIA, S.H.I.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "b51b6b76b9dc0b4418413902fbeebc16c4f9b733b29f992c3483e003fae8afdcb0e334bbf6209cbc09352753203bdfd58d1d9669116449c3fb56f1129fcba8fd2mKdNjFQjdUmNmTXGSsDLq0UbOxIDF+fAUWVi59RIb8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658500260_LOGOPASFIX.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 84,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/382034/pas_foto/1683990519_8d24c4ff-de40-4ec9-8959-e35d639f11ad.jpeg",
+    "nama": "PUTRI FITRIA, S.Pd.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "15a417a7bb47acc40124c88997b288f61754af4cbbcca7790a6a659db539866de08d474a494372f164ba90dc4401cb50de9d80321a31287f791d8290ce487a78ExCbuvWOGjZhbZua+RpNU1ARWK+yjoC0sKvMDpcLFto=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658500260_LOGOPASFIX.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 84,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/435286/pas_foto/1688632764_ff412a91-a211-4c5a-a1bb-b95c83e75079.jpeg",
+    "nama": "JAKFARUDDIN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "ac52ae5f37cc1e46de513f561aa89a0e42a89edebb8c3b2cebaae5ec4d1a2352152af0a136005e2d9a1b378e564db2dbe36f537d39b239946bc5fd0517b6ff59luhiSi54LSgPeRRrQBPzW8dUxDVjgf1WkZMddY5FnFA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658500260_LOGOPASFIX.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 84,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/223734/pas_foto/1683987734_b9c8e521-5e1f-4b8b-9abd-3afd371d44f9.jpeg",
+    "nama": "FAUZIAH SARAH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "5940b0d0f10fc7cfd24c918acc92786a225067a1af0408ca46d90346c2c37bbf565c496d96eb25749e8a2ea702533847cb4b877e372523ecdcdf7ec9b48dad39zEPoftMbuFVmdKpgFjY/Pwff8rSlOFMebhWuOSKYMIA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658500260_LOGOPASFIX.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 84,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/88875/pas_foto/1683850951_e606c503-74d8-4fda-82ce-ac811f95f961.jpeg",
+    "nama": "SAIFUL MAHLI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "3ddc6ba6eaee63ed20f9f8b0ec957451ad1e02e47fb87a922632c19a36a417d2d103120a7e45f8d2f59ce0a2130e2d7861d8a2da53ee24423bd4c3e6bc8047582uJDwYGJ7QThTq//KqX31xFe9pGXCU2lFyNggMzZTPU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658500260_LOGOPASFIX.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 84,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/435341/pas_foto/1688641173_a48609f1-875b-4af9-a20a-b765dcc007b0.jpeg",
+    "nama": "MOULIDYA NANDA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "94b0e970d87ab2ef03d815b1d934cd1af3026704e1c5cec49e73b70ea8a6fed5feb597806ed9a99749fc72379b41453c3cd448e4adbab9c0453fcb823479dc7cNT+tx578dGBk12B6t6EtzMzeRFf8y54dCs9tKr1TBeM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658500260_LOGOPASFIX.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 84,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/381869/pas_foto/1683990128_15a7c146-a3e0-4342-bbca-3e56359dbe6c.jpeg",
+    "nama": "AMIRUL MU'MININ",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "bba7df51da203f34272ba15a0fe655c6d8c3c1706836f28cd135b5f7c88e3f84ae8b56b14a26de0c640d32061c2aae1d5a2397a17332838cb13a879a79fac8c4TofW6yOQxpkTKM+atupcPmJ9vwxhf/COp2TF9bhw6bc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658500260_LOGOPASFIX.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 84,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/137369/pas_foto/1683792213_ee936318-4ed3-40f5-a61c-9e5f6f3d94c1.jpeg",
+    "nama": "BEURANSAH, S.Pd., M.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "a100ee69525fd5c787a087501df2f616cf4a0fae6f56d72475c0bd4f174e84d2766fe898d82a474bb7502c271742486ae5f2c6541312753f30bc2e1e4293dd38MUXEHb5HZ23M1tif7NzyVlNj6bX87D1DBcw+1Sg0txM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659823143_Logo%20Partai%2010x10%20cm%20unk%20SIPOL_PNG.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 80,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/109048/pas_foto/1683822850_78f30058-e55e-4b8e-bb60-cc666ba8a3b4.jpeg",
+    "nama": "SYAFRUDDIN, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "f9b3288411f4e22ec2dd568d4fc9c01cff5c8ef4dce0c7289a03ff2ba81d5fc6c92fbec8a4672205426837f1a69f1dab8ad69be3a5fc31ffab62d8368d418131Lg8tGjqFd78ehU4xUO1kxMieQZGr0fJ5g9cCHErt7mg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659823143_Logo%20Partai%2010x10%20cm%20unk%20SIPOL_PNG.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 80,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/167646/pas_foto/1683791626_a86e477e-3791-4b7e-8b03-9be964716123.jpeg",
+    "nama": "NUR RAHIMAH, S.Kom.I.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "fdd850374622d69aebc23c639233e3c12f235284678358a480053bf353e12e44f8b7df4353538fae99c2faa4ac7c70a0b4fd13b25de5210698e26599810279042KiHy5jc1q29O8E9gzBfIy9cZy11LQ31CkDQEa4xDJ0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659823143_Logo%20Partai%2010x10%20cm%20unk%20SIPOL_PNG.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 80,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/135957/pas_foto/1683792142_46393a03-6f24-4c74-a75d-0d4df5e9efd3.jpeg",
+    "nama": "SRIYANTO KARNO, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "3aac4ce1c7eaf1ee5716fdbca1e243d8fd46c685edf94b0f582d9becdbd612104cd5f0351c3f2ebcee25a9843ad9a7154a12d34a0da781d98ce425a3f3c284d724V9TBd9pvGW/CJoITZLwOHC+WSZJU038JGfy6BkIfM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659823143_Logo%20Partai%2010x10%20cm%20unk%20SIPOL_PNG.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 80,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/251053/pas_foto/1683882744_301a3e93-458a-4979-85c5-4255ada96872.jpeg",
+    "nama": "SITI MAISARAH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "3c0e7c36210e6319f261657981b8ca514d716f0e9ebf20ea56952672eaf04a18a2b58676675c635bbcf5ddfdcde5ff86221ecd88c31f01d597c5f5e4f73457267HVZ3m2SkfE2GIAvwkQGxHpO7BAoIgz2lp828+0fRNY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659823143_Logo%20Partai%2010x10%20cm%20unk%20SIPOL_PNG.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 80,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/243223/pas_foto/1683881132_de9aa996-c5a1-4671-b6d7-fa0ba95cd86c.jpeg",
+    "nama": "SRI KUMALA DEWI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "6c108729fdde19e429803fb473409f2e7ed32f281f1de8e20510953680ce5131c2fdb4f499939b67cc3d3ee17fd938238de7e201349ea111f7638c3469b6bc8eUvS0Dm6jj7mVyQuENoDadzzj6XziVqdb3rEIrm12rQE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659823143_Logo%20Partai%2010x10%20cm%20unk%20SIPOL_PNG.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 80,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/478987/pas_foto/1695709124_fce4eaa2-b218-4da2-8b97-b273d4531ced.jpeg",
+    "nama": "MUHAMMAD YOPI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "6d43df39ff2841666f18fc0647d79edcb71e54f265ac0e2b8461da97209334e243454a502ed9c4ea3466b08cfd1e6f56254edacc2f205bec47de09bd1b91ada3rm58/IwKbO1A3igVY9Q76u8+bILRjQIjdGtmuZE203k=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659823143_Logo%20Partai%2010x10%20cm%20unk%20SIPOL_PNG.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 80,
+    "kode_dapil": "117403"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/478039/pas_foto/1691757875_4b092fa4-2569-40b8-87f0-49295bd9f261.jpeg",
+    "nama": "RIONAR JUIN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LANGSA",
+    "profile": {
+      "id_calon_dpr": "5bdfc4c505d11ca85eeb387651ccd11eb24c660038f2971ce327b1433da87924ed9c60db020ca3026bbd66b4ebfd99264d211d5152e5d8a53e1ccf8a9545425cDJKJJy1z55cQcRDRw8xyPVFACLKHqeE6L1dyvjJ+jEk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659823143_Logo%20Partai%2010x10%20cm%20unk%20SIPOL_PNG.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 80,
+    "kode_dapil": "117403"
+  }
+]

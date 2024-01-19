@@ -1,0 +1,501 @@
+[
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/93996/pas_foto/1175011412000006.jpeg",
+    "nama": "RAHMADAN RISKI B",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SUBULUSSALAM",
+    "profile": {},
+    "id_partai": 8,
+    "kode_dapil": "117503"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/93996/pas_foto/1175011702920004.jpeg",
+    "nama": "MUKHTARUDDIN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SUBULUSSALAM",
+    "profile": {},
+    "id_partai": 8,
+    "kode_dapil": "117503"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/93996/pas_foto/1175036910970002.jpeg",
+    "nama": "ROSMAINIDA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SUBULUSSALAM",
+    "profile": {},
+    "id_partai": 8,
+    "kode_dapil": "117503"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/93996/pas_foto/1175011307990008.jpeg",
+    "nama": "IZA YUMAHENDRA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SUBULUSSALAM",
+    "profile": {},
+    "id_partai": 8,
+    "kode_dapil": "117503"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/147779/pas_foto/1683526370_52d2b7b6-6356-435b-8845-1bf3c0f186d5.jpeg",
+    "nama": "HAMDANI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SUBULUSSALAM",
+    "profile": {
+      "id_calon_dpr": "8d1a35873d917976188489f46c194edd28e8361725fa65181930fc224144a21cbaad9cc1d6f2b95cfc2575b2db3c01ed53dd5ee7b7869b422105687794af3e37aOoATodO++yVJHLVRGEpbUhWFIaUMahP+629yGrfcac=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pendidikan,riwayatpekerjaan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 10,
+    "kode_dapil": "117503"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/150526/pas_foto/1683742296_ed0deaca-8983-486a-9611-d25936296add.jpeg",
+    "nama": "BUYUNG",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SUBULUSSALAM",
+    "profile": {
+      "id_calon_dpr": "ab7efad4ffa371c8fe73eda1dac4c92ba12c755ba17cd88c66545fc601404274ead7b3d89b6539d7b5cbe48330d368cce7135814abc9de70a5d97db34ae47524iiBknBiuykkKi+dGKqc87Cen4GAGN4ELYUeZ1ey7vPQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pendidikan,riwayatpekerjaan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 10,
+    "kode_dapil": "117503"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/147430/pas_foto/1683745500_53be87b0-c2f5-4ba6-be74-b74303c06a36.jpeg",
+    "nama": "ELVIANTI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SUBULUSSALAM",
+    "profile": {
+      "id_calon_dpr": "f5e4ec945abb7c8987753c8fab73b71753853b6c49d15eb125790c65fd5ad51d50554df1b87d266cdc342f556fc9d8f3b8bf896b24013dd7febe61d918073d19LCLWfVyZ/WlIsEiFvjBgNIO8Y3L+ZVmhmWkfaKfT7f0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pendidikan,riwayatpekerjaan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 10,
+    "kode_dapil": "117503"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/483241/pas_foto/1696009627_7216e8e3-1930-4ba6-95fd-baf351342481.jpeg",
+    "nama": "MARDIAH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SUBULUSSALAM",
+    "profile": {
+      "id_calon_dpr": "879793c14fae61a8c7240d94675eb02f12e4723793a494ef6503e0bcd0d628fb191b62a1125b124ea62f437618a36c491825e878f7bd3c905e5966653c78d8dfd/10x3IFFElX4AB7GdTvsdAAe1TrFctpUPvVu497Zrc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pendidikan,riwayatpekerjaan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 10,
+    "kode_dapil": "117503"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/477414/pas_foto/1691743879_e9c2f962-aa50-46d6-b6e4-175f8626760f.jpeg",
+    "nama": "DALARI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SUBULUSSALAM",
+    "profile": {
+      "id_calon_dpr": "a84df5bbdde4a3e3251e821d449addd68804bf3c2ab4413453d7c9d480dcb33a85848757de3ff71427a8ae23a141ba33d51e3dc077096a92bb75234f9d9df04bvo2mMnJdQRzy5Ch5ogdZXRCGYuVwxvFGg1nR7hk7gXI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "117503"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/477523/pas_foto/1691745380_4ad519d7-efc5-4f25-9ea3-3935ea945bfc.jpeg",
+    "nama": "SYAFRIZAL SOLIN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SUBULUSSALAM",
+    "profile": {
+      "id_calon_dpr": "09a1ebd0fbf5f5e825d674ead4711bac83ee1ce318cf6e386941a5ecea65de4932f21ac383895e632b04a7e9622e588d2f3d13ef4700457c0031e229ce0f61c85sBTgKFhDnQl/FnLguftTUWbz+k6uWeol3tFs4eEjdo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "117503"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/477642/pas_foto/1691747210_20c5aa47-3efa-4451-8715-25432c08819d.jpeg",
+    "nama": "ISTIQOMAH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SUBULUSSALAM",
+    "profile": {
+      "id_calon_dpr": "11ba54f92a00547633bb3489d36fda499f29c62ee15309f4099921833f7418b9bedb0e82f2ddbb33e3e68fc0b9ae32f1d98cb1d0b8507e9b6b5b0e5197c86b3dvgk9xmycVL1pExIuny2RVbeGKszpOV3n1+tTLTeqdRo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "117503"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/477732/pas_foto/1691748546_c1faf728-efc9-4b7c-8601-bdc2a5a2b865.jpeg",
+    "nama": "SUGITO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SUBULUSSALAM",
+    "profile": {
+      "id_calon_dpr": "b643d3569dec5df0472c132c6eaeb3a5bdb3c3279e643cbebd2d4cea369c2225be0d6743d4f11509d7a1d2431b84b9da5d8b7eaaefa05f7a338cdc2ef43a09b3wFuorUjbZWm5Fh7Bv2qFmMCQ5rxYAOM7rDL+bwixVHs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "117503"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/371154/pas_foto/1688619216_b03d9131-cb27-4151-aacc-240df9e6ba98.jpeg",
+    "nama": "HASBULLAH, S.K.M., M.K.M.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SUBULUSSALAM",
+    "profile": {},
+    "id_partai": 9,
+    "kode_dapil": "117503"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/371157/pas_foto/1688612987_d546b54a-cdea-444b-8451-e9068787b8fa.jpeg",
+    "nama": "ANHARUDDIN, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SUBULUSSALAM",
+    "profile": {},
+    "id_partai": 9,
+    "kode_dapil": "117503"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/371156/pas_foto/1696244202_3002bc2b-c1ee-43f3-9e5c-1edf53021fb7.jpeg",
+    "nama": "ERLINAWATI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SUBULUSSALAM",
+    "profile": {},
+    "id_partai": 9,
+    "kode_dapil": "117503"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/371155/pas_foto/1688619599_a30f01af-d1ed-44c9-96b2-3909a344a508.jpeg",
+    "nama": "SUARDI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SUBULUSSALAM",
+    "profile": {},
+    "id_partai": 9,
+    "kode_dapil": "117503"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/198560/pas_foto/1696056581_408113ec-e552-49df-8977-adab5c43874b.jpeg",
+    "nama": "SYAHRUL HASYIMI, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SUBULUSSALAM",
+    "profile": {
+      "id_calon_dpr": "64a0f78b811fbab776e32c0edc4ddb7f5b09f1bdf0a090961c5bbf90834add0c3ae0d8eef6dfe1e243213354122706f6cd821e4956f391c3d2aa4b8a3d9d4b29w44Y+8UCZLUNcr8aQwUJ1eIojmqCyzvlshk7N26nM5A=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "117503"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/457520/pas_foto/1688834241_85044cb4-acc8-4bf0-9f0e-8b71dc40a2d0.jpeg",
+    "nama": "AHMAD SUSANTO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SUBULUSSALAM",
+    "profile": {
+      "id_calon_dpr": "f3e8c7c113958255694e6c067708d152e475ecf8d4ae0012bf90b3d813e64e86d0f80b7a4ce540aea710ae27e06fca32bbb72b1318ae09e1f4939ea56c46b1f2w3QkSNYtF8nGdvfJKN5OsrFAmZMb3XfpV1C4XGPGQ7o=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "117503"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/198848/pas_foto/1683800085_b7a50fdf-676f-49ca-a123-003126afd58f.jpeg",
+    "nama": "ROSMAINI LB",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SUBULUSSALAM",
+    "profile": {
+      "id_calon_dpr": "f87403376fea66ba88806ab662cdf4c2a70d9d1af8c6b10bd610c1125de88ddc7a39525d41b1810794ad83a06c00835ac869812266a360749ba4830d0562b527DDYzz4vZ/xdsJ69gHvKRFQaYLOmKtQlJN8RA4wc6Y5s=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "117503"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/344557/pas_foto/1683916823_641356e1-7814-4907-bff8-86da258a2c93.jpeg",
+    "nama": "ALIMSAH",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SUBULUSSALAM",
+    "profile": {
+      "id_calon_dpr": "6d258321e3e144068764e5d37eeec7fc7f4332303639a76dd0a66a68dc0b3c142c4779ec2f4c1a23becb7d3bc2e1ec6a47d06e15d50ce4aaa7ae1dc6456a43c1MvJJpHtWV3e47/Cebqf6wxT12MX/8QxmEc695dHMY74=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "117503"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/67690/pas_foto/1683299629_65aafe87-70df-4598-97ed-435cfd9148dd.jpeg",
+    "nama": "ARIFIN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SUBULUSSALAM",
+    "profile": {},
+    "id_partai": 6,
+    "kode_dapil": "117503"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/447974/pas_foto/1688744379_4a74ecdb-5870-4824-8d45-781442fccce3.jpeg",
+    "nama": "HAMDANI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SUBULUSSALAM",
+    "profile": {},
+    "id_partai": 6,
+    "kode_dapil": "117503"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/72175/pas_foto/1683428740_51e396c3-f47d-47af-a26b-a7e6dd31b254.jpeg",
+    "nama": "DELIANA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SUBULUSSALAM",
+    "profile": {},
+    "id_partai": 6,
+    "kode_dapil": "117503"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/67415/pas_foto/1683430875_45489f19-c470-4bad-92cf-90d7091e5935.jpeg",
+    "nama": "HERI ORIZA SAPUTRA, S.Pd.I.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SUBULUSSALAM",
+    "profile": {},
+    "id_partai": 6,
+    "kode_dapil": "117503"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/43188/pas_foto/1683164429_f6b30bc0-633e-4a00-bec7-6a89f44d1ccb.jpeg",
+    "nama": "KHALIDIN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SUBULUSSALAM",
+    "profile": {
+      "id_calon_dpr": "1337fe5a4dd46471caaff5545ec922d835ab92302c8735731faf16cf3943589c11c03ae6dd0e40c1bd2d83c787413d7e6d5cc4d37718d443cc498fb9cfdbc64dPFr7FVXOD3wZDi+Yc7vm1Vs0z6lUCmdrEVT1xUlPe98=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 5,
+    "kode_dapil": "117503"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/61493/pas_foto/1683871982_fd2855b0-afd6-49c9-a43c-04f1e16caaa1.jpeg",
+    "nama": "RATNA JUITA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SUBULUSSALAM",
+    "profile": {
+      "id_calon_dpr": "8bd91d3b4b5046c55e4f9d18e7d1795dc4722e43aee0cb3e0d3320551f81f74b1b04f2255a6293206d3bcabb42d3866a809ae8d080c6e6e8cd78b5e3632dfa2eoe8LLuqWYb6vHjWNpIH4mVPKCtHTCqd81G+1t2IHEGI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 5,
+    "kode_dapil": "117503"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/159190/pas_foto/1683549717_74bffacf-6cde-4106-a77d-6f9d51daf907.jpeg",
+    "nama": "ANJAR ASMARA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SUBULUSSALAM",
+    "profile": {
+      "id_calon_dpr": "5973edce63d7ccee90196f8a655b953776712ed88f4d8c9990ec3139183d357cb457bf399dab77173d3c79c6a518b02c70167f568aeaa1a53e54c50049d25247hQ4hO3g4RCHBH6NppGoIceRzCUrzfC/wHAlyUfeJ6Fg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 5,
+    "kode_dapil": "117503"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/487588/pas_foto/1696315222_9af3db24-283c-443a-b206-2e5117b39222.jpeg",
+    "nama": "JUMADIN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SUBULUSSALAM",
+    "profile": {
+      "id_calon_dpr": "6009c494532b659cb713431412a0355d607c59fcf4cea502fb611911be73de8a27edbdec630c4ddd1ad9c38a0c99c73434ad4f9e34ca92206f0dc55e2685d026YcDhFeHiRw+3d780lAekw8BnAGVnu3wKF1Prum5w2/Y=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 5,
+    "kode_dapil": "117503"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/56815/pas_foto/1695783394_b5b33160-1c8c-41c9-a1d5-8217b5154779.jpeg",
+    "nama": "BAHAGIA MAHA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SUBULUSSALAM",
+    "profile": {},
+    "id_partai": 7,
+    "kode_dapil": "117503"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/56834/pas_foto/1695784361_aec9a172-0410-4e69-8217-b00c934c9d27.jpeg",
+    "nama": "DARWIN CHANIAGO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SUBULUSSALAM",
+    "profile": {},
+    "id_partai": 7,
+    "kode_dapil": "117503"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/56868/pas_foto/1695784708_edf1f782-d0b9-4443-b76d-1541674a5105.jpeg",
+    "nama": "RIRIN YULIATI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SUBULUSSALAM",
+    "profile": {},
+    "id_partai": 7,
+    "kode_dapil": "117503"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/481301/pas_foto/1695793187_55df2c3e-d71b-4790-ac70-3cabdd0848ae.jpeg",
+    "nama": "LELIANA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SUBULUSSALAM",
+    "profile": {
+      "id_calon_dpr": "5f4334aa6f84407db5dea0465ab29b51ae37239942e2d32a7dca9eaeae64db8d2c5d6d7300709af24910b6adb18a4a8c40bb6e1b89f9a2eaae7f40159a7689706a9cVWP3q3tkkXmlcEAdx8ArGpTz/kCXqztyOZ0MuoE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pendidikan,riwayatpekerjaan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 7,
+    "kode_dapil": "117503"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/84289/pas_foto/1175012805860002.jpg",
+    "nama": "DOLLY S CIBRO, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SUBULUSSALAM",
+    "profile": {
+      "id_calon_dpr": "d85ffd3bee13e844040002bafb0fd5b335172de9edf9e1678ee83cb41abfa11abd6167b7994a1fb17219f384c1c1d7b9299e30957dfe5c71eda0580a382104cbl3EaiucRVB5Qmex8JnYPh9RTdtC35LTtSH7B0hSVsXE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "117503"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/84289/pas_foto/1175032006730001.jpg",
+    "nama": "PULIH KOMBIH",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SUBULUSSALAM",
+    "profile": {
+      "id_calon_dpr": "4fe736345402a7aeabc820984f6051a7a9d6d0fce25ac563ee44565cf372429991b215a57fc6adf789b1190ac54302364e95b384f5dfe54da54ee64fbcca98behvKJddayP1DozJ/8YA/XWUR3D3cI9GW22oS+aYAojio=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "117503"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/487475/pas_foto/1696320167_635cbcbd-edef-4ff6-a81b-6322670b32fc.jpeg",
+    "nama": "IIS KARWATI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SUBULUSSALAM",
+    "profile": {
+      "id_calon_dpr": "3266d5dd56465e2059e69d27e3f3eb4db814a83042c9e5b2e736d50c3d34373d38b180ebac60de2f2494c2e935775dcf8e398f0e41daef44b4af21df4e1dd51fhcEoH72cC/GROSTnkN/S9K5moRJHZN9y3Z0rqz2NsUU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "117503"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/84289/pas_foto/1175035102980001.png",
+    "nama": "FITRI MAYASARI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SUBULUSSALAM",
+    "profile": {
+      "id_calon_dpr": "20b824670bff59035fb7f8ad6563bda28e3ff0d74e1b69f89da2c6cdfd0aadd6736602583b96768afd6f505081b7bc0568dc730fe50073e56d5ce829f79c7d0aEly3o2BTzsmwO9GyuKzz9XXNnJ6qsQWlz8jNB9JAIhI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "117503"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/279738/pas_foto/1683801718_3e06b0a9-a997-417b-9136-0b8a0fcfbcbb.jpeg",
+    "nama": "RITA DIANA SIDABUTAR",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SUBULUSSALAM",
+    "profile": {},
+    "id_partai": 79,
+    "kode_dapil": "117503"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/279015/pas_foto/1683800520_67a3b3f0-6974-4f7f-9022-2a629ac1c765.jpeg",
+    "nama": "BAHRUL",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SUBULUSSALAM",
+    "profile": {},
+    "id_partai": 79,
+    "kode_dapil": "117503"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/345058/pas_foto/1683976194_d67740ff-bdac-48d0-bad7-f32322dc023b.jpeg",
+    "nama": "MUHAMMAD RIZAL",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SUBULUSSALAM",
+    "profile": {},
+    "id_partai": 79,
+    "kode_dapil": "117503"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/344893/pas_foto/1683917222_00d3156b-b401-4b11-82bb-50aa93ec780e.jpeg",
+    "nama": "DITA ASFIKA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SUBULUSSALAM",
+    "profile": {},
+    "id_partai": 79,
+    "kode_dapil": "117503"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/345285/pas_foto/1683918579_bc80a724-c0e3-47fb-b0b1-1e7a39d04b3a.jpeg",
+    "nama": "MARLIS, S.Pd.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SUBULUSSALAM",
+    "profile": {},
+    "id_partai": 79,
+    "kode_dapil": "117503"
+  }
+]

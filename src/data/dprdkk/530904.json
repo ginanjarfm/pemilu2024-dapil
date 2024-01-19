@@ -1,0 +1,623 @@
+[
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/33691/pas_foto/5309090209660001.png",
+    "nama": "MUHLIS MANEPO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "NGADA",
+    "profile": {
+      "id_calon_dpr": "363aa2d6ada08c0e7c1e2557109c2dc3af6ea1034bf4bf9977a680fdbdfe0b10080bbfe7940ce047360c173306f339338aad8bfdfd46eceb9697ca2b66bab633sEIggAnFfzd6BoybxJ62iICNzlj0o0qjH3vegW+PXYs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "530904"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/33691/pas_foto/5309144210760001.png",
+    "nama": "MARIA CONSOLATRIX ZALU",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "NGADA",
+    "profile": {
+      "id_calon_dpr": "4f6774945a69ecddcc27b66317d7b5e04a50f9215c0658505137af47a5ad0859c6ab27e8b2c381fd686c39927a3c82d41f1c4c977ef9d755f00619efe96e738eJfjSYGENa9XfE1ZQvvNk7ObFef/lLYX2In4VyXYTqVE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "pilihan_publikasi": "datadiri,alamat,hukum,pendidikan,riwayatpekerjaan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 8,
+    "kode_dapil": "530904"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/33691/pas_foto/5309141605790001.png",
+    "nama": "GREGORIUS LEWA, A.Md",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "NGADA",
+    "profile": {
+      "id_calon_dpr": "ecf70940179e21338de2e10bd6452770e71106dfa9891c8f0657f14a99c67dbd1569ca89058487f6c4fe359edd36b48912aa1be00acb087e643f5c1243fdc882p7zIWYs7RGyDRjY+M6HdHJEjAL+KwyUuPSIhTXpdhgs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "530904"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/454483/pas_foto/1688814136_1c53dc9f-8aad-4d48-91ae-241fcec3a2f8.jpeg",
+    "nama": "MARSELINUS PIANA, S.Fil",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "NGADA",
+    "profile": {
+      "id_calon_dpr": "0e9169e1bb4e85992e65010da89fb29ab4fc5c2e1871117b2d5dc3faabead839b7f7776dc76703372528527f9e2749058309dccb0a46fb1ba142b4d5629607621K6xvov09XuAsJ1k6LckK1NQSXG5JQfwuuR8LRAxfIk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "530904"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/58812/pas_foto/1683529363_fa3f00ca-f6e2-4ab5-a8b8-b0a6aa528abd.jpeg",
+    "nama": "ATANASIUS YOSEPH LENGU",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "NGADA",
+    "profile": {
+      "id_calon_dpr": "723bdca540c2a9cedbb6da990e6f1d77ce81192b7b5995a0c9c4c5a89df572075dd56d2f25fbb2c48f7bb966a6babc85e73df4da8f662555ca1218387e56c69eiYdTwgWMCQ3ytTGzup4rJPnOYY02wH+y0xsmRWXltjo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "530904"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/146696/pas_foto/1683529140_cb151949-3788-41a6-b461-8d8f0ade9dd2.jpeg",
+    "nama": "BEATRIX SERY LAMI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "NGADA",
+    "profile": {
+      "id_calon_dpr": "972233f88b43330d76a0140107319ed5ccf10995987db4fc9c180cadfcb8c1b73b11b35b7e9f3b1c05f640bbf1b7359592cbada2e738a5a2bfab9fd105819cb0cWdja6fDmDeY8u2LcSunOrixozVM5rG63DA3kXh0Ok4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "530904"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/14427/pas_foto/1683529313_38fcb416-0833-423a-882d-0598f2b4e820.jpeg",
+    "nama": "DAUK GERARDUS",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "NGADA",
+    "profile": {
+      "id_calon_dpr": "a2c050e8e62bafbdc54690247e03999dd35312a9cbfd13eafe1c40f32db7ae48e62e271ae011f052cd94f4c9e5baa395e9cab1678faeb863b403798dd9e4ff46OiYYZEP9tAoDkBF2heCn9eCRh2Uym2s70zrxwfgakR4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "530904"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/34558/pas_foto/1683624634_73ece7b3-d739-45fd-b58e-51003badd31b.jpeg",
+    "nama": "ABDULRAHMAN MELANG",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "NGADA",
+    "profile": {
+      "id_calon_dpr": "c447db36fbaa7e78543e4c58095682f25fcebbc9c64a88ac336e5973cded682b72b553f61a7f0fa4859dde2b4b4c5baf21f639f496a1fe32cc17408d6dab24d1YQ6kdkFblkpgiwFJ1uTzXieMVeZqE1tol8WpbKZimrY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "530904"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/182433/pas_foto/1691546583_e4a9b32f-28a8-451e-92f5-65629780fe32.jpeg",
+    "nama": "MARIA LALI,  SE",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "NGADA",
+    "profile": {
+      "id_calon_dpr": "3aa500de3ddfd39b8de7eea37949937783920e7eab9d9370b7502a771bc24faca8ce49a8bc1355c37c0bc9e591e97fe97538bfd5e8ef709cc6ed863f3f1a3f96c0ARKTaIYkIhwTatQjmV5JNmjh8xQDmWJ59eun3TD/M=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "530904"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/142255/pas_foto/1691546647_6ba09e01-0e13-47a0-9a8c-2a181831750f.jpeg",
+    "nama": "DONATUS MADHU, S.Sos",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "NGADA",
+    "profile": {
+      "id_calon_dpr": "63dab0409df23909b6890b0e2ad8990d6d59fbe4bd4f33a7580d5c07e33b6937e123785d0b427aeb48ba12c3ed66edb8f5332616ac611ae7720c85c783f3f541k1vOZosevobk24l6PsnRlscCUluoQw9JYoA0NHsKg5I=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "530904"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/190643/pas_foto/1691546884_eb711c5b-4195-4d29-a53e-7124f224363c.jpeg",
+    "nama": "SIPRIANUS NDIWAL,  ST",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "NGADA",
+    "profile": {
+      "id_calon_dpr": "8da9b7e76418ffe3fc0dd50584c9c9810a12c0fcfbee7bebfb920ad4e4d36478484ede10b5fd441bf99175fb120391055f247c85c9a7dff7ce49396bb8a2de4dLYc0BVD0DVRZ1fJAaCjJa1FwAS1NQXOCAvxenIDyNWQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "530904"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/191548/pas_foto/1691547050_17fa8120-2bc0-46ca-9cca-042793cf8b8e.jpeg",
+    "nama": "YANUARIUS PARTA SAWA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "NGADA",
+    "profile": {
+      "id_calon_dpr": "2d96f65c7bdbb45dd3d1e3f97987afc7a061fe3fd1426c636f30dfb923b7c6487d4f84b4560e95363019ea4a804add9dd190ee8530200dc0248bd5aa2bf0fafay0EE7UFY81xSjA/NBcLMFGwRePyYEAXMNo1xsns1wBk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "530904"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/235148/pas_foto/1683728623_1926268b-b77a-4bb1-a137-d45bd76afda7.jpeg",
+    "nama": "ALFONSUS DAY, S.Pd",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "NGADA",
+    "profile": {
+      "id_calon_dpr": "2f6d0e6281554730749f7febc58877ab6362e71f7d7cfac4ce98d56a9fbab14d2e6290fe224d85bd1c3459c06f3110be740e689aa3c8f9e955691f573f62f2e7dZNW8fuH7jejroknV/5hRO02X2PSuSS0+EJv6HHsSUg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "530904"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/194227/pas_foto/1683644463_ded69522-840f-4e35-aaaf-3e2dce099d9c.jpeg",
+    "nama": "MARSELINA LINDI, S.IP",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "NGADA",
+    "profile": {
+      "id_calon_dpr": "b96584258a80d56f84d42a9d6340f82a7ed73a9fa44d73207ef39dc3bdd00bd97fd086c241c3f9b0a3f0778a2f180d40fc57ba17c17ca7ee7847a0e73e37b3c68ls1oP5YycpbBeCYgl1avyynBHgxu+kZ9tZQEYuh7YI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "530904"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/232043/pas_foto/1683725281_3aa09e62-f0b0-40d5-9848-9cfa920bbd92.jpeg",
+    "nama": "ISNAWATY",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "NGADA",
+    "profile": {
+      "id_calon_dpr": "da5d0313e525b4e31565741d9df513e85739d4c14a338a41c65d9ce7566c7dc14095daf27ad02c663f30602f4ef7464d7f79b8514cbd33d6c4e2a383e39141ff2Rfj1J7dUH+NAuZU6J2tRojumjTo7RXTTOIfBBH6DNM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "530904"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/295875/pas_foto/1683821784_e8c20506-eef5-4647-80dd-b72008bd4910.jpeg",
+    "nama": "ALEXANDER YOHANES SONGKARES, S.IP",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "NGADA",
+    "profile": {
+      "id_calon_dpr": "02be0640e34941beb11ba42b37247df119d0e1f28ce3ca29302bced1cbf740008d86346ff475310dcccf199778b10e83ffc1c6d2b2c82ebc95d05278cf42bf6bp/EfJCP+ih+eGJzeGRU7N+rVI9/cgIE4rLyR6vkRvnU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "530904"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/37600/pas_foto/1683185901_7d9cff7a-bcd6-4178-9673-b1148f410e0a.jpeg",
+    "nama": "DRS . KRISTOFORUS SAPE",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "NGADA",
+    "profile": {
+      "id_calon_dpr": "a8834b1bf745c258283c6eb429d2289caa73e4623eba85ed638ee79460552f6e88b5f53e066dad806cad27698ea123aacc8ebd517f726b04cfc0bb262c2890ceboiOQytKJ4AflBkt5WWUnX9W+FWvMkQUGOhWJy5H3RA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,pasangan,pendidikan,riwayatpekerjaan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 4,
+    "kode_dapil": "530904"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/37703/pas_foto/1683188994_c15b14c6-3a71-4968-a12e-6599da268ccb.jpeg",
+    "nama": "PAULUS WINGA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "NGADA",
+    "profile": {
+      "id_calon_dpr": "f0aed7b74f8e2eb0bab6d32f7eb53e277949e5013d72ce737e1fefbb8971471f4fc642d5eda401a5adbb380c9c616844ccd4d22b51a161ddc0ef9c48ef3449a0ZEWSmP0BNNfz6JTDVAsh+9I12elDMQT0Po4BZookus0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,pasangan,pendidikan,riwayatpekerjaan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 4,
+    "kode_dapil": "530904"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/38314/pas_foto/1683259676_705feb98-3f2b-493a-900b-de29b3b98d75.jpeg",
+    "nama": "MARIA MATRONA NALU",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "NGADA",
+    "profile": {
+      "id_calon_dpr": "129be08c85f901e5a09125d7b14f4f2a92894b9a70f7d36853aaf428993c420d5139f89e95094baf9106a1039eede3e25b9d64674955521de845e2cba231e469oPY9oiWvHKm6JJCLTtysmgGbw2GYRrtEX7p0ecX4MpI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,pasangan,pendidikan,riwayatpekerjaan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 4,
+    "kode_dapil": "530904"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/37877/pas_foto/1683166978_3950d44d-a1e7-433e-bf1d-ca5ed7022a29.jpeg",
+    "nama": "VIKTORINUS RIWU",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "NGADA",
+    "profile": {
+      "id_calon_dpr": "da1c80346465941aeb08dd8165bd9b77a867557858df5064d089abeda0bc32ab0cc6bd8f30c37b54e06c84e73de65b17fa53c304a50c6441d04c2a8718105852qpx7Tr3NeOyfVqMWBVCGBcqSgmPm2q53j2gSqn5YCQA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,pasangan,pendidikan,riwayatpekerjaan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 4,
+    "kode_dapil": "530904"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/143605/pas_foto/1683616594_cab2ea04-5ca1-4da4-9009-9f5b163dff51.jpeg",
+    "nama": "AL  IKHSAN MUSA MUNANDAR",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "NGADA",
+    "profile": {
+      "id_calon_dpr": "772dfff0f2373be9d382f42fca1dbcea2e6348a6b67241760373dc2f1e7d05261812254baaaa7c8ea5357ed785fa4a4f11ce03349e104b5afa9e72fbdab8c8af9CS6KPMjpNUHBjAit3ItTYUjCAaCHyYu/NazveNYqh0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "530904"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/174481/pas_foto/1683624145_650ee532-8d24-4874-adc8-61a55dd8008f.jpeg",
+    "nama": "AGNES NGGEPANG MARANG.S.Pd",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "NGADA",
+    "profile": {
+      "id_calon_dpr": "687111f994514bc00369c519b9bc906582d903398707c3e79978f4bb3a068829952b78a2e0b49537667f7caad9eac723260ede84446ecbc3846f19ce9de0506eEh5ed5L9QFkq75nx0q+TnXmGrENqq4Sbb8M2ShYkdY0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "530904"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/183780/pas_foto/1683626826_8cbd00db-c458-4cd6-a741-f9f334bd77a9.jpeg",
+    "nama": "BENYAMIN NARU NABHA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "NGADA",
+    "profile": {
+      "id_calon_dpr": "33b5706d79470fa9cd07134bc113b4b8b8afaa5d1ac5de3d4653f0ddd86520016bb6b2244c9920951e3088ad07ba54a8f5b58b14b1a7aecc54e98bfb77bfc543v7CC+bGujasB9abAxqIT9BoCQQHMA2eKkw6QUGLaAm8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "530904"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/134807/pas_foto/1683633813_3ee46e26-de96-4552-b704-a5aa61c4191f.jpeg",
+    "nama": "ANDI LISTIANA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "NGADA",
+    "profile": {
+      "id_calon_dpr": "80ed44d0041c3f8f5dd5129f7a7bc20fc4ab685da52019c76ad4406daacaf4811482bd791d533d30a5ac06cbd22d090c9ff422908b23688ef58d2e9470c9976ejG5C1/EnELihjlbAh3tzkA0fQTZuosVpA4MK+4EjkXA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "530904"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/30643/pas_foto/1687780910_0cfdec4a-f218-43ce-8cca-fea3ef59a6eb.jpeg",
+    "nama": "PAULUS RENDO,A.Md",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "NGADA",
+    "profile": {
+      "id_calon_dpr": "1a43ccba35860c44e8e7e2eebfac874fefb337a5a9014f01dd01da00a68589e2daf950eaf541d655b430d015fb8a17ef16d632c11e5ea4739b49f4cc2f734edd4UIODUc0/AkZktGCBN9hTGNgr8TaoP5HDZ0gbyqZJRg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 5,
+    "kode_dapil": "530904"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/133727/pas_foto/1687781180_dc43cdf6-9164-4eae-8292-0d4466b51e53.jpeg",
+    "nama": "MUKADAS",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "NGADA",
+    "profile": {
+      "id_calon_dpr": "a30acf9a6a5bd22d89f139234cd5909dc7a8715508fb11e04cef956a58f4f13a5fc2ec8732d2c13f903c70a299532c001796b44782e427c29870c9314d121e7eiSnW7UJVxOjbxrg7nlGMZpOmQPMmVmmN/2btUNIGDOI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 5,
+    "kode_dapil": "530904"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/62187/pas_foto/1683271968_694a5157-4d05-4f09-adaa-85192b1927b0.jpeg",
+    "nama": "MARIA LODAN KOTEN",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "NGADA",
+    "profile": {
+      "id_calon_dpr": "7976118a9b64bb0380d9849b5bca65d0ae30385dfa36e8ba77c008d81bc5b6411fab1744d4cb9128eb5e6195e38fca694e7b24cd62466b6cec3157ccc56d8e48VrAje7625W4Wfc+N5gbdth/2+cWHdHgfUmjDzO9M4RY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 5,
+    "kode_dapil": "530904"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/21175/pas_foto/1687781745_19a056a0-1baf-4d70-a38b-0fc79357e26c.jpeg",
+    "nama": "YOSEPH DHAENG",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "NGADA",
+    "profile": {
+      "id_calon_dpr": "598842fafcb782afd1a9a92a003bd09574782cdaeea432d436f9dae2d26b0307d650301fab76d022a50fa1ade0953e479b5379b1589d087e046ad20e17d0e082j2VJS/Pla79ri5/GZB/RloUOEbQAJjMtJYsKnFm3eRk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 5,
+    "kode_dapil": "530904"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/13186/pas_foto/1683268201_7f381cb0-556d-4e45-af64-aa6b1218ecf6.jpeg",
+    "nama": "YOHANES DONBOSKO PONONG,S.Pd.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "NGADA",
+    "profile": {
+      "id_calon_dpr": "fb208604204199e736661a84b5471d33fabe385dac244727f5b63315d6f264378364d7d30761d9b2d823551357a4f2bee45a980ce5904a2790038bdbb3a2e26eq61aTGN3yFS9IHBz3l4P4Ry0sSg2/TibjxBGArb8y3o=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "530904"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/13200/pas_foto/1682949278_3484460c-312e-4e07-bbaf-29a49cb18296.jpeg",
+    "nama": "SRI WAHYUNI,S.Pd.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "NGADA",
+    "profile": {
+      "id_calon_dpr": "7174586f1b568e5f3067bd8e420847a4d14b397bceaf900c0c255e1f73bd08242f5445a24f0a8f2b4819a641dd16c2705bc35579391fba42dec67c415e759ef05HQc+wxUKW5iv7xCqXhMmpwXlVcN+C4Qh8zutNzly8Y=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "530904"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/13414/pas_foto/1683268308_c9d7f9fd-15e4-4c6a-b9eb-6407ea80773f.jpeg",
+    "nama": "LODOFIKUS ROE,M.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "NGADA",
+    "profile": {
+      "id_calon_dpr": "47cf70582d2f51b71a70541a4eb13d586053c2913fa36aa2e6c45a160548a233f1c64c63d516fae30262cf60a7318caac9cabdaf0acab2e5e06c1f7fa2b9de20B7qdWIN3UfXTb38OBiG+p8vfLhxA1bQt5d9NJEnTjcY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "530904"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/13215/pas_foto/1683268373_e3321adb-d971-4681-ae19-856c9957e840.jpeg",
+    "nama": "KAMARUDIN,S.Pd.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "NGADA",
+    "profile": {
+      "id_calon_dpr": "afa29dc43b50013a7fecb7a9e17920dd872a328c197c321a8f1305ff84efecfc886f08a2139fcb705157fea4269db4ef21be89131ef987e1a10e679797106daaz40owDa3JiRPHniCDorR5XocEa2GMUqiKTdQ+k1CCFo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "530904"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/306091/pas_foto/1688448806_650bd055-17db-4818-b84e-dae3249dd770.jpeg",
+    "nama": "HERIBERTUS PASKALIS MANE",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "NGADA",
+    "profile": {
+      "id_calon_dpr": "aa1ecd5f0fbea3385360073f9316654698fb74fdba04f1b405617f5d2d4c60bc33cf5e097d44fac3255d7573fe331a49faca09759686f55faf91313a5e4ee4a3ss54oNmXuP36gCgLCPnikARyiebqeFYeOU61qRZk8zk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "530904"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/306092/pas_foto/1688448846_5460f841-bf5d-4cb8-a481-27b818016d78.jpeg",
+    "nama": "VINSENSIUS LEGUR, S.Pd",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "NGADA",
+    "profile": {
+      "id_calon_dpr": "d91098a2ec7a0790e97e6d76bd102b1ac2f9e8f9c1a845bd4fb263c248eabeb70e132024f12952bc7585329c9674fef9ba0d27e8e9d16728bc2073130ad00ddcvBxwOFaMpSa4HZRkdf4l21JjruSMZSOjebgqh4DpK7Q=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "530904"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/306098/pas_foto/1688448907_36c41f01-18dd-4de1-9acb-5d02a6fa9868.jpeg",
+    "nama": "MARIA FATMA MANO ARA, S.IP",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "NGADA",
+    "profile": {
+      "id_calon_dpr": "f186cd2c1523bded059adb5e015ced366d23e77df5f39734bb277bb61611229e9847116fcd0e598a1584e5e03b907fe89a2318fbb63e9d66c4c271c46e19b0d3oKfTbZGsmiWuM5d37vsLysPxcAAmp1sbAjt5Vhcqnic=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "530904"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/306102/pas_foto/1688448957_a1dd895c-8678-448f-a033-e317c8d8d59c.jpeg",
+    "nama": "WILFRIDUS AURELIUS BAWANG",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "NGADA",
+    "profile": {
+      "id_calon_dpr": "e2736c2d8fe942732ab21642fdfb2ba59b4e8335bb6ae3e0b979cdc291a4ce90f4b0c7e762c90c78a43243521b861148e6a8d07dbda68f3bf4383beb4dc8d58e4Xd7O4c7CnhqbDrdFl3vg93kZ5Qu/KpMcxii83EIygc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "530904"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/38570/pas_foto/1688654872_d2542890-f959-4edb-a4ac-3c4cf10a0760.jpeg",
+    "nama": "IDIN SAIDIN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "NGADA",
+    "profile": {
+      "id_calon_dpr": "2c08e2d43d69dfd70ca38f6a6163e59751f0b6ce442aaba81af8237d1f9caeaf833efa742aeadd5ecc8a05c28b483316cf94954102d6fac290d5ba8bc9fe110dWwzkSEn4mAJx4gttHn84nQNZAvKpi9rz4dfN/BnGozI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656419883_logo-10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 76,
+    "kode_dapil": "530904"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/38336/pas_foto/1683818638_b2346f57-7833-4d97-a02f-8041707e5d02.jpeg",
+    "nama": "ROMANUS MUNDE",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "NGADA",
+    "profile": {
+      "id_calon_dpr": "a2cba34a47144208ca3646e4a183a6f80b73a10a4dc0d2646ebe5397100e44bd7a3f44c3b669757b3ef0f662254f6550ed7d76efb879c28abbe912202f9cd029e5vFnVegEXO7TnmwbrZplc1rGniQrI93r2+K7R3eaF0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656419883_logo-10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 76,
+    "kode_dapil": "530904"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/327536/pas_foto/1683896430_3694595b-a088-49f4-8c53-259bec654a62.jpeg",
+    "nama": "MARIA SARTIANA ONAR",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "NGADA",
+    "profile": {
+      "id_calon_dpr": "7b4d785dd426d74b33b55d3a02c2b0d6f0b804f94588d39404c12c436d2077366ab3c3dca15e88a62078624332914a7100fc44221cb972205ae671f6b37b43baMgT3GDUc37biIWwEEiaAd0bLDr5HASFC2WMoLdSN8ZY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656419883_logo-10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 76,
+    "kode_dapil": "530904"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/283949/pas_foto/1683819359_81d26874-66b9-4704-9b6b-8f4c0fac72df.jpeg",
+    "nama": "PAULUS YOHANES LENDES, S.H",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "ENDE",
+    "profile": {
+      "id_calon_dpr": "a17736209a375fe85e0435562ee41b8de7697ac93fab50b5694c39067f883a7ecfe40842cdb4d9d632c770a40c70e23c1b1b697b28b6709afc8898e5928c5848KxFsd+HSI3ltTPVCcUiddgWWKMypRO5PggktDucmc7k=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656419883_logo-10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 76,
+    "kode_dapil": "530904"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/76658/pas_foto/1683434200_1ce8f5b5-f40d-448d-b1e6-55f786eceaf9.jpeg",
+    "nama": "DAMIANUS RIPO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "NGADA",
+    "profile": {
+      "id_calon_dpr": "ab29809e8ffa2fe550146486c4502355656dc1f5b5f790780fb75b3c5047af537883da606c8413467a1f6ccb34abdd42d2430d0b152e7ca89923b7af5ff3fd0crvqR+KUAoIFkyC1luhA67oCQW5f7Lb8Fx1JsW9kUMLI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "530904"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/76729/pas_foto/1683375262_74763184-1897-4cc4-ad50-7793641688ae.jpeg",
+    "nama": "YOHANES VIANEY KANDI,S.T",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "NGADA",
+    "profile": {
+      "id_calon_dpr": "8c856234e91ca865ec6634729e74054f9bcfd49c657fb14984317870ff74e4e69e934c93aceaac1b1b068cfbfd805effbea1239e89de67ce3041db593fba5127q7D2eFtb8bXMecNd2VO3iKlpGAUayAu+pybDuvbCw30=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "530904"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/76685/pas_foto/1683375463_73202ff5-9593-4762-becc-19e82c57621f.jpeg",
+    "nama": "MIRNAWATI MAISA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "NGADA",
+    "profile": {
+      "id_calon_dpr": "77396100a7f10d8248e5fc2861444de9c95d923731a5395259d09b8cd46c2a733f24753bb03a9dc23f8ca4cd1778cb1e6cbe2f4f890f509ae51240eeb33c98f6Y51zJG/MLxS5I0vgHEPQEBZAvhCKGNt0c1/Li1/XcBc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "530904"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/76801/pas_foto/1683375227_26c98e54-ecff-4713-b422-20a77025d8f8.jpeg",
+    "nama": "KRISTOFORUS A.SENO,S.Pd",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "NGADA",
+    "profile": {
+      "id_calon_dpr": "c1a8d5ad6ba7412c88db7d4d750e78a7de83d95637447252e15d8dc367a3096e212c65d7289f0d1c153df4bf141064db80d38902ea153dab9a5e11c737d124e2Iudf4vaooOhaBc/c/cNzRR/aTphvEQYgRjL1t+BU0J4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "530904"
+  }
+]

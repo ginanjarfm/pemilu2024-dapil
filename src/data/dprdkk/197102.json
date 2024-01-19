@@ -1,0 +1,868 @@
+[
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/24047/pas_foto/1971050711790001.png",
+    "nama": "DEANG HILALLUDIN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PANGKAL PINANG",
+    "profile": {
+      "id_calon_dpr": "ac217c8bc2acbb354c22982ca6b3b684ed2e9ec44450b037e4bcbc66ab7513d313aa1519c99d59f3906ce906bc0e4cca5f153eda04761e03dc8219ae7d9adf397z3Dx7nZP3xuMjFp/Epvrtg+rEk63kgQWHdzaaUvGEc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "197102"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/436695/pas_foto/1688584911_e513659b-4023-4f47-a24a-a0aab2228f4a.jpeg",
+    "nama": "SURA BUANA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PANGKAL PINANG",
+    "profile": {
+      "id_calon_dpr": "25fa21b31c8181899f92951e6b6bfb3d668fd43e52f7bf50cadbef51f708d2e8dfeefaf147b1bef3ee27b303e901cb9cb87b80be694d2bca4e1bee0545eb90a2yyR3M6RNjASAd7sS/N2CTZ9Umh9s1YTz5YFbBegtlEM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "197102"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/442031/pas_foto/1688673681_cccb789f-b911-473b-ba5c-5d24a3b2e4ff.jpeg",
+    "nama": "VIZA YASICA, A.Md.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PANGKAL PINANG",
+    "profile": {
+      "id_calon_dpr": "82bae87dd1c96282519f5abc035f26c012bf2a08cb886f28b36bf37778215620c4f2479d8edf99478bf166667449c422b75b77bf10ba1f09176441926c6b620cdq4T0KeqgENzDXtrS8gHu/ocuhp27TAgk9p2/QwYnHs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "197102"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/442052/pas_foto/1688674858_8653f7d1-646d-4e5d-8676-6d975e1fa5f0.jpeg",
+    "nama": "SUPINAH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PANGKAL PINANG",
+    "profile": {
+      "id_calon_dpr": "fe5537498f2c7c79fc0ab9187cce818d43b6f5f7783b82349db2d1c6a114768a96c57dc6e3a1602f5cb7626883598264ff07336e69c7911cfb56dcefe3a5ddf5QLnXcA/LYlMMAtgg6UE1Y663jpMupOUBd/jDeXJkMZ0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "197102"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/476519/pas_foto/1691732010_843c521a-0ed9-43c2-835b-e77cc1ce7aa0.jpeg",
+    "nama": "MUNZIR",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PANGKAL PINANG",
+    "profile": {
+      "id_calon_dpr": "b098d62f67e0768968f30533e10955c495653ff9b0fa8cd6a89f7185390d0a0fc187df0b1425b5559e2a2ae6a485609c240b35328ad7120b83a9c927d124c233kRAIRfFuZIW29TcBBbgwltzfUGYmJWEZwt1HNeMf5Ps=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "197102"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/101020/pas_foto/1683639783_2a72cfe1-74e2-49b6-9b25-5c04f3ee3942.jpeg",
+    "nama": "MUHAMMAD IQBAL",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PANGKAL PINANG",
+    "profile": {},
+    "id_partai": 10,
+    "kode_dapil": "197102"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/50817/pas_foto/1683207568_785c325c-38f1-4692-b87a-1c9ef4d9584f.jpeg",
+    "nama": "KALOK",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PANGKAL PINANG",
+    "profile": {},
+    "id_partai": 10,
+    "kode_dapil": "197102"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/22795/pas_foto/1683019711_9e7ec9ac-49f4-45cd-9a55-dfc29b147540.jpeg",
+    "nama": "TIARA FATRIA, S.E.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PANGKAL PINANG",
+    "profile": {},
+    "id_partai": 10,
+    "kode_dapil": "197102"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/152668/pas_foto/1683536853_9808a0d9-2a24-4922-b18a-9e068163f5f7.jpeg",
+    "nama": "LILIYANI SUSANTO",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PANGKAL PINANG",
+    "profile": {},
+    "id_partai": 10,
+    "kode_dapil": "197102"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/23377/pas_foto/1683022314_7662ef50-2062-44ca-856b-148043190a40.jpeg",
+    "nama": "NOVIAN ARYWIJAYA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "BANGKA",
+    "profile": {},
+    "id_partai": 10,
+    "kode_dapil": "197102"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/243323/pas_foto/1688188690_430720f7-2f35-4c7f-8c80-ad67316153e0.jpeg",
+    "nama": "ABANG HERTZA, S.H., M.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PANGKAL PINANG",
+    "profile": {
+      "id_calon_dpr": "1854f04e3acc49ef109c0ee6f96ac5d91ba20dcb32572124d2d276992ee397b2e95542b08e310045f33e850d15608d471d0819566d7bc7f8e7dd00179f4ac906g9rKGNo40g1I6HbmexZivUElFwWyOsHhWvDJAGRG8Uw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pendidikan,riwayatpekerjaan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 12,
+    "kode_dapil": "197102"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/243324/pas_foto/1683741493_d8d48142-08dd-4a1a-877c-16ce7785cf6d.jpeg",
+    "nama": "HASANAH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PANGKAL PINANG",
+    "profile": {
+      "id_calon_dpr": "196b3d629d54575cb52ab84d551ca82092014e6f4b13919ae09ad534c46eeea338f4b97c260aee9784d9f47d74ec8d758c6f22f6a7cafa86eb2d58bd0d30a5b2UqsAOCylvXUwwqwDQrYsY/HiMkTpFXzEiEs1yTuoHjo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pendidikan,riwayatpekerjaan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 12,
+    "kode_dapil": "197102"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/243325/pas_foto/1683741949_6b5245bb-3764-4414-bb2e-02949899c7d0.jpeg",
+    "nama": "WIDYANTO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PANGKAL PINANG",
+    "profile": {
+      "id_calon_dpr": "861e89a58332ff3ac35d9d124a03e979774494d95002c6e1c846da0f94e0cd8d93de5b4765cb7e66359200ef2de65876eaa636b0d7a7d3ff9c3b577243eb1763J9TW6HKLYdDqphVb4mLU3SZuSvM+OQ8oz+Wi+MZu6Gw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pendidikan,riwayatpekerjaan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 12,
+    "kode_dapil": "197102"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/243326/pas_foto/1688116279_821fd715-0e8d-4f54-8de6-768c77ef040b.jpeg",
+    "nama": "SYAHRUL FITRI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PANGKAL PINANG",
+    "profile": {
+      "id_calon_dpr": "cce19ec8dc5cfbeaad57d412a13abfee786623d4b2516e1342d5a0e1f31a008b47eb372402b100f7212f8fb024540a612d75b55d54e7f64b598ac3ee3445704aj86gzD/y62E4kndupn05v5w2EGrXzC3BqQrCT8tap6E=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pendidikan,riwayatpekerjaan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 12,
+    "kode_dapil": "197102"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/243327/pas_foto/1688185911_be0e7b6e-d315-4dbd-acb8-a7f4e7cc4d41.jpeg",
+    "nama": "SUCI RUKMANA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PANGKAL PINANG",
+    "profile": {
+      "id_calon_dpr": "447aca70de89abc81c56da01860c220388e0c56a81631469a6e644d3ce89b26b6f26dac03b3ff077eafb93cc2dd6b6944fa3320d236bec0ad8f4fbdfcd8115afrAe9Mvjqa6YLih8gEtX7RzgxRSr6f1XABIr/RERJI50=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pendidikan,riwayatpekerjaan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 12,
+    "kode_dapil": "197102"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/354999/pas_foto/1683955315_04c94500-dc51-4e92-a4cf-a6ccea645aa2.jpeg",
+    "nama": "H. ERMAWI, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PANGKAL PINANG",
+    "profile": {
+      "id_calon_dpr": "f3589da51c032765c33648b61be36df8cc25d99fdf00ced303060314dbed76ef9e2e9ec94447e091f5dea8918138be10808fc0c665eeafc21ddc9fd3aa7c66d9zpo+SWMhBhCg9GPWuntnb5Zl29Y3wIhghgBwWWb6BTs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "197102"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/355001/pas_foto/1683955735_22b28dec-eae8-4642-a316-2172dd1a5b52.jpeg",
+    "nama": "FERI SARDANI, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PANGKAL PINANG",
+    "profile": {
+      "id_calon_dpr": "03037469747a7f6aa5b0f71ef378860e861068f2b7a7fbba30665c26e2cd5695feee80e05807c3ec649ea867ab282b8898b1bd9f8d446efc2876695a9294f506G6QlOjRXi5jVKV6K59PpmiD374xJevDEUBvUbCPmo9g=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "197102"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/355002/pas_foto/1683956124_82aa165c-aa63-4b97-b34b-6af16f3780d4.jpeg",
+    "nama": "Hj. DERITAWATI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PANGKAL PINANG",
+    "profile": {
+      "id_calon_dpr": "6c42ba8585fa7cca419ac7a3392b954212851c70fbe57d1d77c41b8d25cdcf427623391fd3ed7b5b373dd756d76382197afb935e984c66554808d5cf24ac123blPBubA9+NZkN/hOmI8YbcbQ5ngsWoeAf7pIfsdyyZuw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "197102"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/355000/pas_foto/1683957047_3d0c3304-6a06-43b0-bc38-5807916a811d.jpeg",
+    "nama": "EMMA DHARMAWATI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PANGKAL PINANG",
+    "profile": {
+      "id_calon_dpr": "3dba085220c6f38e3173a51e99324603592be7d9e61af36367de89148c6f6ff4f235651019a374766856fb62292d578b24c3dc950708bccbb6ec8fbf77deffabmo5y4e7dxuLLMw0h4qpj+gxo8OKuKyeCgVOofn4XNMc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "197102"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/354998/pas_foto/1683956660_185306ea-a63d-4e99-a7a9-6f28bd3b7103.jpeg",
+    "nama": "ABDON GULTOM, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PANGKAL PINANG",
+    "profile": {
+      "id_calon_dpr": "554bbe9a90f7b4da30da3214297bedb26b277280b78134d76259dd3c966855d41cbfa2b7ddde040c8943cbc8747cc946ca7bfb90aaed27266b078257a463bb3bnujHIlQZ23fHieP80LVWoLLvXHkXRG+Yb41m/+Q2KIc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "197102"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/4125/pas_foto/1683624306_29a1dceb-3a5b-415f-ba69-e0ee82aebb5b.jpeg",
+    "nama": "HIBIR",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PANGKAL PINANG",
+    "profile": {},
+    "id_partai": 4,
+    "kode_dapil": "197102"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/4170/pas_foto/1683012039_bfe3faba-4f6b-4155-b125-af80b14c0eec.jpeg",
+    "nama": "MISNAWATI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PANGKAL PINANG",
+    "profile": {},
+    "id_partai": 4,
+    "kode_dapil": "197102"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/4123/pas_foto/1683011915_7409287a-7eb7-47d5-b545-0f5923605d68.jpeg",
+    "nama": "RUDI YANTO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PANGKAL PINANG",
+    "profile": {},
+    "id_partai": 4,
+    "kode_dapil": "197102"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/4150/pas_foto/1683012006_ad5797a3-bb29-458d-bcf4-f7b2e638e018.jpeg",
+    "nama": "HERLINA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PANGKAL PINANG",
+    "profile": {},
+    "id_partai": 4,
+    "kode_dapil": "197102"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/4136/pas_foto/1683011973_88dbc2e8-dcc2-48b5-8339-1f2df8294065.jpeg",
+    "nama": "SURYADI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PANGKAL PINANG",
+    "profile": {},
+    "id_partai": 4,
+    "kode_dapil": "197102"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/462512/pas_foto/1688894044_15e362db-5ac4-44d3-8430-781f17d73188.jpeg",
+    "nama": "NOFA DEWI LESTARI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PANGKAL PINANG",
+    "profile": {
+      "id_calon_dpr": "0a28157509f250d8b9671a672524ff2a5a68b451934776f747c17a9b1b6a5066befcb5b1501da281c88b724d5c42f8f3db10f9e9541f389eec26309c10e56648rFvLKY1UYLI4y8hedxsmxyUsl0HAQdhc0yQD0TNp94g=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659959325_LOGO%20RESMI%20PB.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pendidikan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 41,
+    "kode_dapil": "197102"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/406401/pas_foto/1684064810_b9c63752-33dc-4467-8046-fe977ba7f02a.jpeg",
+    "nama": "ISHAR DAMIRI, S.P.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PANGKAL PINANG",
+    "profile": {
+      "id_calon_dpr": "336e7a7ecf7abc79e3652d44fa27af5c8915e80dc82c48b053b21039420c2242ff0e18785e08cafd5a82fd39dfd483676e853a0cb45e06955a84194ed711ea8cgrBpjk9SLuP2ftSvc/3VToM1LPwejkdf/kqVz12fvBY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "197102"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/406402/pas_foto/1684137650_fd7f2028-ec04-46cb-8dda-b64a35be3f9f.jpeg",
+    "nama": "IHSAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PANGKAL PINANG",
+    "profile": {
+      "id_calon_dpr": "b7a5b300b343e4fe155666450fdf2d6dafd47a2993e100642c122c0a474c419157d037ea8a8354c8d2e5108e3dcb722f6db493ea5215eb7fcdb5725cbbc65998wr8IGSG+5+W0qV3juAklx7cleuoxy9+48JjAw301nYY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "197102"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/406403/pas_foto/1691650907_4e776f08-3acf-445d-8bae-9625d5b65a83.jpeg",
+    "nama": "WIRYA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PANGKAL PINANG",
+    "profile": {
+      "id_calon_dpr": "4cc719027ea460e33e0f69116bd6729be75a94b755ad1696d8ea769f65474c515fcd8846eb48a0c285b66464ce2ae3894404d855fa574a4e47de2de0a88e150fBHKd4Sn9PaZmU2rYP8lcO77R2eIRp6UwRibITA9KHTE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "197102"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/431992/pas_foto/1688712340_3c4d4ed7-f234-4b3b-925a-5404bb9fd074.jpeg",
+    "nama": "ZURRIANTO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PANGKAL PINANG",
+    "profile": {
+      "id_calon_dpr": "310123eedb5ef422f2e5542f5713ee1b027f986b705689fe94c15b55a2cab8660dde3a01c5c9588b476d725fcfbcb6ca4524cbc905468e549e03bbf8a529c1f0iVlf4f8B5/Z/BWkNIjKEr5ZGaThVjmF7Wit/E4kraOo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "197102"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/471932/pas_foto/1698935197_0ad64be8-f786-4216-bfd1-59b2cf8c5b06.jpeg",
+    "nama": "SULASTRI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PANGKAL PINANG",
+    "profile": {
+      "id_calon_dpr": "8a36b75119cb1fe8f0b56942814e528e64911ba372e4f2a44f5e12ff187172ef3037fb027ccdc38bddca2a5527e06a069c0496a70c4641faa758c76f1c4b5ccdTFjY/cj5+MSeK+JayzAoSiocFHhyLG7UUdASejN/XQs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "197102"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/70390/pas_foto/1683515656_a5df00af-2e3d-41fd-b6b5-50069d3bbf40.jpeg",
+    "nama": "JAYA JAILANI, S.Pd.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PANGKAL PINANG",
+    "profile": {
+      "id_calon_dpr": "cd7bedc386312ad7e58fb141b257e4a77ce28777c8677a0483798aa1a61c76a1a17a19b7fafbfe4750918720a21feeb2a58e75d8a186dc6ef3282e6ec0539062DAviIpm7pnt9wL/G2tS6Ea3NkRQMhOogQM/bYD43GDM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "197102"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/70504/pas_foto/1683517690_08faf55e-8584-4d33-9952-42dd49339833.jpeg",
+    "nama": "RIVANDI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PANGKAL PINANG",
+    "profile": {
+      "id_calon_dpr": "1abd37d1074e0c65fcff3f915dc0374a19f2ae77515f014eae38b8145a2266fa276877e081926ddf6bc1f454834e1b3a2bf857e0f3700ac165ac553a1922735d/vPA0+jROm9192ZPSHqAf5xlGxC3fUEG5TB0rLRP9wU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "197102"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/70936/pas_foto/1683526593_455ea5ff-d1bb-45cc-b33b-f4ff07a49fb3.jpeg",
+    "nama": "FADILLAH RAMADHANI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PANGKAL PINANG",
+    "profile": {
+      "id_calon_dpr": "5ce3bbb619259b8e3e51700bfd6d1d54dd70a4fe43ae6fadbd38090a8094358784cf5ab5c7acc3cf4f384b5c11bbd3407b22a83f2948392501aebc7fe8304feauSr48pN6I5kDJYwmm5PvV6m6ccDEo3sKbb3A4Y2FkIM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "197102"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/138377/pas_foto/1688629802_99f5c6c7-4631-4334-a490-7fa76da7a450.jpeg",
+    "nama": "NOVIANA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PANGKAL PINANG",
+    "profile": {
+      "id_calon_dpr": "3bf977014f2e2e7578e29447db79f7b38022b38b30ff82a56392a63ae617292c65350dc0fb535e8679998edd223e4fa358509efb7eab3f3a77c059ad13845e52vl9oXLDMs2UkC1O/5viDripE9FPjKUPaXf4TeIJmjlo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "197102"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/70782/pas_foto/1683349179_7b434df6-a9aa-4d6e-ab83-801edb5a18c9.jpeg",
+    "nama": "YOS HENDRI M, S.Pt.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PANGKAL PINANG",
+    "profile": {
+      "id_calon_dpr": "e79aad450e11a086e560d608db7cf17f99a95ac72fe313c9b17068bdada20d0af75e42335883f3a5eacad812f0726f430ac2b091ef9d6053efd75b8ebe0f9476oppAB0LuZAaQb3eAx7rlwxh3NjB2mqAjnAtDfqZyhM4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "197102"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/454275/pas_foto/1698935650_fcef1f8c-3584-4555-bdf6-73b92760bb0a.jpeg",
+    "nama": "DESY TRIWULAN",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PANGKAL PINANG",
+    "profile": {
+      "id_calon_dpr": "d76ae6a27a96440b1862cb731d1bf8972710a6452b9100857631f1e8465c089d24854f646aa48dd8f17e9929132ba5ffeb74c80ef82e2b41b260883095b968c4wyQiKNQUaITlbNmyoExX9Q5V1XE+2YCWMa+qJOEVy48=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 5,
+    "kode_dapil": "197102"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/409012/pas_foto/1688692829_0092b8db-8f7d-46cd-b3d7-baf5902d2f29.jpeg",
+    "nama": "HASRUL SANI, S.Pd., M.Eng.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PANGKAL PINANG",
+    "profile": {
+      "id_calon_dpr": "516ca2cd85835526a670b3ff0a1f148b35d842eb68f42276f43b1534d4600a5c541c7869fe34ad8e666d49eb98592d82abdba9ef6179c467e2f3e9c081973e9aYJJto8WMQnl7NtgbA/EHW01AdWagfUWdGuvHJji0Qu4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656406064_Logo%20Partai%20Garuda%20square.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 44,
+    "kode_dapil": "197102"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/452397/pas_foto/1688799651_b31e5b10-a8ee-405b-9852-c3759a8d6dda.jpeg",
+    "nama": "KARINA DIAH AYU NINGRUM, S.Pd.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PANGKAL PINANG",
+    "profile": {
+      "id_calon_dpr": "1a8acb990e16e0a52dadead461cd613fb9c66896103456b5454efe72b28a1d19efe1c71b15cb936c28ff78272ade046873d298393b4e84ba05a0922e36328b36mpAJxrRkS4GhZ9MUV/LIWS59vCMwLJ2KpS1b4zLBbL0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656406064_Logo%20Partai%20Garuda%20square.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 44,
+    "kode_dapil": "197102"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/6309/pas_foto/1682842314_fa4d7895-36ec-4544-91d4-30089a00d6a3.jpeg",
+    "nama": "ACHMAD SUBARI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PANGKAL PINANG",
+    "profile": {
+      "id_calon_dpr": "61bd99e7d1b3f6a9ddd1a57cafedfae635bace410f0fe6ef585273d9ce142c214eb29774573c290133526920a13644dc3a6cb426d1c5cb5a18219f801e4ad645mRqa5pLJrUoZOfebKgNexUdw+AWWYeYT4CHluft0C9g=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "197102"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/142685/pas_foto/1695613740_d929486e-5f48-4155-96c7-ee977e68fbef.jpeg",
+    "nama": "MEGA DESFERA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PANGKAL PINANG",
+    "profile": {
+      "id_calon_dpr": "2fe1fefce00fb44cb073f3a06de5816dbfca0e4d418d2266ebdedbb8dcdaeff496c31a7f32669bd947622f053cd383b2350fe74d12a6d8bfc802d1a0d670ccfeUU3Mie4ETTtgu7V9J4a/IVSPTYWbYcfcqMhvahl9nAs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 7,
+    "kode_dapil": "197102"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/6438/pas_foto/1687749884_0b1c1644-8686-4d06-9868-ffc29a1e3a56.jpeg",
+    "nama": "MIMI FERIYANTI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PANGKAL PINANG",
+    "profile": {
+      "id_calon_dpr": "ce6af8f0a494adaa96aa5fd7d1c7dd7ff3dfeef33251e9ce61a085f04202a0046c9c551b7697e4cf41f191f9d23593d0f6ef42147bbad691075ad876b685bba1AskLXTmpNBZdHUcNNXWLs3cqEX11mXrAUr9myYU45dw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 7,
+    "kode_dapil": "197102"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/430099/pas_foto/1688444133_4b751ef0-71eb-4c28-8057-affb960607a6.jpeg",
+    "nama": "BULDANI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PANGKAL PINANG",
+    "profile": {
+      "id_calon_dpr": "a2f9f9fec4c563f8acc96eb431ab3afef6866604dc738f9395385ccf603c4a73d34d0ac954427cab04dd5e9f00c849e1b7d4e933301ce86d6c6d9cdcc69d1c65GaH1wlEwkr+BFCBZniqP+MVHgpKqKzH7+7ffL5xHNRM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 7,
+    "kode_dapil": "197102"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/17582/pas_foto/1687750087_55ab0bf1-7151-4db9-aa7a-d57bc1124486.jpeg",
+    "nama": "ARIF ROBIARSO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PANGKAL PINANG",
+    "profile": {
+      "id_calon_dpr": "9b9135877d14f86b721f1f8870848aa0ef4e54ec9c261af8f490b804c13863fa0f9c8e49d2a438510eb19e45fce6b07599f397e995738703d49e13d181533308f+wvnOxNf1qGaJg9Wb2Mehzgza8HvPH3PUkEVUdeBwo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 7,
+    "kode_dapil": "197102"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/235372/pas_foto/1695970515_63f92e85-8817-43b1-96e8-58e345e17d1e.jpeg",
+    "nama": "ABDUL GOFUR, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PANGKAL PINANG",
+    "profile": {
+      "id_calon_dpr": "b2f2a38466d0c70b4c998615239a9dfbdbaa6157a63aa4865405e3b55db5ebd20d695a4c3aed04eb99ab9c72d529a9a0a091fbb91100e1f3525d88da2ec62f21repu5ZjevaDZHH7QnfAB0PWw1O7yPkPGlgrimpv1U0U=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659262742_LOGO%20PBB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 74,
+    "kode_dapil": "197102"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/235368/pas_foto/1688803116_5cf8e7af-017b-4877-88d4-beee8061dc9c.jpeg",
+    "nama": "RENDI SAPUTRA, S.K.M.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PANGKAL PINANG",
+    "profile": {
+      "id_calon_dpr": "12fd4acf65d5c7c5742b19a3dc5c20a4fc411b0e4eabe06045982ded6abb24e0457e6072e73aa24203660c478aa4f3af66d64d83d6db0fc10dd315ec9139908aUWvuYdFj/Z2Q1rP4TAb/JhHf+0bc6U550s/tDs0uQx8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659262742_LOGO%20PBB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 74,
+    "kode_dapil": "197102"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/446838/pas_foto/1688792216_ea675293-eedc-417f-a978-363f87b98ef2.jpeg",
+    "nama": "ROHALBANI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PANGKAL PINANG",
+    "profile": {
+      "id_calon_dpr": "f8163478927ca0dcc166c6d31eb443f6d65fce3d5a182089aa5ca76f141df51ade95fee469320c2c9c86f10cfd91c2a6536f230af323effde71eab93b9e1dbd0HlLc+lcZi9DkmT9v11CQTGjZNBySdktqwG3ydMcB7Hw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659262742_LOGO%20PBB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 74,
+    "kode_dapil": "197102"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/235379/pas_foto/1695971043_f6945226-6ad0-4466-851b-c81e370b2874.jpeg",
+    "nama": "RAHIL, S.E.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PANGKAL PINANG",
+    "profile": {
+      "id_calon_dpr": "362e1c1c8c173eab2bc0cc60158aa1f389988d8b336217ed1dae8fd3341bae1947b8db1e050dfeb6b6bdaeaf32470a5e8a416dbdd557d488124238a163c0146cIsLYSD+b4FF6VDXxwONb8bD/WicVHhz6fxZ53Llvpo4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659262742_LOGO%20PBB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 74,
+    "kode_dapil": "197102"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/446862/pas_foto/1695969950_7bba8027-d4b8-4c6c-ad69-033b1b4d746a.jpeg",
+    "nama": "DOLI WAHYUDI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PANGKAL PINANG",
+    "profile": {
+      "id_calon_dpr": "573296e8987d2a719b430721a13d3ab63ba06cca726632edc5a07c3efc467e0ebf44ae8242f1a36f0f35b8f47fd97475540376a2effb7aa57e86fd7f7734023buB6VX/JWyApi8JuO4jSSjYn//PzfGbKlHaUsev/9E5o=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659262742_LOGO%20PBB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 74,
+    "kode_dapil": "197102"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/101876/pas_foto/1971044708910001.jpg",
+    "nama": "SITI AISYAH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PANGKAL PINANG",
+    "profile": {
+      "id_calon_dpr": "568a4206aec5f3b0dc0deff4527cda0ff85ae67d7f3c6a0de2a2a4dfd60372de87288dbd9779dfd723cbed0ba1431d614636a5baf80b49abaa8c8b78cdb11cacpKEFunQyhhfE109Cub9b714QwI00DbarRtvXY4iCl4k=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "197102"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/101876/pas_foto/1971042707790001.jpg",
+    "nama": "MAT DJAYA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PANGKAL PINANG",
+    "profile": {
+      "id_calon_dpr": "1b1f62a2d319396866a5e73bccc81b5e0e8812e53ecb228a613f509cb2b19c0714baacccc893bb8ec4d72dae1707885d489b439c2ff96f6efdd076f9e7b04c49CSJgvD2rCIeTPYuIhW2n2zu7d8shnv1C9zAC4ZIphFk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "197102"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/101876/pas_foto/1971042211800002.jpg",
+    "nama": "RACHMANSYAH",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PANGKAL PINANG",
+    "profile": {
+      "id_calon_dpr": "de2b93e68ce13f5ac03831764c5ee865b8ee255213bf427db4cbda68b5a9af8ec319bff99d7479c7e52638e8d03e48fcdd8ca9db52bbbc85c448cd090205914fC+VR4enPs0kY2iqstWoVG1AFnBXOWTm4J9asvQpcHI4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "197102"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/101876/pas_foto/1971042809739997.jpg",
+    "nama": "ROBUAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PANGKAL PINANG",
+    "profile": {
+      "id_calon_dpr": "65fb9389eb598d67714b480871929cb5df0cbb2de92974c6b2f04167d869e310d725bca72e620e0df65755af047af7d2c4d361a39ca6e059380d98f97dec0bc9vybvRZEFeO22UMaSj4rqAYzQqkM0Nk1iDb8yQSlyED4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "197102"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/67052/pas_foto/1683806243_169ab820-71f9-41d5-b0cb-17c0f82c11e5.jpeg",
+    "nama": "EKA JAYANTI, A.Md.Keb.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PANGKAL PINANG",
+    "profile": {
+      "id_calon_dpr": "5ec6df4e72f83a10f794feca6055197862e88d617234345d2816925eccac5943b745f81176df069876fb354afd65b47a9fb7513bdd5376833eb4c4729bff82a59HyFh+EiKTml/+1yOZR/v0Nctp1fZ+3Yb8Am0cUdN6U=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "197102"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/173998/pas_foto/1698938298_5cc84e2f-5dee-4dfb-a5a5-c0598f054ec6.jpeg",
+    "nama": "PRIMUS JODI SETIAWAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PANGKAL PINANG",
+    "profile": {},
+    "id_partai": 76,
+    "kode_dapil": "197102"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/314971/pas_foto/1688454590_51e4ec5b-d581-4d6b-b6d1-68ca396e3403.jpeg",
+    "nama": "ROSNINI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PANGKAL PINANG",
+    "profile": {},
+    "id_partai": 76,
+    "kode_dapil": "197102"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/194604/pas_foto/1683645240_5d7445dd-131b-4ade-8c2e-1f31a907c736.jpeg",
+    "nama": "SUPARMAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PANGKAL PINANG",
+    "profile": {},
+    "id_partai": 18,
+    "kode_dapil": "197102"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/462238/pas_foto/1696257064_a8847a91-4f46-40c3-a1c5-f33962c9b1ab.jpeg",
+    "nama": "ROSA ROSITA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PANGKAL PINANG",
+    "profile": {},
+    "id_partai": 18,
+    "kode_dapil": "197102"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/462302/pas_foto/1696256280_0d044909-5241-457c-ba77-f5d8b113af42.jpeg",
+    "nama": "TATI SUHARTINI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PANGKAL PINANG",
+    "profile": {},
+    "id_partai": 18,
+    "kode_dapil": "197102"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/462394/pas_foto/1696256474_3857de07-25a0-47bc-8694-933796eb4bd4.jpeg",
+    "nama": "LIDYAWATI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PANGKAL PINANG",
+    "profile": {},
+    "id_partai": 18,
+    "kode_dapil": "197102"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/462479/pas_foto/1688893532_440adf6c-2207-488a-a829-94be3803a951.jpeg",
+    "nama": "RODY ACHZAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PANGKAL PINANG",
+    "profile": {},
+    "id_partai": 18,
+    "kode_dapil": "197102"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/113411/pas_foto/1683611954_f9a41ec3-47d1-4801-9b86-002a3670dac6.jpeg",
+    "nama": "DEPATI MUHAMMAD AMIR GANDHI, S.H., M.M.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PANGKAL PINANG",
+    "profile": {
+      "id_calon_dpr": "4a4986018d3e77b701962b76c4766c1780bc07b3fc82dd06d4cca2a41489dc26c3f4926d3ec36f3cf82016f7301f4ff5a215e9f4ab6ca59075098990a2fc15693W/snlKQBrgUIQ2Cwm/fHvmDd1TpiWJnhJvg1q1rX4U=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "197102"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/132049/pas_foto/1683466955_3f223adf-c4ae-4321-899f-992c1e390cca.jpeg",
+    "nama": "DEWI SAFITRI HANDAYANI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PANGKAL PINANG",
+    "profile": {
+      "id_calon_dpr": "4ee01fce62d4aca496b6a4d494950023f50edffdef04b2cb70e8ff5aeac84b3ec3fed200de94b12c51b36daa4e837aea5634276ab36e949e44fb366633b48501tHlBDWvUzMRXa71SblKUXRl4t9BU93piiIh5s5tqPlk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "197102"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/133127/pas_foto/1683723332_bf902e42-32fd-46c8-a88e-8c2f3a1879ee.jpeg",
+    "nama": "DAHRI OSKANDAR, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PANGKAL PINANG",
+    "profile": {
+      "id_calon_dpr": "0ec218fee964088d029e2efd48366c89d66115bc626c57f5ee0dc6dd366baad00690c3c6392ad948712a83c3276a0b65ae084371b7c68f82358fe27a54b2a6e4d7hJqJj2N1TCy2H6U9ciouAM7Mb0ZJJ3ulX1iUVcVc8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "197102"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/133342/pas_foto/1683626467_9b5fb94f-1f6b-4b29-b0ec-7250feac75db.jpeg",
+    "nama": "MARISA RATNASARI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PANGKAL PINANG",
+    "profile": {
+      "id_calon_dpr": "8ca8a5037c248792095dc772fb222910eabfe2b701ca689a391048f71dfc5aefbc0b2cbbdf4bad1488f7ac6b500beadf0d94d8fe849ca874260d36277aba2b69cdKIfmILxPypgNNy8FoXuwX3pBNc/oetQq9X3qXjr5Y=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "197102"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/135897/pas_foto/1683522695_8c87bde6-76fd-4cef-a962-11f41b85e5c8.jpeg",
+    "nama": "NOVARITO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PANGKAL PINANG",
+    "profile": {
+      "id_calon_dpr": "d2297139f25fc0efc1db7485731741c8016a8f457a4c4440d3d78bb62cecb5d6b74a199cbbb093320681f58118097d62c1a813a761c3a34c119633ffb557133bQvFod1Y6KO3crDSFiWYIFeN2fD3F6X3Vx/3MfA3ogbU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "197102"
+  }
+]

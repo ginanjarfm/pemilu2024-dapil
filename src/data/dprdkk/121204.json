@@ -1,0 +1,466 @@
+[
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/261034/pas_foto/1688654113_a18423a2-b03d-4773-9ec7-ebc33db54166.jpeg",
+    "nama": "USDEN SIANIPAR, S.T.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TOBA",
+    "profile": {
+      "id_calon_dpr": "8e017ff0736ac3c917590281e672757728f4105ec0a10d2804ed7bc5309a0ff4e2704857b84ad33c994b091d9d93122ce2b400ceba1d9e8433506e4472fbbd92Z2c3AiJIKqvLM4stsODoRtQuzrmo8S3dy0HXCc9TdY0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "121204"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/439421/pas_foto/1688653805_b0dd4aaa-a33c-400d-8753-33d6ff41266d.jpeg",
+    "nama": "DEVI FLOREN TINA PASARIBU, A.Md. Kep.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TOBA",
+    "profile": {
+      "id_calon_dpr": "af9e0292a1283be8b74b68215044a7b88f0ef9d2c1b4a271c9bbe29bf903636f0a9c368da46f512b98bfceaba4c4bc94ad0ecc6fb5ecafff9905bc824892e79ceYqbobXgRlukbkvg3o8fFaAOZbWevhCqajq0MiLzd4o=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "121204"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/261033/pas_foto/1688654220_cef0c0a7-9974-49be-bf33-5c33cd4e1325.jpeg",
+    "nama": "SUPARMAN PARDOSI, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TOBA",
+    "profile": {
+      "id_calon_dpr": "32a9d724cda5f2039f071b756633fd64c05045c503ec0fc9679baf7e7cf164db1d1e8c4543f2f0a863a3a51445b2985b969a2dbfcddaa9aaef20be894d50fb88JwXtU0F8CAZy7ErlmJbuZ5KDpS1vV2S+rWzC7F9YCls=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "121204"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/481432/pas_foto/1695800403_80691540-e257-4f9a-bc57-49b7c6be53f9.jpeg",
+    "nama": "SONTI SIMANJUNTAK",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TOBA",
+    "profile": {
+      "id_calon_dpr": "52f8081e58c65aee5c7b4a1e12f58382440c5fa767ebb7a3c82bab6233d87316156db4fc747f6e12dfaaef455ab542a0f3ab9754f4c5f811b498907b73ee2f9fJ2Pj7fJBqLSKSYL6d4gbG+UvmTMqU/zzDQyQ7N+Y0GY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "121204"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/439365/pas_foto/1688653485_e86ab79d-2cb9-460e-93be-a52ece6c372f.jpeg",
+    "nama": "TUTUR PANJAITAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TOBA",
+    "profile": {
+      "id_calon_dpr": "f5f3cc31a2036b3573abf80b814cc08d17cfe4b6866e034cc94067567f830a39d9dd589562f90e3637db58f59b941a0c227ed836e1c0ac6ce786bb884ab372bcdyFeATpz2HbPClYkt1jw3zq1eneDWLFM0Qy2wvC+qCs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "121204"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/488285/pas_foto/1696337644_f6b9783d-29fa-48c1-9f26-c9af32e13564.jpeg",
+    "nama": "ROBINHOOD PASARIBU",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TOBA",
+    "profile": {
+      "id_calon_dpr": "0e368f9d2a5db123065f7f2898bf914468db81871d31565ca8778277e5e7db11f912bb272d259bc90dac3ee6761e8cc8371a15be7353e85db5778b019ece02bcA8JmyVr2kZMWgYRhDZxF5IBac4imoSBHFTtmqDiSUQM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "121204"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/356482/pas_foto/1689406172_7ba7442d-5a90-4040-a412-6340522cd44f.jpeg",
+    "nama": "TETTY SURYANI PANE",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TOBA",
+    "profile": {
+      "id_calon_dpr": "3af93e68a70d4663218d242f3864c645d74d3ee4bd6e48301e13a9435649ec94de4f865b82d07c6bca5500433f2f8bef3b3c272fd0df9550359892a2ea6b3fddKmKcV1RDCp9pXJOjiKt6I18u7uYTN77yV83ER2f2iq4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "121204"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/211328/pas_foto/1683691539_a55f7593-991b-4e5b-a56e-f8153f829b59.jpeg",
+    "nama": "PARASIAN TAMPUBOLON, S.T.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TOBA",
+    "profile": {
+      "id_calon_dpr": "2dbbecf209961e1982645da4ad49711f385982be74ca195d31490150662bc7b7412d90fb3d2d036a443887d0c81567e2af1a6b4e67874fbbab8305be078043c9gsZPM5TWmDbqvnmPiC0mW9cVFrx1Z0XgC0xDzx9yqYo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 12,
+    "kode_dapil": "121204"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/209437/pas_foto/1683689452_f751c9a1-0f1f-4b5a-94e5-59edb584b432.jpeg",
+    "nama": "LISDAWATI MANURUNG",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TOBA",
+    "profile": {
+      "id_calon_dpr": "e114ebc319103ca96b1896374bf71a288c790b603f36fd5bc950ff481a8e9d53b2bdff38a0fe2d93ff9ba62ed0fa66cade19d4c7d451388944ed03e4b962b563GbLipm/NmQRgc37Ccr1UqZ1vZgKAlUBnoqDwEM87qmw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 12,
+    "kode_dapil": "121204"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/477206/pas_foto/1691743003_f06f1e17-a49e-4f99-8711-fda7be3d79d1.jpeg",
+    "nama": "HIDUP TAMBUNAN, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA MEDAN",
+    "profile": {
+      "id_calon_dpr": "fe1244fc69106fccb6496458025476045477030d24e3bcedec969b79cea75942fdcb4763bf4f9a0e3124b58aa394527b123d37c7e83338e707e1adddd81418320d/8SE+yJrMlzGMEv1/YyI/MdQgT9RGZ4NiVjyJxjpA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "pilihan_publikasi": "datadiri",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 12,
+    "kode_dapil": "121204"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/281853/pas_foto/1683807725_2b328779-976c-4e41-b724-9c17bce98731.jpeg",
+    "nama": "RITCARD LUBIS",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TOBA",
+    "profile": {},
+    "id_partai": 9,
+    "kode_dapil": "121204"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/215551/pas_foto/1683699666_a4215047-720a-416f-b9e7-7a7de6cab9c6.jpeg",
+    "nama": "FLORA SITUMORANG",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TOBA",
+    "profile": {},
+    "id_partai": 9,
+    "kode_dapil": "121204"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/211645/pas_foto/1683693415_87baf452-169e-4256-b2c7-38d0315da145.jpeg",
+    "nama": "RAMLI SIMANJUNTAK, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA ADM. JAKARTA TIMUR",
+    "profile": {},
+    "id_partai": 9,
+    "kode_dapil": "121204"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/209588/pas_foto/1683689134_8031e02f-c3a4-4a28-a23f-b28e229a5972.jpeg",
+    "nama": "SANTO PANE, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TOBA",
+    "profile": {
+      "id_calon_dpr": "4a3303c374aba5582077821b4b6beaf4a76b540655111e2817a76f168614f49460715427d0f75546222918258e743c58b29f7df3935de6c20f91b76de48f24efjjCimL++vN+REqES6YQX5wjCTl/4++lSdDDh63IgmB8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "121204"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/216527/pas_foto/1683701576_f6b650b3-b4e6-4170-a9af-eceae7b019a1.jpeg",
+    "nama": "MERDIANA MUNTHE",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TOBA",
+    "profile": {},
+    "id_partai": 9,
+    "kode_dapil": "121204"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/60275/pas_foto/1683265117_2f182ddb-1eef-4292-9a8e-b6b5406b5815.jpeg",
+    "nama": "HENRI POLAMARISI SIMANJUNTAK, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TOBA",
+    "profile": {
+      "id_calon_dpr": "94e3e4c3c6ba001df22fb9e21b8593cf3527d7080b3f899f331cf1f37f71347cce69df194ded3758948fcb154e212ac04d7009fd6a350a7b3d5b913c2ea725a1401PzRVv9OnXuWqC4HSvGUoY/6hi62XML2fxoIMUdjw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "121204"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/60503/pas_foto/1683640130_9c3fd329-8a70-4ece-b5ed-3eddccc0258b.jpeg",
+    "nama": "LUDMAN SILAEN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TOBA",
+    "profile": {
+      "id_calon_dpr": "f00096c8a23bd86be68513a376eb659597ee6fe68602462a7c2a6663ab89f6ddc34fa3256c3e3519bd0ba2a7a14d2099ecac996b813c3d8e00f9f2275887ec40od5vPc3bpe31w/9yFNNWRRJBrkZqeGaWg+PYFGp6TKY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "121204"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/38284/pas_foto/1688357945_7a68eadd-ffc5-4079-9466-7b690c58952f.jpeg",
+    "nama": "INTAN SURYANI, S.H.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TOBA",
+    "profile": {
+      "id_calon_dpr": "a086c7f3bb9aba568b3bd58389fabcad7b34020ed89c94b46f8760703335979a0fe35ec3285e8795f10b9a265758aec748f56638471bcb0f84adaf43522e682favvpZMIUA6i3zicZsurGeqLvrxvchvjRKc2HNv0qbo0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "121204"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/23868/pas_foto/1683026841_0bd38d8e-2928-46b6-a80f-d6ed07df8847.jpeg",
+    "nama": "SIMSON SIPAHUTAR, S.P.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TOBA",
+    "profile": {
+      "id_calon_dpr": "c5fbd6e1806b5d478e4a2c0151eac078c728b884a55ac0276878a082728be8ffbca3aac851324b5c6155ccaebc5b6c8b17b7ed522279b26e8549334f198b5e15iW0pzpU2dmrvhMNRIieTgrkaXrxmPqgeM0gBtC2nM/I=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "121204"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/23733/pas_foto/1683023857_1a9dded6-d033-49de-8d17-27dae12b3a83.jpeg",
+    "nama": "MARLINANG BUTAR BUTAR",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TOBA",
+    "profile": {
+      "id_calon_dpr": "6e85da044d15b5ef96a60f09b0affdf6f7ae8ff3d87628f167fc8c60980408f80915cc628ad45d9e4ae8b41d8f72d01184bce67e1a18f73c6fc42a82a4cae621tEnwgS00y1C0UE05XUbVykiVIFvTnDyxnGNVLmkSYZ4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "121204"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/64499/pas_foto/1688622714_71f69a31-53e9-49de-9427-b3e0a1bf55d5.jpeg",
+    "nama": "TETTY NAULI PANJAITAN, S.Sos. M.I.Kom.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA MEDAN",
+    "profile": {
+      "id_calon_dpr": "f5699b5c116b1f09b409f6dc8918331123f5baee49a2d3a2ac72c34a4e5f7a594d5fd174c2a1b63287db1fd722d94e9d383cc6f7bf3a6f721db04e589f85d3bcsjKF6iaxnLgWwCJzEJR+qXikUUCFmHjJR39tUGU4T9g=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656155242_logo%20PKN-.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,pendidikan,motivasi",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 26,
+    "kode_dapil": "121204"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/437553/pas_foto/1688618645_648195ac-c744-4a35-820d-c9c8d03cf17b.jpeg",
+    "nama": "AMSER NABABAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TOBA",
+    "profile": {
+      "id_calon_dpr": "0d06bc02aef3e10d49981aba8d3c0477f730d44ad1c05972b754b1b3abbb81d7ea09064bc8514d14522d2f6cd545b6aec0b97c3e1f343d2e6f3ddddb87a0ce29WM1mJII33WZF4B1z7m6kAtAhlDO84UUd7P/9Cs5WSEo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656155242_logo%20PKN-.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,pendidikan,motivasi",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 26,
+    "kode_dapil": "121204"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/469538/pas_foto/1691557112_f19541cc-4a36-43df-8aeb-a80974aa1d19.jpeg",
+    "nama": "TUNGGUL SIMANJUNTAK, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TOBA",
+    "profile": {
+      "id_calon_dpr": "112d7bb29260eaa696d2fcb201c1d3cc647fe3c56079aff7fce3db3c33ddede8c26db9eb6e8da3890e00b0f5234515510894c7302771940f25c5ea52e76f6d99ZSDP/UtjY3IhKuMjYshGT6/dTkMrMSKA28fP+sAm8G4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656155242_logo%20PKN-.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,pendidikan,motivasi",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 26,
+    "kode_dapil": "121204"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/431850/pas_foto/1688545802_ebb67c9a-bae6-4fdc-9aa3-3227b458afe8.jpeg",
+    "nama": "MICHAEL J. SIMANJUNTAK",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TOBA",
+    "profile": {
+      "id_calon_dpr": "350c3546382b8e640335aa14af16f85a6be1e35b3ac1ddcb978b62e6e63d12d0836bdc98b3191913da31f922fd066e2d74606e4eb9e39d308b945e9d95cc3b0eG968wGUxTtEHon7hZ7QjgBSZhx3Apo59hlITBbh7kK8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "121204"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/86114/pas_foto/1212011405860003.jpg",
+    "nama": "PARLAUNGAN SILALAHI, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TOBA",
+    "profile": {
+      "id_calon_dpr": "c387df1b124580be23bdffc07f06d5298eaf9a253d7130ad627286e61fc5dac687224147c4890bdca4aa6af1718923f84d2ae46d55bc4db78122c5313a4c70b7NmMminfA3EmfWQn9pkzWSmmXTafjg3HKoFIp9eVbN20=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "121204"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/103699/pas_foto/1212015206020003.jpg",
+    "nama": "GRACE NATALIA GULTOM",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TOBA",
+    "profile": {
+      "id_calon_dpr": "85fdc12d1aca556bddc4a843e2455216f6c700f758dfdaa0d10dc45e3bfba88976c4f50437fd704fbb1dd6d746347181c0ac1a09590cd4d31a13f5df806cf5147/f0+iSp2WOTe2HIGJpGS+oC6cnZ+kkzsIa9rjF6K8w=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "121204"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/184551/pas_foto/1691655119_4e5c796a-bce2-43b4-a1e7-6b55067215b3.jpeg",
+    "nama": "ROLAN PARDOSI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TOBA",
+    "profile": {
+      "id_calon_dpr": "c4f914085ff7bec6481adada8d97491a7e7f955f50d437b51b3bd7a7850cd44459476fd32e060a723903f26f1ca7e6c4b7647512f986e90764ba016c113353d64Bw9FpmoHpd2jvnQwnR8My5OiRjikiVbwTQGXOFfUUI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656419883_logo-10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 76,
+    "kode_dapil": "121204"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/211369/pas_foto/1691655223_bef19819-decb-49fc-a5fe-2661c1b7d71d.jpeg",
+    "nama": "RITA ENJELINA PARDOSI, S.E.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TOBA",
+    "profile": {
+      "id_calon_dpr": "ca237206ac0af7c602e606d6f66dbc1462e209104407289da17b6b4272c9d89e6ffa791a13bf5cef91825bfbb4b1c9c36fa3d6658eee5cfd4663e70388552ef5FlGagrVhRQniWl44uP0VHaI6joe8yXvjFhHEcXtPjSc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656419883_logo-10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 76,
+    "kode_dapil": "121204"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/181350/pas_foto/1691655480_f9177d5b-5b67-449c-88b5-1b1cbdfca25c.jpeg",
+    "nama": "ARLEN SIAGIAN, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA MEDAN",
+    "profile": {
+      "id_calon_dpr": "e7db905e48da4acb8f5e073bfbf89292460d04ff5644eaefc8dccff04dc8f12a8ceb9e135fe463c5eb0662b95d3b66ea124102aa32f953ff3ba307ec9ecb8facqiXQe0j114Z7gK/3esSL8dx/nskOg9OcYVU/i8zjaSg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656419883_logo-10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 76,
+    "kode_dapil": "121204"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/320354/pas_foto/1691655297_2672e029-db49-44d7-a97e-544e117826b3.jpeg",
+    "nama": "RENTINA SINAMBELA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TOBA",
+    "profile": {
+      "id_calon_dpr": "5d1633020bf8f2d8f7b8271ed03d7810c2bd647097e0ff3b84e12dafec9fd3babfc35479398e8994d0842c400dc50bfd50cce5452d6830ff3ed8abb8c2ec9ce2eHW3ufMopBQunZvzbAKZf/cQqkXeRE2rqtQEmF9GKhQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656419883_logo-10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 76,
+    "kode_dapil": "121204"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/212251/pas_foto/1691479892_f8457859-82be-4394-8546-a5eccd27a5af.jpeg",
+    "nama": "JANNER SITORUS",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TOBA",
+    "profile": {
+      "id_calon_dpr": "161dbec882a22be399fb86e0aa601da8b02b2a5c92eceb5a5144d529e965d8e0a94ce66115a671de6bbcfcd6369d492772ce5e9a3bd60db7f41144e5dd6cc7eaTcMfjR3a1z/e27r1hw/IiNYpFmwfmWvCoVE9GD0r0dA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656419883_logo-10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 76,
+    "kode_dapil": "121204"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/21149/pas_foto/1683361539_9b1f7328-7ee5-4e0f-ab7c-3dceadeb8885.jpeg",
+    "nama": "GUMONTAN PASARIBU, S.Th.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TOBA",
+    "profile": {},
+    "id_partai": 18,
+    "kode_dapil": "121204"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/11434/pas_foto/1683361698_1aeec7f4-150e-4d62-ae3d-2bd9d076fdeb.jpeg",
+    "nama": "MANGOMBAR LUMBAN GAOL, S.Sos.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TOBA",
+    "profile": {},
+    "id_partai": 18,
+    "kode_dapil": "121204"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/20193/pas_foto/1683618134_bf66b2a7-1129-407b-aee2-db8cfaeee547.jpeg",
+    "nama": "ROSMIDA M. PANE",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TOBA",
+    "profile": {},
+    "id_partai": 18,
+    "kode_dapil": "121204"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/84743/pas_foto/1683360430_f6644429-4f27-44ed-bae6-e8a8fe63e4fa.jpeg",
+    "nama": "SRI RAHAYU JUNITA SIAGIAN",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "TOBA",
+    "profile": {},
+    "id_partai": 18,
+    "kode_dapil": "121204"
+  }
+]

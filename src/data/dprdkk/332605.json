@@ -1,0 +1,942 @@
+[
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/94984/pas_foto/1688141330_4539fd27-5220-4698-91d8-6a865d0f4356.jpeg",
+    "nama": "SABDO, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEKALONGAN",
+    "profile": {
+      "id_calon_dpr": "701d0783897680c96a64aa7657e5ea3eaad50e808d95b4b25350db3743be9e9cd445e09729f72b2051ca19ee5d6f1bd85404442d42984269cb5eb061231d2fedR+LxieM5hFreRzVL0Uqy5whby5gt6bTgPNwcpLoG2AY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "332605"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/94986/pas_foto/1688141784_f4188409-0463-4b2a-a2ef-02608c334a02.jpeg",
+    "nama": "AS ADILLAH",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEKALONGAN",
+    "profile": {
+      "id_calon_dpr": "ee2224a2cf6ba2616dcae45a2847fd18a454fc387c2ed20398dcb5ef0c08f31743166fdcac35090103ca9ca0a1076072ead2c0afe6fe0fe21628fac9e6078fbdx2QQuAT9J//XswTNjGw11VnqiHOYHqz+E7O5M6ZFhew=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "332605"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/94983/pas_foto/1688142365_1a4d1c66-d69e-4127-95f3-8db7c66bb6b9.jpeg",
+    "nama": "FINTI ARUM FADHILAH, S.Pd.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PEKALONGAN",
+    "profile": {
+      "id_calon_dpr": "e79e1fb94760cde4290c690517f3c442043d94a5b4c6525cca9e74141ca739cbeca69be3645d1c138a4e0e6296ec728e47a437074a25a69e70fca57004a55f52SHCh5V1ehyXhQHgw7aFr/G8oTbk+g2zommz3QOVPADk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "332605"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/94987/pas_foto/1688142677_d9295688-cd11-4967-aea2-25129405b457.jpeg",
+    "nama": "SUPARNO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEKALONGAN",
+    "profile": {
+      "id_calon_dpr": "041cc9d58b6c26b5b7ea247f76efb5ab7b63db7e7d30de30db40cee0601170e8416909aed58adb1cdbba2c1f71f96646232cce0c9a99f666c3cf5fc1c778cbceZZ34xI3gMZK2pJRi7rn1ePkzAiCFSHHihqMfSVvpmn0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "332605"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/161092/pas_foto/1688142962_3615b5ce-9c6a-4e74-b771-dfc5fd2f3641.jpeg",
+    "nama": "WARYONO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEKALONGAN",
+    "profile": {
+      "id_calon_dpr": "db14d287cffe2a58bf13b069de87c1c1df61f90b152740c3561758084c577f4664a8ba65be9710ffd6c8f6d4c9909503939640cec86d30cf368d2267168c91cdPG+sfxuQ7/3BzMlrFMKEftClw4WqKR4IQGljWRzRnO0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "332605"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/94985/pas_foto/1688143439_ae1e36de-4f79-44be-9fed-2ea8aff8e362.jpeg",
+    "nama": "NUR FAIZAH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PEKALONGAN",
+    "profile": {
+      "id_calon_dpr": "c43a352c22a42a2e60a23e5de852e0a8256559d00ac0275e755ad2ecd54be07707b7e37a83a695e93fea66f7e9cc6ac680ef17c4088dedae7ce96be03a968042OoNLR4gZcRsu4weSZKUgPJmgj3Fbwm/KHbm8hIt+G0c=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "332605"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/94982/pas_foto/1688143508_0741a670-ec91-4d94-bd18-ffac2901ec3b.jpeg",
+    "nama": "KAROMAH FITRIYANTI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PEKALONGAN",
+    "profile": {
+      "id_calon_dpr": "08dcbd4484d06fbc732816d96b35235684ab8d807b0e179b7957d54310b6a9e53737e733f970be21c39640486cb08afffb382557ca50eb7f0bd2c32e8e54bb33PTgmB04F8Jz4l59FN1Xfh5bDmSM4YKxtx9/cwsWgr44=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "332605"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/151950/pas_foto/1683535116_89e33b1e-966d-4b66-a295-076fbfe76255.jpeg",
+    "nama": "PUTRI FILIYA ZULKARNAIN, S.H.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PEKALONGAN",
+    "profile": {
+      "id_calon_dpr": "02c5f66f575988a1ea3f45d1d3abece83fac675ec43c001b61759f902665f6b042e420861186925efe176a5454108f74afecc6e9a4d5670725410454af0da3b3gQ1hf0Ks5ExhPmki5I2iWJx+ryiIqJ6UIR9BDd0LRMg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pendidikan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 10,
+    "kode_dapil": "332605"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/153450/pas_foto/1683537917_a6b01bf2-766a-4b55-844b-d6311fd3ba54.jpeg",
+    "nama": "YAHYA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEKALONGAN",
+    "profile": {
+      "id_calon_dpr": "25dc3d64bca5b78bd8150d5ea27ad2b13b84a15adc5ee1a94edc692ca4048801ba8446ef977d769a7160a7e441230a702ef2f7e0b4d631cf11f14cd3b56140ddkXI+NtX3cyyfmJ/VQdp+jZ+hh6f7OBNTJ2dH0UH4Av8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,pendidikan,riwayatpekerjaan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 10,
+    "kode_dapil": "332605"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/213507/pas_foto/1683695698_4860d59c-b520-4066-bab5-d72856d836b6.jpeg",
+    "nama": "NING KRISTIASIH, S.P.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PEKALONGAN",
+    "profile": {
+      "id_calon_dpr": "74a47e0e90c28a663f7365c0d2706ccfdab9400d1350168d3183783a26b5fe1f3b7f88d0e7f1ea0ae2621fa93cf92caae1202578790b0a6a0e86846eecf6eb91csz9mXFpUFst+e2zMSYnuVCWUuSx2i2FsbhzHEFZmkc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,pendidikan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 10,
+    "kode_dapil": "332605"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/485936/pas_foto/1696239766_711d9d60-fbf6-4235-876d-cb2063527ae2.jpeg",
+    "nama": "WASIS BUDIARTO, S.Pd.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEKALONGAN",
+    "profile": {
+      "id_calon_dpr": "38e32cbdc0d129c19dea57a2c6d61a7554578d9774f1367ac4032687902a3654965503b5e907507f3a79e1413aea21fecee4c0443fa3293d0c3ad024ac1ba31bhm1ZZYHcYbXD5h6TnsZr4C619CiY/j4Cr4C+Ca5z6nA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pendidikan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 10,
+    "kode_dapil": "332605"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/214600/pas_foto/1683697804_a502f659-12dc-421b-97cd-4dc8ea354514.jpeg",
+    "nama": "SIGIT WILOPO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEKALONGAN",
+    "profile": {
+      "id_calon_dpr": "d3f6cc8c3dee5c02e6225342ec27d3ade43a3aa18959ad24d5abb0a0151b0b35473ece5d6f70339943b2d5a5c776d05739a3e01a4bef1b051f3bf8593bff0e09xG93J7VTE64fjly6xMAdP64/90GDUEAR6pfiODMyGEM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,pendidikan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 10,
+    "kode_dapil": "332605"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/152913/pas_foto/1683537177_3bb77107-a08a-4364-bd16-7551b5cc8f34.jpeg",
+    "nama": "SITI ZUNAIROH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PEKALONGAN",
+    "profile": {
+      "id_calon_dpr": "4ab1c83c477f218c459059fd48bd3685bad342247824d71c44821cd086f43a4b6d07b5fd9f604ef1910e88d025cdb71c77350fb6f91da15ac8ef645b93fb60f3MIdK+pYy/z5DjumDKhBr/TPydOMQr/zgFo6xAcqUdqo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,pendidikan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 10,
+    "kode_dapil": "332605"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/152263/pas_foto/1683535729_89437548-a5bc-4a06-abc6-d9a7698de2bf.jpeg",
+    "nama": "HARTONO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEKALONGAN",
+    "profile": {
+      "id_calon_dpr": "d616addceb9de8bff82cb59a083dd5a29616e932d18b8a2c459df6aa7b7c0f8edbab65b533d99775068a2a546f03c5ae43646e8ce09b676c5bda71e18899b139x3b+wvZcpW7nuuQEBWoDviawvs5kvh6G6mxhPImtAmg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,pendidikan,riwayatpekerjaan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 10,
+    "kode_dapil": "332605"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/175016/pas_foto/1683634717_e501c01a-ad0d-4e4b-aa47-ff09213640bf.jpeg",
+    "nama": "Hj. ENDANG SUWARNINGSIH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PEKALONGAN",
+    "profile": {
+      "id_calon_dpr": "be9dfe87f47c4e1761316dcdb2ede66109fcb34c060c04e6e2d7fb1a168f519d803463463faf24917494e6f1e272aff741fe1128cb8cbddfc58b19e2b7520f958C8A21zufVsslUBR9qWuV2YlSNH5463PIuIA1p3WhtI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "332605"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/176248/pas_foto/1683612728_1013f4ac-78ea-43e5-8d8c-0bdf96090607.jpeg",
+    "nama": "TAUFIQ RIZAL, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEKALONGAN",
+    "profile": {
+      "id_calon_dpr": "322a22517360544211f27bd783ebdc470ebc23bd4a8bad8129170a92a8d67b1cfe592aa591b9866dea3a6a10a4009f732b3493e1ede2ef26f910bdca82b20fd5lGdUAOcsrJJZS0V/+pIG8ncBRrl05irrDrzs+wnqpb4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "332605"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/177360/pas_foto/1683615352_acc9ecac-8842-4b6a-b142-e8f9be7e72e3.jpeg",
+    "nama": "EKO ARIFIYANTO, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEKALONGAN",
+    "profile": {
+      "id_calon_dpr": "7697be40795da92a58ef995343355493199d988be877496ed0d9eb34c9b8c7cbac1cf6aeea2395254a7a61ed4f4e07c9c55a9026843819634afa93dfe3e9222f4sAVAx+fUFMtJ1QupO+Q2r1eV7Tv2oMHrgvIo1dWAY4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "332605"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/433439/pas_foto/1688530661_5906a31a-2115-48bf-aec0-d39e0707b31e.jpeg",
+    "nama": "BAMBANG HARSONO, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEKALONGAN",
+    "profile": {
+      "id_calon_dpr": "68c4692035139695c3da3536cb73cb0e97f867fddc5abeb19b4677458ee7c6b8b7a4eebbcdd62b4f1c204489dfce5105ab2c8c9dce65a078cd5cc93e9ee8177bDC97u5UgBHkuYyFtaNb+3FQLuv+dOsHRNTlpVm9tpxk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "332605"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/179458/pas_foto/1683619179_3e34768b-42ad-4a7b-99ea-2c1267290fc8.jpeg",
+    "nama": "ACHMAD HIDAYAT",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEKALONGAN",
+    "profile": {
+      "id_calon_dpr": "8cb83b0268c5dd69d54a0d55508c4d25dd27b2d229e976189c3f4953a0307ad11a10f23b3fa7f546d6eb8555ff4c6463e67994673f07f087475d8f6201d4d1c7BgFL3CsxlOVXWn3skHpxxzRWrum0m68sQhboI4pu96E=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "332605"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/180436/pas_foto/1683620964_978c297c-5ef3-47b0-9ffb-3525635d44ab.jpeg",
+    "nama": "PUJI WINARSIH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PEKALONGAN",
+    "profile": {
+      "id_calon_dpr": "681b7e6947d741c82db7a40d5b22458888eb718aea42b2d902694ea61f587a4c8bc401c4c5320de085fb4dc93f6c0fab17688d4e86b151c9b7083ded436022cehyqLy5FhUwHNLn8gICYIMaZxt845JhyFsBtt3Kth9pg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "332605"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/181189/pas_foto/1683622698_69ae6906-12c6-4f39-9ca3-7cd53d64a5c9.jpeg",
+    "nama": "WIWIN KARIMAH, S.Pd.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PEKALONGAN",
+    "profile": {
+      "id_calon_dpr": "74f6713d441ce12ab8eec3da2cd397129c1bea914b5f1e6bb24d55e600c528d7b40015ef0048ad210802b34c12521bb5b431b0b7691e40b3b593e457d7797820tbBGt4bcKVDfMnZrHm1a67gjI87ijBMEjC8sQUmobD4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "332605"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/207574/pas_foto/1683706000_aea4f885-10ef-409d-8457-0e0ec486d23d.jpeg",
+    "nama": "H. ACHMAD KOZIN, S.T.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEKALONGAN",
+    "profile": {
+      "id_calon_dpr": "d630785981d44509ab56f7961221bbf14ef511565ae6a0ab826e37dc91bb824820cb955fccabcd27da9bf787614d0222d56172dadd4bf29f6caf425f4c114f22lheNjYDsaGw+Mmb2FTbVbQPnz9BklmcmlmqjVhJb0+A=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "332605"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/301837/pas_foto/1683831815_1dad4264-caa2-4ff0-93ac-ea2cdc8ab396.jpeg",
+    "nama": "HASANUDIN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEKALONGAN",
+    "profile": {
+      "id_calon_dpr": "fdf1d5503336f864553723730445476cafcc1086510bc51d32f32ccba6c6e89b2ca50d308b57d5d3c7c4aa24a831b7682d5080019539c442aba58955281bdad9xxsgArpCSgMBZTyBDzq1OXMZeCwBrKWCx+O+LjOEXBM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "332605"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/291551/pas_foto/1683818601_0876bf8d-e9b2-4388-bcaa-78d7dc19376b.jpeg",
+    "nama": "FEKA DARMAWATI, S.Pd.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PEKALONGAN",
+    "profile": {
+      "id_calon_dpr": "c8908b4650829afe23042fd523a5783fc398c2e60f520a1b03080b86deb7ef234bb122b19590adea383a027424e00a235d129410fcbb005a8bd41ec3f081d342xhK1dqZ31qw+jRFKLYRh4NUDflTrM4Ky+O9t6EYYCdg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "332605"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/347585/pas_foto/1683926890_2c245b10-bddf-483e-958c-ebb86c1eeb54.jpeg",
+    "nama": "MUHAMMAD SABIQ ASHRAFF",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEKALONGAN",
+    "profile": {
+      "id_calon_dpr": "fb50cc325fc2fa6b5a7a3cf146c97db216de3218249f4dd9bcc7f55e1530eed427dd41abda6cabae3ed841ef7b3729a0f983db84db2dc96f7705bb855f2b410bqNeBlIkELI26j650R9je1aSEAM3LIK5q2/pHuiQS+yg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "332605"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/392032/pas_foto/1684010013_b34a5d67-0c2f-40ed-9765-f00ddaa627bb.jpeg",
+    "nama": "ARI WINARTO, S.I.P.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEKALONGAN",
+    "profile": {
+      "id_calon_dpr": "a43092941aeef8ada11951592fe8351eee1d218aab4597fe5a665e165c63354202053143446fdf78aa445abb9147d9b8d708dd0b9973b36a8146be0e423991a6wSTCYIMJZqpMXJZxwDSKHhRq6avMhr0nn3lrcBgo0qM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "332605"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/448310/pas_foto/1688747180_b1db65ea-adf9-4f78-bcd9-2c00e90228a0.jpeg",
+    "nama": "ELLA FIDYANTI, S.M.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PEKALONGAN",
+    "profile": {
+      "id_calon_dpr": "3303f397fea539e82e3694464bc03b5dbf4b5f0824ef37a60249be6dde643fcd6062fc5be0e86ce5837f0f8d273ff902a51d8e69fdaaff07204ae75bee203d131Xvi3nW4olp/2FNr+TnQNE++zRb9/Ok0sUI/cAZk/Qg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "332605"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/485551/pas_foto/1696229980_0e78b0a6-49db-4be3-89f8-3a3d11e4b6c0.jpeg",
+    "nama": "TRI MUTINAH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PEKALONGAN",
+    "profile": {
+      "id_calon_dpr": "0f8869d625a0d1e895ed9fa6fcc9275f67e298e706d809bc8146e96753cb1be1f80d0368d27a8bd7b3cb85e39d44fafe643b6e37836dcd17d4867085ca317067Y0AlMXPezkoQYXcES96AUwyiVapP8+NVcEojwg5qmvQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "332605"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/78923/pas_foto/1683620109_e4a80524-7ce6-4c27-aba6-3b647d44d9b3.jpeg",
+    "nama": "SUTARNO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEKALONGAN",
+    "profile": {
+      "id_calon_dpr": "91efd6509bee48a76f459ce8574060365dc70d16e793ad779e800832be833753fdd8ab62ee0cba6444a1bf37760f078d9224aad6a48cf17358abad08fe1b94fb8uu2lH4BQFZu+Z73ucjL5f4BGgtgoopmZuG0rDGoQTQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "332605"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/57777/pas_foto/1683620401_a1d70752-cee7-463a-b818-fef8d6507ff0.jpeg",
+    "nama": "KUSNANDAR",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEKALONGAN",
+    "profile": {
+      "id_calon_dpr": "a9c296dcbceafc34e101de6bc38666fe30f7b6fe52169ee99a39a6e7e3076d1963a5e252a2651ac13e041f6eba897ea8c174d0efba8a4f6015a451c4c05f848bkCRDi6B9J9pmRVpNXRNtTUDygYdE3gFHDnvaySAmmCk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "332605"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/141265/pas_foto/1689348781_3eee4818-37b5-4234-a7d5-e747cce5b813.jpeg",
+    "nama": "LARASATI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PEKALONGAN",
+    "profile": {
+      "id_calon_dpr": "323d08cf9a1d805db4afc42defe815eac4fffea5153b6c03c3c9ad66c667e2a79a675e9fa5a059c22558cd3ddc11d655f63dc4c944aa7c31e53c4a1dd42cec1bBtETV1fo1oD+Lg6sTb75hznSUSStp9g3c7Reo2gMGk8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "332605"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/141312/pas_foto/1683621084_4ca3835c-c488-4e6c-b390-c7071099043e.jpeg",
+    "nama": "BAMBANG ERYANTO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEKALONGAN",
+    "profile": {
+      "id_calon_dpr": "c57dd54d65feebe5a41b5d641a8183a34d54fa95302117246f83f4bf59633f00690f12c11001e1ad4839b65e3d78f6a38ebe99601300d51d07512d6cd25e0b07MC/RC2LgMabfQu2080h6DnItjSDAGqDXnWKMxawl7yU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "332605"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/53013/pas_foto/1683613574_843f1a72-a592-4bc6-a2f3-c2d51c26759e.jpeg",
+    "nama": "SRI SUMAINI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PEKALONGAN",
+    "profile": {
+      "id_calon_dpr": "81c22d5f2c5f2e3d057f38350b03c372eeb91a378036915e536b16a75e726a396728329c54c720f8e67f1df184c42897fa489df54a4c397cc516e230a24b96cfoDHptpvPUud2YIUR0cCYLW4cBNJlj1FwZqZZQK2M668=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "332605"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/469915/pas_foto/1691566470_5a9459e3-7879-4164-b8d5-8268d54cc6d4.jpeg",
+    "nama": "YULIANTO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEKALONGAN",
+    "profile": {
+      "id_calon_dpr": "f3720c9c7f192a9e78635cf368b256ccc4e241e4193454788daa5b5228bb9532d0d61e1745b8b7559e9dbe18f56764ea99940afe2fce91594d9d1656399625b14Xn/H5F19F9wE+6kv5BvzKo4D7YvM+r+yazt3amrIDk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "332605"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/126854/pas_foto/1683621808_a22ec476-f699-4d6a-a14c-e5e3466cb715.jpeg",
+    "nama": "SRI HARTATI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PEKALONGAN",
+    "profile": {
+      "id_calon_dpr": "cd98e4672589e12503c5e54cf591836be7ab5a6ca6b40c314e4635e97c45ddcb9758ecb81626ec448488102c73d494b29ab58f253350b260f30a93e9d38b7f47/GkTTrrH+762AShcgIN3FVHVe9dPeEJa6J6RtaQF4PE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "332605"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/399718/pas_foto/1688828753_6acc972e-cd8d-4929-a78c-d171e7872d7b.jpeg",
+    "nama": "SRI EKO SUSILO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEKALONGAN",
+    "profile": {
+      "id_calon_dpr": "4fd0c32bd0c5ad199610099e522d2b37344ba06bc408a1cc6302e625df739043d62726987be24baa8cdcaf17410f7979e09b35d5d67af0f7f741335a6da1f5bdLWOQY/yhNbLn0KuWhGKUq8BNKK2vwOsPCbopoEiSMdQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659959325_LOGO%20RESMI%20PB.png",
+      "pilihan_publikasi": "datadiri,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 41,
+    "kode_dapil": "332605"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/391161/pas_foto/1688881988_adf02523-efcc-4e9f-ac7c-500dc093a382.jpeg",
+    "nama": "M UKI OKTAVIANSYAH",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEKALONGAN",
+    "profile": {
+      "id_calon_dpr": "37f4d153e7a806f86509da4dc9eb774baa0b53c7f753644dd795414a1b5a62b454fe541ea3366fd590f16c44bb388ac23dacb25d6630a801d90aad1c03303ef9v+eTp8743fepwaLlQbhVVjZlost0ply+7v48dwlF9ro=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "332605"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/461355/pas_foto/1688882755_4428a52c-3cf1-47b6-9ef9-9f89bef00e5f.jpeg",
+    "nama": "LILIS INDROYATI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PEKALONGAN",
+    "profile": {
+      "id_calon_dpr": "b39ee295142364392ff1ba99f96c0c08717308e96b198201f6a2b2716dbbb27f45b8f70afb6476a1e108b91525c66a1044ffc7ff8c1d0818e351829704be2e92xKsVkiRfZNtgoSem7TbxHMMUV/QCR0BchqcZBe31eS0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "332605"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/391163/pas_foto/1688885068_2160f992-f36e-425e-9079-6d06ec09dadb.jpeg",
+    "nama": "HERRIDA ARI FACHRUDIN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEKALONGAN",
+    "profile": {
+      "id_calon_dpr": "d2ed20d36fb9f85651bb2fcc7f9469576e8b85a14b67c1f619565cbae4264aa326312c60231c46570d4d1727ebc5e9ed3f2c6518e16acfe6202a7ec8e7017d86OzozzVt6wGlAamnE6Ao4tDYsqOWR8lAM0x5IqQGOdmg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "332605"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/47879/pas_foto/1683370756_b7f4c2de-5cb5-4c76-aa05-c3f3ba663fff.jpeg",
+    "nama": "CAHRODI SIMAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEKALONGAN",
+    "profile": {
+      "id_calon_dpr": "f5acbeab4d5f002631250e3429fa817253652330ac51305409fdaf6d40ee28a3fe5bc8ba1d1541d41474c2e15fd81046a60d87d0db5ec2101767e512efc524a5kzJfh+N7HTGIUMyI8BW9tpPjKWvPDRkqFkPzk/b3p4E=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "332605"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/57181/pas_foto/1683388380_05a105df-9893-45c5-a273-ad343e318c5d.jpeg",
+    "nama": "IKA SULISTYOWATI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PEKALONGAN",
+    "profile": {
+      "id_calon_dpr": "8ae413abbeb75764a8ad9d7e68003111474ab81fa8a55c0027f3ffeda1e8555483a40768aaa21f3bea763f97868f8d4a3d9f1b53450a1646bf67a283e8d1466f3DYKstWKIU2KgNGpMZGDz4VKfHaNXAbhyRQInXdyNpc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "332605"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/48211/pas_foto/1688623534_b992f52f-5ed0-4daa-86ec-35dc970a86b6.jpeg",
+    "nama": "ANDHI MUSTAIN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEKALONGAN",
+    "profile": {
+      "id_calon_dpr": "53ba1f81e5f9d8c5ac6bd0a79e04c2654198fd9277afb366caf6829172ffd7038dffdc6bf36caa39581c5038f729d7ce3e2e0a8ddceafbebed8b4a3a27ef9900Lx/jVG8yOXSfI5ukgI1onSTpyXiMgi/2NrW3tqFJE68=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "332605"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/48325/pas_foto/1683388467_1083f213-4c16-43ee-97ae-bd4fdb8489fa.jpeg",
+    "nama": "SUPRIYATI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PEKALONGAN",
+    "profile": {
+      "id_calon_dpr": "de5eb70c9fbd8c1222b719ddda24be0c13c418ca2a73a466ae5c74ea41ef2a223180c730633ad790899645f5d1623f74ee07e0cccdacc6e5678639a9180532b8jc1SaDSbuYErpfbLin8GQjhnn1vzPvHnZm1Vmzt0CZM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "332605"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/49374/pas_foto/1683388547_6ca20bc2-a9ae-4928-bcb1-fbd0a636839c.jpeg",
+    "nama": "NUR ROCHMAH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PEKALONGAN",
+    "profile": {
+      "id_calon_dpr": "c0ebec8b08a39be3b370461104de0227542765c0663d37a1128c8d0698bcaa5f159b45330e8f2c76ba0f59fc4dc9fd5ed16982baff228cecede5b9a6dd3d5a55i9fw8sxenRrG7QWP6qNleJEJNn/7D82aFvascijAa8o=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "332605"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/49778/pas_foto/1683388657_0ee2b6f0-b731-4cf1-852f-20fe4a964084.jpeg",
+    "nama": "DARWITO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEKALONGAN",
+    "profile": {
+      "id_calon_dpr": "4ad547547782738958e6e2c90bb375a63553190f90bd71b859b184d2f68a0bfa156d5e5ad31b8cb3e5fada3ab3140014e6900d3c5d676778cded31d6d3e94f82WbO+uLMqQVT7N7xRwj4LYyiAyrbkQC9aY3LePg2rJ50=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "332605"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/42764/pas_foto/1683384832_a66ef434-d7d1-4a6b-a782-7d52f9a8217c.jpeg",
+    "nama": "KHOIRUL HUDA, S.Pd.SD.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEKALONGAN",
+    "profile": {
+      "id_calon_dpr": "3e745d2a687ad1bf2032addd168e92f1398e6b7799530b1d8909f2308fff27903abb86358852e2bda5887cf01bab18bff601f1f12de59656105159d86dbf0b64Lrmo6/7dHB7MmEFaTesOxuUdf0BchBpkO2yPaeQ8s34=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "332605"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/287166/pas_foto/1683811013_39b15de1-ffab-46ec-9b1b-4a510ca6c192.jpeg",
+    "nama": "Drs. SALIM, M.M.Pd.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEKALONGAN",
+    "profile": {
+      "id_calon_dpr": "96ff09d9088ef39b386ef61a7d228eadd79dfacbb4c47984dbcbba750cc99eb6376667c1fbbde1e34e670be2b8b6a6709d885342e1a1fabe1f8c2b16ceb613d3wbhqBu/6VKyYeDs3YzdZxN/ywVA02ztMXGlj89RjKiA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pendidikan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 7,
+    "kode_dapil": "332605"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/443487/pas_foto/1688787847_8ecb3ced-9a13-4c55-85bf-aa23c2dc15bd.jpeg",
+    "nama": "Capt. HENDI SUTEJO, S.E., M.Mar.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEKALONGAN",
+    "profile": {
+      "id_calon_dpr": "3e21f520341861a234e807e252f72a05e8fadf69c49ef47b647b68177735b25a1617c093c9aa8d0798b7f9319a6506c0493a7a259c9a83439585af72791e4854sbTTMGAI7xE6u1Sn0r+Rh5pCK0mJ+Lp7AMdMil0GnI0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pendidikan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 7,
+    "kode_dapil": "332605"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/279279/pas_foto/1683800979_94063826-cec7-47d5-b57a-16b30ba9ad50.jpeg",
+    "nama": "NUR HIDAYATI, S.M.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PEKALONGAN",
+    "profile": {
+      "id_calon_dpr": "4eca0f601f28d8a086cd8195578f9e559344d0ee737a3637e6dcc044766e3dc205f936c4af82d2da31afd8761ec43a1f0b1ba83f0cfc23f5ee1fa0273ddad666qyQUgZvxZSB9agXvQSB2nzloU55XHgWEjP5qLv9bbMc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pendidikan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 7,
+    "kode_dapil": "332605"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/288266/pas_foto/1683812606_ddd48915-f27e-4445-9b5d-5e3aacd24316.jpeg",
+    "nama": "Drs. SYAFRUDIN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEKALONGAN",
+    "profile": {
+      "id_calon_dpr": "7a102ae9c671153243c63e14df283d210ae8018eeb9e30f0efdb9333dfda15cffdb352f5eab53ccee28ba797bc46e15af1525f529a02091465f170d23b5d21ffjSKWK3bA9OoEj2KWrbDMnN3F5jRxfDXRs7kHQyUA7+A=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pendidikan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 7,
+    "kode_dapil": "332605"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/283663/pas_foto/1683807184_45a32001-b5ca-4f3a-8860-b1573446d927.jpeg",
+    "nama": "MUH. ZAHRUDDIN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEKALONGAN",
+    "profile": {
+      "id_calon_dpr": "a618858cea5311956a804fbc590977f4de7f6bab3e7e90d3c39b6581d54b65a20dd0f329b0657cdf1f9d33f78b7616676404caab2ad84d63bed3f32689bdd4b4PmgG0N3ijMBpZmy+T7gG0Urw1pP7+Kcrr9E+HMHswT4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pendidikan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 7,
+    "kode_dapil": "332605"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/281055/pas_foto/1683832544_0fb1dccd-236e-4eec-8f94-292b104b7af5.jpeg",
+    "nama": "ZUHRO",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PEKALONGAN",
+    "profile": {
+      "id_calon_dpr": "4e5722b32cf4ad22a504567d4a337ddd2cc22b8aaf96777521db667310b064a7ae4f0a1f1ec7fd1d4f8f3596f035e91653123cc75ec7b6254d00a21dc3ee4f8cKFW47rpdyry2Ot3f9kGQM2cg3igYq7ZIMdBdBTOp9yk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pendidikan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 7,
+    "kode_dapil": "332605"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/300647/pas_foto/1688171464_6caef654-7714-4ce3-b1e4-a788cc8346e0.jpeg",
+    "nama": "UMI FARIDA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PEKALONGAN",
+    "profile": {
+      "id_calon_dpr": "fc6620e7cecefe8f4a666f98d5681452de5a9bcdc2a27704987a040fbcc6d49ddd22fac49d803bb3ae91ce00f8dde45a50e720d08da078aa42db1ba48dbf338cFo5yHSxTxqnhwsbcE6I03ZdoEEnPyAVzCQh1ekjrogE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pendidikan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 7,
+    "kode_dapil": "332605"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/227695/pas_foto/1683737703_ef67a3ce-3c6c-467f-805b-61855cc4ab2f.jpeg",
+    "nama": "SIS. RIYANTO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SEMARANG",
+    "profile": {
+      "id_calon_dpr": "142a80acd9e4a6a74a277634dfbc50ac2fc81b2c9c918611e6cfe16404fc2db51242558484f2f1a1142c3ada617802332f04c98bfa9d8b2a5850bfe511ecec1dpOrj6WxjzWxN3N+CTwq9G8Nr6HW9y2JMkwL+kkovYJ4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "332605"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/224677/pas_foto/1683737606_b2b54947-3029-4a7a-af6f-2837a1568c1e.jpeg",
+    "nama": "MEI ARTO MORO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEKALONGAN",
+    "profile": {
+      "id_calon_dpr": "9fb19f7495e9813c5b1f4a359727322954e77e843a3493756b5811c168465571e711ed0f82e52575daf5f808691c4e7303854022cb5494034e96d9f791054ec1jkYPhxTS08NFVJ4Z1TM38rTm1DcBOQ2XpctQ6XlDOMM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "332605"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/235074/pas_foto/1683731769_ccb77522-3aa1-40cf-a11b-d3abf95332b9.jpeg",
+    "nama": "DEWI KOMALASARI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PEKALONGAN",
+    "profile": {
+      "id_calon_dpr": "74b3b0b4cdc12eeb592030eb73c16dba2593e165217f0bd34ed229b4bd01781a4873eaffd4cb37b60dfa03d8acae3df1018fd280788d405481b360a45f0c6138TSmmUpDKNBEHigJZd3o8buLWdoh2i4In8CLCnkEUXs8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "332605"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/19455/pas_foto/1687859161_886f82ab-8fce-44b1-b700-310b85b82cca.jpeg",
+    "nama": "TRIO ADJIARSO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEKALONGAN",
+    "profile": {
+      "id_calon_dpr": "5d8e30def0e03885445135b77db11788d9b90c27a2038088047d553462ca85e0f29aefc7e7d2c41bebcec159af41ee68b2996b039e21ff25bf72f46dff8694841hmW8lY+qW8tad7vsIB56tbs7tATuifw7zKkJ/mDPkg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "332605"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/19840/pas_foto/1687859241_25fb3207-3fca-463b-8cf9-8b14649efce6.jpeg",
+    "nama": "NUROKMAH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PEKALONGAN",
+    "profile": {
+      "id_calon_dpr": "ab85057e50430f120996e4502b0936d3eb1f9ecd07ece772c8c8c04cf2625b19a22284984284fac547942b2ff5f317529381c3198548af12cadafd694006045bKgUk0bYwkWvoHs6m1jVHnwNrEyJNWkHZfmdzo35gYUM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "pilihan_publikasi": "alamat,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 18,
+    "kode_dapil": "332605"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/113628/pas_foto/1687859297_87b7270a-f5bf-49dc-9f93-dfdefa7b23d1.jpeg",
+    "nama": "AGUNG DWI KARTIKA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEKALONGAN",
+    "profile": {
+      "id_calon_dpr": "9cc220ad113c75d90e28bce2e2b30593a11f9b59a89de0b7546edf99c07a27a9e824814efcd443b4685fa7d02475c97f81ddcd07d71f51edaf67556980e9799aRxOj8+2onM9ft8KEBc04rRpKvmFY/6jtvTMdSyyZII8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "332605"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/165927/pas_foto/1683854419_fa4e49fe-c3ec-42c7-941b-5fa3ad93bb2a.jpeg",
+    "nama": "SUPRIYATI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PEKALONGAN",
+    "profile": {
+      "id_calon_dpr": "3d693e6211d55084ac98d6e3c030f22a710531c2c849a093b2ced300d95442f93a7d5780a003750be45329f118a5f57249d2747cbe6f89a58a767e5d0ed8c481avV50z+PLMmhDIhuYvo6IBzY7AYjlIuFjE0CgX5Cxlk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "332605"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/226954/pas_foto/1683885668_49e1f227-4c01-42bf-88f4-2f4e67982bb7.jpeg",
+    "nama": "MOH ZAMRONI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEKALONGAN",
+    "profile": {
+      "id_calon_dpr": "978850337bcd033f8a632176b0d47c4f752335442dbe59a44506c17037a613553e050d1ffd6beccab3b4cb4985a6bdfd127f6b72fa02270c6563663846d46c249sRhF7PopyPdWaY7dm9MmO89x2iL6w/Ux9eFWEhqQBE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "332605"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/220737/pas_foto/1683854723_735d4d64-c033-4bd1-b522-b331da467d71.jpeg",
+    "nama": "CASMITO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEKALONGAN",
+    "profile": {
+      "id_calon_dpr": "14582f74c2c34c4e3e4ee8456a6bac1cc6db78cf99844164aec6b9fe791f8375a27fe549b87f9d8940c9c6ea46e1f090946fe58b724bc253e983b2f8d64ede6eB2jFgdtEdFR3yb8Nlza3Y9WoIX+D57CFp38F8L3OG24=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "332605"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/229781/pas_foto/1683855435_52151cda-5f75-418c-ab58-8d396f58e22c.jpeg",
+    "nama": "DARIS SALAMAH, S.Pd.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PEKALONGAN",
+    "profile": {
+      "id_calon_dpr": "f7970afc4640d4ca233f0fc789a8f97f4d852c53e936c49ebc9d99e688320c93dcc64945d512fcd123699753920a7d19bfb42e8ca44e04b0a17d0ee0735ae7d52Zl73N3FVD6BYCEI+Lw8vSz+5ELDrwJEJcUMQIKtbM4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "332605"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/191164/pas_foto/1695616186_fc59390e-e2e3-4503-8dd8-54f9706b654a.jpeg",
+    "nama": "MOH. ERIK ISNADA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEKALONGAN",
+    "profile": {
+      "id_calon_dpr": "09ac07f790c0f2b3ddfaee8695a169c406760debc25ea510984bb9c49f85899a188b1503e90ec982a3cc3cb7348654eab790f15ce2567cabc5a7720b9ca34773CiX0cI1iIgWAIkj5tgudA4bEhbS+Kjkb3VkP9MBQmJM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656157120_LOGO%20PARTAI%20UMMAT%2010X10%20CM%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 78,
+    "kode_dapil": "332605"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/383264/pas_foto/1688713051_efea0eb9-a0de-4aa3-a135-66946f47b1ed.jpeg",
+    "nama": "EVIANA WIDAYANTI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PEKALONGAN",
+    "profile": {
+      "id_calon_dpr": "87a946746314afe0f531f3fca4226fd4333cb4533899a5519efe6fbee49cf48ff0bb5a0d823447ae07da20cc6920f0dcb3a1d226e2f40cbf0de4e45996b23a59SV/+oWviNHAawQuIXqFdsJp9NGneAqzOXBQxCiJYnQA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656157120_LOGO%20PARTAI%20UMMAT%2010X10%20CM%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 78,
+    "kode_dapil": "332605"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/462920/pas_foto/1688898682_df5f70b3-12d9-4103-bfe2-a9581b95f0c4.jpeg",
+    "nama": "DHANY AJIPERWATA, S.Si.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEKALONGAN",
+    "profile": {
+      "id_calon_dpr": "3173a903746e6d4ac5acb30cda88c5386225f19a728df71b5659a5e9e84b83244ed130e979cc107bc2e290a57badf5b5feb9f694ec1dbfa9680767f2d1846719+wMsG4en1jylOiwRtTZHnEoey/bOLiRqCNm8q9F+A/k=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656157120_LOGO%20PARTAI%20UMMAT%2010X10%20CM%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 78,
+    "kode_dapil": "332605"
+  }
+]

@@ -1,0 +1,889 @@
+[
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/252188/pas_foto/1688839725_2a456b29-268b-4ce9-ada2-f54c6323de73.jpeg",
+    "nama": "HARIYANTO, S.Sos",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KUTAI TIMUR",
+    "profile": {
+      "id_calon_dpr": "3d1373ddde4d838fbb8e435ffb9ad16c571e71608e00eae56d287d4ab3ac73eb8050639fe194bc444a4e3067cf86a64273c1001e3e8b22c4e061431ae1caad3fxK8RG5iEawVfIyOfXkfJjCVKar+Bkwb8JNXVOp9I2Rg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "640803"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/252191/pas_foto/1688839806_02548a4a-34d8-4acc-92a4-3ec3cccad6be.jpeg",
+    "nama": "YORDIANTO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KUTAI TIMUR",
+    "profile": {
+      "id_calon_dpr": "f59f70cbc2951e69149c7c5f3b160038be96d7c39d57e6f00a83c9ad639583d2310f4c1d3f667b58f969f7dd020c090ffb457b598113b377304857c0319e440a/cSQRZ/8rCaGEvNVcPMXbt/AIcTdS2PPYGd3SKRf9fs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "640803"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/252190/pas_foto/1688839926_f787920e-e8ec-4027-aecd-cda2213d55e9.jpeg",
+    "nama": "UCHI LESTARI, S.Keb",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KUTAI TIMUR",
+    "profile": {
+      "id_calon_dpr": "1c7a4c3fc16c3007d4ebf5116767990011802c9e81e7dc56b8c6d48ab2e304f9597e5ccf546f7c9e6f45aa644df3462fffacb01881e93c97d90e7aa961cf8389fPYsMlYocNEVxjG8ZIpU2ZHGRqIQMYe4VedaW97IIHs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "640803"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/252189/pas_foto/1688840197_a3047738-ff26-406d-871d-86c30c1462ad.jpeg",
+    "nama": "AHMAD RIONO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KUTAI TIMUR",
+    "profile": {
+      "id_calon_dpr": "9dec76f8a91ee25be707c02ea0a04ced04d94b59664db35e89147e64ee4670dbf0ccfb2ff0f65905004fb53559140f878a9a625303884febfaace93ddbee8ac3wVMu3fILhull92CvNe7XTeSUi9HvMbNBFbIGcSZr7cE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "640803"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/456776/pas_foto/1688833140_d6c02dee-751c-4371-838b-44d70b05b448.jpeg",
+    "nama": "GINA FAUZIAH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KUTAI TIMUR",
+    "profile": {
+      "id_calon_dpr": "eb0f0cef726a5681c8ee13876e54e9ad99deca22613bc38eaf0709db051a38d8b5be5edeb2900bed80c7178d353e41e96a341468e3c8dea6ae1251463e010aad376xWYZHFt3Z7csRs9JZOGUckGQuhq1cKpNERR1dumU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "640803"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/486926/pas_foto/1696284356_4a2fd024-ca80-4178-96c6-300fb4794188.jpeg",
+    "nama": "IRIANSYAH",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SAMARINDA",
+    "profile": {
+      "id_calon_dpr": "3edc1a4449812cb3039d99582c7cac2190d8163eaf752c072f53d77a3c26bce69778f49769fc0a95d1afdfac72ba5def464fdeb27ac79d92a683966dc4f3a4aeRqg+m4j3gwqouf9UyGiGHNeOHI0LrnjswLb/RNwYQso=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,pendidikan,riwayatpekerjaan,kursus,organisasi,penghargaan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 10,
+    "kode_dapil": "640803"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/46978/pas_foto/1683190635_ffbc2df9-b3c8-4617-b10d-2b05bd89d8ea.jpeg",
+    "nama": "FEBRIYANI, S.A.P.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KUTAI TIMUR",
+    "profile": {
+      "id_calon_dpr": "e3696778b914f7f987e5a6aef1c4bde6799540ebaf98002c072ed2ede80b4cafbf9a30b0087856f14af0683de73cd125834013c743a62e7ef8d5d1b824c8852cxEFcLPwKptaz21B1o2FzQj6RZTNUyoLCLmEpXZPZCDM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,pendidikan,riwayatpekerjaan,kursus,organisasi,penghargaan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 10,
+    "kode_dapil": "640803"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/46019/pas_foto/1683624275_c855a70f-8618-451d-98fc-a4ede4be4aaa.jpeg",
+    "nama": "ALBADARUDIN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KUTAI TIMUR",
+    "profile": {
+      "id_calon_dpr": "0b8771e1eb2702b2c051dc37e23e3b105c50e28440ac9d8945cc18f92f2999af58a4cdc4d834544845952f23cc1fe83259a92a3f88ec855257dcddbc5c2a866d8ijHM/ePTALef2wNHHYqCepLsV/BxnemuBjaFZRVVjE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,pendidikan,riwayatpekerjaan,kursus,organisasi,penghargaan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 10,
+    "kode_dapil": "640803"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/149564/pas_foto/1683550217_9bddf8d9-8b3b-44cb-b15d-2baf0af48e15.jpeg",
+    "nama": "ARISKA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KUTAI TIMUR",
+    "profile": {
+      "id_calon_dpr": "ff8b3d05b7fadd6d5a256925c65d9ae2c4b09039ce4e9ed3b60790ca6e82cc8c75502848ed2567a3798e8ae755e6048c391334a0ddaa8833971d0591b8eb43bfquWCEKkDg45utu4rtwGqHuVldFeoP7QouckhYZ8He08=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,pendidikan,riwayatpekerjaan,kursus,organisasi,penghargaan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 10,
+    "kode_dapil": "640803"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/47080/pas_foto/1683682330_f0ba5158-0500-4605-9197-21c966aad504.jpeg",
+    "nama": "HADIRIN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KUTAI TIMUR",
+    "profile": {
+      "id_calon_dpr": "b783dd1809764eeb3138a4b760a4dbdf3cf56d3661e99f73769b524eb36bd289b0663dc6d830f4fdead38339d06fbee5ec04f863260f9dfcf8d6e83164a44e76eHwB5cCWWyPqSZYqFQvFrHFHF/iBle9/Q+2Kf+bYnZM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,pendidikan,riwayatpekerjaan,kursus,organisasi,penghargaan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 10,
+    "kode_dapil": "640803"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/30461/pas_foto/6408041007670008.jpg",
+    "nama": "YORDHEN AMPUNG, SE., MM.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KUTAI TIMUR",
+    "profile": {
+      "id_calon_dpr": "889c589d92a344369a0d23a7bbf7ce2e41486fb4f397d82b0e4e52a9dc31cf00f4bc5f189ad8a82166cb8764d81acd60c305dde8f15c1d115b613da10f9b4745D3YH0yCsmimaMoEOVE0XgLE1GGVVUl1aAnspQBl+ELM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "640803"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/30461/pas_foto/6408180808950002.jpg",
+    "nama": "AGUSTINUS VIKTORIO JHL, S.SOS.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KUTAI TIMUR",
+    "profile": {
+      "id_calon_dpr": "7c08ee76923b6f75f6419676e217be44a5d7949c128230072b9580015442205311a29923dba1cd25e9d95483521d58c663c19cefed8678a2af06946444b05aa9QI7ylhfOc74pfnFihymMyt8PsTuVZCMlcwodaChQOto=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "640803"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/227139/pas_foto/1696241179_34c7f897-675c-4dff-9ac2-2f8f2659e8ba.jpeg",
+    "nama": "RENA TERSIYA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KUTAI TIMUR",
+    "profile": {
+      "id_calon_dpr": "cea923b59e31ce2f77a3d5a125c255f4564c4cc98a37a23204429eb332f8e502da979f3eb06eaaa8c7f5d93a0d223bf815c9269c3b5c071a9f19b56ce331f877Q3yxMhq/Zs/Ln8HxkFDlWeoP9SoiHbsz84sOEOsmeFc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "640803"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/227140/pas_foto/1687842457_c17848e0-5ab7-45c5-807e-f9d081c302b4.jpeg",
+    "nama": "PENNY KURNIA NINGSIH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KUTAI TIMUR",
+    "profile": {
+      "id_calon_dpr": "d398bc077dcdc5283035e48e047db3f89d2b52c607907424c467a0360b5e1366e3f0efb6325893336c9547f7c551f182c031b1686649c4a4b6e04ac746939342iVgJpH0uzniAccPS275ZtTt+dGc16HrU34IobREcBUY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "640803"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/227141/pas_foto/1688375506_248db244-747d-447f-a081-923e041ad19c.jpeg",
+    "nama": "FRANSISCUS SALAMA TANDUNG, ST.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KUTAI TIMUR",
+    "profile": {
+      "id_calon_dpr": "bf905040b252ce8ac32777023e24a4f864339a0f6a27b5cfc7dfaa4547ab59329d903a6a0684b12ecdad1b0be4614400c2173c4c2fcc1353476da088c2f3e206ULzUaJ79qB8bpn+DKri7vsMaDQU7+nIP9DDpL3rn+ws=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "640803"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/169400/pas_foto/1683607308_cb73390f-bee3-452c-8ad0-a3360d155326.jpeg",
+    "nama": "SULAU LAHANG",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KUTAI TIMUR",
+    "profile": {
+      "id_calon_dpr": "66e3bb74e7433e66aadf288766ac9845f6f523e589bd80a4cc192a83ce13615bcbb9a0efb0437db6d8b3e58d99fd6e4ab8763ecef366681eee8eade072e56ee6ic4VxHqffvfgVpHFvy8fTjYp20q/6KEcfbj0aycskZg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 9,
+    "kode_dapil": "640803"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/169382/pas_foto/1683677123_92a4c9ee-4159-409a-9efb-90accbe797df.jpeg",
+    "nama": "H. MAJEDI, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SAMARINDA",
+    "profile": {
+      "id_calon_dpr": "fd17e5148127ef8ee4b94fc8b1a15227548ef89e22de92046e99c6ef1fc19aa8b4e4f181776a5b800775540ecef7df2e74cbe4c0e2b2dbd49a817091c5879713AszyQLuaX5lb190yvv/EehI3/Kk4I84QlI1FoC5IO0M=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 9,
+    "kode_dapil": "640803"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/169417/pas_foto/1683716838_e9629362-c0b2-4c5d-9f2a-e019ffeb7310.jpeg",
+    "nama": "dr. KRISDINATA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SAMARINDA",
+    "profile": {
+      "id_calon_dpr": "d1156905c5501fe725899ed6d449046f916da7fde406de82810343441177269f096cf43b7650e9afdc5d8ceb64c7f2ee74191f29b83a258d371a66b65e45577dWZMIzwf79V5bqb2O2TlNyK+UttYyPXVPxygRoIkpGfw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 9,
+    "kode_dapil": "640803"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/144425/pas_foto/1683519003_166d62fc-aa3a-45ee-b8bb-0013ee79eb3b.jpeg",
+    "nama": "RABIAH TULLAH DAWIYAH, S.Hut.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KUTAI TIMUR",
+    "profile": {
+      "id_calon_dpr": "71059157c62c7b396cf7ed55c303e71774837cd0cc80bd95553685df9c934f2bf5a62dda0924cb29151abe3ce4eb52c579a18b6d91a71a43c4b4e84a8f988d19whfQ6Adu+RwdPuooEjtMY8oQAep2/+s4NY7unhJIZb0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 9,
+    "kode_dapil": "640803"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/169398/pas_foto/1683603711_c9ccbbc4-4d29-41e7-9985-dbe324ce5e05.jpeg",
+    "nama": "JULFANSYAH",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KUTAI TIMUR",
+    "profile": {
+      "id_calon_dpr": "45aadf3f6604b650b84daadeb46d5a30e65cd834fecc2218d1b953a74a20e71ac5cf621db595fda3a371fbb6d9d3041291db9300f5f534bcd0c1cd600cd3f45bzQgRwG6vThHBaaguLbYx74rwsqKMXcKW0aer2Aw41rs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 9,
+    "kode_dapil": "640803"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/13143/pas_foto/1683597880_5c2faf49-1663-45bf-b548-78de5173a5a6.jpeg",
+    "nama": "PRAYUNITA UTAMI, S.Tr.Keb",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KUTAI TIMUR",
+    "profile": {
+      "id_calon_dpr": "de679cd1f00f27f7a20bcc72376cf991f8bcfde05786c5fa8d645152c615dfc8bdbc5340d2de80bddad303c684e3d1cd8ddcf5cba1ecf16a5d6b7818e38f83aeF7iP9XUZFQW4G/nAfPA79VMqZOJDtbziDYcJcqrKd+k=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "640803"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/14767/pas_foto/1683088442_46c96f75-b9a6-4cce-9ae1-7b6811c0368c.jpeg",
+    "nama": "SUPIANSYAH",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KUTAI TIMUR",
+    "profile": {
+      "id_calon_dpr": "8497b7ac5da91b0765248269e68a3a96b36ce3273029bed15571b1b5131e76071c11b91c780d9b3d2820a3121b73e65f2d342dc3e5bdfc26e92de579b8b90609ylS0EGPQy2fE+mZuYPlTzJHjCXlGaupCgHYgF5IfcyA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "640803"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/14885/pas_foto/1682951954_c3b07ac0-0330-4b90-8eae-0086f01b14bd.jpeg",
+    "nama": "RIDUANSYAH",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KUTAI TIMUR",
+    "profile": {
+      "id_calon_dpr": "09ebf06dabdd1692ae71b65974216e7ffd93b9c4abec9236900363a771da28839ee40c99b90526768767c127f076eb02e23d8bda66d1e849b111137a3faafe42PmJKWdcaOTfGFUeCChbRu8ESkYJzJ+Vk+xs9F7gHqic=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "640803"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/17770/pas_foto/1682998361_e75df76a-2ffb-47f4-aa7d-96ee1d5cfee1.jpeg",
+    "nama": "ARINALAS ROHANA SITANGGANG, S. Sos",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SAMARINDA",
+    "profile": {
+      "id_calon_dpr": "3e9ae7ce4cf7906a0b864ec97e99bf1c1ca06d81ddfbf5e10eb0e17a77c83bbb3cb3893025236483ffb45072caee789d8df60da36f9684c9390a2539ebc5833bRHPgGJcP99BJUzNXPK5OAaL3l8jBkero4j6CRa5dAFM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "640803"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/31394/pas_foto/1683702799_7109ec30-6043-464f-8e44-2d6c39c44a6f.jpeg",
+    "nama": "LUNG GUT S, S.E",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KUTAI TIMUR",
+    "profile": {
+      "id_calon_dpr": "63daf6cbda58c46ef99d7869d945a5203f8171c18f79ac168fd3805962339e879ddc3eb86e0595da78aab1cd3ac97768b98ae2d41f0f0d0a7ee395cabe80baa2GNsXSl4/RLD7eNHN5AN9Jwvjixj/vazTaZoq91E+ccc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "640803"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/362160/pas_foto/1688148693_bb18e399-38a1-49e4-b5e5-31d889d7cf30.jpeg",
+    "nama": "FADLIANSYAH",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KUTAI TIMUR",
+    "profile": {},
+    "id_partai": 41,
+    "kode_dapil": "640803"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/409294/pas_foto/1696167303_5f9048c7-16e2-45c7-9bfe-a603e2de5576.jpeg",
+    "nama": "TRISNO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KUTAI TIMUR",
+    "profile": {
+      "id_calon_dpr": "c72340aebe7b8b8572696cf66bab3c2ec6bd5e7e1db0a1b618d46f99ceda0d368323b66caadb85d56a602dd25d47d41cbc17ffa2842d12aae54d772ce7fd73bacd966J/2bNHXtxvupXgWLEIysA8EC8eIe7fm/Qz0Nzw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "640803"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/409292/pas_foto/1696167419_97247adb-9b9a-4e22-9c9c-c1c7ee4df9b5.jpeg",
+    "nama": "MELODI, S.PKP",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KUTAI TIMUR",
+    "profile": {
+      "id_calon_dpr": "f58a2651914e88456690ae9445b4447a226c8775413d1c6824e1a5c178e4a6f911b0382d3692f039d63bc08b4e34aa834b5cab4536372168a06cdb24003c4b27M6Qdt1fJlW0mrtNVElaXbUjiQUBs/nP2J/LVAPZwCAE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "640803"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/409295/pas_foto/1696167101_d432fdb3-dbdc-45c2-95f3-3bae26866b4a.jpeg",
+    "nama": "RUFAIDA THOHIROH ASY SYAHIDAH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KUTAI TIMUR",
+    "profile": {
+      "id_calon_dpr": "830e4621eba05e3ac22da9839261f2eb5371ecce3ec8e21f05b61f5c72185d07f79f6e095754506d63b1314e7cf7796f620715d6adf75d81ceeb947fca99296aqauKX2iCn7N5hCEeZMRU/1UEPWzDdoWrpvo8P1W0QFE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "640803"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/409293/pas_foto/1696167560_33526133-87e7-47a6-bdb6-4c00fbe95864.jpeg",
+    "nama": "MUHAMMAD ANGGA NUR ABDI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KUTAI TIMUR",
+    "profile": {
+      "id_calon_dpr": "fd396392bb8491917bafa61c10c6770079a0f1d7384611252e4c5fddb5a501716ef3f37e34a4e949b36292861c5edac286a63d92431218ae4f6ba70238c1e238CfwPEJjfhHPsjPgBNgXNNHNRG0ZladSTd+ftAsmGLPs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "640803"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/471895/pas_foto/1691642140_d1bde082-5968-49ea-ba6f-9f07ed1bc1bb.jpeg",
+    "nama": "SAINAH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KUTAI TIMUR",
+    "profile": {
+      "id_calon_dpr": "0697c655cff28ec8e07be8ee8a6e64a3a420e4a1b4da102fa90c96c143b398ff66a724b13ee77b27e8e41c75fe59d0af064fcaf2af28584491bf1f44ea477551G4kx7tuLxjFGIxHcfmfJNUDGlVLst5Ah7WsqEvD/OQs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "640803"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/40050/pas_foto/1683124368_79c0e2dd-fb14-4712-a3a1-73d7068d95c7.jpeg",
+    "nama": "AKBAR TANJUNG, S.P.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KUTAI TIMUR",
+    "profile": {
+      "id_calon_dpr": "9e438547d6829d35dce26e928be0d9b58369a8b20f72d945648d5171f06f330371c0b02143d790d9f7f07da8aadc052d04acbde411178f9cf8f8ef1154c40aa2G5H2WrxlB+UAGtwbFDGJSEaIocPj2hdAbtFLfejmFCY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "640803"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/40096/pas_foto/1683124570_003a1f7a-ddad-43e6-bfb1-5385d7e09cbd.jpeg",
+    "nama": "H. SUWANDI, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KUTAI TIMUR",
+    "profile": {
+      "id_calon_dpr": "044220984eabf481c34f915989726415f1cb82441634c2d76ac6532784392415c0be6a724e10d5c8732d2dbed60f930c3e25c2d75b79c3d772cf5733706cdb77VjIZQD1+hHAGNlzJFZdULS9ALO1KFQHq2MpcnM/sASU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "640803"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/83839/pas_foto/1683744939_c037abdc-021f-44ae-ac0c-62c89d47aa17.jpeg",
+    "nama": "ROSIDA DELMI, S.M.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KUTAI TIMUR",
+    "profile": {
+      "id_calon_dpr": "14776b7d7c9361b289a60c9fa4433a8dd8df443313c35fa61685965db08e93420bb5beba9095fc9db256c587547da4bb16cbefa60eca998c0583d6f9fb5bbfcc/xqnLxE1G+x1mC9yyBVrtnbghJtyNZTnuZsiPkMuzCo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "640803"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/40130/pas_foto/1683124733_30871c60-177d-4da2-bbe7-44696ff37314.jpeg",
+    "nama": "WINDHA SARI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KUTAI TIMUR",
+    "profile": {
+      "id_calon_dpr": "c5116c752ee4d461753e117b53edeb00e0d0b4b28b48b92c343757840fad2c6ad8a4d37be857de82ca25e0b70f8a7a5a9d0983f2ce8d36402d01f415baec6408Yc62AsiI95mWY39WoONWWdIJeeLmqr4qtmevLvB1vsM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "640803"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/40159/pas_foto/1683124836_505d69a8-2811-40b5-ae17-92a83a43a910.jpeg",
+    "nama": "WAHIDI MASHUR",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KUTAI TIMUR",
+    "profile": {
+      "id_calon_dpr": "7ced8b2931851727d7da3072ae5bcccb539dd95e673e2b42b54230eefd50920747ea5e619dd3909a5462d3a297885ec0117ea6d3aa3894a61058da6c5150f2feksRZjdcXOvucq/PRFsPjuE3Ya/0KDwiHJsHpft9+EX4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "640803"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/41991/pas_foto/1683924520_3dba403d-a959-4831-a7d3-31e48f725856.jpeg",
+    "nama": "TOPAN PRASETIA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KUTAI TIMUR",
+    "profile": {},
+    "id_partai": 26,
+    "kode_dapil": "640803"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/481329/pas_foto/1695794723_902fc39e-05ce-4b1d-b7f0-48d89aea1ca4.jpeg",
+    "nama": "SYAKHRIN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KUTAI TIMUR",
+    "profile": {},
+    "id_partai": 26,
+    "kode_dapil": "640803"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/249731/pas_foto/1696281721_10f0ff10-b26c-4a64-9e73-b1239b2e75ac.jpeg",
+    "nama": "DWI WINENGKU RAHAYU",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KUTAI TIMUR",
+    "profile": {},
+    "id_partai": 26,
+    "kode_dapil": "640803"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/448718/pas_foto/1688752422_dffeda26-5e92-4ce6-9fad-46fb461ee894.jpeg",
+    "nama": "MULI EDWIN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KUTAI TIMUR",
+    "profile": {},
+    "id_partai": 26,
+    "kode_dapil": "640803"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/347150/pas_foto/1683925352_ab0c878b-056a-4c12-94df-54b7e6b099f8.jpeg",
+    "nama": "DESY FERAWATI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KUTAI TIMUR",
+    "profile": {},
+    "id_partai": 26,
+    "kode_dapil": "640803"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/322578/pas_foto/1683909691_2cf135b8-e803-45f9-9c3b-f2e74b2e45ad.jpeg",
+    "nama": "ANDI SALAHUDDIN PAGE, S.Kom",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KUTAI TIMUR",
+    "profile": {},
+    "id_partai": 5,
+    "kode_dapil": "640803"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/6549/pas_foto/1691554126_520e918f-41e5-4b4a-be47-d14edd7cccbd.jpeg",
+    "nama": "YOSEP UDAU, S.Sos",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KUTAI TIMUR",
+    "profile": {
+      "id_calon_dpr": "f5b0171d88d1818d74bc98ae88498f8ef14da05724e7ffa3a2697700c5fb76ceaf64359fb7a44d4a4d2ad122316a942f4852941885cbfa1eedec51038857f200uoj+fc45CpAs0aMayWfK/CrEKGz9d6/CKscasuLvahA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 7,
+    "kode_dapil": "640803"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/72386/pas_foto/1691554205_6abc1235-128c-4af8-906f-82fb10384c5f.jpeg",
+    "nama": "HERUDDIN, S.E",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SAMARINDA",
+    "profile": {
+      "id_calon_dpr": "afa840d9a0d1eb0e16d88711c58cf0dd11efbb84365cc654adaa35ed307fdfb1be0d37684e5c9883df9ea4e8396e63432c0dc628a1d16fe6876c3912e4222f8eZl4RYzJcMJvKZNw2QlZkLovmC+D3tt+IxwuO2CSm/Bo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 7,
+    "kode_dapil": "640803"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/72142/pas_foto/1689223239_7dbed764-0532-4ce0-9794-e9a29091edef.jpeg",
+    "nama": "IMEY ALDA SARI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KUTAI TIMUR",
+    "profile": {},
+    "id_partai": 7,
+    "kode_dapil": "640803"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/58263/pas_foto/1691640236_1df60e63-0228-48c8-9a09-2d303f9b9b51.jpeg",
+    "nama": "MUHAMMAD ARDIAN, S.P.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KUTAI TIMUR",
+    "profile": {
+      "id_calon_dpr": "ac695fa9fb7931a5a63d439eb73524783140dcb9aee8d84b13e6792aa186c10ceac8d9692b239aaa14217a40e45c07d803f577f0734c8c496ae335e449fd2565Uy0Dh0wauRexIKyk1scQ2KtKE88tzSDooJ5k/mg22U4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 7,
+    "kode_dapil": "640803"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/451182/pas_foto/1688806249_ca2ebed2-f9ad-456d-ab7f-f458c3feca60.jpeg",
+    "nama": "EMI JUMIATI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KUTAI TIMUR",
+    "profile": {},
+    "id_partai": 7,
+    "kode_dapil": "640803"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/40261/pas_foto/6408030112720001.jpg",
+    "nama": "H RIDUAN, S.AP",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KUTAI TIMUR",
+    "profile": {
+      "id_calon_dpr": "1178594daee1a54219862925e8efe8dca8290d166af87a20dd8c83ac863685f089629db9dc7344c7b2305ea95a31bfc36355717f4b706ce9b89f1dda3e721650qT3QDay6+M6x7E6xyXQ12RnNKpvaUJkmN7dNOmtVW8o=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "640803"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/40261/pas_foto/6408011212730001.jpg",
+    "nama": "HASON ALI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KUTAI TIMUR",
+    "profile": {
+      "id_calon_dpr": "b9922f1bfead8a8878ed07a031adc3e5f13183721a8f5adaaad406a096ec40e657ef3c1fd3590c876af005ce906ee1d7d63c132d617953c5ea42348f5640768e/SRXBqAuj4tyIPu5eueu/s4zE72rzWlWzKWDrtNxCCE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "640803"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/40261/pas_foto/6408016503980001.jpg",
+    "nama": "GHINAA ASWINA KARTIKA, S.M.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA BALIKPAPAN",
+    "profile": {
+      "id_calon_dpr": "9b085290fd8956ff72c922076be196dfe8750152fe6f9983e9e8c83a3bf452e633c3c1aac8205734efb0da69d16ca6a696ee3ef31490fd0b83e9bf06b68479057RG1Ctc8Am8qGN+RCVYe9DBgq1ZjMsydfBf+WFWHAHQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "640803"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/40261/pas_foto/6472064807860002.jpg",
+    "nama": "NUR FITRIANI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA SAMARINDA",
+    "profile": {
+      "id_calon_dpr": "24605b53e5ca302d80718b566a8725016d689e10d6d1a20c14be418e2fadc341bce3e28c798bdceeb38f91d6dc393d8dd2277326386b03cbe46d6aa3eceedee9EVNOYd3B5y99m5vruy5y9NJOE9pW/Dv6s0jqbsCw/qQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "640803"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/40321/pas_foto/6408170207710001.jpg",
+    "nama": "ZAINUDIN, S.Sos",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KUTAI TIMUR",
+    "profile": {
+      "id_calon_dpr": "ff61201863bd7241efc4b13bed49c1fb3010f7b46ec8c6844b02aea92de45b5fb73e24b07130f7e71ba3ec2be3bf22546720fca0d3f80732690ab8e11fb11affbMNSx0nOTCI7ytOux+5xU3eG56q0ti8Nc3k4/22jYcM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "640803"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/36737/pas_foto/1683445196_1800eac4-6013-425f-9270-4429f725a48d.jpeg",
+    "nama": "LIM JALUNG",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KUTAI TIMUR",
+    "profile": {
+      "id_calon_dpr": "1f99ade07672dc0f4fa024b266dac7e8ced8918b28f849c47cf8c048f5d393c36f6e75f97acba6ee0bdb887812ad3dd14b6ce90a6c87ace7318bc67cfdc315ebaTKYofeMpodSvyhW0sLOxeoqWorQNp8/pcAmzMcbUSI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656419883_logo-10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 76,
+    "kode_dapil": "640803"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/40614/pas_foto/1683819237_559696eb-3678-4a2b-8db5-81a9435d3a2e.jpeg",
+    "nama": "YETTI SITINJAK",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KUTAI TIMUR",
+    "profile": {
+      "id_calon_dpr": "478ae2984afbdfc767b70c023e00d423a8b784d28bcf36b7a1c0c24a6b94a668dd4b3700b152e033482dda4d258caff87b258548f2af48751b8d5e5df17d7e107EfTQuNxcJgcqCKQLBAudGkJZgeKHXCN3EawzT2Kksw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656419883_logo-10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 76,
+    "kode_dapil": "640803"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/38964/pas_foto/1683816302_0b9f62a0-e254-4f6a-9358-82db61ec01c6.jpeg",
+    "nama": "LIBUT, A.Md.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KUTAI TIMUR",
+    "profile": {
+      "id_calon_dpr": "adadb3a16f8c5a215363424be4ad740f59762dbe2fec8de6e8028ddf162c9464d3c56a5195e8d72d430c3145746af11919201f3714977dc385de9efb08084919H6KYSyWsCS5t451xk5o9vDuyiEZe9B00VKavX+P2MPQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656419883_logo-10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 76,
+    "kode_dapil": "640803"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/153983/pas_foto/1683781121_4f899ccd-ad65-49e4-8c4a-63cae283c040.jpeg",
+    "nama": "OGIE ANANG ALBANJARI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KUTAI TIMUR",
+    "profile": {
+      "id_calon_dpr": "f44c9e4660fe72aaa597f8924daabe0b2458799905ed6292a8755dac4067d3ea74843e573e4e75430e5709ce93f4b6d244e2d02db0c8ba7c99a1eb8daeca88b3uN4/SGYxaPVa7wro0dW9NEkhoyaD2LIhOtysMG3U7+4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "640803"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/153390/pas_foto/1683788272_9e4a5e09-6463-4442-b748-7a4a4769deac.jpeg",
+    "nama": "JUMRIANI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KUTAI TIMUR",
+    "profile": {
+      "id_calon_dpr": "7f7c7d180789794fd9bb7d739d3f01cd9d7cc1c6704b96fd4efb4d4a9ee9cc3b991714b9d062845a328bd61e0d92d3c1985b1dc525687b7ab03e16437c1e5b5e/RaK+mqGYM6jEA8pf9Vs4T/zsv88WbDxohcgI7CSva0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "640803"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/170617/pas_foto/1683790896_f2bf20aa-febd-4ec9-9e86-cf5a0f6ea615.jpeg",
+    "nama": "JEMARI ENG",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KUTAI TIMUR",
+    "profile": {
+      "id_calon_dpr": "b6f4c9677ce088983cc39625bb2920a6a3ef43818ea1b1fcb9d2096646934e86bf0ae5ede43816352bcd4b3c2b1fb72879baaf874569e17c4f4ad51d2da95444EPI0KbwRDBFViXHoIdbUBtz3nuLE3j9+1yM+iXOVfuk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "640803"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/146800/pas_foto/1683777782_e8e03f37-e02d-4aa4-8c64-23b4790410ad.jpeg",
+    "nama": "AGUSTINA LENJAU, S.H",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KUTAI TIMUR",
+    "profile": {
+      "id_calon_dpr": "ecb8fed1ffe0693fbcf2dfb40580d7aeb5802ed64ec9ddee50937495552fa2967a4c793e5450c49d860b52dd8e501734d951063e5921cf459d0edcc840806c4cHvCMbTQtqUMOmXCZ4iCqlUe/L6xHwO6oqUS0kE7/tXE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "640803"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/149403/pas_foto/1683787666_31f0af91-7994-481b-ba4a-7031d1bea321.jpeg",
+    "nama": "DESI SUHETRI, S.E",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KUTAI TIMUR",
+    "profile": {
+      "id_calon_dpr": "3767bbe64b69dbdd0457a6e7d2dded13dd9f9c935cdf672b1083e5ae600cc12a497c9f888f33884261493a6d9c48fc17e08964ea84fffee541f043463c3df9bduXRdNh++lLUgALuiu5cFEwnJtZKaNN9HR42EIJDSA44=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "640803"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/125160/pas_foto/1683629798_b79d51a6-deac-40cd-9f0d-622a28c5fe1f.jpeg",
+    "nama": "IMAM TURMUDZI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KUTAI TIMUR",
+    "profile": {
+      "id_calon_dpr": "9f1e4ff6ee564d5d154db4aaec735659b85b1650f250e71eef327e47088407548ba88da8ccce32a6c378821b8e132938155ed80e944125feb4627383d6da2831UC7ZAAs73KIx1RvUODGU/Db2ElnECbDJN2DJeqEx0Hw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "640803"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/235514/pas_foto/1683867562_db21ff95-2802-45a0-a58a-2360554bb942.jpeg",
+    "nama": "M. DIDIT, A.Md., S.Hut.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA SAMARINDA",
+    "profile": {
+      "id_calon_dpr": "61d84b9c9fd4b5c6eabc36cb25d67afdfd7b5b22723c32c75fb65c69f71f5e11b2c716be25ed9f901141c05d1e652f2b33e9fc4d0de1c938ab25b29ba4595e2bBQFloWveq5QLe7dQvoL9LA1v9/k/M+WvbT2FECLAjaA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "640803"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/125890/pas_foto/1683628572_5585b62a-c4ad-444a-ba8e-be24c56e6dcd.jpeg",
+    "nama": "FAUZIAH NUR AGUSTINA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KUTAI TIMUR",
+    "profile": {
+      "id_calon_dpr": "5918f6de5fed7fc1ebf81902686421c46e65f236984f1b87af0abb79ce196be3be0f135d330e570ddfe7e2c8a1c328d0887a892f779de62d3f00d8cab6765bfet7qiVgI/JXyYXi45vyZnEIGLW8ga5DwSDHwG0L+c2yI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "640803"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/126348/pas_foto/1683645498_53dde831-2f5b-4650-9612-0eed04f25ce1.jpeg",
+    "nama": "ROSA LINDA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KUTAI TIMUR",
+    "profile": {
+      "id_calon_dpr": "daec0eb653953324b4e483307b49b14d955dea82dea53fbb4413435fece5ceba401ef1859007859d8c42041852846d7a5501eb08c1646f63743a21db45b700ddSp7b++Ut9fx5gQM36FSbR4if4ndlf5eboIuyoUai5WE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "640803"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/126096/pas_foto/1683645041_52745fa9-cd9b-4d6f-886d-1797209e9a52.jpeg",
+    "nama": "SYAHRANI, S.Hut.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KUTAI TIMUR",
+    "profile": {
+      "id_calon_dpr": "bb54ab7bcad35a63521c49dcb2a7299246fb773704623a2ba70a8496db5619190e8d327716db65bdf61ed8123757b7bf83752fdbd68b6a61ab67ff860076b3afaBliVLDkeal0yicijlE2FcFipch36fe2dAg5XA9nVpM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "640803"
+  }
+]

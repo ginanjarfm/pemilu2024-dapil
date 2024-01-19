@@ -1,0 +1,818 @@
+[
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/153872/pas_foto/1688470795_2bacf252-9566-4249-99fc-9478add1d0cf.jpeg",
+    "nama": "AKITON WONDA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PUNCAK JAYA",
+    "profile": {
+      "id_calon_dpr": "d20e1603e17fd3adf7d32d040c4a7c339b16056974f335a92596b7ba9ca1c3e4665fbae5357dc059f93f7d569c494fae4fc291369d7984916df3fee817dc514fH3znTQB6YeXLwKv1h1C8w4Gv5Big+hXbJjrMAdgQ0/c=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "940203"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/153871/pas_foto/1688375092_5f575106-83d4-4b39-ba01-6d3ed2ccfca1.jpeg",
+    "nama": "LIRINGGA KOGOYA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PUNCAK JAYA",
+    "profile": {
+      "id_calon_dpr": "ec9dc6ea789102397aebba306bcc27ba5f9b86e4d2eb66ba901e3c481d6b0fbb316d1cabfeafce98b41bc86d454ab5f02119350ae1635d5432c7c6a335acc7aduHjbc+hJWp2KzOyqdJwy3RTy1xCHll1cWC1cXjY8oW0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "940203"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/153873/pas_foto/1688377635_a55d262f-9d73-4dc9-8c33-f4f6e8a69113.jpeg",
+    "nama": "YELINCE WONDA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PUNCAK JAYA",
+    "profile": {
+      "id_calon_dpr": "428d227479bb49d170644c3d4db6804b71938c4e66fb9c754007986ec6c606265f4c102bb22a5f957d51ca8f8853def83cf07b220c9a73554ebac599294fbef6o6/ekt++F0zpuA3+AUc7SuwLBPreoLSGnWF718nxAhc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "940203"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/153870/pas_foto/1688376141_351759a9-0061-47a5-8725-b03a93ffee32.jpeg",
+    "nama": "RISON GOMBO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PUNCAK JAYA",
+    "profile": {
+      "id_calon_dpr": "88ee60959d16243801c7f1b7d725d876f5084c685334ab4ff13abad497266d0dde45b91647af5191fe3085e89b733ca17607b7c623bb58d5c531064cf2b68c7aQoOu5d/MWO+sR5YAuJ+oqiMTw1QwmWRCbAd4IeF7Lwk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "940203"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/428809/pas_foto/1688380771_d33e76c6-f3b2-4779-acb8-405e0a9403bd.jpeg",
+    "nama": "YERIN WONDA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PUNCAK JAYA",
+    "profile": {
+      "id_calon_dpr": "b93927bda249d5cd8be5846207ef05f9f336ea007d5480a909a4c2ae81dfb442e37fafc3b2ef9f38f23f27e595024b1c0c3799e9525964640cd27c9266382ad5kX1NbMAyjGqh7x02nQZPJWpPxNEik8vTA+5rdngHxPI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "940203"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/171920/pas_foto/1683710276_84284e6f-fdc7-43f0-9a93-552000fb8843.jpeg",
+    "nama": "PILEYOS TELENGGEN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PUNCAK JAYA",
+    "profile": {},
+    "id_partai": 10,
+    "kode_dapil": "940203"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/172172/pas_foto/1683811944_babb4413-5b9b-4e0f-b958-71888f33299e.jpeg",
+    "nama": "ENDISON MORIB",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PUNCAK JAYA",
+    "profile": {},
+    "id_partai": 10,
+    "kode_dapil": "940203"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/172359/pas_foto/1683625365_5d840ce7-a40f-4369-aaa9-8f68de53b6be.jpeg",
+    "nama": "TEMITERA WEYA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PUNCAK JAYA",
+    "profile": {},
+    "id_partai": 10,
+    "kode_dapil": "940203"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/172564/pas_foto/1683657168_8048a39e-53f9-41ed-aee6-ce603e50a14a.jpeg",
+    "nama": "WEMIRON KOGOYA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PUNCAK JAYA",
+    "profile": {},
+    "id_partai": 10,
+    "kode_dapil": "940203"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/174485/pas_foto/1683764744_26daaef2-6cc4-409e-bc02-de7553f89230.jpeg",
+    "nama": "DAMINA KOGOYA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PUNCAK JAYA",
+    "profile": {},
+    "id_partai": 10,
+    "kode_dapil": "940203"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/59783/pas_foto/1683525163_3f5612ce-6bcc-48aa-8252-b82e30a37955.jpeg",
+    "nama": "ITAIK WONDA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PUNCAK JAYA",
+    "profile": {
+      "id_calon_dpr": "f4ab3d26a07583e97bbfd29b259c35f3c782b638ec5c8da3952f3976e79392459e5a81cab7b3d4c60e0fbfad85df99323a4865ab9b8e6c82106dcfaa04f5e3fdI2mbf4Q0ajcxg4Kl0+qT7zzz8iwNDCB2K+0VeoXEBvQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "940203"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/59784/pas_foto/1683525218_32c5de43-f2de-4a4d-acd7-2ec335d754c3.jpeg",
+    "nama": "WEKI KOGOYA, S.AN.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PUNCAK JAYA",
+    "profile": {
+      "id_calon_dpr": "24560f735b42596db5751a3f05c9043f74dd3dc62c39cfe8dfeb9abef03a84ddcaa2669d2ae4d71824bbb6371acc8a0b7df36f8b44145f638cd2969328a898d3Xj+EiK5bb+1LMRHIA3T2Mhi8u9EESviZpE4uP7qJF9k=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "940203"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/466808/pas_foto/1691398338_4a79d236-2886-4723-9f7d-e56917df311d.jpeg",
+    "nama": "YENDIMIRA KOGOYA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PUNCAK JAYA",
+    "profile": {
+      "id_calon_dpr": "acf06c08f593fd97afb3b388ba85fe3f1c816f523d83e1bc4fffc1119ac9936e3926dfa4896e2f0078de6d1f2aa92aefd6a32341a149bac61eb28cc1eb000f95MRDYiuhJ4EgNHBpTcEcmEkCyC+kn79KDZVO0qQ/XQOs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "940203"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/59786/pas_foto/1683525319_49b9698c-ae56-4d3f-8db6-a2b783845160.jpeg",
+    "nama": "IMANUEL TREIDO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PUNCAK JAYA",
+    "profile": {
+      "id_calon_dpr": "6f7dffc5bfdd60e46fe21067281022804254b8403f007b0d4d8a6651ca7197bf61da63c7a6454d7a37f24420300499c8a83993b43a18510cc75811d473ab1208AHU8dLROhjF5+Z4j+b8J6g91qrUpS7+2C+o426yGlxc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "940203"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/59788/pas_foto/1683525531_7414233f-a09c-442c-8c3e-11f1dd0b84f5.jpeg",
+    "nama": "KATARINA TREIDO",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PUNCAK JAYA",
+    "profile": {
+      "id_calon_dpr": "0ef4233dc97cfa3149faca8a80a58a1d8ba59dc60a6d7511453a0a7dcb5aafe726cd7873926b9dbc2cdea3bdfa97070b3ff7025c768d299792724f0b17ba3a25DbFPdagt5TIqbClpjSxmRkfkBQT2z38Noi761olQP9c=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "940203"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/197311/pas_foto/1691679494_1121283e-c924-424c-b08c-9f5a8121ad7c.jpeg",
+    "nama": "THOMINUS KOGOYA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PUNCAK JAYA",
+    "profile": {
+      "id_calon_dpr": "72e6828f57be22a5dc63bd10dd05f3a0bb0ce2d7a0cd7f7c852ef47db5ef6aac8bf26e9cd294fbb940b763681aa0495a35dff4f5f08bcfc51dfc28f73c7eb880H2ZpGBxogc6DSWZjhH5YIzmpTAuLCfaSr5ppX2XLACg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "940203"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/197842/pas_foto/1691678746_66b7f60b-0562-4fa0-bbe0-18155d7f9939.jpeg",
+    "nama": "THEMI KOGOYA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PUNCAK JAYA",
+    "profile": {
+      "id_calon_dpr": "b360822639ea49fcac2fef40d46e7b15ecbeef42032a69d9d15c8f98727cd8d9d9cbef62d1178fd08bd939cf1ce2abefa61b42881c7d7be5ec89a7bfc2ed050bnIW5RoKrH+J7rjo22h8pfSbPt4WFEt91Q6sqU3NPwFI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "940203"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/197476/pas_foto/1683797486_c42508d9-f2a7-4035-867e-dac7481e5632.jpeg",
+    "nama": "YEMIRA KOGOYA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PUNCAK JAYA",
+    "profile": {
+      "id_calon_dpr": "506fa60a6638f6594e338376b05e752a03244d88638f9d73d1828f8535bf6e40dff0f2db4754c30f4f1975f51a1c9a20b07efa9ef62369e116206d4115df3919qRqzQc6r+O4Fa+wIYNTtdAIwVPDkDCcnG/YZDuEHlKA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "940203"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/363917/pas_foto/1695823158_103ef8dc-6ffa-4af4-a0ed-b7e408f85d55.jpeg",
+    "nama": "LITIUS WAKER, S.Sos.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PUNCAK JAYA",
+    "profile": {
+      "id_calon_dpr": "9661843ae14b12a70a3bcc2db658bf67605beac5fd2c9817d97be353330be2790ea59b1d6e7ffb47aeeeb36837d96893c79a678077d16bf2556b659f2db3d4d1zuVPbbXXnXJy6V1UsIcdvSCVjs+axJpjAQKYcyxEYto=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "940203"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/141287/pas_foto/1683499028_daaac090-9301-40e7-818a-b9f74e17b480.jpeg",
+    "nama": "NETOMAN WONDA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PUNCAK JAYA",
+    "profile": {
+      "id_calon_dpr": "b1a09aa01236dc730e8ec43bb29067ecc84b89b3bbec308e56d45134002f19606b9ca392d5bba327ad0629140f8ac4be319354d661d95766cdf7d92ccf68beee/cY4sonV3PnjSGihvqZTGcDqNZy4Zx3Df0HVnE52n2w=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "940203"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/133382/pas_foto/1683469186_21c4d61b-70d9-45e5-8c03-1bb2fe6e1c67.jpeg",
+    "nama": "MAIKEL WENERENGGA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PUNCAK JAYA",
+    "profile": {
+      "id_calon_dpr": "1211a4d0a5721aa19e65e66a23a21c93985f84766dc87a194c38a5c863fa2688d2dfdfda33e8b188b3b813ec2aa95344b3f0d78e50c1d000be119fec8cfb8bccz0Stf+/Dl6oLHZmWnJRD1BFU9odAPVuVetzigpl1ujc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "940203"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/133708/pas_foto/1683469792_8ae52e07-318b-48e2-952b-c8b710332de7.jpeg",
+    "nama": "YUTIN WANIMBO",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PUNCAK JAYA",
+    "profile": {
+      "id_calon_dpr": "1476f48ee6fd3ec0ac7da24798d19422a8b40c06b1a4602e7640dc0ae806bbdc9c8392159714460bcce21df5cb3f361726f3245e3669302b0126de9eabf9341cT5dlk6ndEDIAdIUECo+3neLZzYxGKVRrq1Kd2xhqqb4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "940203"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/134009/pas_foto/1683470457_a270c258-fb65-46f1-ae63-80217eeda7c5.jpeg",
+    "nama": "UKELE KOGOYA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PUNCAK JAYA",
+    "profile": {
+      "id_calon_dpr": "7b9bf5684ac75922f6a22b32ef12677e823d3c59ce5799724c506889a85e2ff952eb6ab8541543653410cb1056e723e73e33c0274c4cf571f5c25413895dc48b1eeOBkdrzl7Vy5KQkI2kBkdvN4pFAlstnmK5VP/h9yA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "940203"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/141271/pas_foto/1683498676_a0cc5c78-7923-4329-82d8-60dc6a216d56.jpeg",
+    "nama": "KIPERA KOGOYA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PUNCAK JAYA",
+    "profile": {
+      "id_calon_dpr": "c9d5dfcc7eff04db76d3d06747121a50c016605c4cd28186de218f519923f42c62da1f6327f58d550d57ea87f0cf1330cc6b02565582b5400a5c4c348f66d4973e8iQEMM7E1tFp+Svp2UglWkorQMVJTDfbYnBuorxCE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "940203"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/397677/pas_foto/1687991449_abe5e973-2385-4517-b4ee-a150ff7dfd39.jpeg",
+    "nama": "DEMIANUS FRUARO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PUNCAK JAYA",
+    "profile": {
+      "id_calon_dpr": "8fa3ae013d495b493b5f23d0f60efd3f353d06e8d87166610b4278ce2ca3bfbfed54f3fc187113b0bdb67ee8406aab42e6dafde4231123896224c698f7b818efDuM2bdF/tEC+YP1ZWE04y1+FCZcYvx7NGHpAJxmO02s=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659959325_LOGO%20RESMI%20PB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 41,
+    "kode_dapil": "940203"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/397680/pas_foto/1684036071_fa0b4d5d-4953-4966-a0a2-4c95e15e73a0.jpeg",
+    "nama": "MARTHA FRUARO",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PUNCAK JAYA",
+    "profile": {
+      "id_calon_dpr": "92edd7c78216ee2a97d41d262e06fde76cf60498f7c3106a8e9e740a27831da53c5edd0a87874528aa4533e791726cf8960c95ca3b00578324811c3c7a53a41b8BtTgk5ajiROdPYy+DETJ5PQdSqozQMstgz+lk/qwZ0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659959325_LOGO%20RESMI%20PB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 41,
+    "kode_dapil": "940203"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/425578/pas_foto/1688174300_657f32f0-b5b0-49fc-8942-d5a5cd33170e.jpeg",
+    "nama": "YAPIUS TABUNI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PUNCAK JAYA",
+    "profile": {
+      "id_calon_dpr": "412d6f925d341468afae875dc1220e0b226b400b3d8534fa46817ea8ee32731d5d99e8d1671925b0f5b1caa9a51e076d1cc650659636ea92911868208ca868c6OhQvLZLwAFI3j+cATZZ9z0OvuHCvAgdHrOHO6VdqDic=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659959325_LOGO%20RESMI%20PB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 41,
+    "kode_dapil": "940203"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/425593/pas_foto/1688532065_2e8eb845-5d79-4da6-8695-ce4a1ba94e56.jpeg",
+    "nama": "LISEKI GIRE",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PUNCAK JAYA",
+    "profile": {
+      "id_calon_dpr": "b9871480c0061624b0810c66623af299a80ae7b222123b221649cc10a2fd835b35985153b3ded6fae8c1fba30bcc8d17f061a4e3f1866d0b7b93f5cb4a637454BZ6SI78BWoBFolceiuib7pcd0kpEc2w/wNMwckJc0+0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659959325_LOGO%20RESMI%20PB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 41,
+    "kode_dapil": "940203"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/415707/pas_foto/1684161487_53aa6449-6cb3-4eb4-8ab5-56b76ec284a8.jpeg",
+    "nama": "YOMI WONDA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PUNCAK JAYA",
+    "profile": {
+      "id_calon_dpr": "984e39199c276a1778def2cca870c14fc35f8910d9a0a507fb22d9b62e2e9bb9615b7135a093816a8fac4283492b154f638678c85d8e6ff68a9b6d8e2989b1af46L+dV0nEq4ZYpNfQh9cG0R9mafh1XECcXxUCEPkxmY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "940203"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/415737/pas_foto/1688015568_72c8d5ae-cdd8-410c-b705-04e372c60618.jpeg",
+    "nama": "GUMANGGUP KOGOYA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PUNCAK JAYA",
+    "profile": {
+      "id_calon_dpr": "708479df14769e3d27681a490137261bef3c79f7c558542de0c044de4f9ff8701b8787a173f2a044e7660427555501f47a1e4d4e9cdfa9b89610acde873b9a29rPib8re5KzJfLEZa69YWROCoS9hysLVP6VpFfAt6pkU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "940203"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/415764/pas_foto/1684162322_72405a11-244c-4efa-a802-4271ee69e23d.jpeg",
+    "nama": "EMI SERA ENUMBI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PUNCAK JAYA",
+    "profile": {
+      "id_calon_dpr": "928f6dd2914af64291acf40fca5b20f72d17578e3ff7235b593a4fa7b6ca47d8aaee948fc5b15f4348585efe3debd9c2acfe9956ebffc31ef103ef52ce9d8c69hLNoC65nytEdgQVzr91y5gtECoUGSaIazh/ZDWdxu7c=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "940203"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/415781/pas_foto/1684162691_01553b04-2ccc-44d3-9b32-a7b494c09035.jpeg",
+    "nama": "PERTI WONDA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PUNCAK JAYA",
+    "profile": {
+      "id_calon_dpr": "0d843a0477fd8a920d5bdfc30c1b6e1c979b9ebe246ccb5cc27d52a1b5a50b70226afbf22ebf95700a2aaee3aa7c7eb2d17347671c07a1c0eb6a7e64f39fcaddSX7sQi9SVrEdtUiQJrjxfsWJqZg81Ux/IVE8RC5lTZU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "940203"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/415801/pas_foto/1684163042_b4f8c431-e626-4ad5-890a-7300b250e8ee.jpeg",
+    "nama": "YEKIMES ENUMBI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PUNCAK JAYA",
+    "profile": {
+      "id_calon_dpr": "d65b3076a1be14441eb9b5beec0105d268759d0a42ec2931433b213f90b5dd45730e0380826ac9ade120146ce8514ab7cb58f84b3675ad6b8e5dfa84d622ec07idugUzIiyycdN2MtaPq5ox7hcSdsC5TrdWtLUeyitsg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "940203"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/111690/pas_foto/1683427268_44ffd981-2a39-4f2c-8cfb-50d0e48efc1b.jpeg",
+    "nama": "LIDISON ENUMBI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PUNCAK JAYA",
+    "profile": {},
+    "id_partai": 6,
+    "kode_dapil": "940203"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/111945/pas_foto/1683428470_71438569-5fe8-4249-a768-a0f3aa70127d.jpeg",
+    "nama": "YONDIUS KOGOYA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PUNCAK JAYA",
+    "profile": {},
+    "id_partai": 6,
+    "kode_dapil": "940203"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/112147/pas_foto/1683429809_8d948cd8-9169-4b35-bd03-3b5508b81316.jpeg",
+    "nama": "ELIMIN  KOGOYA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PUNCAK JAYA",
+    "profile": {},
+    "id_partai": 6,
+    "kode_dapil": "940203"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/112429/pas_foto/1683431188_11b1faf3-cd3c-48ad-a68e-1c0784a538d3.jpeg",
+    "nama": "DUMA TABUNI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PUNCAK JAYA",
+    "profile": {},
+    "id_partai": 6,
+    "kode_dapil": "940203"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/121531/pas_foto/1683450297_f87a7281-3023-42d0-a5cb-3520219d9f26.jpeg",
+    "nama": "MUPE ENUMBI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PUNCAK JAYA",
+    "profile": {},
+    "id_partai": 26,
+    "kode_dapil": "940203"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/111265/pas_foto/1683441091_c774d79d-8981-402c-b2cf-b26b4f0be819.jpeg",
+    "nama": "YILINUS ENUMBI, S.IP.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PUNCAK JAYA",
+    "profile": {},
+    "id_partai": 26,
+    "kode_dapil": "940203"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/133875/pas_foto/1683735478_a5963123-eeb8-4bee-8e41-13320018bd35.jpeg",
+    "nama": "TERSI ENUMBI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PUNCAK JAYA",
+    "profile": {},
+    "id_partai": 26,
+    "kode_dapil": "940203"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/72057/pas_foto/1683301103_69dde15d-d87b-4553-ae74-b2fe287f5ece.jpeg",
+    "nama": "WEMESENA KOGOYA, S.E.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PUNCAK JAYA",
+    "profile": {},
+    "id_partai": 5,
+    "kode_dapil": "940203"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/353000/pas_foto/1683959550_8b03be93-ae67-4c16-a8f6-e31de49b0eb1.jpeg",
+    "nama": "MES TABUNI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PUNCAK JAYA",
+    "profile": {
+      "id_calon_dpr": "fdcb489982931e29e13e012720d7016a8490e46fb7dc5d65e92a1de5bb1984ac56b5e70d248e10b197d993be28d1a4b4072bf1deec2778c80c88c03ec007e3b7HyRnPqZS5eEV1BYjxIU5HUsQ+xMAQRsWQCWlKbUIuDw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656406064_Logo%20Partai%20Garuda%20square.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 44,
+    "kode_dapil": "940203"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/35047/pas_foto/1687884043_c00263c2-c1cd-4691-b222-c5ff71c36798.jpeg",
+    "nama": "YOTIUS GIRE",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PUNCAK JAYA",
+    "profile": {},
+    "id_partai": 7,
+    "kode_dapil": "940203"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/56381/pas_foto/1687884145_63f61f74-086c-4bfe-b13b-006ca5d51085.jpeg",
+    "nama": "NAGATIUS KOGOYA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PUNCAK JAYA",
+    "profile": {},
+    "id_partai": 7,
+    "kode_dapil": "940203"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/54383/pas_foto/1687884202_92cf8908-2df1-45a9-b5da-fa5eb3554e02.jpeg",
+    "nama": "NELINCE WONDA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PUNCAK JAYA",
+    "profile": {},
+    "id_partai": 7,
+    "kode_dapil": "940203"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/219083/pas_foto/1687884250_aab01bb6-e3c9-45c4-be12-53722b3b8634.jpeg",
+    "nama": "YILES MORIB",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PUNCAK JAYA",
+    "profile": {},
+    "id_partai": 7,
+    "kode_dapil": "940203"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/155520/pas_foto/1687884310_765f35f8-024d-4072-a985-bb605e6f8bfa.jpeg",
+    "nama": "LEMITERA WONDA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PUNCAK JAYA",
+    "profile": {},
+    "id_partai": 7,
+    "kode_dapil": "940203"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/178250/pas_foto/1688451560_4b158e7c-830d-4536-b852-2ad7ae1e970c.jpeg",
+    "nama": "KAMILES KOGOYA, S.T.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PUNCAK JAYA",
+    "profile": {},
+    "id_partai": 74,
+    "kode_dapil": "940203"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/14978/pas_foto/9103016104000005.jpg",
+    "nama": "FITRI KARTINI KOGOYA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PUNCAK JAYA",
+    "profile": {},
+    "id_partai": 74,
+    "kode_dapil": "940203"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/178252/pas_foto/1683670556_0083d3d1-b693-4e84-ac96-58c4be12da97.jpeg",
+    "nama": "TELIMIN TABUNI, S.Sos.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PUNCAK JAYA",
+    "profile": {},
+    "id_partai": 74,
+    "kode_dapil": "940203"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/178253/pas_foto/1683637650_60c781a2-ed1c-4b60-85a9-8deb1d2743fd.jpeg",
+    "nama": "INIUS KOGOYA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PUNCAK JAYA",
+    "profile": {},
+    "id_partai": 74,
+    "kode_dapil": "940203"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/13216/pas_foto/9107034107000177.jpg",
+    "nama": "MITE KOGOYA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PUNCAK JAYA",
+    "profile": {},
+    "id_partai": 74,
+    "kode_dapil": "940203"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/91294/pas_foto/9107030901950001.jpg",
+    "nama": "TAULIUS WAKUR",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PUNCAK JAYA",
+    "profile": {
+      "id_calon_dpr": "cd71f9f540289ae3975e528da215e825c7c0a9e80f887738c711007efb4c071d941b9a96d0d7bfacd2c42c27f04c7228926094e256aaa481c5d83360562ca008D9NrUOA+5qixCqGYIqOO3EmMNMI92unX/aALt7dLYLY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,pasangan,pendidikan,riwayatpekerjaan,kursus,organisasi,penghargaan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 13,
+    "kode_dapil": "940203"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/61472/pas_foto/9104002503840003.jpg",
+    "nama": "YUNIUS KOGOYA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PUNCAK JAYA",
+    "profile": {
+      "id_calon_dpr": "6ce7c6e18b3c7c2a55d78664f5551072cfe4d54c16f01158ac7058d4bb0af59b5c3181017a3ee2026acc9dd750e380a944a13b8fdca1432f4826201d5ea847a9Ookz1JiJR/VfpK910NMprQ6FHN42E3Zhdw9aYBR9yXA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,pasangan,pendidikan,riwayatpekerjaan,kursus,organisasi,penghargaan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 13,
+    "kode_dapil": "940203"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/445868/pas_foto/1688728758_7e210803-c2d7-4c4f-bea7-cbe2c1198443.jpeg",
+    "nama": "KEMIKU WAKUR",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PUNCAK JAYA",
+    "profile": {
+      "id_calon_dpr": "7eb89c766ecde113da6ee13d697f84f1e238ffdc74e96ce303bc7ea838160ad9fefa505b8f5925ec42e5dff43f47cdfaffe564a1396503a069ced7af153371ff0k2/LDuvF9h+0uogMpd1T8nd7j60fC4TO5qVspHLH8U=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,pasangan,pendidikan,riwayatpekerjaan,kursus,organisasi,penghargaan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 13,
+    "kode_dapil": "940203"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/339617/pas_foto/1687795622_d0650462-79fb-4d9b-8557-db13438777ee.jpeg",
+    "nama": "LAIRON KUPAI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PUNCAK JAYA",
+    "profile": {
+      "id_calon_dpr": "0b1607c97a8e893bee1fd9d3362e0ea7a374b544dfd4adfc6000d03747f044ee96fc4522be0891d153fb4fbfdeb64024ca64474c0e215b13aef77ce1fe3f04ed1OXIq8cAPkwIpeBJF+k2LVx78l1IN0pGwkbokJWK1Q0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,pasangan,pendidikan,riwayatpekerjaan,kursus,organisasi,penghargaan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 13,
+    "kode_dapil": "940203"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/37227/pas_foto/1688351397_36e2ca4d-8c29-401a-b926-5ea97380e3d5.jpeg",
+    "nama": "YOTIUS KOGOYA, Amd.Kom.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PUNCAK JAYA",
+    "profile": {},
+    "id_partai": 76,
+    "kode_dapil": "940203"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/37637/pas_foto/1683112830_a1040847-22b1-492f-83ea-5154dd9b4045.jpeg",
+    "nama": "NANAN KOGOYA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PUNCAK JAYA",
+    "profile": {},
+    "id_partai": 76,
+    "kode_dapil": "940203"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/38471/pas_foto/1683183617_8b67ce43-e900-45ce-b205-7e7bc9243654.jpeg",
+    "nama": "YOSMIRA WANIMBO",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PUNCAK JAYA",
+    "profile": {},
+    "id_partai": 76,
+    "kode_dapil": "940203"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/212987/pas_foto/1683694730_5fe76709-cc9b-44ce-a778-1d3f98d8784f.jpeg",
+    "nama": "TOMILES WONDA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PUNCAK JAYA",
+    "profile": {},
+    "id_partai": 76,
+    "kode_dapil": "940203"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/47532/pas_foto/1683574878_b58e4ff1-76ef-435e-a04e-c7311b3c973d.jpeg",
+    "nama": "YONISON WONDA, S.Sos.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PUNCAK JAYA",
+    "profile": {
+      "id_calon_dpr": "f6b69f8d1b9a5e0cfdd34bc740dd2e4986ecf2a2dc78e54eba57d74ba90e56815a90b8b1420dbdf5fa9bb37c81770a260dd85e12d6e33204469f02c2f9563731rJRlbq2e+tXdK0teBbLoLkqqmoRPngUgjfGN6A8OJRs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "940203"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/109749/pas_foto/1683403230_905b43d7-7cc8-4ee1-a23c-917fcb16d627.jpeg",
+    "nama": "METIBEN WONDA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PUNCAK JAYA",
+    "profile": {
+      "id_calon_dpr": "4292685e4e5c14f78c8bc866f76beb0b30f6b499aa044c95d7a38d753ebab6b97b009480ee649348c4c8ed9b2b4ed4910753038de9de22afad1fe9b12bc1c770bEF1YvDL0j5aumFnPBCxVooI8NZG9tuw7PfZOZkmA0A=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "940203"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/108714/pas_foto/1683398563_f531d913-af5d-4826-8dc6-fddb58e6823b.jpeg",
+    "nama": "JALLY WANIMBO, S.Sos.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PUNCAK JAYA",
+    "profile": {
+      "id_calon_dpr": "2bfd51e2e70bd9bfeb61f4ae3b8be728e5eb46ab0c7e335921d814704b28efadc555eea65b98db22442282bb7277a54cfa305aaf149432d841f969ab90012b03GFFSoF83NJ3dFD/1ItwNz+qQCAj36Z295QbW+hvBMsQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "940203"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/295625/pas_foto/1688906967_b1ee91c8-aa23-4c45-9cf4-2bf5b1fb2103.jpeg",
+    "nama": "IRIANA TELENGGEN",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PUNCAK JAYA",
+    "profile": {
+      "id_calon_dpr": "ccf7dbae7d71662f11446de914d9254be64803e0b4d61c6a8e862af34137f08df3f13710d4e6b5a89eaf0dfc0e824dfa03fbbc3871a4d0eedc017505dbfb9445XB1tKWkaU96e4UezSq7XS3jobbOCcamMqUqbVGRzC5s=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "940203"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/306023/pas_foto/1683849298_1493a301-c31f-47c1-8dac-356bc6f86943.jpeg",
+    "nama": "NATAN WANIMBO, S.Th.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PUNCAK JAYA",
+    "profile": {
+      "id_calon_dpr": "d05cee2d45600f1e82aacde674ab7cb55ea041d093c020dbbb3554d5ddfc085ccf8cc5821b0442e54254dce66f983d8fa0b677e3713428c2ee2879408f7e7e85Thy3FmvVV5B9ZbdHX2iTBSo321NGEuYi7qhYKBtHzkA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "940203"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/361079/pas_foto/1684018398_cf4ad7c6-0ad1-4bbc-89f7-a59c9d06e0a2.jpeg",
+    "nama": "SAMUEL WONDA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PUNCAK JAYA",
+    "profile": {},
+    "id_partai": 78,
+    "kode_dapil": "940203"
+  }
+]

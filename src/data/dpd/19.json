@@ -1,0 +1,167 @@
+[
+  {
+    "nomor_urut": 1,
+    "foto": "https://i.ibb.co/tHZX5BD/19-1.jpg",
+    "nama": "ALEXANDER FRANSISCUS",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB. BANGKA BARAT / KEPULAUAN BANGKA BELITUNG",
+    "profile": {},
+    "kode_propinsi": "19"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://i.ibb.co/m9XbMy0/19-2.jpg",
+    "nama": "BAHAR BUASAN, S.T., M.Sc.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PANGKAL PINANG / KEPULAUAN BANGKA BELITUNG",
+    "profile": {},
+    "kode_propinsi": "19"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://i.ibb.co/Yhr5v8q/19-3.jpg",
+    "nama": "Dr. H. BAMBANG DWI HARTONO, M.Si.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA JAKARTA SELATAN / DKI JAKARTA",
+    "profile": {
+      "ID_CANDIDATE": "3a3492cb940cf748181cc5d0be3e37076b089c58ff8f788b39082a5cd6969ff2501896137f845a889ef7136433ac099af8309ac65f7d4e3ba87576ead254d157QVDai44WSLSYFw4pZx2yzoW1V/6maUnBT0hDzJ5lZN4=",
+      "pilihan_publikasi": "BERSEDIA"
+    },
+    "kode_propinsi": "19"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://i.ibb.co/pPCRCmS/19-4.jpg",
+    "nama": "Ir. H. DARMANSYAH HUSEIN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB. BELITUNG / KEPULAUAN BANGKA BELITUNG",
+    "profile": {
+      "ID_CANDIDATE": "2b5ff11e69354c9f5ee5a1c6af2dbc83482133679ffc42b1d5e9e347df3875f7fe30f4647e6c4a11b9632e78a3b65e59e2a4f8de258933867a531176d9b38b89olCPoZWSZVzVQ2MaFwII3todvKLs3DdDb4w8mO1qYwY=",
+      "pilihan_publikasi": "BERSEDIA"
+    },
+    "kode_propinsi": "19"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://i.ibb.co/QKvkL7L/19-5.jpg",
+    "nama": "DARWIS, S.Ag.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB. BANGKA / KEPULAUAN BANGKA BELITUNG",
+    "profile": {},
+    "kode_propinsi": "19"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://i.ibb.co/R7HX0bP/19-6.jpg",
+    "nama": "DEDY YULIANTO, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB. BANGKA / KEPULAUAN BANGKA BELITUNG",
+    "profile": {
+      "ID_CANDIDATE": "39026dd6f5722708bec8817afeb7a66ade18333f1015b0d445e1bfd3e86378e1de13069292a802817f00d8877e8af1557f79acfefce99d21b79c44c4234d2e56DcMJJiQbOjkXWTzxrByNAKiqG9PA5e0b3a7URvGZeBE=",
+      "pilihan_publikasi": "BERSEDIA"
+    },
+    "kode_propinsi": "19"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://i.ibb.co/6NxXqKy/19-7.jpg",
+    "nama": "DINDA REMBULAN, B.A.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA BEKASI / JAWA BARAT",
+    "profile": {
+      "ID_CANDIDATE": "98815262410954e35cfc3a957db479eff9cba612a21aace68ee6dd471ce29017c2218dc6efeea22e870ce941a12fffe200b0a9352f34ebe6d450259f7de2307dEl3WZLJApv9rdvjDkuJXLM8m5E/flOU2F3M87Y+uEr4=",
+      "pilihan_publikasi": "BERSEDIA"
+    },
+    "kode_propinsi": "19"
+  },
+  {
+    "nomor_urut": 8,
+    "foto": "https://i.ibb.co/8YL9Dy2/19-8.jpg",
+    "nama": "H. EKA MULYA PUTRA, S.E., M.Si.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PANGKAL PINANG / KEPULAUAN BANGKA BELITUNG",
+    "profile": {
+      "ID_CANDIDATE": "2116b26e1a51146acf5036e48f076acbe4336d500860a489b6ad1bdebb3cd02daf310d669dcca1b4c93ca4518b536d59774eda180e1808c403bb7fa135cf3fa33THPShpXNCDgMO56lAYBmKbLP6AEE9pIQ/wuSLQcS5w=",
+      "pilihan_publikasi": "BERSEDIA"
+    },
+    "kode_propinsi": "19"
+  },
+  {
+    "nomor_urut": 9,
+    "foto": "https://i.ibb.co/56hZpSy/19-9.jpg",
+    "nama": "FADJAR FAIRY RUSNI, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA TANGERANG / BANTEN",
+    "profile": {
+      "ID_CANDIDATE": "70d59fee6280f3df868b15590524c0d7b436e20536dcc4d90ad65a517e3e0d88aeb10e7b9d41d21ad2e35951249923283d6fac8a6227e9edf2b2573de5c7817eX/8qFSD5pcKSZ2fHQejes6WCrQXEKuNRvSxRAINQeB4=",
+      "pilihan_publikasi": "BERSEDIA"
+    },
+    "kode_propinsi": "19"
+  },
+  {
+    "nomor_urut": 10,
+    "foto": "https://i.ibb.co/McP21rn/19-10.jpg",
+    "nama": "HERRY ERFIAN, S.T.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB. BANGKA TENGAH / KEPULAUAN BANGKA BELITUNG",
+    "profile": {
+      "ID_CANDIDATE": "d26cf2917edac4deb8b5a20ea20807ed1cdeba0ca9b4598c9b55f32337d44196e784765a19fd54b711d56f78d45b267d50fc4d5d33b788f1e99c5cec2f5dea25U8LWlPe3xd5HFI5wGk3SNFh8jpHMQm+vgjmSvwC2ivI=",
+      "pilihan_publikasi": "BERSEDIA"
+    },
+    "kode_propinsi": "19"
+  },
+  {
+    "nomor_urut": 11,
+    "foto": "https://i.ibb.co/JtmgK62/19-11.jpg",
+    "nama": "Dr. JUNAIDI ABDILLAH, S.H., M.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PANGKAL PINANG / KEPULAUAN BANGKA BELITUNG",
+    "profile": {
+      "ID_CANDIDATE": "c9d9782c9f1dd5c7b8880d1f1b0c65f57225ba837c9a20e98b689a99f8e9009fbbfe44e8f69836d3e9920188368e8a2a5d1b913e13c5c839195a1e7e6babde28XGVf3WC8muqgTcN0OeMkra8ggzBTvQuY8k5T6p+IaPs=",
+      "pilihan_publikasi": "BERSEDIA"
+    },
+    "kode_propinsi": "19"
+  },
+  {
+    "nomor_urut": 12,
+    "foto": "https://i.ibb.co/zxD22JY/19-12.jpg",
+    "nama": "Dr. JUSTIAR NOER, M.Si.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB. BANGKA SELATAN / KEPULAUAN BANGKA BELITUNG",
+    "profile": {},
+    "kode_propinsi": "19"
+  },
+  {
+    "nomor_urut": 13,
+    "foto": "https://i.ibb.co/YydPSCc/19-13.jpg",
+    "nama": "Ust. H. RUSDIYANTO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PANGKAL PINANG / KEPULAUAN BANGKA BELITUNG",
+    "profile": {
+      "ID_CANDIDATE": "b4a6fa762207d39990cc9147403c9e8adaf0e0a082d66f71290dc7127fc768afb01bddb4145b397790b1363af2adf355e9fc02c321605d7a5a1e279075229ca9wH7uD0q1syPoSPrEsJyBZVX5BBnWzvsbm/C9zgI5Sk8=",
+      "pilihan_publikasi": "BERSEDIA"
+    },
+    "kode_propinsi": "19"
+  },
+  {
+    "nomor_urut": 14,
+    "foto": "https://i.ibb.co/qnLLL8K/19-14.jpg",
+    "nama": "H. YUS DERAHMAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB. BANGKA BARAT / KEPULAUAN BANGKA BELITUNG",
+    "profile": {},
+    "kode_propinsi": "19"
+  },
+  {
+    "nomor_urut": 15,
+    "foto": "https://i.ibb.co/mqNShKp/19-15.jpg",
+    "nama": "Ust. H. ZUHRI M. SYAZALI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB. BANGKA BARAT / KEPULAUAN BANGKA BELITUNG",
+    "profile": {
+      "ID_CANDIDATE": "142c7211b7d9ebde75792f0510708b2179058277566f567bd86dae92e492a3f544564222f0f5d69c0e76b3a9dccae9542785485767957c621ffa69924e34d2152znl1em91exAZ1rYyNcJ+pcBXXtKTMfxtLhCzvzGiX4=",
+      "pilihan_publikasi": "BERSEDIA"
+    },
+    "kode_propinsi": "19"
+  }
+]

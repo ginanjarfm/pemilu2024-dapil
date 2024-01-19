@@ -1,0 +1,608 @@
+[
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/238935/pas_foto/1688686157_a2dc1858-656f-44fd-8abb-45b91497d14d.jpeg",
+    "nama": "HERLEYO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LANDAK",
+    "profile": {
+      "id_calon_dpr": "2854ed3d4fa6174e9aeb9f51d411a4e7485e0f556bf83d5a4db6c7cae6b1a894f0eeabd9d9dc9a1e4511e776c3f9e259b3c03462fece3f0d8c090a465e77ae0aaYZD9dxIWrDdrqCyz5OK1AC3VLrVBBlaVE7Qir0BWu8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "610805"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/445243/pas_foto/1688723355_1828ba93-84f4-4d8a-9861-190ede26329e.jpeg",
+    "nama": "SARDI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LANDAK",
+    "profile": {
+      "id_calon_dpr": "7a17ff83b91c131387b912d571579a4a47d21ea39cf612c55d9433a2eb1ad140c03b7b120649b26dd5d8337b867222ea3ee3afe0c54cc9f3d60334d6cd7b05b8Wt7UoArFVs28X8jt9CLBWnXqmJ9TUUJFq2nLf+88o5s=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "610805"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/445128/pas_foto/1688722461_f657db0f-ccef-4f0b-a032-64d0eaf64a58.jpeg",
+    "nama": "RIMA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "LANDAK",
+    "profile": {
+      "id_calon_dpr": "427bcf1998d01de2245a12fb63fe19706014419d53ded93dfddc2e388cc49abf0359304a5e572e7fd18b8ed361092497b2998444b8b8cd6b080d895529cff946HLB++iV16pB8jtuXcyFticUH8wRMKfgf6y7r2OcmdXU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "610805"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/98251/pas_foto/6108052707900002.jpeg",
+    "nama": "HENRO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LANDAK",
+    "profile": {
+      "id_calon_dpr": "93ad0187dde67a2eef887b45fbf65e9bb563031ce086dda7154b8580c50462af60a41a722e7a0e443bb6273ddb460e35edb4ba468b5b3ec87a516495248a856a3owikOgwZ+Mor9sWDk0zf1Q8dmFT1bM0cpzhQBTi8W4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "610805"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/35245/pas_foto/1683514589_c004f783-edd2-478f-bcf6-e333912461b8.jpeg",
+    "nama": "ROBIN, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LANDAK",
+    "profile": {},
+    "id_partai": 10,
+    "kode_dapil": "610805"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/36773/pas_foto/1683514442_06961c50-7ef1-44d7-abfb-fd0ecfff1024.jpeg",
+    "nama": "SURIATI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "LANDAK",
+    "profile": {},
+    "id_partai": 10,
+    "kode_dapil": "610805"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/37384/pas_foto/1683514713_58f1660e-294a-495b-b9b9-e620312f3f01.jpeg",
+    "nama": "MARKUS SIBOL, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LANDAK",
+    "profile": {},
+    "id_partai": 10,
+    "kode_dapil": "610805"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/37832/pas_foto/1683514830_0fc9af57-80a3-4a98-9b61-d3ccb002dbdb.jpeg",
+    "nama": "BUSARAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LANDAK",
+    "profile": {},
+    "id_partai": 10,
+    "kode_dapil": "610805"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/191471/pas_foto/1683639419_f1cc007d-14af-4596-9080-5529427f58b3.jpeg",
+    "nama": "AMBROSIUS MAWARDI, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PONTIANAK",
+    "profile": {
+      "id_calon_dpr": "ebfbb39a28bbd9bef63121510ff131e4285e1cbb23f6378d1bd538b87757f07d667b6a63258bc10a569c6d514bd83bc0a6adc1794cd46905996d7828e718026f+pxQ6vRsAodyra/3czqUzqxinD3PRD7gHb4DIBWX/MY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "610805"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/191750/pas_foto/1683640029_00195c35-1eb6-4410-be9e-95c1b91f99e2.jpeg",
+    "nama": "IWAN SANAM, S.Th., M.Pd.K.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LANDAK",
+    "profile": {
+      "id_calon_dpr": "4d1e26cea5adaa403f02febfb0106cee118e8f874dd87c6a97cf6e8374ae1c521bda29b2c4eab859d7d1488a7bf4f28380c0ca40d26b8af2d3f2af091ea0e207qv9/6/cJPAAVSb5wqQb2nq4mkJ0juZXPXEfZ8DtzL7Y=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "610805"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/192195/pas_foto/1683640690_4e227061-a4d1-4409-9db0-d498c712bfad.jpeg",
+    "nama": "SURYANI, S.Pd.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "LANDAK",
+    "profile": {
+      "id_calon_dpr": "acc9597775b93760c6a0cde030a6c040fd8ce8741ba8c1ecb4dbc0a3ddf07354379df78585e7fff396099e90540b5887002e5a22fac9a018c0e6c3d86606e749R7IazTZhy0d/HTsPWR1V2Q8zTdG9Oip1lKwKNQIwim4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "610805"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/193031/pas_foto/1683642703_f576cc0e-720b-42b3-9adb-66cd5b9b2b72.jpeg",
+    "nama": "MARSIUS, A.Md.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LANDAK",
+    "profile": {
+      "id_calon_dpr": "45d958ccf5e8a8fab4f8a07e77d3456f071fe04e33768a0348f57b268dc6f38ce9e90896a19f57468d53587403c0e97d40c917a89f97b8f4f0f4568d0f01efb6hJfVWIXs7Z9xKguV6vq5jfySizOLRKZktPvcFc0wnPY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "610805"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/149755/pas_foto/1683639603_335a1a39-3263-4b20-9337-6717abeeb5af.jpeg",
+    "nama": "HELLY ZURYATI, S.K.M.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "LANDAK",
+    "profile": {
+      "id_calon_dpr": "b88fad7c6271591e128bd7dfc9971b6e0f958bb89a474a1d2d658bc916319fc63ddad56ca84c7470ca4fe7f0e53befbd13cfe95dda401582cf919cad5cc2dea2ri52uPcuwEHPn8WMEtWzJIn17XsdQ+Zmcz/6xyhmRGQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,pendidikan,riwayatpekerjaan,kursus,organisasi,penghargaan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 9,
+    "kode_dapil": "610805"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/176297/pas_foto/1683801423_c697d008-7dae-4a2c-b91f-ca917544c8a1.jpeg",
+    "nama": "KORNELIUS BONGKONG",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LANDAK",
+    "profile": {
+      "id_calon_dpr": "c1062a8cfe21c4c245aac0b84182904e0f758570ae22e223e20d872de0e02c39edef0d5bc1a4048f572d73e1176c2b9fa2784ab069cac5b8fbc747d955e9bcecfE7ngxGp0tFT9niPpjGm9p4pI0+z6lqxi8jjHOhsbXI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,pendidikan,riwayatpekerjaan,kursus,organisasi,penghargaan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 9,
+    "kode_dapil": "610805"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/423388/pas_foto/1687882361_45b51f75-26fb-4564-b7c0-970cf709d89f.jpeg",
+    "nama": "SUNGUT",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LANDAK",
+    "profile": {
+      "id_calon_dpr": "4e360595e592eac1865d948e7bbb43c8dfd59622878ac15301347767ac32d0ab7b4b3e8d8bf2c19cc97ee2da0a3e1545f12b880c2182a5945a8defe1923c5fe7r8AWA93AV10YrcSlInJw+PhMeU98Gs3IcNiEaqJaugY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,pendidikan,riwayatpekerjaan,kursus,organisasi,penghargaan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 9,
+    "kode_dapil": "610805"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/158465/pas_foto/1691669258_971dc643-b31e-4946-b78c-d65a8555d7a8.jpeg",
+    "nama": "INDRA BAGIA MUSPRIADI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LANDAK",
+    "profile": {
+      "id_calon_dpr": "d291df7efac2aade43870eecd5a78997406c24b5c510c78cf90a17132f5d031b58a164d9159f588c7886061f81b281622ad6bfe1772c0aea862a02ce2c132d5a73KBrCCt3aSh6aM5zlETOLYVnxZaGjQYd0N0f/0H9ac=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,pendidikan,riwayatpekerjaan,organisasi",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 9,
+    "kode_dapil": "610805"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/98333/pas_foto/1683619464_4cf52199-1eb8-4256-8ac5-5cf514611a28.jpeg",
+    "nama": "CAHYATANUS, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LANDAK",
+    "profile": {
+      "id_calon_dpr": "4f6ac4a5e7d698357b346952bdee37c5ae1625c82249e88a8f2cc845341ec18b354fb745b21653bceba9e853d3736ab60be0cf5ec6b064e516446e418fd8930akl3K90zQhzHI69JXwczTogUlXsYnKJ4JO3hFGYOKWkA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "610805"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/482550/pas_foto/1695957509_6b42879f-2cb1-4674-a8b4-1fcf2b30a34b.jpeg",
+    "nama": "ABDUL HADI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LANDAK",
+    "profile": {
+      "id_calon_dpr": "7d33ce118a0aeb7c123c136da6093bc50b730e9a34743df92c4cbb2b61186a950552270c5dad3228350f67d67cfa3b2f9ac248df3579d9915cb20fcc74d9afcfEywd9JtwN/AvzEbm34dCUAIgxU9EvAVHjuGWkmF3FTI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "610805"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/98350/pas_foto/1683619562_3abd6271-d018-40d1-b658-d562e4353954.jpeg",
+    "nama": "CICI LESTARI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "LANDAK",
+    "profile": {
+      "id_calon_dpr": "7f9c80b44a5a4dcce92ffc9af9fab2808f1df33b5ca8b1af8ab591cfed17cbb3bb8adeb634787f6c26708800eed64870a405d8be3aa7c50c6c2f4bbf205721b7FWL5A+adBDZiO5TCdKzZhqzidqTsYNb7zad7KTWmGPc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "610805"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/449601/pas_foto/1688764510_ba5f483b-0672-424c-b265-605f9abe1425.jpeg",
+    "nama": "YA' NANANG MULYADI, A.Md.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LANDAK",
+    "profile": {
+      "id_calon_dpr": "51492a620cabd1a75d98860d481489d4947c555ef619d9257e56c8ae449ebe6102224836ebadd0254e660d82b47522e48e36815a79f7222f9fea909439fcaa94yfGBSlP9+4FRHdsXJrcdFrluEvL+bLWJQEVbSkSkpFw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "610805"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/86668/pas_foto/1683442007_cedba92b-fc37-4de9-8734-346b2527dae1.jpeg",
+    "nama": "BURUNO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LANDAK",
+    "profile": {
+      "id_calon_dpr": "d30dbcb28dc6cc9864b6245610e51f1562b80fe1c1157b6e8116842218df52dd754833a0f143349b8944a3c21a6bece7ae8341951a0fc0529a2c6f2c1caa9ec77aKVdr1rWUfHD7Fj+arLvnmHIsHY3ktMcOFqv7IvYTs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "610805"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/86732/pas_foto/1683440919_03da8493-8cca-46b2-82c9-f3fca867969e.jpeg",
+    "nama": "JAMHUR KURAHIM",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LANDAK",
+    "profile": {
+      "id_calon_dpr": "c676afb5286d05c6dfa34e0d6b9676470c17f67292cd9d5d01885ebc4d0376027050cc1647f85c7373a6c12bada2bf84e6401719746ced46f33012c63207b3b24NCPOfcMfYqL6FNIajzRWikcu8Trz6mEBAVDdgsQFTE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "610805"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/86600/pas_foto/1683457586_28531c88-cdb3-4014-a23f-225af2b9c497.jpeg",
+    "nama": "ASPIYANI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "LANDAK",
+    "profile": {
+      "id_calon_dpr": "4e82777cf5a20caaedd323f2d23d040c64a12e0e26c905de21d050af79b759e7205775bd28128f210c835ebbac3321e9070315117c3d413474cab6f5af40c36cI7K445SCorqc2N7UUN3vqxi64kOfFgNWyx9hEt0Z7x4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "610805"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/318752/pas_foto/1683879360_01fd6b5b-1e80-4d20-8d8e-9b31c1795a5f.jpeg",
+    "nama": "SITI DZULHIZZA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "LANDAK",
+    "profile": {
+      "id_calon_dpr": "d1f8ba08a345142e455a0c1fd7758d7e3062cca4a2ad03d17ff48793fb4b68ff4a9c97622063e36485ba5478efa4b4863d09b4ad732b336c7f00f07a81871d961mJpKomNHQRDs46SRa1zw/O+ldjr2Dder5WUzI+bFB0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "610805"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/3679/pas_foto/1688395066_ead2ebe3-3ea9-4f50-9017-9ef51c77df3f.jpeg",
+    "nama": "AJANAL",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LANDAK",
+    "profile": {
+      "id_calon_dpr": "a7ea1780f86f5cc46c8e1df848ec4c15b5830a47370dfb629b685d711fe08f11526d933ed374f82647f6134b5dc0abdf1f53be8c5d4ef68983b6adcf0f965f4fGwO40z027o29kYmbqr3VBF8fLt6ps81088qREm6w1qA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 5,
+    "kode_dapil": "610805"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/55912/pas_foto/1688395555_255edd11-2cfd-4723-9e30-3fb38321a7b6.jpeg",
+    "nama": "RUDIANTO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LANDAK",
+    "profile": {
+      "id_calon_dpr": "7f33393c989d54ef125dd431f4ced54a9db97425f36ebcf48eab31a87814fb56d7e81504e055c400b6b2d3964669cbaea98b767fc414a780fed864ceb3e9c232o6D6saoQku70Nwfkqb1MgsHAEeQlXFhUAi7oUJh/dgU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 5,
+    "kode_dapil": "610805"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/106427/pas_foto/1695923802_85270e94-ee13-4a22-967a-3caf8a08f200.jpeg",
+    "nama": "JAJUK",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "LANDAK",
+    "profile": {
+      "id_calon_dpr": "eb41c84de873ddc5f52dffed2aee71b631087961437cb1a6947ee71339ee17b21a60f171a72ab925f9568626f1a54e4817cef48a54aa5e3207b61b96d99a88addoA460ec+Ndqe7zDuLsHJYNBq8snYOiAnLwNaDnZkO8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 5,
+    "kode_dapil": "610805"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/55810/pas_foto/1688395413_04fcc979-f465-4189-967f-5be8b284cee6.jpeg",
+    "nama": "SUTOYO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LANDAK",
+    "profile": {
+      "id_calon_dpr": "85bc956e49c2af4c8bb7c5d489122a1f039a4eba52d32459f73d6b94d73b06370e2ed999eeae2dfaac73615c7a0fc6492c36c74a806decbb2f168c248c0f2ee9vWk0mUzIVyz8EOMrqmUj+jBTCLtnFAIkJ7PfyzbAxso=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 5,
+    "kode_dapil": "610805"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/429640/pas_foto/1688411699_c96f34b9-7759-4a3a-beaf-a41b846a5b47.jpeg",
+    "nama": "HERIANUS BASIRON",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LANDAK",
+    "profile": {
+      "id_calon_dpr": "9f53a5dbdcaf2fbcb63261903fd33ee37e7cf79ff33807ca8193ba6be63c0667d5193fa9aeabbee29928924b93e4dcaee707a246c0fe3e03afd1709ede167bd7fXG4azAMuvczHnB+UMedIh9CnkNfQnIIkvselENjA/E=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "610805"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/302535/pas_foto/1683832830_584f3a3b-ab7e-4504-bb72-eed28c9bca7d.jpeg",
+    "nama": "HALIMAH, S.Pd.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "LANDAK",
+    "profile": {
+      "id_calon_dpr": "f383711031e920a4067dbe78e0631599e79c03cb273640be1ade4968cbb295ca1494bd48d572279b63eb1cac16342be48894b7de1c5edd74445eb32b734eba2auGy048eoAZwtIup16b542ESMAyz95AsjQNKZbRpj5VI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "610805"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/277737/pas_foto/1683866201_5386fb65-50ff-4527-98d5-dac73fb2c2d5.jpeg",
+    "nama": "HASNAWARI, S.P.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LANDAK",
+    "profile": {
+      "id_calon_dpr": "c3174c710e5c8fda335a0126e6536a5c3038edafb15c3dbd035eb4d07920cee6e9dfdab5cfcf23d955104f18acfcc29f0c8ba67855bf39cc329073848ca66a41yNVrUU3yLz+et0tEo32NtY7OvqZaZ8Y7OAL3COGiIws=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "610805"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/277738/pas_foto/1683866148_cf8b10ba-976d-4ea3-9d72-ce8c2f66ff69.jpeg",
+    "nama": "CHRISTIAN FERNANDO, S.E., M.Acc.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LANDAK",
+    "profile": {
+      "id_calon_dpr": "47c865a9f96cef849435c9cde55f55295662cec8fb8300bf81f5b9cef38898ee2847a6c81310d2bb8dcef36c2ec1b56f47aa5d7b3fd396fab7cec9d81146650eMi6+ZSQSMERuoYekXlt5hxS6FUmpo90DCzGVOhfGpGM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "610805"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/277736/pas_foto/1683866176_436ac230-51db-4a32-a18d-bf348c61cca9.jpeg",
+    "nama": "ROSMALA, A.Md.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PONTIANAK",
+    "profile": {
+      "id_calon_dpr": "74190fd4c755ca63e0567729c34d9e7f466de35c8ccb642b3d922422df6556e9c0e1d5672b558e40bf0ffe2da3f7f27eff474f48d7b8ee3d12c75fd3c450df21rtD7hHimFw6mFGzvqQ/YHPt6TWc91TXZ0R9mC+HJnD8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "610805"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/84451/pas_foto/6108051509900001.jpg",
+    "nama": "DARSO, S.Kep.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LANDAK",
+    "profile": {
+      "id_calon_dpr": "4b947237f1cabe5d0be71ce58bdcf25d9f1d75d0262096298278d7c6455b863731adb8cc1438127d2de98bd74951a4c412dcfe8d8d2b6df88ef4459336a748244kGOq65qi2G6x/GOv8wVajTE0nRheSHRjJ/eUPNYk6k=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "610805"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/19434/pas_foto/1683006003_0b01d1e1-d5f2-4277-8b26-8ffd222ea140.jpeg",
+    "nama": "SUGIO, A.Md.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LANDAK",
+    "profile": {
+      "id_calon_dpr": "15e3da5345d1def3dcb449c56613f0036744f43c21968c683e42aff55e459a8fa5ed6c6cc6b8b4070bf1f32ff5c908e9387ad149584b2621cd43318feba0990cc9OdEBT4N0ginvnkk0gDnPbA10Y2XQW9a6LXspRTu3g=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656419883_logo-10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 76,
+    "kode_dapil": "610805"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/39713/pas_foto/1683123058_e124e757-99b7-4879-b0d2-dc4e44f0af24.jpeg",
+    "nama": "FIRDAUS AYOK",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LANDAK",
+    "profile": {
+      "id_calon_dpr": "01be5fd945764f62d30905d158f3ff9fe39ab95261e58a53954ee58f30710c7bcf22967cbbb5d4d40ab523d77cc64398b19c7ac4247dd1d358b114ff3f6137ceXS++LO2nLJJG/NDJabOpTQnJIeA911ykGb65qCiiQ/0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656419883_logo-10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 76,
+    "kode_dapil": "610805"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/40831/pas_foto/1683167509_e8d84d0d-c45b-4e7b-be73-460649692e36.jpeg",
+    "nama": "RITA, S.M.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "LANDAK",
+    "profile": {
+      "id_calon_dpr": "7ab3d3f5715d8cc600b63f4dae7ae9bdeda89c4f15b7e433d3756fa6c950a8ab2de489af6f124dd599821d6a8bea3ac37e5e6b55ac8eb50bffc4398f499e1f66H82y9EHNRpbk/a557FNK9jxXrKrF2xtvZkYtGugn2DM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656419883_logo-10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 76,
+    "kode_dapil": "610805"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/39314/pas_foto/1683121199_d43a55fe-b968-4348-87a2-eaabaabdda8d.jpeg",
+    "nama": "AMIRUDIN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LANDAK",
+    "profile": {
+      "id_calon_dpr": "f7e19eaf0b3b9f3a6d39f6a149f6a70453233792052ce24ce24b3f5c38d6602509e8dc8a83821ad8ba9018e42da4b56284f3e7867bbe406567915a739ecf3366/X6TDgWBJiXAA4YCLxVyAns7nTXI4qBcuDeRCBghu/U=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656419883_logo-10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 76,
+    "kode_dapil": "610805"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/217627/pas_foto/1683802061_a7c22a39-fd55-46e0-92d3-dcc56d45ae0d.jpeg",
+    "nama": "RUDI, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LANDAK",
+    "profile": {
+      "id_calon_dpr": "ecb305dc6ba0321c3dbe9897c219061639b150356fa37df275b8503ab3cde66f3fffb0710b53f2964e1384f37e09ad75cea0f86595545b204bbb4ce13589ffffe/5TwFjgizQR+ZeKOeaL8+AyAK0makauspJHJ4TvyPE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "610805"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/216771/pas_foto/1683702443_755dfb05-6da9-4250-a330-a3d52eed375d.jpeg",
+    "nama": "MAURISIUS CANDRA SEMPURNA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LANDAK",
+    "profile": {
+      "id_calon_dpr": "bd96294740b579ea9ede1ae02cd7a308b7cd84e91f34f9c08330e08f566675e7b01e32b902063cd32425a9bd70038e3d0a975fe27660ae56a398318b5bcf8fc2e9Zi7XmbTj+xKpCyyBlh4gjsZcLWEc2XUA+CVqfXajo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "610805"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/288409/pas_foto/1683823435_73437e37-2b4f-4463-ab04-09f7373cdc04.jpeg",
+    "nama": "SUCIYEN",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "LANDAK",
+    "profile": {
+      "id_calon_dpr": "bf578d317327f57ac54b50cb19af285e1e1c0742b5370265cabbd28f693443069ba0d82f03d7bec817c19c4a3b7423705250cee9e30c015b6cbfc23d2bb198afNnlTUTyEW1VUUl093AGBYCdwq1Wst/JBtypQPmNztEc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "610805"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/290397/pas_foto/1683922061_ba3dd2cc-8bf4-491d-b8e2-824e252d8716.jpeg",
+    "nama": "SURYADI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LANDAK",
+    "profile": {
+      "id_calon_dpr": "9b818e9f6746eb733ffa7055a0190695930f01018bd30cc88a67fa779f1d60869fdb742dd00b4a75ed2673d8515227dc43ce19f79fe4ce225a506f7271718bdcJryt87n60UK9CTybTefsavuPSHFExAqWVXhiBiEySFs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "610805"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/458884/pas_foto/1688912975_992426d8-b51f-4201-bd14-91713a08c9d2.jpeg",
+    "nama": "KARIM SUPHENDY",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KUBU RAYA",
+    "profile": {},
+    "id_partai": 78,
+    "kode_dapil": "610805"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/478390/pas_foto/1691763276_9b5e84d2-aefb-41e5-9f70-5d8b8525be82.jpeg",
+    "nama": "RITA PONITA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "LANDAK",
+    "profile": {},
+    "id_partai": 78,
+    "kode_dapil": "610805"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/458909/pas_foto/1688847723_b010821d-9537-4646-b30f-fa09a54e307b.jpeg",
+    "nama": "BHOLE. K",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LANDAK",
+    "profile": {},
+    "id_partai": 78,
+    "kode_dapil": "610805"
+  }
+]

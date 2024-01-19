@@ -1,0 +1,866 @@
+[
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/82105/pas_foto/1808050706820006.png",
+    "nama": "SAIRUL SIDIQ, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "WAY KANAN",
+    "profile": {
+      "id_calon_dpr": "503d34fb78e5924c2825cd3af06cd768a4479b217f6f19080b83b52ccaeae5562f242f5dfb3119dcba0ea161360ac6549b46d1bc6dd075fcc8c80943a30eb9e5CnRaJFVY1iyhEbUZ84SuLRd8MTlBIUmB3imqtW8xhJU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "180802"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/82105/pas_foto/1808056005940002.png",
+    "nama": "ATIK SISKA MEILIA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "WAY KANAN",
+    "profile": {
+      "id_calon_dpr": "40d3dbb9696bd63ed700ddc42ea995bf3fa4e6699fb9260a53b4756c89612c09d95af2d9c16a463c3d5b1a614894a89c8b9655885fba21ed593bde4137c095d6KniXd6F+fXRIZPBzyT1zeuL7z4DuRG0kRiWMALWNOok=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "180802"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/82105/pas_foto/1808132506840002.png",
+    "nama": "MUHAMMAD SURURI, S.Pd.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "WAY KANAN",
+    "profile": {
+      "id_calon_dpr": "4aa8b3dc36e067040680a9f7410c031ca8749aa26075ab4aec30af92877e73bf33baf554617c47aad902ea27f283c4253ebafb3e9a5e1deb8f3a6f696ede0296gwQ4k3UAkYrdDsbRuJCl5mxa+Hdm/pPz6QZAY7eYugk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "180802"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/82105/pas_foto/1808140407670003.png",
+    "nama": "TUKIMIN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "WAY KANAN",
+    "profile": {
+      "id_calon_dpr": "3162b17b0d5da9e4a37d284a41be8c450cf30a62fcbdddab82382455ef72e496e7fb171837270c748e74326964250498e4e0762569de6a0d79b0e11b8c480176nekIkitajsdmUoM39+7qlcQuRaBTyDCKVMVdnkmctTk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "180802"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/82105/pas_foto/1808081505790004.png",
+    "nama": "AZMIL HADI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "WAY KANAN",
+    "profile": {
+      "id_calon_dpr": "c62f4c9ab2f42d14508db12df0a64d306a27122126c702429b69d4f0661ec8c0e3ab1eec6b653ad03c82761e529bce1494d1b520d951faa8f183821656ade005IR/yIpsuqyc+RiePswwjRjPSmrz2ssgTxnlnriXjlkg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "180802"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/82105/pas_foto/1808084709850003.png",
+    "nama": "SANTI MELISA, S.Pd.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "WAY KANAN",
+    "profile": {
+      "id_calon_dpr": "04492e6ee0e19cce3fd11f24cc766140c43f2f39bd51f6d2dafdd4fb0b7ff02724096565b644acc67cdd427e26908a501bbe56748913a4d42371bbf347ce2e0ftKjG0Cs646LbbxVXiNTVP7mg2DhvFKSyU21FI7N/BnQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "180802"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/82105/pas_foto/1608026011010001.png",
+    "nama": "ANGGI KARISMA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "WAY KANAN",
+    "profile": {
+      "id_calon_dpr": "b440fdc965bdee978644053a45c757626dad00b27196e02f086ea08b5b9cc712fd7c247767da357c01e6f4cb65e25c23d122b722f322f7805da8009a1e811d31xqsGZOUXmB6QLbNZsTn/15GxwlzVRhegSbO+MjlPamw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "180802"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/39966/pas_foto/1683124042_2387b590-cce5-4826-90f2-a707e12bdb4d.jpeg",
+    "nama": "BELLINDA ARISTI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "WAY KANAN",
+    "profile": {
+      "id_calon_dpr": "e94f6460151139b3f8158f1796d349e805d65786871535c06980b3146a1e2cef601216a9b3cb497a6fe4edfa2448dcb6aef4d8b3b25e301bec4d68340f218bc7i4J8B92cTU3RDdftHQ/PdRoOwb30FZjBz3A7I7RsFbI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "180802"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/309631/pas_foto/1683982534_901a750f-6334-4012-8642-4580c86034ab.jpeg",
+    "nama": "JUNAIRIN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "WAY KANAN",
+    "profile": {
+      "id_calon_dpr": "8e08881fc342bd895af71a20c8ba0c5c77779b1da42ea85daff72092c3954cdd089d9ed5d12a6633a496a1c75119d338b8b56c17c9e880b0a2294b6ced331be1FWp8Qeql9BtTtYhV7SR416SPQqaRjBc+m1vKcSnYTXk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "180802"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/457756/pas_foto/1688836163_d2ce532f-8b72-4c24-9a93-d40de6a4ce53.jpeg",
+    "nama": "RASIDAL",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "WAY KANAN",
+    "profile": {
+      "id_calon_dpr": "e9fb0b290c76b24bd721c42dea8d3dba52a0afe0c67be91d2830de9e043f27b48fe9cc87296279d82444ae15aa2a6b4fc66bd7036b917d045519e9ba49e8bd4cHwOFB5Gc+dbtvpP/udJYx1X1cH9VIzxBVzhZxR7GNzI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "180802"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/376609/pas_foto/1688841665_c5fa3c1a-1992-4ee3-aa1f-8de04937f452.jpeg",
+    "nama": "RAMSI HASAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "WAY KANAN",
+    "profile": {
+      "id_calon_dpr": "0236be9f64d6b5a5be2d6446d016428c802fbdf004c330eddb540923f2707960312b2ac30d597bd252f342bc8972a01918529cac66b025deae36c4742d8c9e9c8eIJl2NtKMg9IzuhZGetlbnuYpMLTY88KimmpLR44yY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "180802"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/457073/pas_foto/1688832725_9db0cfd2-06b5-4fd0-9594-30eee03e6653.jpeg",
+    "nama": "MERI TRIANINGSEH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "WAY KANAN",
+    "profile": {
+      "id_calon_dpr": "7146f882b9a15ffdfaff4ed794ba11b92047c1ffcab73cd0317bc6af500ffc0a43a92ec968538aba92e055a31d461ec5bad258d020d763c177224ae569757b64HF97rqNMBMBSDn7weHkyaZwyi7ErB9BTGptdy7Jnniw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "180802"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/220537/pas_foto/1683739091_1e302e0a-1e24-4469-ba44-8008dc5d20b5.jpeg",
+    "nama": "ARIYANSAH",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "WAY KANAN",
+    "profile": {
+      "id_calon_dpr": "e4084c47a16ddb0475e741d51114bb4e511d264c0988579b8ab35ed97863e80b938446d4f31ccc4ef8d43e009ff8daf0c6b1b11e72165c8949c1938de68c062aUh4Ca+Oiv4DAWuhBDTBl75MvbVaPWMfbBBKJjqDA5YM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "180802"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/30965/pas_foto/1808085512690005.jpg",
+    "nama": "MUTINGAH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "WAY KANAN",
+    "profile": {
+      "id_calon_dpr": "6efa5a5aac45e14656adc4925a9091861db26df39ebca70a1d152bb5a003beec9e67e7128cfef76361f9499429dc7881b1165d7704df7ee02e050043d727765d4y3bh/iLUsXef9lckwF2p2D1NAAKTcT8Y1n/3CL4MQs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "180802"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/220539/pas_foto/1683739166_4d2ddbc6-4395-4e8e-9792-f448a6dfc370.jpeg",
+    "nama": "I R I N E",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "WAY KANAN",
+    "profile": {
+      "id_calon_dpr": "94d874958b35053d22eca186564d3a06012112f281a3c6a8621bec997de24672226bd5a5637e8e5d02488bd853f2cacd012a79dc1fb918213d91c3636dd44f498GWVsGWj3aLl+Jy+5tAVNlT+6YDEnqUNbOwgocb6a6s=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "180802"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/220540/pas_foto/1683739264_45d15243-f212-431b-8fe2-14e2fd6b94b2.jpeg",
+    "nama": "EDI SUCIPTO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "WAY KANAN",
+    "profile": {
+      "id_calon_dpr": "149d1a9286aaf37e53ffe2b7a27001e90eb9d473603bc4fe04e5b062df8142aac1799a7312012b50eaeb152a7d8bfaf31f0fac2a7057e6e5f45471317574adbfs9vFpir33MQsy4CFbPYBJQEjd7+cL2ZpsPFCI7aL32w=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "180802"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/220541/pas_foto/1683739348_d1d9923d-1b43-4c27-a573-2dd7ef69208d.jpeg",
+    "nama": "MADE BUDIYONO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "WAY KANAN",
+    "profile": {
+      "id_calon_dpr": "3ddfbe6112292d47f8f3a0193b628a24847abd67b76cf91724096723dc637ba3fe4431fa87d95299bc33a5ed9e0a54ee70a9cf2895bc1ad3a4bf927800e90a9buvpwytk5T155ghWgjqSNaRjAfkv385HN9SIyKmqzQY8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "180802"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/475317/pas_foto/1691692421_3e9dce91-7a59-446e-9175-57eff8bbbfd8.jpeg",
+    "nama": "SRI LESTARI, S.Pd.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "WAY KANAN",
+    "profile": {
+      "id_calon_dpr": "eebdc45c9ee92ac519e7d1d98f965d91bf1a0098be966ba9d9298d929aec3a9d6db248a5cee6e0d4f64938f46f7dce2920ba9fcaa4a325c8ce2227cd460b3adaH21zuVZG3kGazYkEF3yQ2qnBvLQ5DmvKcYdG7NrasDg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "180802"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/220543/pas_foto/1683739459_d0dd9f71-8597-49a5-9217-384a0d183fa3.jpeg",
+    "nama": "SAN PURBA WHB, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "WAY KANAN",
+    "profile": {
+      "id_calon_dpr": "10033eef44256ce2fa5ed5712c6a7e8237dc4ec157441a28d78d9c939f446d5168acfa697da7f6f57396e66ae4e41fb7ad29b2eba5362fa28cb453cf5202597fP2qIbLGkRlColFAA8wvOW+8sKrtDMN6QCzu/9RSY8hQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "180802"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/277689/pas_foto/1683799828_6e875f45-1f9b-4405-a50f-28ed00069feb.jpeg",
+    "nama": "BAMBANG IRAWAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "WAY KANAN",
+    "profile": {
+      "id_calon_dpr": "77994c3201b7f76480ba889d3216feca9d39b90bf83f4b3ae869d55b29dbf4e372d9f265de75e96b92e6414a33e42904140f69ebad82a77a68943be871cdca98aiWSMJJNtnSvvMILAb9r/MfGVhzdOrlLtmgEmTC3IkA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "180802"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/237388/pas_foto/1698734260_893c6d87-bb44-46ae-84e5-2b7cd5aefcda.jpeg",
+    "nama": "MATIYUS HARYONO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "WAY KANAN",
+    "profile": {
+      "id_calon_dpr": "ebd6d62243c4980ad8802980ea8844fc2a96cff7a14b9f45eec25eb10455edc6d3065841c0e4e70eefc8eef16100783b6993a0b7bbe5a2db1d8898f8ab16732frYmRl5yAADVmSuTpflFV3ZgHBlfMli5WXQOVIdUNOrE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "180802"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/238222/pas_foto/1688612580_b1c22f0e-3e59-4945-803b-4da3ffd59c7c.jpeg",
+    "nama": "LENFA ILIYATI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "WAY KANAN",
+    "profile": {
+      "id_calon_dpr": "ab804d687c2534edfda2db56d66c1965c9685bff7f23826ea69bbd809b1d86ab3809c6eb259fb3ebe591129e6ab1cbfe170c10b4cdf0aee03ed8447ff9a7590fowsqyu3knlaBa+X+in6yJWYy9xl6AoLx72Ldxbm/WIk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "180802"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/237022/pas_foto/1698734287_f762a0c6-3a07-4776-a4f1-54f7b0573b48.jpeg",
+    "nama": "SITI MAHRIPAH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "WAY KANAN",
+    "profile": {
+      "id_calon_dpr": "d3837a173b9d1d6ca6fa5c8ea9f6e4202f52e46ad16991cd238272a18093d0cf97b592fcc36002fb5875b1fbda272afad3a67a9e3ca735d0096bf7601200565fi2yyvwoWw/EP5eNFypInXK1Wl0HZLaYr9yUxr7bRaVc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "180802"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/234946/pas_foto/1683793291_eef9466b-2dd9-4be0-9cb9-4cc6a33dee49.jpeg",
+    "nama": "AGUNG RIMAWAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "WAY KANAN",
+    "profile": {
+      "id_calon_dpr": "19df7fe1ebb283226fbda5dcc34612115339e8fb3936a260202ab877ccf567129c782c75ac9dc297bdcca128d808b02968f3b60c466cde9d3dfc051a4f387a3chYU4C/372TLK/V3Q+L2cV4y3Ls5jJK/PZVyOnTaxSMo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "180802"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/237922/pas_foto/1683809713_5ae11e9e-21d0-4a35-a0f5-25b6120e0ca4.jpeg",
+    "nama": "PUJIONO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "WAY KANAN",
+    "profile": {
+      "id_calon_dpr": "ec820eb1c411d5970fe48dcf0fcb3c4a6c086c47d2aa2963b4d9c041b1d69247c9186a1c6779df4a6b7c3571c48fc4863b13efa66e719a85695a2173a2dc048d95XgQR+yALXqI833Lr8B2mYB30Wct4ycjIyeNNdpuWI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "180802"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/236427/pas_foto/1683797431_67fe0dd2-10f8-4c42-bcac-296c3896ca22.jpeg",
+    "nama": "LENA WATI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "WAY KANAN",
+    "profile": {
+      "id_calon_dpr": "7da5e8afc66534407f588313afd7fe76ff1e8bd14463194c1294c3d26677454f3151838713263db8661a64954bdd2a678c3469c56bfdc9c93e80d26a37a6e274j1KS4AhaXsA81oEsn5CxjcWtqqQ4F8o1nExFeKCUxx0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "180802"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/6132/pas_foto/1682948677_b3745962-a374-4130-93a5-73462fbca8b4.jpeg",
+    "nama": "JAWIKO, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "WAY KANAN",
+    "profile": {
+      "id_calon_dpr": "567fce2eda0013f79e206d2245e6ca4c8b964fdc0951d2a0f47a7a4c007a1b67ad9e7f1ee99fcb3d86d772998d6f5d54c80c0d1cfc67d6e825e599e8a88d5950DD+NYYdWEIN3NODoK6k0998k61gQGwSym/xQG/U73vw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "180802"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/465749/pas_foto/1691335187_00998599-c503-4c85-921d-c26ba0bac16b.jpeg",
+    "nama": "SRI MURYANI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "WAY KANAN",
+    "profile": {
+      "id_calon_dpr": "15464f1b41f85fcf4b0ad4aea62ce3e3d1b9ef04a1591fdf358f62f87d559d906ea38234cd5a9d00005bac543bea8c3e56b6adedd0500a3f94361d3b516952a6++tZ676LhjavKrmpR5YK7ha6SHddT3+027xKCgzWf54=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "180802"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/426130/pas_foto/1688208132_9f5c5d93-0fdb-4b18-a332-e6e20f85193f.jpeg",
+    "nama": "TRI PUJUT GUNTORO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "WAY KANAN",
+    "profile": {
+      "id_calon_dpr": "ebfe72a08f3b2664d54caad88616aa950d04e100a8f615075f89b0060105a74a74529eed8c30c75cd5e8b67cd65f4def38946df926fc58fac337102841263b53YCK4UvU8IccjCMPI+3r3/sdo7eSBHn6wkCDUuueFgc4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "180802"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/6148/pas_foto/1683032092_4d78fa69-1014-4818-9144-1a90ba5f595f.jpeg",
+    "nama": "MARYANI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "WAY KANAN",
+    "profile": {
+      "id_calon_dpr": "9f8d86d064eba9f5e15a7eada58db5750b4b4df2bd129359c958a39da8929c8a4b1bc0ac813ad568210d27ccf9bd6f14b2e6ba863a2ccce5e0583d28797f6cd1o2PARYglg0WLO55fB7Vp0SNamhafMxXI+pjFuVDb9yQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "180802"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/426098/pas_foto/1688208068_3ed7cdd5-411d-42e7-beef-082926758f41.jpeg",
+    "nama": "SUMANTO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "WAY KANAN",
+    "profile": {
+      "id_calon_dpr": "2a5c614593d0d70d5507066de6781f2c650a0038cda7e95b5117c55c5a654d6d0541460e89482743db33324edb3c9f12844361e76191326b78dbe6d80249b103/+iqt4+LM92qeXceKgH+B3HQMmFMJM04OeI2QeroyK0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "180802"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/425487/pas_foto/1688146636_0d661be9-a628-4231-acce-d863ce374597.jpeg",
+    "nama": "HAMDANI ANDRI WIBOWO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "WAY KANAN",
+    "profile": {
+      "id_calon_dpr": "70d17cfb4629063e976c2055f300a887a993fb9dee471ac5f06ec8ae8ca9f8f1b2ce8b81f5ec4ed302e819e48a73ff69b1d570dfccc8fbd925787a56d063ea5aj9DMM4YDySNbHVGCzPndbKymVJZSYze1sdcIsokqmTw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "180802"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/482466/pas_foto/1695947210_f38c0bca-5d81-46ba-97b7-d6e75cae2b17.jpeg",
+    "nama": "MOH. YUSUF",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "WAY KANAN",
+    "profile": {
+      "id_calon_dpr": "8fb53e769450b67b4c407ed01d7b4f3227b55bc03119da7e66e3d9088b5f4ec0b9cf5f357050bb4a1fbcdaceed9a98850f82d4501a96ba421b1cb82ff7992dd6MylWKlWlZRCxX4Rz/s8pqnDWRq+8IycqKaea3Hio2og=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "180802"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/104445/pas_foto/1683388033_2f8a9cad-1fd4-41ac-b8ef-56add4ca35ff.jpeg",
+    "nama": "SUKRO SUWARIYONO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "WAY KANAN",
+    "profile": {
+      "id_calon_dpr": "fc2f9683040da4ac06960338429fb01fd8394a7e669ab4bd7eab7fa6e9b89f399e61ba1278b1ca0c37913fb22f9dbfc7da6dde69269dde79dd12d935b0947634mgtwiRFBPQ3RLdRURfwWwdyezxAVcnDaUZQguxSQqtY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "180802"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/65319/pas_foto/1683280085_70296bde-f1af-4601-9c24-9fab2474dab5.jpeg",
+    "nama": "WAHID, S.Pd.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "WAY KANAN",
+    "profile": {
+      "id_calon_dpr": "21736c29c6c809a2ba45a98c3d30c1e0d7a5ee7e9e76cc0d370845466d4b9f46800f321a8414ac50c557db603508b6e8198d73ed4bb8f2e82d32ae781a1e22e4NnLetPfYAFW7jQFY5tMj30m9lx2+N/4jm6Ji24702n4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "180802"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/105497/pas_foto/1683390684_92adf919-cd90-4eb4-b944-5862a783624d.jpeg",
+    "nama": "NUR SUBHAN KHOLISIN, S.Pd.I.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "WAY KANAN",
+    "profile": {
+      "id_calon_dpr": "c534821bed9da4c4225871555fea47a4e688bb8480b6327b47acf0f516878a714b729a496ad387a2763a0fe5b12351def3ba50f4410fef350b8ffb53809c2149QEsjPZqPCMRofN6XENHPcle9ZP64vYyUv6tK5rQORcE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "180802"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/106109/pas_foto/1688111510_b16c927c-37ae-4b8c-9c2d-8900776040c0.jpeg",
+    "nama": "M. AMARUDIN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "WAY KANAN",
+    "profile": {
+      "id_calon_dpr": "b3ca19d68fc9538ad2a29ab2e2c2142461a52acdc1be1914e470e6a653d12201edcb34b4d1c75c29d2d27b0d45999a23fe0ea4573bfcb5094ab088a668d78e6bRmSK87j7/uQzRnaVr8r6ZlqRrMIoJqgHLL08caLzqDM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "180802"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/106757/pas_foto/1688112287_42d8db23-1f6e-43d2-b069-39940a1366fe.jpeg",
+    "nama": "FATKUROHMAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "WAY KANAN",
+    "profile": {
+      "id_calon_dpr": "bf96bf8bcba25ddc3325173b495c21ce7a96052a8cd9bc7e8670af6cc5ddca18ff008f2d3d687f62cba673768a648e29d1848a82b4898983099b36d76595445aGOpiKNVxqf9kK0li+VdbNEuSxupe9ZlGtOe4EfXwvdY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "180802"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/425102/pas_foto/1688116137_be60b1fe-0a5f-4b1e-b501-79b845dfc898.jpeg",
+    "nama": "NILA SARI, A.Md.Keb.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "WAY KANAN",
+    "profile": {
+      "id_calon_dpr": "573f6a606d2f14a0d0d5edbdc779c2579d721dd8920670553ba8c13b7ba547dd44c43a03d40a60c8482761bb2750e28fb015387d241e71010aff79bdf41ec068TR2kIUcQntu2AA8W1h5NFnhINyLgG4kWWQ8BOYFKUz0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "180802"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/68481/pas_foto/1683291645_a62e5b01-c49e-4750-bc45-e08f38e0355a.jpeg",
+    "nama": "NENGAH PUTRE",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "WAY KANAN",
+    "profile": {
+      "id_calon_dpr": "62d22047e346a2cc1ac82ef7ed0b5c319f187f0e04e77761b3f9ab14b15548146d50d7c826cafb65aa72bc3927f83b7de1e49aa4379ef459e1b6b51a20df00b0Pht/F7PMMf3RkTy8Fbru+psATPbABRwPnrhGWK3smks=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 5,
+    "kode_dapil": "180802"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/68582/pas_foto/1683291859_df33c0a0-0af6-4fbb-835a-c47014de3d88.jpeg",
+    "nama": "RIA KUMALA SARI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "WAY KANAN",
+    "profile": {
+      "id_calon_dpr": "7a687316d573a55b418e46058c85ae5682188c8c4573920b3a9caff17d4c92db3d0b8559315a3e7af11c83fb6d48f9142983601fe9e37ca84341c99ee3db705czSrL4SDNVbUzAlBSt62a6Hr0l3nRSMBBqFGprmCRO5U=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 5,
+    "kode_dapil": "180802"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/122121/pas_foto/1688109658_4dbfa48e-7636-464f-aa1b-12e4dda26ddc.jpeg",
+    "nama": "DEWI AYU",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "WAY KANAN",
+    "profile": {},
+    "id_partai": 7,
+    "kode_dapil": "180802"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/122571/pas_foto/1688107863_a47a64e6-6db3-4a78-b646-73dac021869d.jpeg",
+    "nama": "LUKMAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "WAY KANAN",
+    "profile": {
+      "id_calon_dpr": "5d8e564625432510c505b702df6ff5a7472f9bdfd23a56d87c93894a0dce534bbcdfd3e8dc6467db86bc047ed80f93ee2a3523ca979b9cc4dafee25af12cf0ceyJkZTn9XxCDm6uGhMdztc8T4stBs1o+Qex+GxJw9oas=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "180802"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/122386/pas_foto/1683631464_8c6b5f47-60d3-49a0-9b99-e0eb806a9676.jpeg",
+    "nama": "ERICK SEPTIAN KUSUMA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "WAY KANAN",
+    "profile": {
+      "id_calon_dpr": "bd8e5af397f682d57cabad8e9f1ec6f5de42fd34b09841147f81e1563d463ba46ea6b09f89b9f3b2bc74cea95a6479ee17de355bd8a02e6e0be05c2c6232e232lmnv/ffJ833NHMTD0Asrwj99FayeOVD+1xeiQYhRDO0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "180802"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/122409/pas_foto/1683631588_183f1acf-3a85-4a24-b2cb-15be9f19dff2.jpeg",
+    "nama": "ETA KUSWATI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "WAY KANAN",
+    "profile": {
+      "id_calon_dpr": "bef2266f2b2c776c34344e004d21d534e8ab44e4d4645bbfc43c1834a4fa040aee6ebb2ac9a8e9fe2c16b6289b61b43c668dff24cf68727d92cdc377eb4986891dCAaRRsqQjAxjLEhy0PzBRd35bS8gRw9ErqXsH9acc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "180802"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/121780/pas_foto/1683797624_43fcb247-6e60-47d0-8bc6-26ec304cc377.jpeg",
+    "nama": "BILL KLINTEN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "WAY KANAN",
+    "profile": {
+      "id_calon_dpr": "d782da596029595af762817d7c3df8a8ee2821d5380d68d5337c0c419c3120be39cf2435bd778096539044e4f8d3c4981b2923385ecc42eec0028828444b0709zTH1XasTuHMdHC6MXRGuUMHKZSEQySPWmMyvfq3D6ZU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "180802"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/122733/pas_foto/1683785553_ed8fb3f0-d3e7-4f1d-993e-5b318a33d747.jpeg",
+    "nama": "MISANA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "WAY KANAN",
+    "profile": {
+      "id_calon_dpr": "46e48322789020a5c03f4b988d9544a688ccaf12c329ee5e6e0bdb7d3fc03a211a06fc6552e6a141f3b467a6df4f3b9eb55cd9f374f81ba4938cf9e8e84ae40b9GxoXoX+sZJgH1bIVzex5l46vNFbCuYo8cKkUl9BJbU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "180802"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/122745/pas_foto/1688112495_1ec43236-ebda-4659-8258-64dc49f5e813.jpeg",
+    "nama": "SITI SUNDARI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "WAY KANAN",
+    "profile": {
+      "id_calon_dpr": "0e1ad123d5302c2742cbaee09e46221d13b2319754e66c2037378973fee63ab37385d7cba4287c01780159fab62413bea78b4dc342736b6f31a54ef286d54c8dkFqrvekfMgFArmeqDwtL3yeUCpZE98e1Z8vOYQV2fwE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "180802"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/78639/pas_foto/1808055103790002.jpg",
+    "nama": "RENA YANI, S.H.I., M.Pd.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "WAY KANAN",
+    "profile": {
+      "id_calon_dpr": "6834e9f8c7d6a7cef81cb1ee8e77cb134d8b4e65c46d6c683617cd5cac4c86b9ce269795a86bffee9016a532502dafcbc97f08da45a72f0cd1b4c8adb9bd10ac7YNKAj1wqYZOG4OnIO2oeWLwCu6HOurPgrkH/TJHhvc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "180802"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/78639/pas_foto/1808051108870001.jpg",
+    "nama": "AGUS IRAWAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "WAY KANAN",
+    "profile": {
+      "id_calon_dpr": "5e81981d52802896811de7713b9257580590db9eb335fe0240367d41fc78de3b191331f84cfc2b5a232f4d3b2374ed3724984a853ad98f8c5eb37912795df938S20+5Ctqy7jV7mNXIrasr65ifB4Em5mW1huFVS8wf+0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "180802"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/478775/pas_foto/1694884890_cf6e1522-0d07-44be-8af3-1107601c4e44.jpeg",
+    "nama": "RAMINTO, S.Pd., M.M.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "WAY KANAN",
+    "profile": {
+      "id_calon_dpr": "8f5ece8de82a011d8568deb4f54c1b672497abd3ba5be2d4deb42db86ffbf26973b8bca6921c7f0dfd8e6a4005162c8b740008651485676ad8b3e2c6a9010f67VhT3NmMYb6RFab+ngu+NqipoQHb1ypc6Fnt33yHMZuo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "180802"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/135917/pas_foto/1698733023_49d0e19f-207d-4415-99e4-2c7a788eb0e7.jpeg",
+    "nama": "BAHARI SANJAYA, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "WAY KANAN",
+    "profile": {
+      "id_calon_dpr": "9a268d5b57b20a234d8b0514a184eb26abcd3e336438b398b5785632b565526b28bfb4b1b2a2332df2e84430e197aa83d80bbe5cc46369bce9f1219dc67c004eiRGDD5KPjpwVsXeZVAU0Q/JMJJ1q90Le452avI3u9Mg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "180802"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/78639/pas_foto/1808140103630003.jpg",
+    "nama": "AZHARI DAHLAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "WAY KANAN",
+    "profile": {
+      "id_calon_dpr": "fcc7e7f01c6b9387e76b889095c1f80c59a8cc622fb5d03fadaf7a44403ea3771d32f16aaf16c009e71296241d4c20b022dd3e1a682f5748aa9585b406aee3c3HjAE3OOhpwyH1o1LdeZzOEOwuJfxWFs1bKuDxVD4G74=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "180802"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/78639/pas_foto/3322057004910001.jpg",
+    "nama": "SITI KHOTIMAH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "WAY KANAN",
+    "profile": {
+      "id_calon_dpr": "edef373ddaea66c3248909e6219198ad48d704f75e1287339ba64cd37bd2d1d3bbeb32983ea9a8d54cd473e20358151e0ffaef244332dcb9412f279077f28146Ubof/u41hsTkBVWyrHhXXlwvonkPOrbvlbfA4W4sIh4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "180802"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/78639/pas_foto/1808081006680003.jpg",
+    "nama": "WAGIMAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "WAY KANAN",
+    "profile": {
+      "id_calon_dpr": "c547155b346f7ee8f42a32741664de13caa321cd52e3fcfd37965842b605839f398f0b43317d7bce21d589cb26e8b4e5373eabca9280ad03fced69e7c16be52cQ/DuRUFfx/5axRO7TthuGiCZPiXWHJHwx2q1p558VzE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "180802"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/156270/pas_foto/1688714079_2b168ccc-e055-46c9-b0e6-b738cecde707.jpeg",
+    "nama": "EDISON  AR",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "WAY KANAN",
+    "profile": {
+      "id_calon_dpr": "194534f026407d63c6d086def6f54773151a43d4b4137057b3b9e75678e4f08cbf8351f622043984955d3affc94f7728a8dd77d172672e18cd280d58cf8d023dEcSiH6aMxcreJ91ZuVNITYkTw86b+yg234W0Bm4hEQc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656157120_LOGO%20PARTAI%20UMMAT%2010X10%20CM%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 78,
+    "kode_dapil": "180802"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/157953/pas_foto/1688749779_6b4fa4df-d78a-43ae-9f40-31cb9c78abe4.jpeg",
+    "nama": "ALIF ELVANDO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "WAY KANAN",
+    "profile": {
+      "id_calon_dpr": "0b8eb127d01f64e50c883a6b3423c0bf611a6f4ebe01459e72d8a1cb2cd84330a858e2eae74dae4ba86401d070b94fea5004c5bea225f52a89a06f3b59541fcaHD6VWlxLGF1bwXJLsNzg+kg707hjZnUwA08B68Tl/XI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656157120_LOGO%20PARTAI%20UMMAT%2010X10%20CM%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 78,
+    "kode_dapil": "180802"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/158511/pas_foto/1688714544_65a4afdc-1a11-497f-9508-32a5344b1971.jpeg",
+    "nama": "RICKA ADITA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "WAY KANAN",
+    "profile": {
+      "id_calon_dpr": "10bf7187ba7749961acf881c8e5921cfe96b9a7c5d95ecfed370a2b076d2c815fee139fcb9b307a3904805206ecaf947503fdd8229b94c7049ab0ccc2e8711babogKdEtoShiCehkg1pTxHJCh6nxe3X3LQDYhQiXpv94=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656157120_LOGO%20PARTAI%20UMMAT%2010X10%20CM%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 78,
+    "kode_dapil": "180802"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/147758/pas_foto/1688749848_00f268f7-114b-4663-b577-3f2c2623a2d7.jpeg",
+    "nama": "A. PENDI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "WAY KANAN",
+    "profile": {
+      "id_calon_dpr": "c5f1cf81462d6a4abdd977a58e11ddb7facf0289596726a566a79f78d81d2d74ce482de9d08078e843d2de5f163bbbbbda07f2e528414a95c9602a85a4e11606LE5ZR0SeCFuE5NJl1vTWkAssx/ZmQcFc/Bch/61xyNg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656157120_LOGO%20PARTAI%20UMMAT%2010X10%20CM%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 78,
+    "kode_dapil": "180802"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/423299/pas_foto/1688622800_386f1965-4fe8-48cf-9bb9-b98dce5d4da7.jpeg",
+    "nama": "ARIYANTO, S.Pd.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "WAY KANAN",
+    "profile": {
+      "id_calon_dpr": "bcc369b8dc0fa5c5d078fe3e7954a568a17c5593b57ec89fdd757c8fec93f07e97088b9378edc75b66ebfe71c6f5b71f3012a3a67b04833ccf6af0581ea0ccb4qqbH0JDoUsGNoUk78cY884f2d77znJ1APWgMN9pNsCA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656157120_LOGO%20PARTAI%20UMMAT%2010X10%20CM%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 78,
+    "kode_dapil": "180802"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/423306/pas_foto/1688714614_8537551a-5651-4c57-a3e4-9f1e78094bac.jpeg",
+    "nama": "WIDIA TARESA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "WAY KANAN",
+    "profile": {
+      "id_calon_dpr": "1597a20e9e240f9326589d8993bafbd9e0c2e71dbb18559dc8f2f9523db628759142bbb382417051d53090f384e4287eb65cf1d09f3bdb4bbbcc797048daba51HqSlSvCy4Z6X2xSNBMQ+UbPfgutmicR0V/nkp43ZxVM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656157120_LOGO%20PARTAI%20UMMAT%2010X10%20CM%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 78,
+    "kode_dapil": "180802"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/425179/pas_foto/1688624901_ae368876-f9d4-44d8-b713-20371a9dfa2a.jpeg",
+    "nama": "YUNIZAR, S.Pd.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "WAY KANAN",
+    "profile": {
+      "id_calon_dpr": "b9672583c2e6664a3fcba815ee2dde5e95b9e44c55bc1f9188fc596890039c210662e38bbd330244a1973ebbdd0977fdf8b4d880fa52378b0b043693af2ace8bess3mapU4vQfSXIN/9zURgEu2E27aFiVXX4w7jJ4IYc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656157120_LOGO%20PARTAI%20UMMAT%2010X10%20CM%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 78,
+    "kode_dapil": "180802"
+  }
+]

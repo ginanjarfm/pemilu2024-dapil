@@ -1,0 +1,525 @@
+[
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/91505/pas_foto/9112010408740001.jpeg",
+    "nama": "ANDI BALYO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB PEGUNUNGAN BINTANG",
+    "profile": {
+      "id_calon_dpr": "e4b52cbb169f1165b1d4fa1ed12793ad4c8ab0a3de7b9bec3e5b61508186d1be7e457036569c8f2fd2afba5e605a7f24a8e23895700310063a267d0c3dcb7187l0y9xzCldtbATDQwHuZ5mqHyk38O0DgTUCWa62EvTH0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "950007"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/91468/pas_foto/9103010911970005.jpeg",
+    "nama": "LINAS H. KEROMAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "YAHUKIMO",
+    "profile": {
+      "id_calon_dpr": "2e6ffc48dc3f5355bc9ab510d8ad1c8209cab5a75200c5a47416e7ddf16f7e00b23c2517da7115d367d27fd3f886878a5900816506d0bbbff9e5d2b0c9dc9856Utx91pGwDwneg+miUbtqhfXVxgsU1asfzqoTx3JAOvA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "950007"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/82118/pas_foto/9123015107890003.jpeg",
+    "nama": "OSINA WANIMBO, S. AB.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "LANNY JAYA",
+    "profile": {
+      "id_calon_dpr": "c3c12f6ab48cf0199278052615cca973c12282834e5f588e8ff261c5d3c4361e160e913aac048cd5e7b6b99cd628191e3912858e100636335cb185619e9055b1qctykZM/cFHiFBBe1UI51v0AglbkXY1SvAnL09ocR+0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "950007"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/466371/pas_foto/1691388071_2852ed26-ffa7-467d-9d9a-7ccdaa566c32.jpeg",
+    "nama": "YEHESKIEL WANIMBO, S.P.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB PEGUNUNGAN BINTANG",
+    "profile": {
+      "id_calon_dpr": "34128a16677f7ee0fcf39b9183b548328cf8f344d28c4d4ffdaee990cb3fbb24d75578f3378f02b0ee9d3ceb8ff7239533004d1822c579754c545d4762e9919dnQuUH7c5bGBj1clFM5prNB6EhDNcIhh6c0jLP0BnMkc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "950007"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/482289/pas_foto/1695893117_271ad856-5ef1-4604-bb53-214cc5db83ca.jpeg",
+    "nama": "ENAH WISAL",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KAB PEGUNUNGAN BINTANG",
+    "profile": {
+      "id_calon_dpr": "e0a7fe2d67ef58e08d17328dcc7807361a47ec7e671b041f7fa6ecb3902016dd8dab94ef1e78a18f62acbcb7687e0c2397a61587376953f5870e41b3714fcec1SE7kD1hGS5WU2F0r8ebhMHFnr3nj7tTpzr6yPJYB6Bk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pendidikan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 10,
+    "kode_dapil": "950007"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/190996/pas_foto/1691641079_030c3ce2-b320-4fc5-af65-87331425b764.jpeg",
+    "nama": "APIA LEPITALEN, S.IAN.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB PEGUNUNGAN BINTANG",
+    "profile": {
+      "id_calon_dpr": "9a065dd2f738a100efa48ebf2d780f5528a50fc320b04ac9601ef20fb6f1fd1b6d4428ea0c9384bb4ad25c1764cc7d665e01380fedf6be23aebf3486cd58a7b0UPnHCz0tbwj/lSfkWzAflb+BNv4YnssqahCmN13lAdk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,pendidikan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 10,
+    "kode_dapil": "950007"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/191421/pas_foto/1691641360_50bd7a02-8347-4781-8d04-94e199bba64b.jpeg",
+    "nama": "JUNIUS TENGKET, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB PEGUNUNGAN BINTANG",
+    "profile": {
+      "id_calon_dpr": "7bafe9eefb057174f5d5c0c3e4dcfe16ea2be5fa809d3696e0cf482c79f5ee405ae61cf3c82d890883925e5cd1feccc61d078854c784ebcf477c032ae209e66ctbQITnazsy6+L2VEGURoAE32zhyEWw5kK9evHCyZpKo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,pendidikan,riwayatpekerjaan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 10,
+    "kode_dapil": "950007"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/169142/pas_foto/1683582221_09ef666f-b039-4626-8264-23275d1ed343.jpeg",
+    "nama": "IGNASIUS HASIM, S.Ag.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA JAYAPURA",
+    "profile": {
+      "id_calon_dpr": "c52d7edf2f4f21bc488086f4e94c6bd9a9eca0df37b3b9ccf88b326f76517571949a8336b37caa0dc0eaf5c17b3bb3ecc9121c8a0f8fc9f0120e6cc64fb54562oU1cRiNbb1DZ8U3y8t35QF/DrwUX1DxbPtivvRiItOQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "950007"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/169143/pas_foto/1683582321_82abada6-ce29-47d0-a1a0-8b660f4ffb5a.jpeg",
+    "nama": "ARNI DEAL",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB PEGUNUNGAN BINTANG",
+    "profile": {
+      "id_calon_dpr": "220ca9c13fbc64c742cb50fe7987d38ee8564592a88b49ebfac6fc54a84a4289634cf0f965f31096eea74419628cbbf2325269e1350547daca90c8c6a9ff8e6aMErnFxn3okVBaRS4t7CWnaEyWWctxFJCIXqZMtKq8dE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "950007"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/169144/pas_foto/1683582640_e374552c-af81-4bbd-ac49-2a2d9f3e7038.jpeg",
+    "nama": "OSIN TRUKNA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KAB PEGUNUNGAN BINTANG",
+    "profile": {
+      "id_calon_dpr": "5fe976d34501e3b6e5a4f2366e2bb4c7e9779292b9c969de073e29cb6ab971bd556e49979962042977bc3f5c6bdeae4f27a2dbdaa50bf90692c84dbda33723d4oIRWtGbbf8HaIqO/tMn9TBrMiFOQ1u7ffeLpPJSckwE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "950007"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/169145/pas_foto/1683583012_4a6931ab-fa69-46c0-82a2-55bc81cb9642.jpeg",
+    "nama": "WELEM WALAM",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB PEGUNUNGAN BINTANG",
+    "profile": {
+      "id_calon_dpr": "0768b36b6f40854fc961a58b3e0f02196f170e0d9977c4b6bfb8eeeaa0c93ba1f506c015d719f06719eeed10ca6919ba8a3dac385b9ab9b675820d9da0c793bbwkKitB/5noJ5wiwG7gi9wuT8ddCfkL87veBMJ1gElwc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "950007"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/362905/pas_foto/1683966565_613003d1-7cd8-40ce-a37e-c7a5a8bd4573.jpeg",
+    "nama": "IGNASIUS MIMIN WASINI, S.IP.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB PEGUNUNGAN BINTANG",
+    "profile": {},
+    "id_partai": 9,
+    "kode_dapil": "950007"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/367080/pas_foto/1683969860_4bff135d-7de6-4462-ac89-121f896d02c4.jpeg",
+    "nama": "AGUSTINUS UROPMABIN, S.IP.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB PEGUNUNGAN BINTANG",
+    "profile": {},
+    "id_partai": 9,
+    "kode_dapil": "950007"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/360354/pas_foto/1683965506_d9e5a5d9-a260-40ee-8712-ed003c15da42.jpeg",
+    "nama": "MARSELINA TAPLO, Amd. Kom.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KAB PEGUNUNGAN BINTANG",
+    "profile": {},
+    "id_partai": 9,
+    "kode_dapil": "950007"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/357781/pas_foto/1683962730_1434ac08-d1d5-4feb-ae3b-3b27ebed92dd.jpeg",
+    "nama": "KANSIUS KALKA, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB PEGUNUNGAN BINTANG",
+    "profile": {},
+    "id_partai": 9,
+    "kode_dapil": "950007"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/43248/pas_foto/1683307890_afb391fc-71c2-4b6d-ae91-88621b84242e.jpeg",
+    "nama": "DUNOK NICOLAUS KAKIYARMABIN, S.IP., M.Si.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB PEGUNUNGAN BINTANG",
+    "profile": {
+      "id_calon_dpr": "0ea136c84379478061459afa1aff0765fff81ade7ef01595a8d7ea5110fca3b8f90eff985c5fca33a1e42f7a91986445640339aa899558a577c2ae6559320dffvR4gOR5Sovd3L5ldLI6bVZZ2CIrKvtRGi0tI1qwCoEA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "950007"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/113720/pas_foto/1683434672_de5fcd86-abd4-44cd-a15a-f670f2552d32.jpeg",
+    "nama": "YATINA KOGOYA, S. Th.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KAB PEGUNUNGAN BINTANG",
+    "profile": {
+      "id_calon_dpr": "b7acf95d3225459d26a30e0ef62db565f8072d7cf03f12d4dab584b771dbc4d264b70f6a4cbd1b93bb1972fbe0cc1c42a01975bd559f19a0d767c65f2847f873B9hDllQfZEZ6GkvbOhOypxgVU+RBd/Mvgx9Sk2NxjXw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "950007"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/181198/pas_foto/1683696981_5c329e49-523e-4b77-9261-fdc5ac9b4f90.jpeg",
+    "nama": "JULIUS DIPUR, S.IP.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB PEGUNUNGAN BINTANG",
+    "profile": {
+      "id_calon_dpr": "28eca5daf5e9a006eeb3b061ae3f68ec55fdf0f6c3be1f63d82cc49fa19c8579656cc11c1b60d461881cb72a0913645bf62b89bcfc4703c6dc93aa86fb6f807ccJf+oq3U9nwWX04XcxfqwScs7cBAfKYGYIgmkuAFqdw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "950007"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/180834/pas_foto/1683670929_b1516c4e-f2b7-4c7a-b59e-4145b3ba21aa.jpeg",
+    "nama": "LINCE BITIBALYO",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KAB PEGUNUNGAN BINTANG",
+    "profile": {
+      "id_calon_dpr": "a7fdc7c7bb1e29add197c05534af9575d05fbc40a1dd6e16be805dbc24381349bac2bd5b6a5715940f5284a9e9bd3c08b61306761698c225a09940eacb3eabd2wwey+cje9HkqtdLNVFQkGEGh3YWWpD8+tgFymEzwJsI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "950007"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/480261/pas_foto/1695714919_8594bd78-eb30-4325-9a8e-9f50b1183af7.jpeg",
+    "nama": "ABES SERABUT, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "YALIMO",
+    "profile": {
+      "id_calon_dpr": "9db7140213a20717efbd331ca5055f6b3df8d1be01f14b08760e299771a19259a4f3ce8865961429e0e75538c2cb825ac9fbf9ebddc5d65d503129be1fb5ba54Oa7wNKvXYcJ+SaCqGuTjxZT/IODCx+nFwZTwPreTykI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659959325_LOGO%20RESMI%20PB.png",
+      "pilihan_publikasi": "datadiri,alamat,hukum,pendidikan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 41,
+    "kode_dapil": "950007"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/93690/pas_foto/1683373376_22bf4f38-8a34-4a54-a4f3-edbc5f2a64a5.jpeg",
+    "nama": "THONCE NABYAL",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB PEGUNUNGAN BINTANG",
+    "profile": {
+      "id_calon_dpr": "e2e22ad8bc3e8536d2cf4e5604d76d74c7be250a4229402fe8a1097faddf3705f6c58f71d614a0d45def62df8c40e9d6ff54dbb800763e457e623301104ddcffiQKsUsOKBnMvKmkJmmjCkEiYJKa5Jt9hxefWC7tY/ms=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "pilihan_publikasi": "datadiri,alamat",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 6,
+    "kode_dapil": "950007"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/93956/pas_foto/1683373999_5da01654-099a-4727-8d97-47e9fa7eeb0d.jpeg",
+    "nama": "DESMAN WASINI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB PEGUNUNGAN BINTANG",
+    "profile": {
+      "id_calon_dpr": "6bc81c59edc4d2067e732c4dc3e894e0326a7b29283820bc595d0747dda664f4b53c9c741b1ec4847d4f8c527d80f9e099cbb2b810d9f847c50f07c556a74440hlq2icmKtNKe+BBYwd4IFuarON2P8l8WWvRkZug4D9k=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "pilihan_publikasi": "datadiri,alamat",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 6,
+    "kode_dapil": "950007"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/94172/pas_foto/1683374631_13e54be1-575d-4636-8725-1ace64f5c99f.jpeg",
+    "nama": "MINCELINA K. UROPKA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KAB PEGUNUNGAN BINTANG",
+    "profile": {
+      "id_calon_dpr": "24552570e5897a2a6c568e388858f1450aef00be4f7051f32f5408aa5eaeb78755d47ae901f4c63f4e3e149f037110e0547612da1c55a6cfd66fd71c758fa20baeQ2zpO98yYaksQJhj6W93VQbEnsl2iN8Hu+7OthOIU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "pilihan_publikasi": "datadiri,alamat",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 6,
+    "kode_dapil": "950007"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/77049/pas_foto/1683712325_422a1714-c738-4d63-953a-d6937c10339b.jpeg",
+    "nama": "DEKI DEAL, S.IP.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB PEGUNUNGAN BINTANG",
+    "profile": {},
+    "id_partai": 26,
+    "kode_dapil": "950007"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/266125/pas_foto/1683886136_0609044f-6aa9-474a-aa25-9cd38bba19bd.jpeg",
+    "nama": "TARSILIA KALAKA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "JAYAPURA",
+    "profile": {},
+    "id_partai": 26,
+    "kode_dapil": "950007"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/8537/pas_foto/1683628037_bda9b2d1-2620-4da5-ad20-bec41b5156d7.jpeg",
+    "nama": "VETO OKTEMKA, S.Pd.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB PEGUNUNGAN BINTANG",
+    "profile": {},
+    "id_partai": 26,
+    "kode_dapil": "950007"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/120166/pas_foto/1683449117_2a8d6795-8201-4b47-8c3b-ef0c3e93cabd.jpeg",
+    "nama": "KRIS ANDARYATI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KAB PEGUNUNGAN BINTANG",
+    "profile": {},
+    "id_partai": 26,
+    "kode_dapil": "950007"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/198498/pas_foto/1683651436_396dcf87-b2ec-41c7-9161-46905508d383.jpeg",
+    "nama": "PETRUS TEKEGE",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB PEGUNUNGAN BINTANG",
+    "profile": {},
+    "id_partai": 5,
+    "kode_dapil": "950007"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/205863/pas_foto/1688657233_6df9e93f-7c7e-40c2-b929-9809e19c62b1.jpeg",
+    "nama": "EMKI TABUNI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB PEGUNUNGAN BINTANG",
+    "profile": {},
+    "id_partai": 5,
+    "kode_dapil": "950007"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/296277/pas_foto/1683822734_7be349c5-5b7e-49c1-ae0a-b4239f0939b5.jpeg",
+    "nama": "SIANA HILAPOK",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "YALIMO",
+    "profile": {},
+    "id_partai": 5,
+    "kode_dapil": "950007"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/206584/pas_foto/1683681233_e714a5a8-2f7d-4e6f-b5ed-cb0601ff086d.jpeg",
+    "nama": "SISKA KOSSAY",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KAB PEGUNUNGAN BINTANG",
+    "profile": {},
+    "id_partai": 5,
+    "kode_dapil": "950007"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/68968/pas_foto/1683292946_fb2f995f-fee8-46f2-bc08-07383901839e.jpeg",
+    "nama": "YESKIEL KALADANA, S.Th.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB PEGUNUNGAN BINTANG",
+    "profile": {},
+    "id_partai": 7,
+    "kode_dapil": "950007"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/57581/pas_foto/1683627410_ecd8c505-7df0-45b6-bce5-703ec7ed7671.jpeg",
+    "nama": "NICODEMUS SINGPANKI, S.IP.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB PEGUNUNGAN BINTANG",
+    "profile": {},
+    "id_partai": 7,
+    "kode_dapil": "950007"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/57471/pas_foto/1683647076_50788fa6-a0d9-4734-ba39-87386a1df4bf.jpeg",
+    "nama": "MEGA SELVIA TABUNI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA JAYAPURA",
+    "profile": {},
+    "id_partai": 7,
+    "kode_dapil": "950007"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/57574/pas_foto/1688649307_eefd1c84-de4c-4430-a7f4-a51cfe9c0c56.jpeg",
+    "nama": "LAZARUS KLETUS SINGLEKI, S.IP.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB PEGUNUNGAN BINTANG",
+    "profile": {},
+    "id_partai": 7,
+    "kode_dapil": "950007"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/306310/pas_foto/1688545740_d2467101-8fd0-4f22-88e0-e9b5fee41bfc.jpeg",
+    "nama": "TARIUS MUL",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB PEGUNUNGAN BINTANG",
+    "profile": {},
+    "id_partai": 13,
+    "kode_dapil": "950007"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/89641/pas_foto/9171032412830001.jpg",
+    "nama": "DENIUS.T.UOPMABIN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB PEGUNUNGAN BINTANG",
+    "profile": {},
+    "id_partai": 13,
+    "kode_dapil": "950007"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/306313/pas_foto/1688545821_bc073331-264b-4149-a597-fd961d48a0d0.jpeg",
+    "nama": "ALIPA LEPI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KAB PEGUNUNGAN BINTANG",
+    "profile": {},
+    "id_partai": 13,
+    "kode_dapil": "950007"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/89641/pas_foto/9112060510900001.jpg",
+    "nama": "PANUEL LEPITALEN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB PEGUNUNGAN BINTANG",
+    "profile": {},
+    "id_partai": 13,
+    "kode_dapil": "950007"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/380285/pas_foto/1688719043_6d07b458-1885-4531-b8a3-27884eb6f405.jpeg",
+    "nama": "ROSSA R MALLO",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KAB PEGUNUNGAN BINTANG",
+    "profile": {},
+    "id_partai": 76,
+    "kode_dapil": "950007"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/185091/pas_foto/1688359995_3ea53139-9930-46e6-8b1b-230a351bd1cb.jpeg",
+    "nama": "MEPPI MIMIN, S.IP.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KAB PEGUNUNGAN BINTANG",
+    "profile": {},
+    "id_partai": 18,
+    "kode_dapil": "950007"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/188652/pas_foto/1683634086_792d6947-ac51-4a8d-8965-162114cfbd58.jpeg",
+    "nama": "YULITA GEBZE, S.IP.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KAB PEGUNUNGAN BINTANG",
+    "profile": {},
+    "id_partai": 18,
+    "kode_dapil": "950007"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/176607/pas_foto/1683613954_faf849c0-67d8-4488-b8fd-f5fea43d5541.jpeg",
+    "nama": "MARIA YOPENG, S. Pd.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "JAYAPURA",
+    "profile": {},
+    "id_partai": 18,
+    "kode_dapil": "950007"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/187463/pas_foto/1683632514_ff2b82b4-ee7e-45fb-a363-fa4b6a132d73.jpeg",
+    "nama": "RIKSON KAROBA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "JAYAPURA",
+    "profile": {},
+    "id_partai": 18,
+    "kode_dapil": "950007"
+  }
+]

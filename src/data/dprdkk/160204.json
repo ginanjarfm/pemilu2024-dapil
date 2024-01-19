@@ -1,0 +1,533 @@
+[
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/104182/pas_foto/1687844138_785d1db0-e663-4997-9ad7-fbcd85f0425a.jpeg",
+    "nama": "KETUT RIDWAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "OGAN KOMERING ILIR",
+    "profile": {
+      "id_calon_dpr": "b4656297937439f48581c1509f6b97d1b947f7b1c75cfa8119d0255f5e2446133844cac11bd32e54acbb6ea7c6148a9aef91989ecaad68e657e933cedc91d37c6FADGJ511xOrh0MbCENgq3u7v+ixrvKMKfL9wk5zxIk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "160204"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/104183/pas_foto/1687845096_6aae7989-af59-48e0-8947-f2fa7bcaff30.jpeg",
+    "nama": "AHMAD ERPANI,S.Pd.,M.Si.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "OGAN KOMERING ILIR",
+    "profile": {
+      "id_calon_dpr": "0bbc9791fc475b8e6b208df2ff8e228ec5625814ed3275a3919993384258035882aba410643d7a6f9ff25e7568107ce103db6ea21cfa5faf323ee720d0c9f8bdcU4BSHcsFDu/s/1rwyhaRDfYF1cB1z5JZL8yxg1STJs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "160204"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/104184/pas_foto/1687845348_de6a22bc-7bec-401d-9ee9-a93eb0d5e474.jpeg",
+    "nama": "MELINIA APRINA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "OGAN KOMERING ILIR",
+    "profile": {
+      "id_calon_dpr": "681ed2585605618dd9d88b0d3807f5601be30ad38c898af89e4ff32f632ab838615e2be6c0b55cc17ee14643bb24baebd4196077d1e3519eacd63bb320caff97y7uDdNWCDJ3Q3YqAzvo7B8cRmnVIZYSrW7Amt7aO3kI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "160204"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/19524/pas_foto/1602051610010001.png",
+    "nama": "REDO AKBAR",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "OGAN KOMERING ILIR",
+    "profile": {},
+    "id_partai": 8,
+    "kode_dapil": "160204"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/213196/pas_foto/1683718478_66f77b21-6adf-43fa-8739-21e3c5267e93.jpeg",
+    "nama": "NANDA, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "OGAN KOMERING ILIR",
+    "profile": {},
+    "id_partai": 10,
+    "kode_dapil": "160204"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/213559/pas_foto/1683801604_b20565fe-0b2f-45c5-9595-af3731531a4b.jpeg",
+    "nama": "ZARKASIH",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "OGAN KOMERING ILIR",
+    "profile": {},
+    "id_partai": 10,
+    "kode_dapil": "160204"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/213692/pas_foto/1683801640_cbdd7e95-97b9-4f0e-bc8c-3796f842d9f9.jpeg",
+    "nama": "YEPIN, S.H.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "OGAN KOMERING ILIR",
+    "profile": {},
+    "id_partai": 10,
+    "kode_dapil": "160204"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/213754/pas_foto/1683801517_563cc405-a474-49c0-85db-92fec2e71be3.jpeg",
+    "nama": "RESTIANI, S.E.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "OGAN KOMERING ILIR",
+    "profile": {},
+    "id_partai": 10,
+    "kode_dapil": "160204"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/450697/pas_foto/1688788053_a273c673-168d-4e8d-ae88-e67f03a26ea9.jpeg",
+    "nama": "MUHAMMAD AMIN, S.E",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "OGAN KOMERING ILIR",
+    "profile": {
+      "id_calon_dpr": "995d55bb7d64d821e720224f749edb2b58196b08b7da50ba54cc322c72eda052066af16aa9e4333cb066eba3a57df00bab8752a6cf5ddaeaa00ce1970800202cB6Fy6qEdxSzn/mfKM1cG1cIWefD8vNWvt99ebtDLboY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "160204"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/224151/pas_foto/1683722598_2418467b-54bc-40ca-83e9-675b18945a1b.jpeg",
+    "nama": "SINDI LUFIKA SARI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "OGAN KOMERING ILIR",
+    "profile": {
+      "id_calon_dpr": "ad8748ba13878f968e062e4a99a4cbf95b379f80b79ab04c07e2715a701772a3f83775edda3c3dc4a78eebab89bb9e83d85cd274fe1f95e501e08a630289e7c72oVpbNZ9TVb7UaSbCLUdsOhXa3TLUnoIsDthUKhDsTU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "160204"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/224153/pas_foto/1683723060_809451b8-45fb-47bd-8b8c-bfd86c838382.jpeg",
+    "nama": "RAMPELI MATGANTI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "OGAN KOMERING ILIR",
+    "profile": {
+      "id_calon_dpr": "4a4e7a7a1c7a6fe6e77c9c783b0cb8568328fa076a1b2ec7e6e070ab7eba6cc38ea3ca3ba234922d267b683661a55a3e072be29b8d22d58a43af8c74d0e574deuPKKCKLTMTtbrDC/aCNhRWKi68CimylxOjV0fOykHQ0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "160204"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/216639/pas_foto/1695969881_58c5432a-80cb-44b5-8ab8-ec45bc9e8790.jpeg",
+    "nama": "HAMADI, S.E",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "OGAN KOMERING ILIR",
+    "profile": {
+      "id_calon_dpr": "2ef27f20658836d81296f01a731feadc2270c184871509dc9cddbaf50c69cb65b1aa7b3b61d56ebc9fbce62bff334426cd5866596eadfd77e34f5744fe8e1fa8dQ8R+7vq9Ff5IE3+qQevIDVnw0xqxXDOvYsvK4/YCgs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "pilihan_publikasi": "datadiri,alamat,pasangan,pendidikan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 9,
+    "kode_dapil": "160204"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/232731/pas_foto/1695970113_20120704-5058-4be9-b678-0517ef0f8cd8.jpeg",
+    "nama": "CACALIA COSTENER",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "fb2b246fec2ba1233d8e779f6c82c89253c8d8894606ce8c237f745e463eb2d7de1ed4d6a3b21b9d376d4f9585a08e87ba9fd3678db460c86d82bc901cb63d98DlSiS8B/rxZZV3rvl0hCAQTDfDVN/b9DZgFzTexpjL8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "pilihan_publikasi": "datadiri,alamat,pendidikan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 9,
+    "kode_dapil": "160204"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/155086/pas_foto/1683623163_3d556c5a-3e79-4a42-9b83-613215b5270f.jpeg",
+    "nama": "NASGAIRI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "OGAN KOMERING ILIR",
+    "profile": {
+      "id_calon_dpr": "71036f3e40dc279de8ec5fc15dfba8b3c279555137dbc96fd3becee89f16eb146ad02a38b1470de6701a984500c1b6f28b8d0aa47e74ac25730712ca522a0f167KVQKlsIuK/2x/OmgS4V1KGJD+4vUcJOaCEUZmsUZNE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,pendidikan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 9,
+    "kode_dapil": "160204"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/278599/pas_foto/1683800888_2b0ccb24-da5c-4f73-8159-4eb728772a5c.jpeg",
+    "nama": "SARDANI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "OGAN KOMERING ILIR",
+    "profile": {
+      "id_calon_dpr": "8e3a5cdfd4c80aaf6ea5877474d619442add0139891426521e8e201b90d66f678c33b899303a17c5af7df8fd97ad03f39a13377b410775fd4ffe5e3b65688670d1qsoi7BSZ1+CQhAklFvNsx2feBwbgmWjZ7JhnM4ok0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "160204"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/136932/pas_foto/1683477728_afca9326-1ef5-4d13-9668-aacbfbd82298.jpeg",
+    "nama": "H. BOBI, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "6261c448520761054bf97d0ca6f7d7be515f31bf6547e7a6eb3e51a42cbf64da93d3f4bd56de3c3c9d2da70ed9deaf9200fead20644ca9097e6a11a1095a8049Oad0cwSFx7q5CpU0dEE9rSdG9IoPkpBgWmzd6oCAdFA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "160204"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/198121/pas_foto/1683651240_aafd9eb9-4a48-4cec-9374-28fe03f28b52.jpeg",
+    "nama": "JUANDA KARTAWIJAYA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TULANG BAWANG",
+    "profile": {
+      "id_calon_dpr": "3dd7e136788af456401ff47f9a5a847b76f7409c279bac1f963cd004a0f085bb5d684be7342bcdd65eb63c8a3fd8e339e57a143294386a80610f11be91033592kop+hNmer/5ty8Wu0wU4hPfGOsFsEEDC343wt6UcgTM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "160204"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/163701/pas_foto/1683639919_15e21150-7314-47e5-ab06-c401c5b955ac.jpeg",
+    "nama": "DIAN PERTIWI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "OGAN KOMERING ILIR",
+    "profile": {
+      "id_calon_dpr": "1446b8cd79cb492f67095a5fac3b45b1b52c37b0fea0e41da3b9180995cd2017c7161bd831ef7f7bfdcde14dbbf63dbfb794ebeae494dfb2487173afe4f6a9d9ctW4lxZZ4UXn3UJwueEzryjYQ7IvahOTgJdrVP9IGKw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "160204"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/484109/pas_foto/1696126874_75b4a679-6370-4887-ae84-2cd313969296.jpeg",
+    "nama": "DARMAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "OGAN KOMERING ILIR",
+    "profile": {
+      "id_calon_dpr": "6205ea8babcfc6f235f5382ede706a396521faa6bcaa83694c2a1e0d1f8acb74a1ddcc128ccddd0f4e8ebe1ab02fb34f2c4cffbf41743f8f8eb8030c06b1ebf8uHzT5bA8DjvkFj2AXpxa5xlrhEId2FYBZUj7BDni6Ws=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "160204"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/17086/pas_foto/1683107733_a5ecaea8-c558-4334-95ac-4cf7d3efa90b.jpeg",
+    "nama": "JUNAIDI IBRAHIM, S.T",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "OGAN KOMERING ILIR",
+    "profile": {
+      "id_calon_dpr": "5f6d5e30502a3996985bdeba070c477a44cd21151e506347a6a067c6ac576b7ebfb2b6f2c68ffbd062b3f492fb19afaef74953410e3dc773ceb6af04301b6d07QuxGXYaIF+OxqeNKOw34r9rI3fcwURBNEJy/kV7Vh5A=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "160204"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/6815/pas_foto/1682850011_2c11a51a-f043-41eb-bdd8-2e8163844ae3.jpeg",
+    "nama": "RINDA DEVIANTI, S.Pt",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "OGAN KOMERING ILIR",
+    "profile": {
+      "id_calon_dpr": "50e36d685265cf115805547efaa2ad9c9bfa0a568a75c72ae976e551a5448d3e08d16f5c4ff9c6107dcc2bebe3c2d69d093c55843f87edfc59c451107b569fc6M+B09RsGj0YGPieLBeQdwOIdgtQt8sVXr9DNtxGknH0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "160204"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/18513/pas_foto/1683108338_5cba0deb-c88b-49a8-90e8-019d8d9e711b.jpeg",
+    "nama": "IWI SETYAWATI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "OGAN KOMERING ILIR",
+    "profile": {
+      "id_calon_dpr": "3191360d216c5daf5a3612461331bee262ebacafcf6193d13511287957e04c6f479d3463bd6a7b0047a35c139bb3e563d65d2dad73268f147c9bd958e10b4819+7USZTU6wkerroYyAqQTGvMq+qcqOtOtnnTZO3NcP4I=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "160204"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/16968/pas_foto/1683107364_ea2c87a7-6860-4254-812f-7dbb0817e78b.jpeg",
+    "nama": "ADISTY PUTRI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "OGAN KOMERING ILIR",
+    "profile": {
+      "id_calon_dpr": "3e6a013fa537a2358ad47a28e12e061f096958fac7d17652c193adb8c3446159ab8646da1a5ad330f4a3d7fd63f70116ceed2e27cb426918bc604a70fcadde34Tq+MjkqundGL6CiAf2V9hmdTQDOtBydZlyxPS/XiaDg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "160204"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/223398/pas_foto/1683711690_8170f7d9-98ec-459f-afb5-4d42e4213db9.jpeg",
+    "nama": "MUHAMMAD DAUD",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "OGAN KOMERING ILIR",
+    "profile": {},
+    "id_partai": 26,
+    "kode_dapil": "160204"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/175226/pas_foto/1683610241_9ed0f1b8-be8b-4a8e-84d2-ef14b075b1cc.jpeg",
+    "nama": "PUTRI AYU NINGSI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "OGAN KOMERING ILIR",
+    "profile": {},
+    "id_partai": 26,
+    "kode_dapil": "160204"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/239092/pas_foto/1683810433_1a1cc613-7c79-495e-a367-92de1b86d72d.jpeg",
+    "nama": "FAHRUL KANI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "OGAN KOMERING ILIR",
+    "profile": {},
+    "id_partai": 26,
+    "kode_dapil": "160204"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/151995/pas_foto/1683620107_793dbaa1-652d-4b8c-b678-0680576b8f7b.jpeg",
+    "nama": "ARDIANSYAH",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "92a91019ccf24ac10d4d1cfd3d782aa97b48e288d6c4a234fdad56d6a2c4353d39eb8d16090b76e5b87ed80f5ab583f3cdbd3ff4bd6b914f8f48e5d17460ed0fTmZZtjAFal6ltEdq9g+P4uctzWmKcH8KpHNoI/OZCvQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 5,
+    "kode_dapil": "160204"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/150642/pas_foto/1683532524_84b3b8a6-c51c-43ad-9005-0d7f767ba3cc.jpeg",
+    "nama": "PINGKI SAPUTRA, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MESUJI",
+    "profile": {
+      "id_calon_dpr": "6276975c8470647430220dfd174e24a247d58182d167a6977e3d008c42bbd2002efc2c87d67fd0d66a52d65b2e1adf009c5108d9c200192bd480fa0863af6e8b2KKTsdJ54NQTJikONA3ufdAshhfNbYHG8qsz7WhjQ+E=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 5,
+    "kode_dapil": "160204"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/466706/pas_foto/1691395949_4dfc70be-c4fa-4bdd-b3c8-7cf588280dfd.jpeg",
+    "nama": "DEDEK SASMA  NOPRIANTI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "OGAN KOMERING ILIR",
+    "profile": {
+      "id_calon_dpr": "b2d073da87b4dbcf095c8eced49cb2f914f3aef83f89d85e648f274b67c9ae3def12837760cf889a70d3552dcc700d60ecc6fd838b67a1692aabea0ef79df36el9TznHiZArjj2qh3nwK8SpYNTXfCUO1MXOMLt2xX6lw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 5,
+    "kode_dapil": "160204"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/433979/pas_foto/1691514233_19b3e1c0-21dd-4b64-8134-fd16858dbc5a.jpeg",
+    "nama": "ALEK TRISUYATNO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "OGAN KOMERING ILIR",
+    "profile": {
+      "id_calon_dpr": "824d76cab182998847ed98396d4d8de7ee8be9a0ec85216e8bfab81d5f3d3153f45bfd9a5b1dda583c3487ff835bac8ba85b7cad93f8b1e7c7c55eb195ed4af1iSkkWsZ2VmEhhGD2k69TW5pQIBIUVa4eJxCgFmf2BlQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 5,
+    "kode_dapil": "160204"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/145546/pas_foto/1683595482_9b458d0d-5504-461f-a894-28e388296c78.jpeg",
+    "nama": "AL-ABROR",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "e931bccc1d376e03795433512519e80438bd55c3cd17f0b5f890b15f131a70d35e586d9b21ec3c64805e3e49298c787a54505c747cc58905e88592ef00f4165ajCFti9Pv2jSKEvkU7LYZJu24quRXL1RrrEWkWie7Ids=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "pilihan_publikasi": "datadiri,alamat",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 7,
+    "kode_dapil": "160204"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/423042/pas_foto/1687856035_f3beb83c-4360-4c6f-a0d4-dad20f87d488.jpeg",
+    "nama": "DEWI HARTINI, S. Sos., M. Si",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PALEMBANG",
+    "profile": {
+      "id_calon_dpr": "f2d3671907aabf3515e919c271415a43ff258b37bf7c7c31cb4f71495cc35c4993ca0b25b994a67c96b0ac2346514ac7b5d54bddc4a487a3dba53f9918d516c8URYsQ6qSf0z/8AHiYiY15GpVx2ySl7sAZhaGTaP/jxE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "pilihan_publikasi": "datadiri",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 7,
+    "kode_dapil": "160204"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/480506/pas_foto/1695713678_a33268b5-9497-4dab-8347-5980871c575a.jpeg",
+    "nama": "ANDRE REZA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA ADM. JAKARTA BARAT",
+    "profile": {
+      "id_calon_dpr": "710f02192796c797066373fd9bec83091cb23a8e080e1eb3f634019ef5cd9795695cf70508cf8985ff6cdb8c1a40ec58980c79850b101cdb819fd41546a7426aronGGiV/yCsada7bco5VW5qgCF2PEMsn+gqX3SgW4G0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 7,
+    "kode_dapil": "160204"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/17367/pas_foto/1682995863_00decce5-802b-4a76-9d4a-c5313f1b58b0.jpeg",
+    "nama": "BAHRUL AMIK, S. Sos",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "OGAN KOMERING ILIR",
+    "profile": {
+      "id_calon_dpr": "ad74361d6f7c34ec4b10f926c1e2e358e35176ddb86843f1185151e54e3ee140aada8bd7d669ac6d8f6aa7ddc196f68eba4011be6a379f46be8cbde1afb688e79snCiDNTPu5Z1HHVQSu3lVjtIpM/ydMyQVoBQOq0cK0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "pilihan_publikasi": "datadiri",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 7,
+    "kode_dapil": "160204"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/250239/pas_foto/1688119069_aa2f5edc-515f-4456-9ee5-c290a85811e8.jpeg",
+    "nama": "MUHAMAD HUSEN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "TULANG BAWANG",
+    "profile": {},
+    "id_partai": 13,
+    "kode_dapil": "160204"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/250240/pas_foto/1688119534_d862d747-d124-4ddb-995d-09b2061086b3.jpeg",
+    "nama": "RADEN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "OGAN KOMERING ILIR",
+    "profile": {},
+    "id_partai": 13,
+    "kode_dapil": "160204"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/250241/pas_foto/1688119810_b9328829-f4dd-4984-8797-59714cc331e4.jpeg",
+    "nama": "MEGA ADINDA PUTRI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "OGAN KOMERING ILIR",
+    "profile": {},
+    "id_partai": 13,
+    "kode_dapil": "160204"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/250238/pas_foto/1688120428_56db0e40-24ad-4aeb-8ad0-6076040f3842.jpeg",
+    "nama": "RIAN RIDWAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "OGAN KOMERING ILIR",
+    "profile": {},
+    "id_partai": 13,
+    "kode_dapil": "160204"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/459549/pas_foto/1688859868_60d67d0a-cb66-45e0-9c41-54fff0828be3.jpeg",
+    "nama": "ENDANG WAHYUNI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "OGAN KOMERING ILIR",
+    "profile": {},
+    "id_partai": 76,
+    "kode_dapil": "160204"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/297173/pas_foto/1683846099_28ad3618-8051-46e4-bac5-8111167f6c4c.jpeg",
+    "nama": "ZULKARNAIN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "OGAN KOMERING ILIR",
+    "profile": {},
+    "id_partai": 18,
+    "kode_dapil": "160204"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/296656/pas_foto/1683845902_f78596bc-3dc7-4a78-9e8b-0ea30e3a3101.jpeg",
+    "nama": "MORA RISCKY, S.H",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "OGAN ILIR",
+    "profile": {},
+    "id_partai": 18,
+    "kode_dapil": "160204"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/296148/pas_foto/1683846706_c206d32f-5851-4cbf-bf24-b0d8e6e3be9d.jpeg",
+    "nama": "YONGI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "OGAN KOMERING ILIR",
+    "profile": {},
+    "id_partai": 18,
+    "kode_dapil": "160204"
+  }
+]

@@ -1,0 +1,956 @@
+[
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/102320/pas_foto/1688219961_858f1da1-3dd4-4755-ba5a-19c8afe99186.jpeg",
+    "nama": "AURELIUS ANJU PARHORASAN SITUMORANG",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEPULAUAN MENTAWAI",
+    "profile": {
+      "id_calon_dpr": "b3c60aa8eea4defe34f6c8e4933177ee64a0a4976e630633a09c70f3977dc6d885d5fa345408159405758d095901ceef4264d84edccdcbeb7b9042729d933c05LeXt9Z5RBBjrvT8cppzCxHUdk5QmHnxcCqrBl8W9dRc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,pendidikan,riwayatpekerjaan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 8,
+    "kode_dapil": "130904"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/279950/pas_foto/1688219556_97af069b-0fa4-4437-a62a-5873f9fbc81a.jpeg",
+    "nama": "FIROMIDO NYO SATOKO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEPULAUAN MENTAWAI",
+    "profile": {
+      "id_calon_dpr": "b2f8b8b683098be65714576a79dea7911db7a2fb231ad2e71e89235dd495e90406226aa6a709805b0b5fbe58ae5792481696daf4f493bf1f866707215c9f36d9r2Z2cYBsJM77PifbhpLrALkhlqbeZS9TobUELSnCAV8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pendidikan,riwayatpekerjaan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 8,
+    "kode_dapil": "130904"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/279951/pas_foto/1688220869_ffef4293-9e3d-4465-8d0a-fa70ac2b9dd2.jpeg",
+    "nama": "NATALIA SALELEUBAJA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KEPULAUAN MENTAWAI",
+    "profile": {
+      "id_calon_dpr": "4ea9fc3e27ebfa53507a528f5bb3c20abc5d1098540c35604a5f6c8ef94fa3946688ec8660d77aeb9fbb743616544e3bcb27c211c9e383754df2d7afa1087ac08EhFSpFptm3/SprQM/Di544jC8I5IN/EsKvOG9G8mKE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,pendidikan,riwayatpekerjaan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 8,
+    "kode_dapil": "130904"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/279948/pas_foto/1688220483_ee41d9f4-48be-429e-b65c-d0af25877e06.jpeg",
+    "nama": "MONIKA NAO",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KEPULAUAN MENTAWAI",
+    "profile": {
+      "id_calon_dpr": "0b9db6f3aa4226fd28c5c2d348dcd87ed164984727f23740a1555b5f118ab6cb6085c4d2666a33b243c83af2e6309d1da4c3e3a234695b01f11764167093aba26ROLuaLX+WLql/AWAJIBmCHMrD5TXbo8i93Id8d1EnM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,pendidikan,penghargaan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 8,
+    "kode_dapil": "130904"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/279953/pas_foto/1688221356_9714d76c-7822-455f-a528-e66e6dc0c2ec.jpeg",
+    "nama": "DAMSURI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PADANG",
+    "profile": {
+      "id_calon_dpr": "4f9eb1cd7a49b6fe46fe5da7da7fb206b170ede700e509547fd6610117e112c5badb502f1ed9c9b1a8e0c98745f4fd9669dff9bba48ed6cf9a1265cd1807615fDBzPpBlpX3QqN5hhnUso9Pwa76t0Mc0jGi6LMVaTuMs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "pilihan_publikasi": "datadiri,pekerjaan,hukum,pasangan,pendidikan,riwayatpekerjaan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 8,
+    "kode_dapil": "130904"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/68489/pas_foto/1683524633_bba26443-b4f6-4ac5-be6d-e3e6016ce840.jpeg",
+    "nama": "MANUEL SALIMU",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEPULAUAN MENTAWAI",
+    "profile": {
+      "id_calon_dpr": "ad1069abe9d9f2e3cb3fa229e52950bdd8ef51abf595edbc2422cd5493f43c2b8e8272d376145eb890004324a599831506d32f8be55c7a00d68bdc4f030e2219OkRUO+4Z8NfLv+PU6GBIKFJw0icMHnGnQyq8drKAKkU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "130904"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/68803/pas_foto/1683532722_0b5aa02d-2e44-4f0a-a534-b311ce37584f.jpeg",
+    "nama": "MARTINUS MENASVIN S",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEPULAUAN MENTAWAI",
+    "profile": {
+      "id_calon_dpr": "1c828c295e792a39fa508a91c51e86a0ec6b4d27a644cdbd41c274e4902f9457fc01e52a3daa14260db12dc7448748d1a88ac8c82326894b1aec2c19d8c6a010WaYoTCTuxd8qFGHoNi4nGnk8oQCHYIK5UpZQ1eKmFzk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "130904"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/72621/pas_foto/1683628755_81081e7b-77c8-4c5f-b7ad-5957ffad9678.jpeg",
+    "nama": "FLORENSIA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KEPULAUAN MENTAWAI",
+    "profile": {
+      "id_calon_dpr": "86e086eb61870f78e787c88ee5ba1b8a6fa5dcb2d8b85910d398a4075ba4ec82b2cd41259c019d64afdc65fa212ff22d03206a103bd9aa87b317f06397696f46bI8esU5RVpHMiOrcw+dUwv5yag3Ic0q9O1clv3Ua1Hw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "130904"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/71088/pas_foto/1683534379_677431fd-a768-4f43-92ae-c29ac48f5cad.jpeg",
+    "nama": "ADI HAMDANI, S.A.P.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEPULAUAN MENTAWAI",
+    "profile": {
+      "id_calon_dpr": "2f662d050468a44ac3176724cfaa6507606546a3c2e402dbaf3eb49826dee74e79c7bbc8590778c440383bc55f15cf5ddf7654a1569f57b55d492babe89cfd44AyG+2iFuUZ+02TuguGEV4FVoRR8rnyMvGzDrWcrtle0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "130904"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/72551/pas_foto/1683687906_f1beefc0-c794-404c-b5a4-0836def91969.jpeg",
+    "nama": "REZA TRIANDINI, S.Pd.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KEPULAUAN MENTAWAI",
+    "profile": {
+      "id_calon_dpr": "84f7b0d3ae239a9836236edad243d46a5dfc7a51dd9c422c0830eda5b3bec70a6823b80067738efb62cb7c9c37c95c612d9419f474c4f04d7776aa8838757578gb6kxU6jtVWRJs+GSdqOujQARyjI0uMk+CTBIR/uD/E=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "130904"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/228410/pas_foto/1683731815_d9d6e381-f87f-4d3e-bb99-d1d17864a05c.jpeg",
+    "nama": "YOSEP, S.Ak.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEPULAUAN MENTAWAI",
+    "profile": {
+      "id_calon_dpr": "c77d5614f7af7cc70ae547224e8f2dc57a9864ca65f09785e277c5126f4fc3c56dae060b122954c329bed9788ce092678bb52eceda8355dbf48f5b8fdbd9ab06rwf6qMNBkpD4wlseyM3BBDxak1/qLladPNfgxC6SCGw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "130904"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/228411/pas_foto/1683732176_12459832-0393-49ed-91e8-07bd3e526781.jpeg",
+    "nama": "MARVIN, S.Th.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEPULAUAN MENTAWAI",
+    "profile": {
+      "id_calon_dpr": "75e464dcc3a79b48600ff1d62da959eb3a7c916c018eb9fabf074655a031e6324641a6558b672655642610fd74ef54822466f3112c09d33c45f0cb6071327b1d/UspudKQqslKoE9iYJYOsMyYwLwvfMBwmcqVBXqxguc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "130904"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/228412/pas_foto/1683732487_e2d897fa-3a62-4f38-8a6f-86b636754c6b.jpeg",
+    "nama": "NASAH SRI RATNA, S.E.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KEPULAUAN MENTAWAI",
+    "profile": {
+      "id_calon_dpr": "ed3349486381d5c145d1d13e392c15f53289d1baaeed043620df6c8fa61e4ba9caee64a45ff9bb7d44d001c0eeeb447eb4f9ea69491fb8e7aca80433ab78fdf6gK/H7BUdApKZH0SYHBIloE8ICvcF13MbGq3U4polZNs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "130904"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/228413/pas_foto/1683733119_e8e0c546-4395-4bc1-9885-01e6c509ada3.jpeg",
+    "nama": "HENDRIKUS ERIK, S.Ag.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEPULAUAN MENTAWAI",
+    "profile": {
+      "id_calon_dpr": "118709ca2a24b7687ee2fdd4f8347e5a2faf937abc016fad9ff4d2569429b9256bda66b2307352ec730929daa6a89e1dd8dbd7bdd276a3fa30e43e9612becbc2WXB9SXauNJho9qWpa/FM505SPeYH3B9yJdNo4L+CLwE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "130904"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/228414/pas_foto/1683733468_30ed1684-c7cc-4d83-ba13-ac5b06d028d2.jpeg",
+    "nama": "MARIA KARMEL SAK",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KEPULAUAN MENTAWAI",
+    "profile": {
+      "id_calon_dpr": "15bebe8f3503810cb1f133712ce610c1f7951c3df9ac1e96f92fc9ce4e79d1732d9158461ab43283d42be9994f65121d770002845e38e38d1d11c1ca2ab310e7EpXZRKPIQ1JJxcYOvOhdKh634O/pNky9Zwe2Ov8pvUc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "130904"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/248583/pas_foto/1683747473_c549430d-f86e-45cf-9bd9-96a7618bff14.jpeg",
+    "nama": "JAKOP SAGURUK, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEPULAUAN MENTAWAI",
+    "profile": {
+      "id_calon_dpr": "fa61396a9d1d072029dcd7f2c4fae878a654849b678a46cd369135104fb39fd2097e803963c81cf2bcc119855d80ed35b5614fdbab1877f4f054af1410e14a93QQJZXE5ljDht9vBDBavlRAPKSKT1N2hgJNWpy7Yn4H8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "130904"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/250506/pas_foto/1683825382_4e490b8a-c6d4-4218-aff1-49e342b3d0ab.jpeg",
+    "nama": "PARMENARSON SABOLA, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEPULAUAN MENTAWAI",
+    "profile": {
+      "id_calon_dpr": "26f65826b986b1e62081ab5b099d6b352d8e818deab9353a424d6b2e8f842b181528b4da6b20e1a6c8b33130e1b3166eac66331b7c2a397f3d4643cf9803dfa7Tt4y/WNy7QYynt1mMfLlghhRI5pd2zFWPV88hv3m0j8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "130904"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/479938/pas_foto/1695651564_f1cfcc75-9671-4363-a664-2c5cd0dcd810.jpeg",
+    "nama": "WINDI AULIA APRIANI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KEPULAUAN MENTAWAI",
+    "profile": {
+      "id_calon_dpr": "929627892b66f0ccc663f355f936b181829ad6a757bf4e6d159a02c33bc72de7990f7737cb2719215eea0e5b9ebe525f2bbda159e23badad5e7522bc1f050638xWaWSC41hgAjb7E/HuK6ThPytTuStNG6wWMF+xGkMdA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "130904"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/251793/pas_foto/1683776660_3080bb64-85bc-49ba-9dfd-8e10d9c2adc6.jpeg",
+    "nama": "ROBERTUS SAKULOK",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEPULAUAN MENTAWAI",
+    "profile": {
+      "id_calon_dpr": "4e8128e650f0add3dbf0a29e0a419c07c007eba683084439ce5f7737a5547f63a701631431ce862d635464233398c6db669df08372afdd0af94151d52cd30ba9b2+AUOgDfTfhKgWQd7aKHcfMJSItD0zIM7IwT0f6PsQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "130904"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/260838/pas_foto/1683776928_fd20dbae-8544-474f-a3d6-09b2fd0810c1.jpeg",
+    "nama": "KRISTINA SUNGAN",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KEPULAUAN MENTAWAI",
+    "profile": {
+      "id_calon_dpr": "c04eaf100fbf933505cfc49185c46ffbc484cd4411a6b3b87cf750870fda3be4101954b10c6d3f1d2bda0e0e486c0c63aa047e7f84f478d5df1987a1150e9d3cMerfOMC9O4n/EK7MeMpSYAGKS+ppF6d3X03snluBQ/U=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "130904"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/57666/pas_foto/1683251874_d6edb2fd-1dfa-4688-a937-eccee95b7ad9.jpeg",
+    "nama": "SAFRIJAL SAGEILEPPAK",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEPULAUAN MENTAWAI",
+    "profile": {
+      "id_calon_dpr": "3432ff011ba8b157ea5a8be444fa6a185eae2a958e461fa2457056eac1f8f971dfb93a47f6d5b60f6c434c1ff4dad35c9d6e68a1bd5a566393cc854b8ffa6711yxfVnrtaVN4Y/c4GY9tSJ/dzuPCWhWlawe6DABHwNNA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "130904"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/65214/pas_foto/1683566358_13ac54f6-b69b-46f2-a2ad-b94689c86626.jpeg",
+    "nama": "NIKOLAUS SAKODOBAT",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEPULAUAN MENTAWAI",
+    "profile": {
+      "id_calon_dpr": "e9ee84d5c59f49c468cf2dbf6d8d9088816fb372c63647de4de8d2982cc2dc26d3a3ea60fb3ddd04e8b9d6701fc14941e3e38d294e2e1a9b420f37f46b7c08ecu1w1bGVHbc4HRv1uPcO4d4Rt23NetoYcyrumen5B3KY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "130904"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/55709/pas_foto/1683215318_2151fb0c-1914-46a1-92a2-499bf11d304f.jpeg",
+    "nama": "MARIA SIMANJUNTAK",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KEPULAUAN MENTAWAI",
+    "profile": {
+      "id_calon_dpr": "2700d5a018cbb5431d66cdb1e63e219416a78f30be0cd306cd4dba75ddbcd6b77bd8a0e0b79fca9c55af2a6cd9813873bd837fdaa8841feb40486951b86ba90b+G1fYr4qAuzyJBDq6tZhf6Q1P7b3l2K8Fmgngb0XgiE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "130904"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/449508/pas_foto/1688761299_019629f4-f103-4b65-b8ae-e3b07fafd020.jpeg",
+    "nama": "MARIA DELLA STRADA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KEPULAUAN MENTAWAI",
+    "profile": {
+      "id_calon_dpr": "5909971dd2268b60b8bdece06d706fd2fdf558400d586a5a1ca74069c319328284139f7b8ded11ca51016afa0a82e729c9057cf6d6fa18ac36f128585114bc42rTjoAjCIFjHvPmwolxQFj1o4UzlfbdO86wxnjcz7kI8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "130904"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/449562/pas_foto/1688762272_56c9a4ec-7c78-4bb9-9e7f-604970c841d2.jpeg",
+    "nama": "NIKANOR SAGURUK, S.Th., M.Si.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEPULAUAN MENTAWAI",
+    "profile": {
+      "id_calon_dpr": "bb3bb9b0998fa6e3ee35c73b24b0bcc6567cc262030d96af76ebffc92f86c14c982784421ed32be1ffff3d469574e4dcb611b501cb292c2a57a61c52f408b70elVWGqhKORHjEXJxdW2weqblJrr20k8dtdVlBxtmo+Fs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "130904"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/407938/pas_foto/1684134826_1f37a350-5881-4ba3-83bd-0e3d82b3e9ec.jpeg",
+    "nama": "TIMBUL ABAN HARIANTO SIREGAR",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEPULAUAN MENTAWAI",
+    "profile": {
+      "id_calon_dpr": "e1233d0962ffc0d44f27c6d2838b1df9c9db0dbe940824ec0c3952e2cbc2910a6b6ad59a3035395205a507619ac001b28966aba0f78b2dcae1817437ad7b9a8fCknSQ7oOk/azX0uqL4nGXZQdSCxvcAo3cmlV7CAGIGs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "130904"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/433884/pas_foto/1688537341_2f27d651-ce97-427d-a166-cb8e47e66be0.jpeg",
+    "nama": "TAGOR",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEPULAUAN MENTAWAI",
+    "profile": {
+      "id_calon_dpr": "31223e49c599a530d840d3969dbb635c1548271b63661a60e9c03c41733b82e4107af3e7586c63d23c63d943cdef80e38abe6991a976f8385c0be5fd20ad2d112OPYskkmBLgcqr+hEn5wFikFYKTjbpWGyaf3g+d7FfI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "130904"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/407942/pas_foto/1684092574_63124e01-520d-48ed-87c1-2dd34ae4ecfa.jpeg",
+    "nama": "DERMAWATI SAMARUROK",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KEPULAUAN MENTAWAI",
+    "profile": {
+      "id_calon_dpr": "d356cc50956ea6e40633e0337469cf0b3ecf361d07f0c3a2486701a5a68e6eb1d3384db6811a831d2d350daa112535a0cfe5cc6572ea904ba75815932286667b/4E+xaRjd7/CfVs7JXWrCgKa/Wjr0ewHNIqk/MAb23s=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "130904"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/407939/pas_foto/1684135236_b3eb7bbb-fea4-49ac-88a0-5a6234b54762.jpeg",
+    "nama": "ERINA SAILULUNI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KEPULAUAN MENTAWAI",
+    "profile": {
+      "id_calon_dpr": "c2f54ad221538bedd0e601563c78fdfc61d96784ec651c88398838f39a384485bdf44b39174a7d12b89af1835583e65faa41fbec3f461e224c7c17871f8b588dXbJjHU4FYwTLp+0qIEMONVNjDcwZ5CvBGSc0S+SWT9M=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "130904"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/39197/pas_foto/1683923067_77f81fc1-a5d4-478e-85fd-d548a254d8b8.jpeg",
+    "nama": "IMAN SULAEMAN, S.Pd.I.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEPULAUAN MENTAWAI",
+    "profile": {
+      "id_calon_dpr": "35c5695a572253ea291fa8fcaa7fbd058f464eddeeec625329c2147a74f84cd69ebbd7602090563bc0ca463ad0471ab4911168a33fb6e914cef44ea8d15dc763mJ5IsJb2pQujCj9BmLxI1Rhu7dXBWp17Y/e9SOIcY2I=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "130904"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/432821/pas_foto/1688497014_43ed9d29-2f8e-40cb-ab7c-5958aa5717ea.jpeg",
+    "nama": "ANTONIUS SALELEUBAJA, S.Sos., M.Si.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEPULAUAN MENTAWAI",
+    "profile": {
+      "id_calon_dpr": "21403de0240425b20aba26c9969672e9d01bbd3f363adac760f6bde11e8e600c045774b76e5ce6acd9da025b84ffb0deedb5b8125d07ad245e1dea11dd3c0525vpJlv9m1SUPkndq8BYxi/Qgu1r4gfG9VUMpTKqW5264=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "130904"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/437056/pas_foto/1688729313_d4441afb-c5c1-41de-801e-77e589f47bfd.jpeg",
+    "nama": "MARTINA SANGAIMANG",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KEPULAUAN MENTAWAI",
+    "profile": {
+      "id_calon_dpr": "d33d9cbcee17c4acf9c46fb71582ee94a61bea8ed334521c7c831089e8b8c1eb3354568d5fb3872b54e621da225ce8ffc23cdf386764f166cdac2743562905a9HE0e9wHNPnZxOwat0hnNNZlNbwpvH/B3p+Ik5+Sowd0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "130904"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/143699/pas_foto/1695780774_eb30012d-1006-4afa-ac6e-bc4f531cc07d.jpeg",
+    "nama": "MARCELINUS JUMIRANTO, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEPULAUAN MENTAWAI",
+    "profile": {
+      "id_calon_dpr": "383a3534d0357df5eb9e8cf89742dc2c50d7d00d98e8e94fa6a528a5b06e856976f33ac200021bf6c22a3aee50faa9053610a86c08e2dcc4cb5cb9739f31335edqvxKeMEY9VtnBEogQq5u2eXCOTLPRQmChUkDtsSS/k=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 5,
+    "kode_dapil": "130904"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/184361/pas_foto/1695780845_8186f931-9c6a-4f7a-af88-3f7a59b15857.jpeg",
+    "nama": "AMIRUDIN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEPULAUAN MENTAWAI",
+    "profile": {
+      "id_calon_dpr": "d1199612289401659054f8885d497667d0e71e7e7c63c1b7fcaf60bc6791ec826cd6f4512234c5e158beb09cb083f391dbf1f4bf15e8a6c7f534f75895a7ed7boEz08Cy20dCu6T/jJvXM5KH+xQOG3COX+pbNyFnJ3HY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 5,
+    "kode_dapil": "130904"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/186541/pas_foto/1695780881_7532c9c5-3bd4-440d-b5be-e2e597d32c95.jpeg",
+    "nama": "YOHANNA, S.E.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KEPULAUAN MENTAWAI",
+    "profile": {
+      "id_calon_dpr": "8e605294ff375258da33d141fab7e4660b4ef4b7444a4262d11b04cc672af5009736408675e1e263b6fafd1e727447457860682e5f94bea43b7c5f7885120159RJD4gTVoHkl8dKuJ8S4jCViIVhHKkwJ2FjLW5EWuzms=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 5,
+    "kode_dapil": "130904"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/177465/pas_foto/1695780979_2de8d765-1491-420d-8118-2c60b25b60df.jpeg",
+    "nama": "GOLDEN RAJA GUK GUK",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEPULAUAN MENTAWAI",
+    "profile": {
+      "id_calon_dpr": "fc89a03f3e280a0f819df8b448b755d83e9cb1e670e9ddbdd68f89ad7ff5ab1cdcb69e6551314ce9de8a01832306a5ff99de0b26bcf0d7470a9aba6a259b9522jQ92xZ0v2p34H5P6w9c8nCpaD/pg7kRAY/sZwz9Vitc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 5,
+    "kode_dapil": "130904"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/165774/pas_foto/1695781011_db083c3d-9b7b-4e99-8ed4-4412edb14f0a.jpeg",
+    "nama": "ERNAWATI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KEPULAUAN MENTAWAI",
+    "profile": {
+      "id_calon_dpr": "5e7b453a29b206db0b84448289144bcde94b98d59a4bd511ea5c54bdd343f827c9058ea865990e3fb67433440021d4bfb948ddedb9b85e5860c1f521afff1bc3r2nDYGqke5QIvGAUmLpbPxt8Krg6Qj52s1I4Nv5twvc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 5,
+    "kode_dapil": "130904"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/187466/pas_foto/1683944768_587d4f33-beae-4e04-9848-01a62c1f82db.jpeg",
+    "nama": "EMILIUS, S.IP",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEPULAUAN MENTAWAI",
+    "profile": {
+      "id_calon_dpr": "f406ab8b3fa2f0378aa881183d2535b004106f33708d09f44e28afc4a6cd792fd7131a5b01be3c71bd6b6ee3f4dbdb8e7cb7fc133b036d2d3081ba697fa3590dB/D5wIBvSplFGtkemk2XENCG5BAkIg6IKDJBgItQF8w=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656406064_Logo%20Partai%20Garuda%20square.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 44,
+    "kode_dapil": "130904"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/187991/pas_foto/1683944799_e2eb9f55-7936-4e76-a6fa-50e59624f10e.jpeg",
+    "nama": "MEDAN SAPOLAGA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEPULAUAN MENTAWAI",
+    "profile": {
+      "id_calon_dpr": "9ce9c8799657ef7b9e5df30b4759a0c367dc5f6210df96ccb9f942d2008376b697b6e60c0f3b75db36e40f19ed034021bee222ad3652683b51546a3308761962i2CVQG5rCPfzXxpBoiPvp+6fEFOclL9FrmzmUQNIzuE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656406064_Logo%20Partai%20Garuda%20square.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 44,
+    "kode_dapil": "130904"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/188422/pas_foto/1683956931_9b0b8f36-2340-450a-ba8d-40d11ee6b506.jpeg",
+    "nama": "ADESTA SANENEK",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KEPULAUAN MENTAWAI",
+    "profile": {
+      "id_calon_dpr": "196f70e3518d96a99162db050076f8d688475fa392f1a3ab1adcce92d04676cbe3444d3fcd96b77af72f0c7705cd498d77ad16055b69e6226311f05c43d59f99JzpYoiCjAnaR0KU5FhIB2kBbwOZtqV4W2f7BxwWrPwg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656406064_Logo%20Partai%20Garuda%20square.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 44,
+    "kode_dapil": "130904"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/188578/pas_foto/1683944852_cac204d4-ef91-45fa-8876-747afa28ee08.jpeg",
+    "nama": "FRANSISKUS SAMAPOUPOU",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEPULAUAN MENTAWAI",
+    "profile": {
+      "id_calon_dpr": "6d8f6fabd2ca16182315e139b25d4b53f345a9e1f053ba6bd3f243d619436e2ed4e3fb2e95ece2cb6e712e15ecbe445fd0b1895d59850881b8976f4af55e41c5rl2btCmuL214grYJFRzeO9hpWcxmVHAg6N1zskm3JwM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656406064_Logo%20Partai%20Garuda%20square.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 44,
+    "kode_dapil": "130904"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/188708/pas_foto/1683956961_59068763-5af9-47f3-8f90-82c2632adec1.jpeg",
+    "nama": "DYAH AYU VITTA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KEPULAUAN MENTAWAI",
+    "profile": {
+      "id_calon_dpr": "b3886a3688cd090baf52616e8ddc6f3cf8d426d1753b52e9ce9d2835ce9aaa92d49da587a7bfc3f027a6940bcedfbcf902383e3e05ce7b4983cb34d5f4df33a3lr0LOBwlJuQC0eD/y0KhhXUwG1bIbL2lOkteffoJd4Q=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656406064_Logo%20Partai%20Garuda%20square.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 44,
+    "kode_dapil": "130904"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/2008/pas_foto/1683360458_625e731e-2aa4-4b24-95a0-752c0c1a833b.jpeg",
+    "nama": "NIKMAN SATIUR",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEPULAUAN MENTAWAI",
+    "profile": {
+      "id_calon_dpr": "3c73107553dd723e9378ffb70c8f4572524ee80f4c81b3e7afb309f3ead291a53584dbf4733d5b4a8cd10fee7bdc009d77e02691d0362c01551283dbb7d563e0c1Azen/96kEvDXXRvr95FDbGmkjObBN6uvAyeRjQ3oc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "130904"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/1924/pas_foto/1682697089_1171d7ad-ad2e-415a-9e9c-b2e4e28f2b27.jpeg",
+    "nama": "SALIMI, A.Md",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEPULAUAN MENTAWAI",
+    "profile": {
+      "id_calon_dpr": "3ef59d26d9004bf8726761ea2fc1bade2b64de37f7d49575b888d8b62ea4113d78aa93b31b59c85a7e9103c58e6ac6912096778a74130e85502caf1f0c5aefc0ZzR4O6gy+FT8t+22bCaiStjxc5apZRjOYJURxeAaJSk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,penghargaan,motivasi",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 7,
+    "kode_dapil": "130904"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/2013/pas_foto/1682702236_b6ba32dd-4aa8-42aa-8a6c-b7a0e923fe91.jpeg",
+    "nama": "KATARINA ENDERIKA SAABBANGAN",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KEPULAUAN MENTAWAI",
+    "profile": {
+      "id_calon_dpr": "cccd1f206f0ac30d3a2b4d3e0b3e5c02950abedcb840a401122d91a46cbf889e811cb70eedd67ca26a075b5fe6f8497de939729b6e9359700ce182bc10f5812cv0GL+5mAyns99i6VUU6rk1hz8GFhln/cnEVYa/Qhq6I=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "130904"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/2532/pas_foto/1682739609_e944abe2-8293-4cbf-8129-17cb4a93b44b.jpeg",
+    "nama": "JEMI IRAWATI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KEPULAUAN MENTAWAI",
+    "profile": {
+      "id_calon_dpr": "9afd0040184212a264b9ce67808c45e281e690dc57948fa1c2f8a22f894f5944a234298e54dda452edcaaefa04ec2e549f5af1fe9906c9f3eeb82071c5bc40f5HrNc15fw8yqHxt8Eg6ZWchCxhCVHyEda9bV1SWBE2ZM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "130904"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/1980/pas_foto/1682699936_9405169b-e3dc-41b4-b5a3-29bcc4298e80.jpeg",
+    "nama": "REMINISCERE SAKERU",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEPULAUAN MENTAWAI",
+    "profile": {
+      "id_calon_dpr": "23ce025ae12fb326f3eb0d9504c5a3bfc39cd619800a15bba8108acd827f1a450659051afdfbd0d3b17c0116fb21c697c661e0ef0fb9222358a22968c0d1a295dY+6nIbRSAm0/JgcYLt/DIExy3nMJvEaDo3pD9QlqDw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "130904"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/338704/pas_foto/1688755628_16143c95-dc43-4e70-a01b-5577e6565c67.jpeg",
+    "nama": "FIRMAN SABOLA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEPULAUAN MENTAWAI",
+    "profile": {
+      "id_calon_dpr": "b0ded9281a68151ed397eb49a4a9082b6cfba6780e7a96bbc4792c22b3d97c9da5fc0df1824b33dd50d0170735dee7fbc457fc1621165622110241e7050acbabaSpKbqECrY6cJTwFlUcrVhXcaFv8KNkNH42Aa0bCBVM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659262742_LOGO%20PBB.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pendidikan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 74,
+    "kode_dapil": "130904"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/338706/pas_foto/1688758307_f7d38ab2-1248-422c-b528-7c796e10b726.jpeg",
+    "nama": "M. ZAKI HEKEL",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LIMA PULUH KOTA",
+    "profile": {
+      "id_calon_dpr": "94efe81d5e93a0d4f68fd548cd0b77664a847f5b458ee960bc50b428f5c032f4654d3da7597fb4ba9d177d0f92cb681b8fdf9023e9e564af44c78427d1e770d4CRA908qUOaFND2+Kbn+2N/TEyYVtiyj6c/4rwbNDo6M=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659262742_LOGO%20PBB.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pendidikan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 74,
+    "kode_dapil": "130904"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/447479/pas_foto/1688760196_5adb1749-8283-416a-846e-454be70a9555.jpeg",
+    "nama": "EVIVANI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KEPULAUAN MENTAWAI",
+    "profile": {
+      "id_calon_dpr": "750be5b59945875c79a8aebd873777ef572a195f8f4da85301cf58a99476bd262297814e6182322be5345be24de7c9a60add86f2a35fa8c90e5a2251943affeegO2djLsGe3Upsv96u0XyMJ88hvGjcttPNWOogDzkR7I=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659262742_LOGO%20PBB.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pendidikan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 74,
+    "kode_dapil": "130904"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/447468/pas_foto/1688759216_f097d12d-0f44-436f-aaf5-c1682bbef7d6.jpeg",
+    "nama": "KARMILUS",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEPULAUAN MENTAWAI",
+    "profile": {
+      "id_calon_dpr": "bd67ec491236bb7dab970e772757a145e6e98ad2b9241014968a1f4a00e753f3903c2faf96b2ea97cbea3634b15f0207267a48a4ee8eb8a62fb7d46974e49187IuQPv0Wpwuu5ZzCUhKvlDxvr2M0WlcOHMHLPdU8XYXI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659262742_LOGO%20PBB.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pendidikan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 74,
+    "kode_dapil": "130904"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/338705/pas_foto/1688757440_4abbb756-8a8d-453a-a4dc-3d7e8362bf44.jpeg",
+    "nama": "ROSMAINI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KEPULAUAN MENTAWAI",
+    "profile": {
+      "id_calon_dpr": "f0c80e2f4194c49036fc561734706808061a06e3ec8c943d12a91240204a2d2f4925de8f69f6b25878450acb34432e8f6fab365978f4c26252cb43b83c7e4627/vS9oTZ1sUKLrxS8BYgNDzF+wkQMofPgPy4DPyVXxTY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659262742_LOGO%20PBB.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pendidikan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 74,
+    "kode_dapil": "130904"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/96534/pas_foto/1371110903730006.jpg",
+    "nama": "FERNANDO SABAJOU, S.Pd.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PADANG",
+    "profile": {
+      "id_calon_dpr": "0b396657bc016a36a6551a7f9cd2d34a4fc2166fa50f4a32a10ee01befaed6292501670744b40af7988be939ff336ef9307373d2236ebab4b3c8a14d4854ed22fe0ZKNo4HurC/Zc7ARFA6UzXq0Km60BsLRqceE7/di8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "130904"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/96534/pas_foto/1309070507950001.jpg",
+    "nama": "DEDI JULIASMAN SAKATSILA, S.Pd",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEPULAUAN MENTAWAI",
+    "profile": {
+      "id_calon_dpr": "acfa2bf774c86b5487183ecc690b457e791f4b511c743ef7659ab17a1a2a6cd69ddb7cefce250cf817f778391aca4387df1884d92592bcfa96ea2998db15847aDOTCSSH2jEaSv5ERjpezqiajcjxaTBGu1HzU2akyEV0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "130904"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/96534/pas_foto/1371094504750008.jpg",
+    "nama": "SUHAINA, Amd.Kep.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PADANG",
+    "profile": {
+      "id_calon_dpr": "3630f747907680463acb88838ad5b6617cf79f75cdf0641e6d98eeb71d6d40a09d35b57b7e40c895785cbbf1332d18dd17dd3c1b030d7d198db695324f706f33GTV7t/varxz2IQUpsFCcV0lNWYKrX0Wb/NTtwujpjj0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "130904"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/96534/pas_foto/1309032104750002.jpg",
+    "nama": "KRISTINUS, S.Pd., M.Si.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEPULAUAN MENTAWAI",
+    "profile": {
+      "id_calon_dpr": "1f57ab419cf10078551048da8c7ca7abc290f250e2d3a0b5f56ef044d9b6785ff3150c1223f7d425db2b046e6f3acfabbaae1277d644d0d2e9f2e786fcdf50c6M/PqrjTRek5jvmw4UxWO8sUtqGXU3tNd406zkEgmegI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "130904"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/96534/pas_foto/1309036209930001.jpg",
+    "nama": "EVIVANI, S.Ak.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KEPULAUAN MENTAWAI",
+    "profile": {
+      "id_calon_dpr": "18dbcc6a1dc6105942eb7b114cbd86062ac5b38f8a68edde87ba7fea492b23939d32eb16f7e37832cd3f4a1f9c02e3b8efe32802b4d5bccb9214dd7e5d1e5e78Gd75K909GkraoIt95gmKIeV5XJHkShMNIfwFUZ6QmjY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "130904"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/239165/pas_foto/1683834904_32398ca5-aab9-4a07-874e-1585d28843ed.jpeg",
+    "nama": "RASYIDIN SYAIFUL",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PADANG",
+    "profile": {
+      "id_calon_dpr": "dc504be578fa440d288e75103f67be772f857a79b0a69f58e96d6bb0345504658c304fa796613efe31c013a01c60c4ee3ef38d559c047862d9ae460e124e7dbe7Lzwgf8R8yFvGBCc52W8vCKl0C2xuBQcC4TlVJ8X4qs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656419883_logo-10x10.png",
+      "pilihan_publikasi": "datadiri,alamat,hukum,pendidikan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 76,
+    "kode_dapil": "130904"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/239723/pas_foto/1683836307_c304427c-c433-4d48-a872-4a2dca1b5b9a.jpeg",
+    "nama": "MUSLIM",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEPULAUAN MENTAWAI",
+    "profile": {
+      "id_calon_dpr": "c52f0ec48667f37dfa1e13ea9bacb0154b797c0709094b947c545573fa544618b9ba9307d9a1061cdea21a17b29463477206a3f7c9c8f7bd2d0cf598f2501405nKFzQXV9oBpen6z4+aK//WJ5Ol++OZ2Vqj77omVGMhM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656419883_logo-10x10.png",
+      "pilihan_publikasi": "datadiri,alamat,hukum,pendidikan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 76,
+    "kode_dapil": "130904"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/239863/pas_foto/1683836637_c51d5a95-176e-42ce-aa0c-c3c5e1a1c7c8.jpeg",
+    "nama": "JULIANA NENGSIH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PADANG",
+    "profile": {
+      "id_calon_dpr": "29066b296552eed2a7dc6150174b565d7906f93447bbd8073e27f525c3ef700ed5fb4210033e35e0750720f84523baffd9f183c03252118c9611813de818c87a6j0xLvh7oAmMUXeQuT+p+Dq+D7ZS/1X1soQVFHlwgOg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656419883_logo-10x10.png",
+      "pilihan_publikasi": "datadiri,alamat,hukum,pendidikan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 76,
+    "kode_dapil": "130904"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/239910/pas_foto/1683836490_276e8a31-5cae-4399-b130-39b01183613d.jpeg",
+    "nama": "SAVERIANUS",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEPULAUAN MENTAWAI",
+    "profile": {
+      "id_calon_dpr": "c6f930add62be530cc388e4d2f2a702412bc850599b47f71bc6c72a1fcd2905844289c6f37d323ca80076e8549fa90c087acab0a256fe70e6df9f98f713d04321D5TdDVQ17cB236rUCaT2LB02zgTojBN1VwVfMDjvrM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656419883_logo-10x10.png",
+      "pilihan_publikasi": "datadiri,alamat,hukum,pendidikan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 76,
+    "kode_dapil": "130904"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/239956/pas_foto/1683835983_b7426e3d-9d14-4e77-9990-fef168fcd575.jpeg",
+    "nama": "DELISMANTI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KEPULAUAN MENTAWAI",
+    "profile": {
+      "id_calon_dpr": "b56086455e2358334ca5fb0a89e86653d760d9e1ed72f5c6228b118276ac7602b735b3a3e8b87670bbdebb48a9411f2e73011e96177f9ccd2c9f63f75ad744064sovt208ZcudV0mNeqEeNYiPzQmYgb5A9yZUjejE9E0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656419883_logo-10x10.png",
+      "pilihan_publikasi": "datadiri,alamat,hukum,pendidikan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 76,
+    "kode_dapil": "130904"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/1254/pas_foto/1682867722_08743f8c-9a1f-43d5-9bdf-87c527ce550d.jpeg",
+    "nama": "KRISTINUS ANDRE SATOKO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEPULAUAN MENTAWAI",
+    "profile": {
+      "id_calon_dpr": "8af0d7a9ca3ce3e2a6c8ed9c3ea4ab9c6e7f95ce8d617c9cab2a0e3f658c286f8e4dc36cb6f8aad5779a03281dec5eade64da1ce63115ddc69ba63885ff64cbb8g5QIElg7vjYGNN7ZJ2lkmbtE3oC4WM8alsPARW/cY8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "130904"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/1266/pas_foto/1682868124_ad95b5e6-d552-4885-9549-264204cee313.jpeg",
+    "nama": "STEFANUS VICTORIANUS S, SH",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEPULAUAN MENTAWAI",
+    "profile": {
+      "id_calon_dpr": "f613d1e1d73d38edfe83233328e49953697470bc1a6498e4d43499b921be8a1c8c3d3d184beedf9d5ff149cfc5bee30b78c8321b9852db30dc909019c22a367fDBcfHXRJI3hZ3iA3Q2xg0t/8zBUARITLkeRPZLBhhs4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "130904"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/1281/pas_foto/1682868359_99d67772-460c-41e9-a369-7cd013a40ac7.jpeg",
+    "nama": "IDA LAELA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KEPULAUAN MENTAWAI",
+    "profile": {
+      "id_calon_dpr": "9a3d5f2cdd4a0f4440cb7e71d90cf2fc2b2899dc4c0dbdd2133f80b5f795c3a95826990fa43f289e78bf59860669f77f412f3e7b9af6e5c02bbef130fb43236aHhCHA2iLomlVrS2KyqvoambPdkcGDs8mHd+YSQH3Has=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "130904"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/273666/pas_foto/1687786349_37aa7539-8a3a-44cc-9b14-274989ddbff5.jpeg",
+    "nama": "IMELDA MAIRIYANTI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KEPULAUAN MENTAWAI",
+    "profile": {
+      "id_calon_dpr": "c4be190b8d5c3b9c3cc1c4e071275d088c0bf9e47c7c4ac61487a44eb9ededcccd647d0d33f2e7cc01d67c3cdc5b9f3935c51f7327fcb7f0f2dc064bf5660c54EZzumVmvhWiNCUNCw+49XobOVD1nRmCXObly3ZJPK9k=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "130904"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/1270/pas_foto/1682868215_2704a760-2f02-4b06-b395-5f90b7c44138.jpeg",
+    "nama": "MARINUS, S.K.M",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEPULAUAN MENTAWAI",
+    "profile": {
+      "id_calon_dpr": "43f572d7980c83bb49e65baad67ad2b965e831f862f68ba2b2d05d5207914afe0105c1a52bbdfcb76eb2efd598e3906a978b2e11d497237a6b461251d791f487xdYyLHH2SIkKt3rBaFv5oEibAFDhl4T7KKGHXwbxOs0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "130904"
+  }
+]

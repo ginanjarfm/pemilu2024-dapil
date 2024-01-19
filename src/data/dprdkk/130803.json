@@ -1,0 +1,796 @@
+[
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/281613/pas_foto/1695985535_c3e8f5a5-662f-4b0e-9066-9f659e5bd5bc.jpeg",
+    "nama": "MUHAMMAD ANSYARI LUBIS",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PASAMAN",
+    "profile": {
+      "id_calon_dpr": "a0c4fbb05ec0b58f5f82a4dce2eb6fa040a5e87bb9d857b6c4342e5abe07dd8b3e9065b35261290b7e6e561dd404ce67eb8d341fb29a0b6b44fe8cb9e11b9e25kw5svXPk+y/mnsFFoSp+wBWwc7HuCnnP9OoSI5gJXmE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "130803"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/429200/pas_foto/1691550767_54e2eee5-d07e-4957-8c20-ecb38310cb88.jpeg",
+    "nama": "ASRUL, Dt.GAMPO ALAM",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PASAMAN",
+    "profile": {
+      "id_calon_dpr": "ab5edf7bc7b208568d7a79c481ad71a22b8cd96a409f53c699e557ae4a15f6e1b7a649177572c0706661a44f2e4f8d99520ee84c30dee8a757a71cdaa064caf5Oy1huCFWaiamJXNM4+2Dc5cDfnUf04LxhRZuatGmtjk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "130803"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/281617/pas_foto/1688182465_024b916c-384c-4404-88e0-72dddfdf1b56.jpeg",
+    "nama": "NISA ILRAHMI, S.Pd.I",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PASAMAN",
+    "profile": {
+      "id_calon_dpr": "85988487cf52a225e8af45fc51f4c7ba5aad3267f4a6ca8f4166d4922415e13e67b8215ac13d2459b34a10cc9fb62264425949b35347e9447d11ab4e349a6715oyaZo0OQV1P+qaG9vu/7W5JHlrYVtquPSG9g2sYS35U=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "130803"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/483037/pas_foto/1695988935_5e84b9e2-d883-43f6-914b-a1a47a649509.jpeg",
+    "nama": "AHMAD DAFRI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PASAMAN",
+    "profile": {
+      "id_calon_dpr": "d5495799bf8888bcab7c6d50493f1ed9dcd93dc3404dbd6769ba56f7ba61cbd4c0f39d8202a6d5235b800104cfe51aa24657aadb845df85b53828b687763ca2dTHxI63eV51BImsjg4yzvbNdSNtPyFLf9q+fjg3mOI+c=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "130803"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/82822/pas_foto/1308145804010001.jpeg",
+    "nama": "LUSI HARIANI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PASAMAN",
+    "profile": {
+      "id_calon_dpr": "4c0df17322206e7a5fa472f4558445c1010781eb11371689344a5f613a9367f1650abb9c72263ac7f92ebea0df36730883b8c2d25611ef802ded73b1479d9f6cRPP0+n9rdxeA8GO//FnnDktWTHi2/nKlifS4vQxXKHY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "130803"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/281614/pas_foto/1695985945_79f7b603-e96a-4ea1-a2f3-03d699a84319.jpeg",
+    "nama": "EKA AL DILA PUTRA, S.Pd",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PASAMAN",
+    "profile": {
+      "id_calon_dpr": "db954cb09748b5592fa28e145f16be4ca95a0761f00169403e8afff405f1819dfb468825af86627b5aaa30b60b5e9a2728bca2a58efa0d344b30b0e8a2675c95f5ZLztaIPtp9PEt9WV7Fcb4gFwDGgKTe7zx23REEG5A=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "130803"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/170680/pas_foto/1683882663_efd7a163-02d2-49ea-addb-e6f7fe724c51.jpeg",
+    "nama": "ELIF ALVINO, A.Md",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PASAMAN",
+    "profile": {},
+    "id_partai": 10,
+    "kode_dapil": "130803"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/170659/pas_foto/1683685001_4e3bbe5a-978e-450b-8ac0-769143bd8e0a.jpeg",
+    "nama": "ASRAF",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PASAMAN",
+    "profile": {},
+    "id_partai": 10,
+    "kode_dapil": "130803"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/170839/pas_foto/1683686610_23ee4556-8e4b-4cbc-92b1-5b6496f27d26.jpeg",
+    "nama": "WINDA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PASAMAN",
+    "profile": {},
+    "id_partai": 10,
+    "kode_dapil": "130803"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/170778/pas_foto/1683856132_2ba5864e-488f-4bda-b785-c77de4c9c513.jpeg",
+    "nama": "ASPARUDDIN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PASAMAN",
+    "profile": {},
+    "id_partai": 10,
+    "kode_dapil": "130803"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/170749/pas_foto/1683890163_ba5f97a3-160f-4067-9cfd-84168c44c68c.jpeg",
+    "nama": "HENDRI PASARIBU",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PASAMAN",
+    "profile": {},
+    "id_partai": 10,
+    "kode_dapil": "130803"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/170806/pas_foto/1683786687_0d32ba20-2699-461f-b018-d5431d871adb.jpeg",
+    "nama": "YULISDA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PASAMAN",
+    "profile": {},
+    "id_partai": 10,
+    "kode_dapil": "130803"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/468173/pas_foto/1691479724_ec5c85a0-6bb3-4df4-9c01-fafc93338cb9.jpeg",
+    "nama": "RUDI APRIASI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PASAMAN",
+    "profile": {
+      "id_calon_dpr": "5cd2aea555903669dc5a189b30d28378d4ca67367fcc6e522f4f81cc356773a8ae3a3051d44f7eb52b12f9da2a4de4de60022f3fd0db78c25a7da5bf6a1d783bXWyrSwXZJ8m+0auc0USfE/W55M9dHLDpY83bjG6KFJ8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "130803"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/484247/pas_foto/1696139030_3fd15812-340d-4a08-b2c2-40f828c12832.jpeg",
+    "nama": "MUHAMMAD ISWANDI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PASAMAN",
+    "profile": {
+      "id_calon_dpr": "f5ec68c283eb9697b193e8614572db1116728039a83a040696d4a642f1518f01c7ab83b20426e342c4b127eaf8598846b23ede69be7d266ac00ea2efb695fbf7UvsWwNFGpcbbKHlOjaQZpwVNMm9enPXAYpA+agbZo5k=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "130803"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/252294/pas_foto/1688793163_5d99db45-0f2e-45e0-82f0-8f8d617fdb41.jpeg",
+    "nama": "HIBNU ABGITA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PASAMAN",
+    "profile": {
+      "id_calon_dpr": "f57933b55084ffd7243ee67831380eb8ddb4b926d73828101d3bd88ab292ac35e574c60d64c598df6cf6ff8e3b3b0a610bd3826235060cc62c8f0ef7954b0f67bJl1rqR57Yolev2ewYx1ltfBru/X+QPFPkCWV9k3xao=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "130803"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/484754/pas_foto/1696172850_3a8d06b4-46f6-4c3f-8708-86ca25772912.jpeg",
+    "nama": "AHMAD HUSEN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PASAMAN",
+    "profile": {
+      "id_calon_dpr": "c2a748cf6f3e1d60b33facb8ddc34d875bbd576acb1b833e5dc53155fc27aba328c7ae8b0e731b00cc37079366366f8f5207f9f6fd31961c2af359c47fda4306gdaAtOwlLciyzdrFuiWID76zz8Na+1bsTvrifLrIMGs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "130803"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/484752/pas_foto/1696174053_ef909af1-d463-4c4a-8347-b42dde5c8072.jpeg",
+    "nama": "IKHWANUL IRSYAD",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PASAMAN",
+    "profile": {
+      "id_calon_dpr": "5f624c1255e88130a1f7f7a767ff9d3533d02e04677a26f3a3fd165cbb87308667549073c866047c556cc051d57c7f117e1e5ff3d3d2bc5278841e1e088170f04GHXvvHPlWnRlmJ0CxHcpWylDinKm50oHQu4e9NVDYI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "130803"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/468923/pas_foto/1691505849_40feb0ad-ef30-48c3-8255-3c94a6b6af64.jpeg",
+    "nama": "TASMI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PASAMAN",
+    "profile": {
+      "id_calon_dpr": "dca246895a29c679cd6a3dc8098d716d9d2b0f7e56aa276c5a3d79e7d50f30f2d239054a8cc0d6e7aef47c062b84621848e1502b0e1599e0f7ed1fbd67d15e6fV2JBpEqN6I9fv60pf04dNlQRBs8nPzOLA+4Dd+Dvx7w=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "130803"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/167798/pas_foto/1683958854_a375fac3-ae76-42eb-89cb-83dbcdc6a1ea.jpeg",
+    "nama": "MUHAMMAD ALFIA, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PASAMAN",
+    "profile": {},
+    "id_partai": 9,
+    "kode_dapil": "130803"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/314553/pas_foto/1683958638_77f1566e-f6eb-4078-840d-0a2b2c3a8999.jpeg",
+    "nama": "IRPAN, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PASAMAN",
+    "profile": {},
+    "id_partai": 9,
+    "kode_dapil": "130803"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/167701/pas_foto/1683960801_13812d60-4db5-4f41-bc09-b81b210dc466.jpeg",
+    "nama": "SRI MAULIDIA, S. Akun.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PASAMAN",
+    "profile": {},
+    "id_partai": 9,
+    "kode_dapil": "130803"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/167900/pas_foto/1683959089_226cc8db-3044-4841-b06e-c2d919a0ce07.jpeg",
+    "nama": "YUNEF RIZAL",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PASAMAN",
+    "profile": {},
+    "id_partai": 9,
+    "kode_dapil": "130803"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/167540/pas_foto/1683960622_f5bc14eb-36ab-4a93-afc8-20d017ef2c67.jpeg",
+    "nama": "EMON",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PASAMAN",
+    "profile": {},
+    "id_partai": 9,
+    "kode_dapil": "130803"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/313504/pas_foto/1683960083_6ba20898-ff13-4a25-b5cd-62e1cf94e38a.jpeg",
+    "nama": "NURAINUN, S.Pt.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PASAMAN",
+    "profile": {},
+    "id_partai": 9,
+    "kode_dapil": "130803"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/39842/pas_foto/1683630574_755bc183-93d6-4835-8468-4c5b47dcd57e.jpeg",
+    "nama": "NAJAMUDDIN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PASAMAN",
+    "profile": {
+      "id_calon_dpr": "aca08e992b76cf3c51b9a2ebe5cc625766cae7f935578e9438c6327d95a92e637ec10f2da2ec333cc835cf7bac264fc0c8d91659fcbb9ff4c09a57d64b791887iNrrsBPgmpDfQVSCq4pvLjJWoPnJTlzZe6zuxITCoqY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "130803"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/39975/pas_foto/1683435996_48a4b623-12c8-4d24-bd22-16d531c9ec64.jpeg",
+    "nama": "LINTONG, SH",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PASAMAN",
+    "profile": {
+      "id_calon_dpr": "a45ca155d44538275c675b924116ad4c7e91c40b862a6874c4a78102abd53161a352273c2dd0e65446ee0e17d110a374b61e95c670d6af9e11a7ae53286c6c5daqoxGZoSxtKLjvjoBzx4xHGBEu+xMqD8cDDCPDpGLMA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "130803"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/452151/pas_foto/1688798115_8e799cd2-0636-4c4a-b488-6ad30ee5520f.jpeg",
+    "nama": "YULI ASTUTI, SE",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PASAMAN",
+    "profile": {
+      "id_calon_dpr": "31a688ac20d299750ffcf1d1c9b601638408b27b2461081bbc3073e95f33538b3302f4fdf32edde65803f05db944f17fa5a0ab1fca4f8f451fc39567f2a45795eYYFf91wfMGNdO8qN50rddzTZgZPkEA9kHSy6B4N+qw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "130803"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/40141/pas_foto/1683699861_dc4b9c09-fa36-4264-9554-12e3f4079202.jpeg",
+    "nama": "ALI ASMI, SPd. MPd",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA BUKITTINGGI",
+    "profile": {},
+    "id_partai": 4,
+    "kode_dapil": "130803"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/452723/pas_foto/1688801750_dfe1be0e-762b-4981-93fe-b308af055523.jpeg",
+    "nama": "SIRWAN, SPi",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PASAMAN",
+    "profile": {
+      "id_calon_dpr": "74120bdc6b4abc9ba1b6195a157b4d448cc825f3c251208cff6ddb0d394383ad6ba5a2267adc48326b00bf5ff1c873a0bfa7b08715e0d7c125d4b0e861648b03lJog6RzVVmhMvTjMoymohVA4nTYfawwWxiayZq1SO3E=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "130803"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/453012/pas_foto/1688806306_294f5be5-8d99-4268-96d0-3c1a1ac0b8c8.jpeg",
+    "nama": "RISDA YANTI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PASAMAN",
+    "profile": {
+      "id_calon_dpr": "044b637ce067254ea1830cb7f445654698302c8071fbea202f526db80f1e2114f045b24f6401042e6ccc6ca2150e315d9d5babf96ecc8900fd9efc5ed87f1df6DwxrJ5jq1VQHkZODlH/geKiWri7A9rNr3IU1HdJfNXg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "130803"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/18985/pas_foto/1683003649_bd525411-97da-4765-bab2-5a07399f1fdf.jpeg",
+    "nama": "NELFRI ASFANDI, S.Pt.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PASAMAN",
+    "profile": {
+      "id_calon_dpr": "9f4ed7d9f30011922ac75dcbc61f554e87315506721f2ac2e6416b5b289c7247b876d06bc8fa91f2044bcaaf5f3b63de75c33a79eddb0a10c8c016789cf2777cyf31xIxzrVmbTO1PvTajlg9BEMJ9Q2tHKOf+51B29UQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pendidikan,riwayatpekerjaan,organisasi",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 6,
+    "kode_dapil": "130803"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/18095/pas_foto/1683571328_fcff4b84-42dd-43ae-b44b-df471de91206.jpeg",
+    "nama": "H. YULIMA INDRA ACHMAD, A.Md.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PASAMAN",
+    "profile": {
+      "id_calon_dpr": "56b46c066d9fa65afae595e421d61c58a70fece8e1ed9c0c6593af58e392a0a42ed8e836ed14954948f9907433f957a02537187160a30977c34481dd18b136dabv9w+KrI1S6c5hp7GQiooB1ioXvSOgq19yVhKc5I2NM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pendidikan,riwayatpekerjaan,organisasi",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 6,
+    "kode_dapil": "130803"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/19722/pas_foto/1683562253_6dbade1d-7ed8-421a-bff5-7e8d92940fb6.jpeg",
+    "nama": "SITI KHODIJAH, S.Pd.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA PAYAKUMBUH",
+    "profile": {
+      "id_calon_dpr": "be31d6a19f512c2bd47122744d4950ed845c25363b427363f92869b6083cb8ff74cd65cf578d639778f1288e7e7c8e7bb7bdcf533aa194952e6f4d5c323c6475KKFxotXrcibNREn0jArtOCSontLtVV/fhLfosw+e6qQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pendidikan,riwayatpekerjaan,organisasi",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 6,
+    "kode_dapil": "130803"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/21420/pas_foto/1683121084_ba991a7a-e182-4ccf-ae5e-377b85df102b.jpeg",
+    "nama": "REZI ANDONI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PASAMAN",
+    "profile": {
+      "id_calon_dpr": "e7b8eba8bd6f46ab39b2e7a133fbc8ee9f1794d2c9473ccde58388ebc0115b99274c7a9988af3e7c529af6de8df432ae553a0d0dd73bd602fe1448fe4d8bb4e1ddnVusNR8RtCYAYYp+M7iNYo9kk1J2dPsA+Fuy+bPgw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pendidikan,riwayatpekerjaan,organisasi",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 6,
+    "kode_dapil": "130803"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/36695/pas_foto/1683364945_800f0d73-157c-448f-ac72-c379c8341f62.jpeg",
+    "nama": "APIT ARDI, A.Md. Kep.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PASAMAN",
+    "profile": {
+      "id_calon_dpr": "660bee1ea3abdd622a689aba9c0ea07affa45d8d46d962b81267c61121cc2babf4a8b06cadab72da23fe252839d3fc3bce696af719040feaba7be960cfd12021fgjhJnVtmeILL0S1PkM1EfPpNPSula1JzAdAX1HBnVU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pendidikan,riwayatpekerjaan,organisasi",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 6,
+    "kode_dapil": "130803"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/19096/pas_foto/1683120862_8acfa6c3-000d-4593-96e7-abaf9c686954.jpeg",
+    "nama": "HENDRA YENI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PASAMAN",
+    "profile": {
+      "id_calon_dpr": "7d2338bbede72dcf277431d584918e33f3f6370c4f23833eff88758d5b37563b60e39c410db8c83a9412abfb459e6fbafc94b59d0664d4862635ea500839a38bzHhIysaQ1Xjg28Wwr5EmmvWREaHFdFki3LDFnpOwVJI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pendidikan,riwayatpekerjaan,organisasi",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 6,
+    "kode_dapil": "130803"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/460841/pas_foto/1689326360_38e4121a-c1a4-45dd-a0ba-108ab782eddb.jpeg",
+    "nama": "NUR HASANAH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PASAMAN",
+    "profile": {
+      "id_calon_dpr": "01b5a1f930f926052bbcc506328f852fa028a5683c53b87095feec40641920126d47d8aa0db6c59b3ffe8b4f43b81b00b629820fdcfb8c608a518db915ddfac8AUVDGwrdRvBuON365n7eXP13DPSeaWWvZAzbUkZ1S0I=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 5,
+    "kode_dapil": "130803"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/473456/pas_foto/1691667171_23c1fb9b-1812-4739-b4a5-ceba693520b3.jpeg",
+    "nama": "HERMA NILIS",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PASAMAN",
+    "profile": {
+      "id_calon_dpr": "5757d1e118a1f41b6d8cc83664d68f416513404574b5639eab9ab291e361fc1029cf83c24c2276f14dc5bd54c055d7bdde0fd6ecf93e1f8f6912bbcbf6a74c98kwKMC3Xo4PMRysoyc15PZVJjMkV/UBICwtcfVRS6OD8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 5,
+    "kode_dapil": "130803"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/34491/pas_foto/1688478406_37158b8a-ae26-47f6-b610-7107a92af34b.jpeg",
+    "nama": "YULISMAN, A.Ma",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PASAMAN",
+    "profile": {
+      "id_calon_dpr": "dcbe7be2a622aff7f7c5f7746a7b19a9aa246821bc75719297d5fa8650adba52d8ec5e4c11358bf6e58317242fe4e137e86c9404b03ae00b94603710390a31cbHnsLd5gPNQ3MTUSRU7YivTbBKrsjlCHMjWahApBTzxY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "130803"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/35721/pas_foto/1683105183_2fbcd7d5-bcf1-4661-906e-2ff48b3c5219.jpeg",
+    "nama": "ARIA PUTRA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PASAMAN",
+    "profile": {
+      "id_calon_dpr": "1c9aa9667d23f2285f8feb4c4abbeb3f9811df19fa0a45597afbc33c64359326f03767afa6da38a269d437b273031213cd2e4e6a1e39b2f442cc3bd61fb8aec01q5NWUR4RD2k2f+HbQS9NVE4evWhZgCR3cA/aIPkVwc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "130803"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/34896/pas_foto/1683102510_0d2757bc-357f-41ac-b362-0bffb9bde3d5.jpeg",
+    "nama": "ROZA PRESTAMA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PASAMAN",
+    "profile": {
+      "id_calon_dpr": "db5acf81c17404f7d12e32c42d56caa8df8a9e1061f06b24b9da298f1e88f14362fd02b6a5fda9bcac899937f1c30d14f9aa866284ccc4146de416bdbbb5bc8d2R9uSeGRXI+46qm4t1HTGQfDTlDZYpJZJuMGtWM0394=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "130803"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/428177/pas_foto/1688367027_901aa7a4-3809-4054-a1e8-59d664debf32.jpeg",
+    "nama": "M. SARKASIH",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PASAMAN",
+    "profile": {
+      "id_calon_dpr": "8e21709f45c35f66f007a05cd739fc0c9f9d6cb8524332243954b0a7cf8e88b42b0ca58cb28d6edf11bc5aa76327584781f10e62609833e50e74f00c19643ae024BBxZxqJX315LUgxDaIzXV1oz3yAbiV3ILJh8xslyg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "130803"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/35388/pas_foto/1683104015_7c50ab01-a0dd-4e81-ba34-735b210584e6.jpeg",
+    "nama": "MARDALIS",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PASAMAN",
+    "profile": {
+      "id_calon_dpr": "b0267c69f2e4ac922ede55876f6c1a4eefb77ad6f6a3b9b648ccc24d0391e557b36c8e8b1dbafd1cb71bc164420e1f3426d87be658200867cbef9e655d18b35fVB/ni95Lejl3zUYQm/1kS6jkVQbYT0+Zwf8D8QSvqBk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "130803"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/59662/pas_foto/1683351675_bc0bdcc5-2f4b-416f-81be-bf3428b0ceac.jpeg",
+    "nama": "ROSMIATI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PASAMAN",
+    "profile": {
+      "id_calon_dpr": "beb7b71a26fc2c414f43d478ec8bd9f3bef5d6c0be2fcce8867cb10cce782b1a79236fd09f6d08854666890895d1974aa4ddb8fc551fb27e3d7d2cdc5f504e37UhdyVyt3ATYMti5EX71y6WLVzbO9/gX7DCEZ5URlbbs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "130803"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/107023/pas_foto/1308142702760001.jpg",
+    "nama": "HARIS SUDDIN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PASAMAN",
+    "profile": {
+      "id_calon_dpr": "4aabb669afc52a6bbbbfba4194b11150990a84fae0f3ade637979de20984e1a0bc6f8e0e3b7007dcc3b890ae2a6cebc3d12674e921583fac24db3c71eb5c8962phpfQ4Dbhx8UByy3oAMypndowu8o7Am/MMDKPXbe0ZA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "130803"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/372653/pas_foto/1688922246_aaf59b64-38b2-49e3-bdf7-34a414e54855.jpeg",
+    "nama": "SUTRISMAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PASAMAN",
+    "profile": {
+      "id_calon_dpr": "f3712d6f5b08a59914026b33a90e7606db7df31ca514494459511ea7e646fcc8d4887b430a32fe1b05f59c78ca876ae524187d0dfc8ecc58bd091d3993eb55a4dXJZR1PYiVJPsAUV7GNaPSnSvCKfsWY4Ds4xtBjG4qw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "130803"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/107023/pas_foto/1308145912840001.jpg",
+    "nama": "RINI DESLINA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PASAMAN",
+    "profile": {
+      "id_calon_dpr": "78a0f7c1550c8501892b8da208899399c2ff999c5c439e07a76cbde69299824e2259523374e33841c494086473d60ecffd690c801d92e4e17047f0490be5024aO/sAYW8EHNwQiRdWhvhEAlTqhGIjMZlvcRFqJWK2rrM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "130803"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/464372/pas_foto/1688922394_fbc97128-9a11-4523-ab1c-9aff166759c1.jpeg",
+    "nama": "IRWAN AYUB",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PASAMAN",
+    "profile": {
+      "id_calon_dpr": "826f83e5507b64dfa040fe151888e519261cbdfbe0d6458796e2fc9fbdc0441226d4c541b71832678ab0f143afe9d9290eed454b354c8ad15690720cf8d27386/1E997RfkVC7vYzLnICRe2TgwSKj2916om5+tUM37bE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "130803"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/107023/pas_foto/1308141205670001.jpg",
+    "nama": "NURSAL LUBIS",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PASAMAN",
+    "profile": {
+      "id_calon_dpr": "c5ec259f2e1d6c29d1e365a87ca85911e55bf2a1a2c992109aebd4fb037c4e2dd919986785681648fc295593769ba97be24f4bf246ad104bdbc5b97647d62a6f3ZOzZYS0TWC7zZz83x9k7OLQOjbbRWSTxoc2GRptfsU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "130803"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/107023/pas_foto/1308144309620001.jpg",
+    "nama": "ELFIATI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PASAMAN",
+    "profile": {
+      "id_calon_dpr": "c6c72106c137190807af5cbd48b367fb2a9edea964ccb9cea06ae34a20f97a5226e3fa7fe90170f6a9f3769fddda65b15cd82129e8d700835cf19a33e4228db1zVS89fNeiaCUeWrQGa3QDKM7bLcxLHpCtZvXNcTwkOQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "130803"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/162500/pas_foto/1683629362_272cedb2-d05e-4d0f-80c2-5dc3e6e57e44.jpeg",
+    "nama": "NOFRIA ATMA RIZKI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PASAMAN",
+    "profile": {},
+    "id_partai": 76,
+    "kode_dapil": "130803"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/163474/pas_foto/1688838231_0dc61489-e788-46b2-97b8-c2c6aff6797a.jpeg",
+    "nama": "NASPI NASRUN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PASAMAN",
+    "profile": {},
+    "id_partai": 76,
+    "kode_dapil": "130803"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/164331/pas_foto/1688826445_a9ea2b48-197f-40ed-8596-6298f8d4f0dc.jpeg",
+    "nama": "IRA NOFRIANTI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PASAMAN",
+    "profile": {},
+    "id_partai": 76,
+    "kode_dapil": "130803"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/163666/pas_foto/1688840988_3fb76bb4-684e-48b7-bb0f-e7c2cfed2216.jpeg",
+    "nama": "M. YUSUF",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PASAMAN",
+    "profile": {},
+    "id_partai": 76,
+    "kode_dapil": "130803"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/163696/pas_foto/1688752559_88c3c3ec-437e-4fb7-aa23-dd6d9df60385.jpeg",
+    "nama": "YONA LIDYA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PASAMAN",
+    "profile": {},
+    "id_partai": 76,
+    "kode_dapil": "130803"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/251689/pas_foto/1683751689_7267bab4-fcde-47e2-a883-29dac13230bd.jpeg",
+    "nama": "BENNY SAPUTRA, SE",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PASAMAN",
+    "profile": {
+      "id_calon_dpr": "9e4007c3590b51875b79a46d9cf6e2923e3a5f2bfe45e84813bb6df1dcfcc0e478b76e3c9a2ec2b480c4ce9ef0c39a6ea7fb170e01e77e55ef4f841bccfa6cd8ETc3+lVmm/6+SX5KsJINTruku0PkWktcqVN0Ez9fw2g=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 11,
+    "kode_dapil": "130803"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/258515/pas_foto/1683772251_ce23659f-5212-43b8-ab10-d9d4bd1ae49f.jpeg",
+    "nama": "JUSMAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PASAMAN",
+    "profile": {
+      "id_calon_dpr": "3ad1d3a42184f44aaf71fdea4683ebf6519d8d83dfa4fccf222c6a1e3b209d6c01cd68e41d1dcaed95a9478e5353bab68c3ad2190c9b4c88dfbd12ad273438172ckFWIvDD9r2oCo7PpgWn4y2WwqjK+F1CMFQtIwgRw4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 11,
+    "kode_dapil": "130803"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/352289/pas_foto/1683948977_df861768-ef18-43df-a9d6-967ba0cda1d8.jpeg",
+    "nama": "LOVEIKA ORYDELLA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PASAMAN",
+    "profile": {
+      "id_calon_dpr": "6f8a1a35352cb0c6f12aded3913597fa6c7050422b1f952e7193f463ed5db34c5bcea2ee81b798bbab8a2f02e825c16291d0278f9db38c6a7222e2dbeec19586I25mJNrAFeOTRf3rjhQPiM/r4+IxS876iVfnsTxZvek=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 11,
+    "kode_dapil": "130803"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/250879/pas_foto/1683750216_aaee175f-d42b-46da-856e-ebc349a37f86.jpeg",
+    "nama": "HAMDAN HSB",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PASAMAN",
+    "profile": {
+      "id_calon_dpr": "d9e628b69f89bfc5cb11134c95f259c38d3908ad6da8dd2f3f47f9a0384c491923b9b835243cbefb2f048d57b7a72e329dc869d0f1fb77e269168bac06e263f2TPn7n+P0zNNBZCbSAdy6j2GjoE9VDQKnDFcBEjPP0c8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 11,
+    "kode_dapil": "130803"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/259395/pas_foto/1683773893_50ec7ec5-a7f9-47a0-a8b9-f8d83d994f48.jpeg",
+    "nama": "AHMAD HUSIN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PASAMAN",
+    "profile": {
+      "id_calon_dpr": "131d2d63a6ea64f122bc87919a5811a240908b83a1c3335ebda1194e63745c8c53f34ac395b7201a0b1b61309376e2e647eef90b7290f5b0af31b6f06564455a7hz0VmsF/tr2oNdnCe78YIIdaDSEbuh4TtRFIT9vucQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 11,
+    "kode_dapil": "130803"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/352961/pas_foto/1683950562_9bbfc8c9-abd5-4096-91d9-278df9d3ac7e.jpeg",
+    "nama": "FITRI ASMAIYAN LUBIS",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PASAMAN",
+    "profile": {
+      "id_calon_dpr": "2698f665e43b462d5f228d3acaeb40105f2050cbfe92632f876927159e5e3abcfc126331cab5d9eabc8709110a55eb1820bb8df709bce1434103a8d101cb1a77bqkcEeEIWwmFe3SDK94Ulv8AWengoCRrFkDvqyLwbIU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 11,
+    "kode_dapil": "130803"
+  }
+]

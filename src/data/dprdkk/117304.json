@@ -1,0 +1,939 @@
+[
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/89939/pas_foto/1173016907750001.jpeg",
+    "nama": "Hj. MULYANA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LHOKSEUMAWE",
+    "profile": {
+      "id_calon_dpr": "a5e9d4d48b2bac73a3c5566cb538e2eec1289288ec1ddceb0858f941f6142c95fcd340e4d0bb59987dcbc67306ea1a247967ebfc7de14d2408a7d983d4468271ZMy+frSNdiXJMlDacyCE+QN3BzFNPd/pwHMOqSW59r4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "117304"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/89939/pas_foto/1173042307810001.jpeg",
+    "nama": "M. YANI, S. Sos",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LHOKSEUMAWE",
+    "profile": {
+      "id_calon_dpr": "d5890ac581d5c37ee5a124ee98877cac762426badc87e3fb27c4f08842f60b66bdff16a0ccf514cdf4f05644912c548eb8301ec355397be57f83bebc3aa9b528Pb7/9T8kITBaj4OAcZsamqIxSb2tJpGAGxvWPvaOzKU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "117304"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/89939/pas_foto/1173024802800007.jpeg",
+    "nama": "ULIA AZRA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LHOKSEUMAWE",
+    "profile": {
+      "id_calon_dpr": "b186dc8f19438653660b74fa45dcc6b26b6bcd3346841006256fdc699341a0a9becad7b5730530f455c96b41be6661e3f8dcd9a93ba0d7212b21cc96332a0758oiQICscOnRaMxe8qgJZazSaNw24yWafliqXe6GDGVd8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "117304"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/89939/pas_foto/1173040908630001.jpeg",
+    "nama": "SYAFRUDDIN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LHOKSEUMAWE",
+    "profile": {
+      "id_calon_dpr": "409c589fef6955e3752199e23819e028b42ce7eaadd7da4f01a84a5bf8309707fca65b5fa828e63fa377529fb344c59e6c8e3ff3eeff125b79b75e92a2fcacd0LYlXVmyKrYqsXzhqVvXWj01wvgGtU/kozWeLTXHwLTQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "117304"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/437196/pas_foto/1688627027_d20e476b-96da-4cb7-b2b5-4f846ee480bd.jpeg",
+    "nama": "ISHAK ISMAIL",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LHOKSEUMAWE",
+    "profile": {
+      "id_calon_dpr": "4a927498fdd32d13a58d5cb8eff8eb2a5d4a8ac733e756e06ed727feb2c97f97ea51a6ea329dd8869f7c0673ffbf42ce44178bd227650d950a19101697e536f74qLa1R0OlQ9bAEPdBJt0b5vhGYuL/s2pkKerfDj10ks=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 10,
+    "kode_dapil": "117304"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/439009/pas_foto/1688634076_02f0293e-7dcd-4bf7-b9b9-8d1602ea8a21.jpeg",
+    "nama": "ZULKAIDI, SE",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LHOKSEUMAWE",
+    "profile": {
+      "id_calon_dpr": "9efe25b5798397383a4f5d75f6b7b58f8894d97dcf6c6d57dcd1d57837a1bd685dfca23284308840592351af4f10facdd10931d4e3041896d8ae42d07f94ab15gwDWXLca4+WDnCOXpKutxxDcOiGex4F9oZEv433l8/I=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "117304"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/180537/pas_foto/1683621199_daebcc74-e58d-4c03-b05f-88423abf40f5.jpeg",
+    "nama": "HERA INDRIANI Z, A. Md",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LHOKSEUMAWE",
+    "profile": {
+      "id_calon_dpr": "51ba6f8766c8452da36e9faadaad785d2ea6b828ccb19586eef84c1aa6c7f2f9eea69d9427fd12f70283a61709f35ad6096c5fe7652d09f03a77222fbf0ed235BIPLRFwy41VwEjKcjxmwsNXByPxUhpbq1R9w7/tSMR0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pendidikan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 10,
+    "kode_dapil": "117304"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/438337/pas_foto/1688721647_9b2f62cd-a2be-4ac7-94d1-ad9aea3ee311.jpeg",
+    "nama": "MUZAKIR",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LHOKSEUMAWE",
+    "profile": {
+      "id_calon_dpr": "9486b4e52be721b88165dd81513154239f3b6ac5af72cd7c5be254a7b11411fd9edded9182c27e63a56676fb276f5f4cb1b369fe87e0e0d835f38efa54dcc487pkkNsYXOFiGmP9gHlU8osh8EzjY5vxBaI20SR/Dpy9A=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,pendidikan,riwayatpekerjaan,organisasi",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 10,
+    "kode_dapil": "117304"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/295815/pas_foto/1683823466_747d0c6e-b532-40a9-808d-27a563e4918e.jpeg",
+    "nama": "SYUKRAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LHOKSEUMAWE",
+    "profile": {
+      "id_calon_dpr": "aca2fb1d8da1fdfb220105221b7dae74ea0ff00229422309f4060fb154cd7aacb4ce3e18287e60df8622f860f384cdebc587252ac952e8612e00440705d798c0Iue7wdQ1EbHFD2VAk0r6fzIzcI6F1LvV2rbBVrQxtNU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "117304"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/298475/pas_foto/1683838631_bffad990-e141-4f66-b312-63000751a789.jpeg",
+    "nama": "AGUNG SETIAWAN, SH",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LHOKSEUMAWE",
+    "profile": {
+      "id_calon_dpr": "d558f4f6f0011029d0c5176783123d284eb116c8089ebe716f647cd4c0e03501d41c4d139d3d7c3dad33b7dbfd335d39eb3964541863327926182db0831fe92csO1+MgLiuThfE7ibTHsKZywR9UVRTjVinux1w+TTYQs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "117304"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/467306/pas_foto/1691520318_66071ac0-8e9a-4967-9c62-e98a67b3cdeb.jpeg",
+    "nama": "NURUL A'LA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LHOKSEUMAWE",
+    "profile": {
+      "id_calon_dpr": "5453c096b1536265f069a3ea1c827c3d0479c6fb5eb620793e32318d793e65da813cca182c8bad441790dca5151ec6613daeee78328f95a87f1fe0a5e375b6a0t+x2Fw2opkET1A6JSPxmXLX1KPqBIATf8yTW6hMVvi4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "117304"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/274303/pas_foto/1683794001_716c69a2-7c96-4d1d-8ce6-cb487b48492c.jpeg",
+    "nama": "JAMAL KHALID",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LHOKSEUMAWE",
+    "profile": {
+      "id_calon_dpr": "04a6150571da4592b1a376d071d90206a553aa50fc5cd6ce22faff32aef2dab616bbbafac800648fed0bca82d56278b30552c05e206ef38e13249fe6fb1a33d5MqHcG+bH8MH6oAQIPsBVb/ehHQKKfiOxpClrejktIE8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "117304"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/59501/pas_foto/1173041409710001.jpg",
+    "nama": "MASYKURDIN EL AHMADY, S. Pd. I",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LHOKSEUMAWE",
+    "profile": {
+      "id_calon_dpr": "882000f48dc352bd811ff85e62422dd73df30645e13dfd130e18a383ca3b4212c75319a71da4c0b3dcded75a5e216306a5e65041f587f7f5a68c54fe52c439caN7enJ18EqGPi0bJDIVABrmeH6GOngdER+AmfOXh1d6U=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "117304"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/59501/pas_foto/1173021612640001.jpg",
+    "nama": "ILYAS, S. Sos",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LHOKSEUMAWE",
+    "profile": {
+      "id_calon_dpr": "1e9dd47a4d26d70110ce440b14eb388f7880f0c7168ee4de05f7a6b66e84cd59b0cfe07332c90040ae83c0257848d992e6085f442060919486692807ebfc99f0cQ62ABY2hSfb+uJg9dRbLpDDWOd/dGNRGvIlj0YqH/E=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "117304"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/453929/pas_foto/1688809304_6bdf55f6-1331-42b1-bf51-d64c4ce9e68a.jpeg",
+    "nama": "AULIA FATHIHATUN NISA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LHOKSEUMAWE",
+    "profile": {
+      "id_calon_dpr": "b3e3c2dd8eb955ed5a423d77e22f10eef87a09655d4f0ef7358cae76f1b5f014a22f5a3f058383042a07bebb998347d2fb49601128003f71be1ac781fd4d90a79/j3LVHUWM0RSWM7qGOlq0MMKMporif7ielNRqGFock=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "117304"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/344603/pas_foto/1683943759_43d65c77-c437-4762-a99d-9277754f33fe.jpeg",
+    "nama": "WINDA WIDIASARI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LHOKSEUMAWE",
+    "profile": {
+      "id_calon_dpr": "560071bfaa4ba64eadbd02743b4eca878ebac99a5178776dd071e40c1985e87658ce606478deb997b9709df7eeefa1d88e65297785c01697ca3a790638af67bd+r738KzeTXZvhzGtQb8vmTcdpvQhIQqQdHU3i7oavAM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "117304"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/40770/pas_foto/1683128393_48cbc226-769c-4c7a-a1f4-9db9f0151944.jpeg",
+    "nama": "SUDIRMAN AMIN, SE",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LHOKSEUMAWE",
+    "profile": {
+      "id_calon_dpr": "0b4b997fb4532f1c9fc10137a3e05874359bb79b72fd6777c2475dfaa94716c5258e5bfce640c16a12aa178c5b4aa2e1a9f72c47f674f599c232d4f84ea9e7e2loKCta+iTLaoUklmdB9AGaWSmU3FnC9VxkLQU6dVRoY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "117304"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/27207/pas_foto/1688661012_892224b6-abeb-45d3-9590-ea0b26802d13.jpeg",
+    "nama": "ISKANDAR, ST",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LHOKSEUMAWE",
+    "profile": {
+      "id_calon_dpr": "a31542e0b2ca463da2d40b0e673d1b2226daeb78a160212d4ea43c84161074dd0b70a85683a242d6e3b0b8293ff7af62e5e3fd08e7e0383ef52db2019f4fdfcb+P6edWdyIThg9Zh0LvP2FBYWBEAHzoUb2NFzJnhCG1E=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "117304"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/96926/pas_foto/1683380065_96a960ff-92c3-4824-92c6-1d05be456d6d.jpeg",
+    "nama": "DESRIANI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LHOKSEUMAWE",
+    "profile": {
+      "id_calon_dpr": "c893f831f45cbbcb74bd0f8d096cea4ab819b37504011b49d7472e94061f1ea55b53636a430c7c4118250e9a94b7ff3f7a58aaf25000697c8f4d2ad740d39386yZLJq82KRth7hSH4eNV+0PpW6Gjoog4uVPo/y3pQfRk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "117304"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/479707/pas_foto/1695635721_691956d2-4f94-42c6-93f2-f9f04a91dfd0.jpeg",
+    "nama": "NOVIANTI, A. Md",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LHOKSEUMAWE",
+    "profile": {
+      "id_calon_dpr": "61ab3dfa56927b0eeef8bde8d41eab7e808716aad33933cda213e868b1f7bc04dcf5e4a900864866d3ff3c5a1cfe35df6256f108c11884cb9b12e603659e6d64ScNpRihes4Fl8CaBaJYTybQGe1J6wxjrrCnrnDctcOc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "117304"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/402452/pas_foto/1684163626_6ab1b0f0-d0fb-490d-88ae-acfcd4c2a045.jpeg",
+    "nama": "ASRIZAL",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LHOKSEUMAWE",
+    "profile": {
+      "id_calon_dpr": "6d44689282ac3747a33ca7cc1fa1396c1c22e66f5036db8e69b2686018eee56d2685fe4643e58196c09cca38bfa10311b39fa1716684768a3b9ccad73735221fTl7JdsrZOK+zq8kuG/+zypHJ0+od+nR8C2RPpof8OZo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,pendidikan,riwayatpekerjaan,kursus,organisasi,penghargaan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 77,
+    "kode_dapil": "117304"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/402451/pas_foto/1684163220_24cba46f-8819-42b9-b0d8-dcc90551dfdb.jpeg",
+    "nama": "NURHASANAH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LHOKSEUMAWE",
+    "profile": {
+      "id_calon_dpr": "903811d9618a32044014bd5f671b0328a7763597ea7d353847f00f78ef994fba241280aebd4f8cfbcd38de628e99706aaec3cb38dc62b5ba3faad3d62df23330St2k/LB8kXa6tvIpBg8zvocE4Gtc7bb0Tu71235DJqg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,pendidikan,riwayatpekerjaan,kursus,organisasi,penghargaan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 77,
+    "kode_dapil": "117304"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/402453/pas_foto/1684163674_0b87ff00-cb8e-47af-8643-d73a1af2c942.jpeg",
+    "nama": "FATIF SILMI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LHOKSEUMAWE",
+    "profile": {
+      "id_calon_dpr": "bae0d7473861e62c972b019603f82c0249f5d056ee20fa06fd198bd190de4c4943667bf36ae35e4b35e20e9757c6356f64c63502d6afb7f4b52f138086465445C5DXU1FpXQQ8ODR7AJcRApiNNmeSzqZUi7Uy+TLuAkY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,pendidikan,riwayatpekerjaan,kursus,organisasi,penghargaan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 77,
+    "kode_dapil": "117304"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/73874/pas_foto/1683308071_a8d630f3-aef8-4a6c-881e-686959bc90a4.jpeg",
+    "nama": "YUSRIZAL, S.T",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LHOKSEUMAWE",
+    "profile": {
+      "id_calon_dpr": "44aa567c4190af9655452497b7791e84f92242be76ece246915be86dde08490b859d5ee7018435f82eefa19b5f9767d5a046949f587320416a914c561639be8dZezJPDbcaD2hBfoCfER0s67bZ1Xv+fNgBg7Y1RKVTVs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "117304"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/73789/pas_foto/1683307580_316309ca-8f60-411b-ac90-1f1123a879bd.jpeg",
+    "nama": "ANWAR, SE., M.S.M",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LHOKSEUMAWE",
+    "profile": {
+      "id_calon_dpr": "7e5999edfae99a7e85a6e0ba19f5b1149b648c0e5a473b9f44e10347a7696fda0dd4aa6ab9c1f9800c3d9788be3d90a5b416253d7a21f72abf82b2c4161faa39fxINnEEiWdYA9/6BKRlxIa567QhSzvo100vb453Tt4o=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "117304"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/86612/pas_foto/1683439790_bbf9f184-1a15-4d87-8ed8-11086e2097f6.jpeg",
+    "nama": "SITI SARAH, A.Md. Bns",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LHOKSEUMAWE",
+    "profile": {
+      "id_calon_dpr": "efd26b9ad35c65cb904d2bbbf032ff7a9ee15debbc9b0b5f1ec732ca31bce45b72020835455540ae425878d7df5bd20d59da20b4bd9d44ec899e6ea1f55231f4eghhbTVmvUKSxzmx3S8mi0DtuNIFWF0PgS6pugJLLtU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "117304"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/73925/pas_foto/1683308727_fc07da93-a0ba-4b03-81fd-ef438d215269.jpeg",
+    "nama": "YUSUF. A",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA ADM. JAKARTA PUSAT",
+    "profile": {
+      "id_calon_dpr": "6e83df7d0263f799c12a673371dfabb8ecad0e478fbf876d275a5ffdb312b6017ca0dad6490c014e766a7c40c51c34815fadf4b7788d0884e0faeb9f09112918Cy9JM+Gp5virsuj0Lorz+nHg1ID+YTIowxZvC3oOzC8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "117304"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/482453/pas_foto/1695922948_d97f422e-7fb5-49de-8001-fa3361b7efed.jpeg",
+    "nama": "MUHAMMAD FARHAN ALKHAIRI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LHOKSEUMAWE",
+    "profile": {
+      "id_calon_dpr": "0fd1f23e4dc1efd9e122df0abb704e6ec975271f088dd88d979bbfc849de2572d2b0a95f533612cd518faad5bb3e14e7024e236fcb5cdaf85db58cc1fcbafd6fyQgFoRwTv1DiswJ8hmGQw65bv6GYnmavt7PPuIOwCt4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656155242_logo%20PKN-.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 26,
+    "kode_dapil": "117304"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/482451/pas_foto/1695922892_80b75e43-e04b-4236-85ed-89db8e15010f.jpeg",
+    "nama": "JUWITA SARI TONDANG, SH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LHOKSEUMAWE",
+    "profile": {
+      "id_calon_dpr": "ec73fd98854c595fe59921b339b582bc9bd938083dcb813fe68de9c62bd2b658556c8db08a8b053041e989d3f12ae16350d1308085360e7f473084303718f463DGnNDYAShJt0wj6fb3lo69++4l9T7VA1jVDftsO1oY8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656155242_logo%20PKN-.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 26,
+    "kode_dapil": "117304"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/482450/pas_foto/1695922840_4a35e4a9-9ce6-462a-a2d2-0914279ddd17.jpeg",
+    "nama": "MUAMMAR KHAIRI, SE",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LHOKSEUMAWE",
+    "profile": {
+      "id_calon_dpr": "3cff297f85ac3596d0a06aa02af0ebc222b9fd25d02b814f1ea338f6ca5c93d960bf41e959a94db50f3e36904578ed247da1d9dfed00a0cd63d960a04a256b40TUuRXRJ6mw1huw1gsZti3QCqbw1d/YlW7xlEEKxvCJ4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656155242_logo%20PKN-.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 26,
+    "kode_dapil": "117304"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/482452/pas_foto/1695923600_4dbabcb3-4441-45e1-944d-2367bf10b66c.jpeg",
+    "nama": "YOPPI DEFAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LHOKSEUMAWE",
+    "profile": {
+      "id_calon_dpr": "8ab3de020a88841b56fa44f9e221027e32c07f512dba8a0d00de24aabbe46838c5b993f3e1c6b8e461fc4ca00a791674fa43bfb1d98681f16355da4201c26650TouifJPvUFV5H3jDc2dw4n86ghgLgebU53WCapK6EIs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656155242_logo%20PKN-.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 26,
+    "kode_dapil": "117304"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/482758/pas_foto/1695972595_0be9d860-cb8a-4a33-aa55-55435e43df2a.jpeg",
+    "nama": "YUSRIZAL",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LHOKSEUMAWE",
+    "profile": {
+      "id_calon_dpr": "9e4d71ee42bdf660acefbcd24a0479bc2a2733dcc646ac04cf315513a77452a9fc4a14985a7b0d06572148d9791a81a335f0063fa4f31f929d1a58db1adb6da6eq8WtWR5pIDdgbN9GIrXB+u+u3cC0D4bzIyMFxxZyaw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 5,
+    "kode_dapil": "117304"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/236751/pas_foto/1683784163_c73db05f-56bc-433d-9f91-c7156f652db9.jpeg",
+    "nama": "ITA NURMALA, A. Md",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LHOKSEUMAWE",
+    "profile": {
+      "id_calon_dpr": "2fa6857eaaf8e63d0a34bbccd687378686da33c3f87957a5ae8884c4b7e86e2b566c17d972b18670799a6bde7104a24a31b862cbc6252611d9800f0b7911a53b5mYFRSHNkxEw3sPqQmwXDXxn0zhZZHQVXhAb75Vc6dI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 5,
+    "kode_dapil": "117304"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/477170/pas_foto/1691740876_12c4bdb2-4e84-4d84-9c11-3e0824486d5e.jpeg",
+    "nama": "M. ARIE MAULIZA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LHOKSEUMAWE",
+    "profile": {
+      "id_calon_dpr": "42a0929ba20641d3aa98635d791269649b93f12a2761abe9a508f84d4ce43611f91807ffeb4009858b359400ef83dff826cc2df17c00f2e9d6418a099ee062244EJxIT24NkTb+SpTeEzws5zSezjQ3OkrDLlV8kBSXnU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 5,
+    "kode_dapil": "117304"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/126507/pas_foto/1683524482_a2bfa5ad-bca1-48f7-9cff-e712dcfddad1.jpeg",
+    "nama": "NELDA HANISMA SELLA, SE",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA BANDA ACEH",
+    "profile": {
+      "id_calon_dpr": "08d46189f190c8266b4ba320bd8a81656f7e0df2c230e6728dcc4f2121423b6560325b21358a096d392facce62cd87dd68eae8aaeb9622652fbe4b7b7873ba5beGyLqbEVtw2AswvsLXDqIzvOTeh9CgyW5f9iMKZhXZ4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 5,
+    "kode_dapil": "117304"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/63993/pas_foto/1688798138_b138f669-92fc-45e9-9987-4ca2a7418bf8.jpeg",
+    "nama": "MUHAMMAD HALIM",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LHOKSEUMAWE",
+    "profile": {
+      "id_calon_dpr": "feddd2375cb7326be4e6fe82f6d9aa8ecb0718f924f58c10fec57adf7e1ebbe7f74a02ad9b913106206040ebfc6958121c807ccbb73a20af6519c2d34c2faac7BdqJsmTFJg08x8nBsJqrt/joEc80+rWIo9+t9MkMMIM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "117304"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/451223/pas_foto/1688795653_7cfc7b12-b083-4860-a6af-e85f43c9cc13.jpeg",
+    "nama": "Drs. H. M. NASIR ALY",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LHOKSEUMAWE",
+    "profile": {
+      "id_calon_dpr": "0cfecc250fa73f3fc569e7a00b6787d90cb13741ea2e1631e5a9f8d09a2bd3650eea80303075425a3e9a48c9f3493a513348349549b65ab25297f7ab7917d008zbvTCoI+kYxeVmoqPJUy997kpuGHZX8xhOIb6Qu1/QY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "117304"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/482021/pas_foto/1695885776_ee8d20c8-0996-4225-8045-c22753c70eb7.jpeg",
+    "nama": "DHITA AZURA, S. Pd.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LHOKSEUMAWE",
+    "profile": {},
+    "id_partai": 7,
+    "kode_dapil": "117304"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/65075/pas_foto/1688795738_ec5e0eeb-e6d4-4c40-9c53-564cf42ed516.jpeg",
+    "nama": "FAKRIYAH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LHOKSEUMAWE",
+    "profile": {
+      "id_calon_dpr": "dd5e73534090669f6486404b864dd10c6cab9d0a3386b79e99e278b48a219708a5d5e836590983a8e4140b6572a3a55aacfc796b3237a2dccbd7837dc731b3f18KJjbA/4BWYY1OEmyxASOWKXz77Nlmz45J/TMoFxEmA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "117304"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/95832/pas_foto/1173046008590001.jpg",
+    "nama": "SITI SUFRA, M. Pd",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LHOKSEUMAWE",
+    "profile": {
+      "id_calon_dpr": "c6923483a13dc617b7d0bb0eb8417ccac1d22c7d9c4959139cb613221d9a6b64701322f477cb3f87dea3b32de65d77aeeaf2b0b88062ec8ebfbc470cecb67a9alw0MnmmmYXIXMNNymUNqw6joTRRJMi3OBZ3aJR7GXdg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659262742_LOGO%20PBB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 74,
+    "kode_dapil": "117304"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/81494/pas_foto/1173010406630001.jpg",
+    "nama": "RUSYDI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LHOKSEUMAWE",
+    "profile": {
+      "id_calon_dpr": "59bc002a3850d0f51403c7eba7fdbd9ad4722eaccc53f33450087c0d1497e35c9b48d78ca2ae1401fe247763f8715c6b996076b18c9b0685edf3706ad0140bf8sIQIC6BaxVPJM8LTf0/pieH6kCl+7+a+9Gk3gA0RhZE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "117304"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/41098/pas_foto/1696069352_8a06bb95-dccb-4c46-a8cf-325b1bef6664.jpeg",
+    "nama": "FIDHIA ARUNI, S.I.Kom, M.A.P",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LHOKSEUMAWE",
+    "profile": {
+      "id_calon_dpr": "b942be9f45285b19cea9521571d652d2781249e03ae8c63138d57a0ee8f365b116181be1b85083b5e96b5080649c7ee029ace9178f5f4fce6d393a067c47995dJgnECdls98EKJmD6rQvocRxvQM8uZMIXfKJjoj8IXgI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "117304"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/81494/pas_foto/1173040707880001.jpg",
+    "nama": "AHMAD TURMIZI, S.E",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LHOKSEUMAWE",
+    "profile": {
+      "id_calon_dpr": "55cbd3c9a2ead69b57251295db06b1e302b1b2c808f7fa9be6282f29feba8902c8956754f464a3874f1a1efe5211c5e678e5c82773ae0ca03a6f33d362dd3cb90fKWsda7P65wEOuJ3Rwc/mCiX1Arp8abZ5UnvAPtlMk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "117304"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/81494/pas_foto/1173045404720002.jpg",
+    "nama": "CUT HASANAH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LHOKSEUMAWE",
+    "profile": {
+      "id_calon_dpr": "64467698287cc978c68e32e193906a18a6f90cd1a81c9ff98330ef484de33093ee606b7693927ea4fe37fe8fa5699b63d5ddb226658a6d94df5e4a4859c8a0537+WxyNh1Hf03JoO465dLPkWP9DezzwAauIo5+QTYcVs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "117304"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/478566/pas_foto/1691782231_912aa409-8213-4988-a7d4-2b5fa543ebb7.jpeg",
+    "nama": "NURDINSYAH PUTRA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LHOKSEUMAWE",
+    "profile": {},
+    "id_partai": 18,
+    "kode_dapil": "117304"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/312382/pas_foto/1683881012_56a87624-4473-43e6-b59c-70c78238496d.jpeg",
+    "nama": "MUHAMMAD ZULFADHLI, M. Pd",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LHOKSEUMAWE",
+    "profile": {
+      "id_calon_dpr": "49f7c902e42eb8cfe3bd3b601aeb2305bf31d1a43d1d07dfc1fa1b14273262816e94d70e9e19078a214d798cbb788d52a69f8eb674c8f2fefbb82473e1dc3782gED9ze5fLM8g0VvrO92FCD+L1m5CVc13H13FOryYkyU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "117304"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/314047/pas_foto/1683881420_7e3f0484-9eb7-4669-865d-84e5a162bff7.jpeg",
+    "nama": "MUHAMMAD NUR, S. IAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LHOKSEUMAWE",
+    "profile": {
+      "id_calon_dpr": "b723772ec613717ca36033c5dc4e95abc13378f626fb33650b84ac50f641088c38a6a1f139a06e8cf0cff720f741b1b559b40994033059f198295ba0f40ccb80HfTZ9YKhp5ro+RpNdb5vuTkZGW/BuNXSNLELOGJ916k=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "117304"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/284578/pas_foto/1683808994_f3781512-bd70-48ca-af0b-cd399d1e5a35.jpeg",
+    "nama": "WIRDA HALIZA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LHOKSEUMAWE",
+    "profile": {
+      "id_calon_dpr": "367fbbd797ad2e1a5f5e8c9a39b06ad2cd60d01ca9d8747385e969103ab2de957340cb8543372e37909cf51e9856942703ff0d88f6f5bdc64bc9e851904e0bd3iMgZWutw6cDS4acQnbr3rD1feogMwv8ALVYt1rcW7Rk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "117304"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/471633/pas_foto/1691637179_8818a3ff-df73-47e1-bb09-90c25f1c73dd.jpeg",
+    "nama": "MULIADI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LHOKSEUMAWE",
+    "profile": {
+      "id_calon_dpr": "99f9530218f75e4d9825a88fc02c7d6cc9f864d1054d516b552110c5de804a5229d6cd973ac2a6dff5196662c92d98511e09f0562ebec4bb3682cab0dba6e7ffHQOoMWQykJVz8YkPUeMAehZQN8qYJKuK2Zg1llot3l8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "117304"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/266003/pas_foto/1683784089_be040dfe-77e1-49cb-b574-43262351e665.jpeg",
+    "nama": "ZULKARNAINI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LHOKSEUMAWE",
+    "profile": {
+      "id_calon_dpr": "7e29977d584c6de877baf18a79a0655dc80b71e0e0f4f5c1160a40a458a02cb72ff42d421c9f15019de80d3fa32b2d3c6f763edac62f9514a30f3a1aa8a98e9cpFr7Royf5jsHXgfZDJFd6s4Op2157hr4Olxs4KLjN6k=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657205782_PNA.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 82,
+    "kode_dapil": "117304"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/266191/pas_foto/1683784411_c1361728-ae13-429c-892c-e784a2f4b3b1.jpeg",
+    "nama": "MUHAMMAD RIDHA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "ACEH UTARA",
+    "profile": {
+      "id_calon_dpr": "a53fc0904569720f83fd5375f783043ba6ae4952a7cab8f510a383c8bf477c4defcd56eabefc8fd123ec26f05aa19a9b41158c947e85fb6218c0e273d53c745fftsH1xoXt7+vDetUVvOCX+roLewsWwXQiaSU2CtlAHg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657205782_PNA.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 82,
+    "kode_dapil": "117304"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/336002/pas_foto/1683904939_d51726e1-5d5b-4ca7-b899-b5a77fc2093c.jpeg",
+    "nama": "CHAIRUNNISA, A. Md",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LHOKSEUMAWE",
+    "profile": {
+      "id_calon_dpr": "4c2ba5a09e08c425a847d4b6fed86d395def71e0be67113fb618ff93bb4833a1439157d272c7e986f9ba9c7f70a1c3d67facccbfffd6d6ccdffec96651764ab7FA4TCY6gBrXuxJjNZ++onDO+dZMWW6nX6n6M3LURe9k=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657205782_PNA.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 82,
+    "kode_dapil": "117304"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/322619/pas_foto/1683885432_d1d046f3-7bc6-45d4-9562-5f6359803025.jpeg",
+    "nama": "IBNU SA'DAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "ACEH UTARA",
+    "profile": {
+      "id_calon_dpr": "e4be492d6e14d37aa9add8e613bcf58e4dad32eb20fb0e6afe8c6c1ba8c15cdfe9682706078be631132c3959f0102371874fd86bfb4ef5da2d08ef75622d24eaS6FvW9lt6cwC7BSh1oYo9pidMjcnJVP6D3Hwre9xTUE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657205782_PNA.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 82,
+    "kode_dapil": "117304"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/336570/pas_foto/1683905709_27f02de6-2b8d-4b8e-945b-a3a0fc08b6ca.jpeg",
+    "nama": "HUMAIRAH, S. Pd",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LHOKSEUMAWE",
+    "profile": {
+      "id_calon_dpr": "9925e87172d8707ec19178b6cf86603f618b95d07dfd1e4c33ba368e4abb2cf7480ab9c90eb2e19429ef484c2c73af04f74cd5679664b6b0a74975c0483f89b5XLn/zyJNdgbTc0amUenRAB8IYCuU9jdHVNmUrsqbskc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657205782_PNA.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 82,
+    "kode_dapil": "117304"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/378230/pas_foto/1683984840_6487901c-6b11-4cbb-800e-80c280b3230e.jpeg",
+    "nama": "SURYATI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LHOKSEUMAWE",
+    "profile": {
+      "id_calon_dpr": "5c6b8f66e404ab70d50c968782ec2125940a5185ff3179d9740aebdfdd9d585bcc942aae5fe639700ae39bc3757e72860f852ea091380adb3db4120e4411c931/dEHJWNs++lmj4oMpep1SD8f6DqUwQGmqpXez6d8Wcg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656604360_BENDERA.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 83,
+    "kode_dapil": "117304"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/177309/pas_foto/1683698913_d60cbf25-4191-4e93-8c26-8fa438db3c7a.jpeg",
+    "nama": "FAISAL",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LHOKSEUMAWE",
+    "profile": {
+      "id_calon_dpr": "6020022f6850808ff17e7200654a2aae382d90f5cc7ae9e159a2ef8c3d1ce976c41a8583cda351baf2410e30212d90f5bddeeb7d320942230aee3fbef0bd8ed6CGaqjH/vS64MrI3siBjikHanCmPPX6KttMcsv4dlXF8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659435873_LAMBANG%20PARTAI%20ACEH.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 79,
+    "kode_dapil": "117304"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/177369/pas_foto/1683896136_dd415d5a-5c83-4042-ba99-48082291b7d7.jpeg",
+    "nama": "SULAIMAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LHOKSEUMAWE",
+    "profile": {
+      "id_calon_dpr": "f59cf5d33581929bdc5d6841180b8ed83c1750030f10b958d8af49e1214b63c2a5ed3985be8fe46aac95164b4dd59cb15238285b6642dcb43bc6030a0ae07224LLr80YgKwuzAZK3Pu2lvpUDR7nXcCQQcUE855KO7vL8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659435873_LAMBANG%20PARTAI%20ACEH.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 79,
+    "kode_dapil": "117304"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/177407/pas_foto/1683649735_669680ba-d0ec-42ec-9a08-4ebc9e041a17.jpeg",
+    "nama": "CUT ZAHRIANI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LHOKSEUMAWE",
+    "profile": {
+      "id_calon_dpr": "ea19525268dbbce97fe27cbd5fdaa76b3caee886fd471dea0efa554b840810d7ccbb54f91a949e6651a22ba6a4f6c1a20b55e62d10e2d87142f2fcac6c50c385LnJqfC2e1FFnqcmPbSdhnMDNzMRN8/bx+0sz3qn4P24=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659435873_LAMBANG%20PARTAI%20ACEH.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 79,
+    "kode_dapil": "117304"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/177430/pas_foto/1683711982_94bdbed6-6847-449b-8a52-c80c8d8f6a33.jpeg",
+    "nama": "RUSLI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LHOKSEUMAWE",
+    "profile": {
+      "id_calon_dpr": "4c019cdca4811583d09963b0f599084b6cbeb182911c105f95046562bc9dcc462aa2687e534ee39008c06560ca6872b70934f84976d41e109f541cfcb8973c7d5YOaCyAY8OTJtAyAhSpZuQmL+8jWrrHb3f0802v6b9E=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659435873_LAMBANG%20PARTAI%20ACEH.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 79,
+    "kode_dapil": "117304"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/177450/pas_foto/1691339582_ec2423ce-2c26-4f3d-b7f7-f37189ad02f1.jpeg",
+    "nama": "HERLINDAWATI, SE., M. Si",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LHOKSEUMAWE",
+    "profile": {
+      "id_calon_dpr": "8a682a7a97101b026e2c6400a56cdd76e8f6b602d7e89947829c2f51d06e17cf91123ccc837016432f3eaa38331501206d7d224bbd7c82ae7f2b66c69c07e0c9/lWRRSPLCB5WK5BIgu9rc3Mr3hEp8//jv+/+BLO8+oY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659435873_LAMBANG%20PARTAI%20ACEH.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 79,
+    "kode_dapil": "117304"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/356051/pas_foto/1683967170_1be47dc6-1f19-4746-baea-d471d3845175.jpeg",
+    "nama": "MUHAMMAD RIZAL, S. H",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LHOKSEUMAWE",
+    "profile": {
+      "id_calon_dpr": "73f1cc753e04b05cadc8ff1343c3c28e3c6314b75d7ee787c2c0a8fd81f8c69d8512a510433ac7d14e5c64ec96134b545bf1cfe8957b2cc77c18238a3f8ebe698W0WX7yYAk6f7nRFcZLFF7jAk9RoKTL1oitC7ozblac=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658500260_LOGOPASFIX.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 84,
+    "kode_dapil": "117304"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/343763/pas_foto/1688882733_816adcd8-eb5c-4376-be1f-93801d96e68a.jpeg",
+    "nama": "ISKANDAR",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LHOKSEUMAWE",
+    "profile": {
+      "id_calon_dpr": "333400850e64c688516d3b0ec71f7a22dfcffc311de4bee35eb11f44d4e80fead334a1b58e339b022bfcc556534376bc4c1d883703a96df5912589991a6acc490c7sYRLszwrZMgChRSfvow3pLExcVNdZMfK8dGV4FSE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658500260_LOGOPASFIX.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 84,
+    "kode_dapil": "117304"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/355162/pas_foto/1683955637_19491171-2885-47bc-8997-1603fc62e3b3.jpeg",
+    "nama": "FATIMAH ZAHARA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LHOKSEUMAWE",
+    "profile": {
+      "id_calon_dpr": "23ff9330d6ede3fed2eedc3e9d8ae966f54ebf13135a2e7c15a4c4cd169c50a15e401e87ee2140dc0cc5cdaff5c503d323f8eb7d9a8e8b175d8e7ea4b1478476H+l2OnWLMfJNIWjbSi7yqMcfKdSs52Jk2p0qukXAOjY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658500260_LOGOPASFIX.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 84,
+    "kode_dapil": "117304"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/483337/pas_foto/1696042290_d25e9f3d-3368-4704-9cd9-5aa6cc4aecc0.jpeg",
+    "nama": "AMRIZAL",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LHOKSEUMAWE",
+    "profile": {
+      "id_calon_dpr": "41c9643f913a827a8ab116c21e2e0daf116ea150d90bb734d4166ae37f68b575b4c85b5676630d65d21478c512db91210577a98de65accf1cb097082ac913505DvaAe1rHimISwp01LtJlONWGVKa5qUY+ypdJtKdasg0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658500260_LOGOPASFIX.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 84,
+    "kode_dapil": "117304"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/236054/pas_foto/1688806066_2da835bf-fcd7-4edc-90cb-8b0b1c47522c.jpeg",
+    "nama": "TEUNGKU MUHAMMAD NASIR, S. Pdi., M. TH",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LHOKSEUMAWE",
+    "profile": {
+      "id_calon_dpr": "6b2f0e47383e16332bc44717e9ae9a6f74e39c8cc8562a963fe65bd692e574ace26d7b677255af45d96b9d98875c8664c6b91cd24f6dc5d6c24576a873ad442918WLMBRV7DebJASaeBiwXE5iZRf6KoqQ85RzgCa017g=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656157120_LOGO%20PARTAI%20UMMAT%2010X10%20CM%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 78,
+    "kode_dapil": "117304"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/448614/pas_foto/1688805851_03e51ee4-a9a0-44b4-ad77-6188e35d1ef7.jpeg",
+    "nama": "ARIF MAULANA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA LHOKSEUMAWE",
+    "profile": {
+      "id_calon_dpr": "2df0397fd4de3f4de370372b7e76333661c60f397fc9ee9296c03516ad17e79fb8f13287e0cd24a1c3cfdef2d35c0be82aec9a321e88c474127a7a67767c5e69MVc3nhPpp6m/oT9xucXN5ehZk9uWvzlMkGKuyqwmRgg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656157120_LOGO%20PARTAI%20UMMAT%2010X10%20CM%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 78,
+    "kode_dapil": "117304"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/448627/pas_foto/1688805947_e29f8c04-c41b-4577-ba79-48bfc9f3c487.jpeg",
+    "nama": "NURUL AZMI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA LHOKSEUMAWE",
+    "profile": {
+      "id_calon_dpr": "77d44460c89874935d91e2dbca0ec6a272b06351ac6c0f59d2adc7bdbf765f98a596ada166ac6ebcdc490fbe209e2345ef06d45b6f91796134729778fedbadec/1XjvkU4XgR2DKc65pg38GugIfsCNYtilo6hPjyYUyg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656157120_LOGO%20PARTAI%20UMMAT%2010X10%20CM%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 78,
+    "kode_dapil": "117304"
+  }
+]

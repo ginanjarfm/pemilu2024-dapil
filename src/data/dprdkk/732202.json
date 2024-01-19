@@ -1,0 +1,721 @@
+[
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/99700/pas_foto/1688692715_7b61d72e-380e-489e-bcfb-bc82e01593c6.jpeg",
+    "nama": "RUDI HARTONO, S.E., M.Si.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LUWU UTARA",
+    "profile": {},
+    "id_partai": 8,
+    "kode_dapil": "732202"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/90958/pas_foto/7317060910800001.jpeg",
+    "nama": "SYUKUR M. ARIS",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LUWU UTARA",
+    "profile": {},
+    "id_partai": 8,
+    "kode_dapil": "732202"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/92398/pas_foto/7322104308870001.jpeg",
+    "nama": "KRISMA MIRAWATI, S.Pd.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "LUWU UTARA",
+    "profile": {},
+    "id_partai": 8,
+    "kode_dapil": "732202"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/91346/pas_foto/7322064301890002.jpeg",
+    "nama": "HASMAYANTI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "LUWU UTARA",
+    "profile": {},
+    "id_partai": 8,
+    "kode_dapil": "732202"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/486448/pas_foto/1696253794_15ccd5a1-2218-4db0-aef6-47e5d9372b1a.jpeg",
+    "nama": "ALI SUROSO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LUWU UTARA",
+    "profile": {
+      "id_calon_dpr": "97851b026aa7e9d7ec914d384fa4d1f6df46c0968968a2edf18e1dbbe9f918042065c1ed81a4fac5f54b298abbbcb7126c5fc22c12ae8ad94ff670ae0412e4179EnPotIi6kiT+0o6QzVND3DIGgsBzglj1odlZjYBOjo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "732202"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/20683/pas_foto/1683802292_55b444af-43a6-4fbe-bdb2-fc32fd0f13f7.jpeg",
+    "nama": "I WAYAN SUTA, S.Pi.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LUWU UTARA",
+    "profile": {},
+    "id_partai": 10,
+    "kode_dapil": "732202"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/422067/pas_foto/1687768113_97d77e37-03a8-4455-adbb-db8241888bfe.jpeg",
+    "nama": "MASHURI, S.Pd.I.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LUWU UTARA",
+    "profile": {},
+    "id_partai": 10,
+    "kode_dapil": "732202"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/255980/pas_foto/1683905896_53c2da5d-df45-49e2-980b-d29b70a016bd.jpeg",
+    "nama": "DINA EVITA JUNIANTI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "LUWU UTARA",
+    "profile": {},
+    "id_partai": 10,
+    "kode_dapil": "732202"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/150345/pas_foto/1696146224_de46e327-1ef9-4670-9185-aec18297c7f6.jpeg",
+    "nama": "IYENG NUDDIN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LUWU UTARA",
+    "profile": {},
+    "id_partai": 10,
+    "kode_dapil": "732202"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/277595/pas_foto/1696078880_0e7a58dd-e091-4fa4-b9bc-f14455fe20da.jpeg",
+    "nama": "DESAK PUTU ARIASTIANI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "LUWU UTARA",
+    "profile": {},
+    "id_partai": 10,
+    "kode_dapil": "732202"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/253290/pas_foto/1683756165_0d86709c-d77d-460e-82ce-4e2377ae26d7.jpeg",
+    "nama": "MAHFUD SIDIQ IRJAZ, S.E., M.M.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LUWU UTARA",
+    "profile": {
+      "id_calon_dpr": "e4d530afb845b52d9245f1386a1a706d78418c26afdebe79009966b5f19115eca83af10e57830a3c05ef737bcbac2310bd410388ac1ce1efbfebf137b1cf8af5zLkYalXUPbh4is4lVBfqZ0NyilVFgZZEiKH3DbSFbC4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "732202"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/253414/pas_foto/1683756817_820d24aa-3994-4d69-b918-cb9f20fac1ef.jpeg",
+    "nama": "ARMAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LUWU UTARA",
+    "profile": {
+      "id_calon_dpr": "08a7cf74ad080cbddb23f33dd7970f3a6e25d66c68cf089793fce1522ff7655b1c2972e95d90a15c8462dc366df4eb6f15c7213037fb3b37ffc5548e5b206aff//JTx6FHwR4ftdQhuTDfrU+8+ZL+WTSNWgoRG3MSSxc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "732202"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/253664/pas_foto/1683757272_67ad0280-404f-44e5-b849-5c1f36b7a825.jpeg",
+    "nama": "MURNIYASIH, S.P.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "LUWU UTARA",
+    "profile": {
+      "id_calon_dpr": "1edbe9d66192d0c87dd94852a61552f7f0d39adee0f3d68d980d486e55a17a49212aa3ee7a71b9f864f827d304da9bef38e15aeba906571d0be69946792ef327ZIT/fztHFS+2STqT2wJ/SjXCPWJXpWyRq8ZuFn0oeaQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "732202"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/253770/pas_foto/1683757697_5bab87e0-ea3b-46a1-b4b2-f121b949cfb4.jpeg",
+    "nama": "MUSTA'IN, S.Pd.I.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LUWU UTARA",
+    "profile": {
+      "id_calon_dpr": "31e1834936a2d239d4227399e369b62777c617294045072e954092eaa47f68a35f56838a5c3394ef9ac89725dd4ce23f3126f5faee3b35b3aff0017cbb33e484rzaUP3Zvm+bm26gau4HaJHJPsCRTh02tIig4rSYwjgY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "732202"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/253899/pas_foto/1683758017_568df3cc-9ec1-4ecb-a253-7944020d8195.jpeg",
+    "nama": "ENDANG SURYATI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "LUWU UTARA",
+    "profile": {
+      "id_calon_dpr": "f0ab475ce577f0da6c5a4541dea1e04cb0a54fe15bfb48086a313d72f40f44430f550eb4b77b0c3e0ff53094e4cc87a10d57a4df74189541346e312bcab2c56fjig4zpn0VvM1ZJsYvB8hpj44K7OF9b/HtS3RpAuHO8U=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "732202"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/219330/pas_foto/1683706383_0509b620-257e-45fd-a112-ad12a8df42df.jpeg",
+    "nama": "SADERUDDIN, S.Pd.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LUWU UTARA",
+    "profile": {
+      "id_calon_dpr": "bfe192a463b20be0ab620488f367d4a3cfc14254e7928938bb60fd53b8626de1a3043220d49c8549e45a9746c3a3c58d39b1920d48e5c551886cb3135108b5bb7kGIAHDt8qqfuWHq5V/n7Vf10R0E0x0BsbsJgRRQ/J4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "732202"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/218519/pas_foto/1683705579_78fef777-af02-4d55-8328-99561cd5b203.jpeg",
+    "nama": "NAWIR",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LUWU UTARA",
+    "profile": {
+      "id_calon_dpr": "1b2727f887a0462c6499b8c393e893b33d2046bb06cdbc32498a74013ddc5dfc6b1809b8b90288de594654f7c940687cbe548bf1b4a4e44fc8c092a09927b7f5ZHj0ezcvGuxZA5t2oTC1JhOekOmblfoXSGyKG4NWJ3I=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "732202"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/431620/pas_foto/1688469008_8c262684-649b-4b50-90fd-9eb5c068269c.jpeg",
+    "nama": "ARTATI TANDIANAN",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "LUWU UTARA",
+    "profile": {
+      "id_calon_dpr": "b00cf6efe30ea74f36d491d7afa5335876bb357a21ab2670827fd69a6e30c43719cb5a20d47145d7f8bc17683cbd19d7616dbf4e318fab9950a31a9175f2d8b5ZkYAzPHYUXULS96pOm1cCVEVHUz/9Af+3xxL7Euiv1U=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "732202"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/230974/pas_foto/1683775395_6f25d805-f0cb-4986-8dfa-6b8e4b7e2a75.jpeg",
+    "nama": "SAPRIL",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LUWU UTARA",
+    "profile": {
+      "id_calon_dpr": "338f84bd3a40a01fce26d3e58eaf78a3cea88ac155fa471f3ec8d921b6a9b9d26aa5a494a1df34f83f73f6c195fda0d180035946772e223e3ad1858b57a5a7a5/woFoM0OHQPL1nEIAxSLDDuZtS15KOQNLah+qq/k4eo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "732202"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/332370/pas_foto/1683900860_3ca6c63b-4df5-41be-b8d5-70a0c3ae6084.jpeg",
+    "nama": "ENDANG SULASTRI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "LUWU UTARA",
+    "profile": {
+      "id_calon_dpr": "9c0e874359925c7ae020e4e8dc4e6aced4ae22fc0ff19ca4edce759f45b47f160833b397b5440c9d9d590a552710395a845a5d86c0e23676361763eab48caec15WatVZLIROHfOvrwm+lBDB8AvnWbnylleIW2TthHb7s=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "732202"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/6171/pas_foto/1682839036_c0a7b38c-8322-460e-916b-14a9837f8c08.jpeg",
+    "nama": "HAMKA MUSLIMIN, S.S.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LUWU UTARA",
+    "profile": {
+      "id_calon_dpr": "bbd1b61be932abc9736a16b38aae46d9d9efba6e305f50d1c4d96c48a124e29a48bafffad73195fcf1b403ea89a18fd0ca7b8d1a8867fda0e23f1dfc9aa2c906+Ujx3PLcKLZF27+VYyZCmSDepsE9OWcVVf8Xk6kERm4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "732202"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/17347/pas_foto/1682995926_66b488ed-a9c0-4a5a-8804-67bdf2ee4eb6.jpeg",
+    "nama": "HALIMUN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LUWU UTARA",
+    "profile": {
+      "id_calon_dpr": "dfd03ac7f0c2e95ab054598f9727451f0fb035d8c00c6aa7ff1f48a5cfa5ba98cde8b86f30f8d1ab903adc9899fa77de6c6e0306c1878d4d047eb501f95257f38pEaFHoPBpAMgYYu7HfMfej9YcnMPR/41sdE0VMF2R4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "732202"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/26991/pas_foto/1691306087_1964bbc9-8783-4aab-8c31-f67176fb1088.jpeg",
+    "nama": "DEWI SANITA, S.Pd.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "LUWU UTARA",
+    "profile": {},
+    "id_partai": 4,
+    "kode_dapil": "732202"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/465573/pas_foto/1691541873_3f01bbd3-13ba-4624-bb18-97243565028c.jpeg",
+    "nama": "ERIC MUNANDAR",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LUWU UTARA",
+    "profile": {
+      "id_calon_dpr": "d83f85207488c56c7beee70456a7c1554f81c4a5b95b5a5362ee9121f27b59d333c7fef7178b10b7ff19f50cfe8ec2d29ca3d3a96c58aaecf4172d452c6356d6kNRak8kY9QGxTeRiZiMwSLExrAAgA5cDUcvORCX80Ks=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "732202"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/28555/pas_foto/1683076931_9bf1de6d-9351-466f-a131-d97a86fa6545.jpeg",
+    "nama": "HELMIATI, S.H., M.H.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "LUWU TIMUR",
+    "profile": {
+      "id_calon_dpr": "50ade6df4afbf2c7febf5196c4c2ba811d04350e3d63de563dfeaef14a1ae8f69cd2da9b85c195a74644e0d7d281f520a2362423ab3abf588ddbd367a59e445dinzinek31/ubTZnPCoDm4sFboK/zVg+mg7K13xvHT0U=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "732202"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/426608/pas_foto/1688266336_ccc77899-e9bb-46c9-9bf1-0dffcfd8d44a.jpeg",
+    "nama": "RUSTAM",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LUWU UTARA",
+    "profile": {
+      "id_calon_dpr": "54a4d0a09c4bab7d3ab948d93bf29e784e9f24ef138b12650afeb2920ed4018853d2db8e893b920cfd87c13ec3da2c036f3d1cc8697ed7e94482788d518ee476zMSkrdLnf+oRKZUJRWNtWJQpzSTJOcL1bKmfTaKs7zY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "732202"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/407000/pas_foto/1687870699_5cfcf036-002e-4d3d-b287-3c2b75e7e3b6.jpeg",
+    "nama": "AMIR",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LUWU UTARA",
+    "profile": {
+      "id_calon_dpr": "28fa23781224680950c69276edacd1d2ccfb91edc42de4bf6c4974d95d9980da67d859fabf548e59b65551156df6691ad209fcb2962393e889a172123d1e0e13CD4kRVeQVbXzfq4//r+ubEw9riR7Fyx3mzVjDc0HYv8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "732202"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/427577/pas_foto/1688349241_8958d390-bd04-4097-986b-f74db93804d3.jpeg",
+    "nama": "WINA NUR WAHYUNI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "LUWU UTARA",
+    "profile": {
+      "id_calon_dpr": "556e19632c99c943e7b5dfb03a202993529c46fa7379ca344b3e1c1d05e30e856fd0753a55090bdda9b4110e33dea948256e369a494735a9ebb4eb7f058a6792RRhg49mw9sIIg355W5Xs4zjKfglLubRgr1iAdgIlyMM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "732202"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/407002/pas_foto/1684131616_af62df9a-d059-4656-9e27-5471a5baeeda.jpeg",
+    "nama": "YETTI AMINAH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "LUWU UTARA",
+    "profile": {
+      "id_calon_dpr": "606b9eeab8473aa6986a50a4b677381901a400e3c3ee4cb154966846608aee707e4cb977777c67a8403cda9f8ec3e76c47e805143c3761303472c7d982468060hi7CwBCLl2jGqV+C9Ck1eJNf212dadhAMzC43nJNInU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "732202"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/406999/pas_foto/1684130396_b09f8fac-d5a5-490e-921f-09103f49444d.jpeg",
+    "nama": "RAMDHAN MAHYUDDIN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LUWU UTARA",
+    "profile": {
+      "id_calon_dpr": "7a1658c7d1d75a10ddbee601f7d642d25349bb0eb84cdd4715e5b82b4a7edb44c7dc75bef1706cf0da9b1c0ff49a147428b56ac122b72b0abdc404dc21a1635bUqgKojTeVSJZbX/z23/+rEWzsWGsfq8g7K86jA6wTT0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "732202"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/47960/pas_foto/1683185410_352caedb-bf88-4456-838b-3438e49e0e77.jpeg",
+    "nama": "MUJAHIDIN UKKAS, S.T.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LUWU UTARA",
+    "profile": {
+      "id_calon_dpr": "130322eaf87dc995f47ee5dd6b3a9e042e5817321ee2994661c9e846680840412f24abb9f0b008e06338d795d3e2104686d43a03d3196c81b12f35176445e944cJ/7u+K/7Wg/B7OQc2l2q8dYOYTffXwgo7zGi49ajNY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "732202"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/16600/pas_foto/1683091186_5a8b73e7-385e-4655-8a32-c8a0cc7a778f.jpeg",
+    "nama": "AMELYA, S.Pd.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "LUWU UTARA",
+    "profile": {
+      "id_calon_dpr": "529b134aff9318da19f0e551f7a27a8bb3e98ffd8100846429333588e1a21ea790a270aee6be20cb6d1fc587ee109196b2b40af4911d39c2c7e477688e736391+H5pXJ5wVooWgNocDdqg60mcAz+KIUNjxkeWubRNy1M=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 6,
+    "kode_dapil": "732202"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/47044/pas_foto/1683243262_a3a474b9-1112-4f16-97b8-5680f5129a0c.jpeg",
+    "nama": "RAHMAN ABBAS, S.Sos.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LUWU UTARA",
+    "profile": {
+      "id_calon_dpr": "1508058180eae48440ca3fe9b06241457be48c6b60975d34dea58706f0cc130cc85066944777cda50c1fe16ad2ed859ac375806c27412c8970805292003ef9cagvVUXi0drFieE4LZBhjjMW1XWYfcCCM5dn+znTQIHlI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 6,
+    "kode_dapil": "732202"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/58896/pas_foto/1688654221_e2bc021f-343f-42f1-a0fe-9792d1d11f27.jpeg",
+    "nama": "NURSILA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "LUWU UTARA",
+    "profile": {},
+    "id_partai": 6,
+    "kode_dapil": "732202"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/34347/pas_foto/1683953177_ba6e942f-fc85-4df4-b38c-2301cfcd5188.jpeg",
+    "nama": "SUDIRMAN SALOMBA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LUWU UTARA",
+    "profile": {
+      "id_calon_dpr": "78057088f86c7d043333c303c7fe7497869426f1cb2f685441bb5c4dafc7a1bef00f145c14c132b9f1b64fa964d509705322c06438b998b50d4834c925c5bdb42ChqqdDC3dia9e57YLlrOBIzhjJ8R4yiKCMA7nF6CaE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pendidikan,riwayatpekerjaan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 5,
+    "kode_dapil": "732202"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/404287/pas_foto/1684044889_11e4f61e-a422-488b-b07f-ba097556de9d.jpeg",
+    "nama": "HERDI YANSHA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LUWU UTARA",
+    "profile": {
+      "id_calon_dpr": "c949ab89d9817678e2a4cd2e3138715f4ea257ae7f6cde3ea16194999ce072ada748f153f502bd8c43ed634f3621b41dffa653a6cefda0425bab9beb7539d93auVSK1E6yk+62Th//+ZK9owAOBto6uq/B8vdVyZzN7MY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pendidikan,riwayatpekerjaan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 5,
+    "kode_dapil": "732202"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/113781/pas_foto/1683967969_69031370-bac1-45f1-9280-c05c2c309ae4.jpeg",
+    "nama": "BELLA SAPITRI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "LUWU UTARA",
+    "profile": {
+      "id_calon_dpr": "26797e0a6e562775ed5999e049cdf140ec07c578f928587c9048116c9323fa38f12266da00d84736c5eeabed290c0d203bea3ab6d78cec1cffb16413af65d2f1ecFq/8Zofg0PmN5lFgYKJimbkHhURavQXn5J5kW5sLo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pendidikan,riwayatpekerjaan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 5,
+    "kode_dapil": "732202"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/173327/pas_foto/1683910634_60947f9d-e868-4cb4-b68f-6a6e81011901.jpeg",
+    "nama": "FAJRIANI ASNAWI, S.E.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "LUWU UTARA",
+    "profile": {
+      "id_calon_dpr": "993a76f9c6371ff8b019f5f7aac763e735d3fd417f93ad66abf2ed6e77010b7469d24158a1f07be42831fe0e42381cc6b1e2e1f79fb38ad62b0e7ece05e43ba0+QurTlR+dWQea7uCtCrbx526Gj6eVDAEW2DCv5mULlY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,pendidikan,riwayatpekerjaan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 5,
+    "kode_dapil": "732202"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/453141/pas_foto/1688805943_9a01f906-2d8d-466e-9426-f9ff324a398d.jpeg",
+    "nama": "ADRIAL",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LUWU UTARA",
+    "profile": {
+      "id_calon_dpr": "1bbb27f12edc34d5c4ce9e3d0d575dfeed5028e9cde259ba14d0e0100cbfece7ef2080548cf7d7b33e10640248e81e0b51842fb6a37e8cd9ecb83abe54736ff4R70AuDF5WusaaSP19FKNZJLuEUc70pySe9NVeX9/TQU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pendidikan,riwayatpekerjaan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 5,
+    "kode_dapil": "732202"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/6279/pas_foto/1688611741_c89c9c7f-9812-4be6-888a-56f87a6bbc24.jpeg",
+    "nama": "SAIFUDDIN, S.Pd.I.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LUWU UTARA",
+    "profile": {
+      "id_calon_dpr": "bd8c3801d85b1eb23b110a976915196267bb85879609ea9c4f6b049150da2420f13ebc7ea749be9945522f4b1ae14605764a95ebc0d0b3d54e99b23a425cd9c4NCO38yk3k29hkSihZnIwwYIbAGUmpflSXqhwaYlNz/g=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "732202"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/57143/pas_foto/1688615608_2f090e95-59ea-41d0-b760-1ff3171c5163.jpeg",
+    "nama": "AZIZ HAMID",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LUWU UTARA",
+    "profile": {
+      "id_calon_dpr": "6677a4f95b66ea1ded0a1904b052c094abdb9937c7f06a39ecc250a518f2232d6e763e70fec6e505ca7bd13d3283307b3ad6ff9efd97b69481194b2ccc4562c3LpAzdzw0Wj4E6zV2A+djzI/X+TLgsUiQSksJ7ihmpNE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "732202"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/53466/pas_foto/1688614700_c3496cb6-43ad-408b-9fab-ba1cd4ece032.jpeg",
+    "nama": "ERMAYANTI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "LUWU UTARA",
+    "profile": {
+      "id_calon_dpr": "590eb94f17f0273850d983a87d005f2ea1f5ac3fbb66f458a773368934125ef8966b99450f2e1efb2cb42a74f95c9e431eac6f84073459a0ab851bcca3575322cQYuaggHhrbDgbomzmR74BnBQP8GMuLlNp6TTku7Pw0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "732202"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/445416/pas_foto/1688724631_537256f8-707a-4309-8e38-a7c92585b922.jpeg",
+    "nama": "MUH. UKKAS AM., S.A.N.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LUWU UTARA",
+    "profile": {
+      "id_calon_dpr": "67cd38b0ef87e18963548ea603dd48eb932190653b621aba537c19ea0b7ee5bd4477c3ad933e139fd43cdc28d4a8ef9a745fd51c58eba9f826f2f36cbb813deeksBUKD/SFp/Jxb1dmDRSYiNaIZcSSfP1xSclIcMzgIQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "732202"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/170421/pas_foto/1688615148_a49c0ec0-0a44-4acc-bea1-c89c90c7bb4f.jpeg",
+    "nama": "BINTI FATIMAH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "LUWU UTARA",
+    "profile": {
+      "id_calon_dpr": "071cd5b225eb5715cf28f4a755b6a82da32d8122bb5e23476e5ff9859070d8c9c2676b9ffc36fc8cd75ebb555bd14b634117a22e75133e6650e10e307db134a0HMyugxnhuLZERv+0Xe/CojrAi7GLvY1KYLXJuvXQ73g=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "732202"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/469916/pas_foto/1691565994_4d6fdc5d-d8fc-4fdf-8e53-b301507e8e13.jpeg",
+    "nama": "Drs. H. SYAMSUL BACHRI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LUWU UTARA",
+    "profile": {
+      "id_calon_dpr": "401d96aef6333bedc5fb68174006537cde9ce795bcad7b8a227e055abc03f6fd387ef2d10424ff66f4fecca5798c6997f215e7c40ebb30ea2b14af50e0f9eb7dxAN8hktijwbm6isi0DZDddLFH8YfjbrzKFkImjmVEDc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "732202"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/304186/pas_foto/1683991578_1d521256-73df-4948-ad05-4dd16baf0551.jpeg",
+    "nama": "AGUS SETIAWAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LUWU UTARA",
+    "profile": {
+      "id_calon_dpr": "0c33f2dc88bede36dcb8f5f707d4b7fc55b8e968e5ab8298d6600dd9e2e9d16c5189e1e3084220fcee7133e2733de386f50d86c2622e97c60c661ee3f4943357Wd7vhJYZc6PXpr37RyNW7Odp0Ki09Osi6lBNVHyX7eA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "732202"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/304188/pas_foto/1688824942_02e3840e-3fbf-43c8-9333-3b1027cf9923.jpeg",
+    "nama": "YUNI ARTI ARIFIN",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "LUWU UTARA",
+    "profile": {
+      "id_calon_dpr": "a2395c320acca701b566123318235638e57e3dfb9998c9a47f19606d66ec0ee23b2569ca3bb6090c209cb00e2f799795931454ca6b4b7f81267a6340600271b1T8/fRhcH8UyQ6zUQtelZnVs8C6eKwVl4oFLtjKpgN6s=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "732202"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/304187/pas_foto/1688824633_5e3337ca-54c2-42b9-831b-a7cb7a79fc81.jpeg",
+    "nama": "SISWANTO, S.P.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LUWU UTARA",
+    "profile": {
+      "id_calon_dpr": "5510f2ec8b84b2c5db927a67019490449b5d76282639ffbed808dd0c4dc308a5cc181601567379ff97e2b4dea5a8c35ee5fe6bd76a2b0412b5c76558632e9ebbpIQGQzKwQf1DFFKXm6UaFotDzaOh6KK+pq+sgiBNn/4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "732202"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/457212/pas_foto/1688832430_d3e5a9a1-1c94-42e4-a9a0-d3d1fcfc3acd.jpeg",
+    "nama": "RIA SETYANINGSIH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA MAKASSAR",
+    "profile": {
+      "id_calon_dpr": "304fd14e43e61e6b3601758f845da325198b338647e2cca7684046868b1ab5009ad3ef3308a2c9dd15b3b85104f5fc19e37e69a5751b54f7db3dc1df3ddd28c1YUPEM6lbQao1JDeofwetF/x0wJ0pU/vSLnZZC46Rx6s=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "732202"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/257889/pas_foto/1687848726_f633d641-ca59-4aba-8e65-0db0ab416d22.jpeg",
+    "nama": "WARDI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LUWU UTARA",
+    "profile": {
+      "id_calon_dpr": "35cb230bf6dc108175ca3211d3e0b083ac1adef10aeb8fc6f1be1080256d4de0291a780cf0b936283a943bf19e46cb746f5c76384aa491d0a7921a2469924426TWkjm6Qzs+N4kusjjTh+4S92UZjUtoG+Mf3UknotQsA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "732202"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/297013/pas_foto/1683823589_5ea99a38-408d-4b35-a27a-5bbe6bdf99d7.jpeg",
+    "nama": "IRAWAN KAPENG, S.Sos.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LUWU UTARA",
+    "profile": {
+      "id_calon_dpr": "0a449f97ba8cff2e0000be3f3548f87beda58805d848fb0ab1608ab219389a552b9854f8caf6260753123dd2732ee37532a947cdd627e30c2d5329a1ff7912520PIQLFqsCtB0Oox8e4NEHgv9vYLXgw7RK9Sr66IYd5c=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "732202"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/298205/pas_foto/1683856018_4a1fdf55-c438-4ac1-926e-aad3f3a2f28f.jpeg",
+    "nama": "NAHARIAH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "LUWU UTARA",
+    "profile": {
+      "id_calon_dpr": "424139c36715e2b71c4f4c159f050cc7c5998550dcc71c2bf8e854c85beab821c0602ddf3c5f31fad5da32dc58acb3c51cf63971de974f280016d6c3942d8e46438p3D1dnu9gHMWHmVGDc+yWxrAjm7sFUnAdB1rJTdI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "732202"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/326048/pas_foto/1683891406_85d00496-d608-42c9-8600-eb2a1d8bcaaf.jpeg",
+    "nama": "NANI SUGIATY",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "LUWU UTARA",
+    "profile": {
+      "id_calon_dpr": "5b514d907846d6979f912880db3e95003264bf2b848436e0ca06d8195febc1215013b97b12025988bfd902724f781f305d4d246d42f69b98d45672e881068f60Lr7ja+77+UIUycBOAFRc9IoPhqAocB2tvmG6xs4VHVI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "732202"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/298550/pas_foto/1688210690_adad2e46-17e9-49f0-a043-0aee85092903.jpeg",
+    "nama": "MUHTADIN, S.Ag.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LUWU UTARA",
+    "profile": {
+      "id_calon_dpr": "66cbe2774fe43121ec60435695f0ed0cbb95e85fa12bb1b2de84d36b6097083670c38840abdeaf1fdf240432bae19fa688388c37df4c94912b0cea600f761cd7J4YuNC1xRLNFGRsX/DFCW1eYRI6fdbPVm74YOAHQy18=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "732202"
+  }
+]

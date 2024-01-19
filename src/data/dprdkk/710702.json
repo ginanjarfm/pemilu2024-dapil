@@ -1,0 +1,939 @@
+[
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/104400/pas_foto/7107035406950001.png",
+    "nama": "MARYUNI POTABUGA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MINAHASA TENGGARA",
+    "profile": {
+      "id_calon_dpr": "3c555351b64889db495b584e879b8bb12cf3378c69a0ff6f58a886acc6fb631b58fd8e93de025f8a64bacaaef4220bd81d7bb7d2ec23f4da45a0aba31c7f5deauF8I/jlDdpPdmCdnlVs3c06VB/qOEVpajutoonjGhdw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 8,
+    "kode_dapil": "710702"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/104400/pas_foto/7107045110980001.jpeg",
+    "nama": "RATNIARTI SARUNDAYANG",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MINAHASA TENGGARA",
+    "profile": {
+      "id_calon_dpr": "f2e2d414b23f0d9a778870cdafe49ff494088a470bac65a9739eefc14b96b0e0126b26719ebaba456a8350a6a1f7b695dbd0f74c4d00268385d9f518d93f116f2wtb0utBHTpey7QZfznE5ic2Pb8AkIZwGIUQptau01k=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 8,
+    "kode_dapil": "710702"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/104400/pas_foto/7171022101960002.jpeg",
+    "nama": "SAHRUL RAMADHAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA MANADO",
+    "profile": {
+      "id_calon_dpr": "7f53e78d9e36d6a37f95335c126da12f0f6384fde72c1150bc4476fb32fcde7ceaa7a99ae24d40a6bb61f16b31c6e768ffe00f3e0cc1b9327fad1e0ff77f3da529KhRAgBu+EpGLmU15LqOlvqPNMtPLyZ0NRj+N4OeO0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 8,
+    "kode_dapil": "710702"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/104400/pas_foto/7107014810690001.jpeg",
+    "nama": "OLGA KOTAMBUNAN",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MINAHASA TENGGARA",
+    "profile": {
+      "id_calon_dpr": "25946d812dabf8401af4b46e32ada4cd5660756d3a1b574c379c0c1137c3df2b3d07544edfb18fdf60c46aa02b3ccacde0ca7c1e6fc565075675662c3a93ef53URniEM2k9aWzWHlr+n3YIzxZDYfpFtomMUuKNeaVodU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 8,
+    "kode_dapil": "710702"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/104400/pas_foto/7174022408610001.png",
+    "nama": "MAULID HAMIN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA KOTAMOBAGU",
+    "profile": {
+      "id_calon_dpr": "07d0f03fa1ebf58aa8887d44940744cef1b2c061d28487a66a0d56960f56267c1a34c4b75d8d559017999db71c6ba2da099c8aa0e2ff7f7fd36cdddc69a4beb3cCDYLAxn4mymp0cfAP3Yp01J9j3DcxIKOjZ+gPwGMmw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 8,
+    "kode_dapil": "710702"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/104400/pas_foto/7171051303900021.jpeg",
+    "nama": "LUKMAN SURYO WIBISONO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA MANADO",
+    "profile": {
+      "id_calon_dpr": "5ce4aff866caa36df5580c7a222177a347606e4685199a6e4cf1cb54571cd0c867e4b8a3fc938671354b73c786b8627502d764ce13849da8e6cc6bbc2d2905c8Hlrh27sq/yp+CgOAo4YEgRklyS8haXCDxJJxMY2cfII=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 8,
+    "kode_dapil": "710702"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/104400/pas_foto/7171050906990003.jpeg",
+    "nama": "VIJAY MAKANGIRAS",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA MANADO",
+    "profile": {
+      "id_calon_dpr": "e0776581bdd8f533fdd35bf95f18a17737afb52a7cbd55e2e875369fde259d9b1942034ad1324b787c7bef82c6bf0995f146e5ad7d15fc9086a958a8d7245defGCphfsjQt7dn/RfeR13ed6ZT+khLGybIk5vi5zEmLl0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 8,
+    "kode_dapil": "710702"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/210782/pas_foto/1683733423_09123623-7c85-4f95-9713-aa635c6b5bb3.jpeg",
+    "nama": "FATEH MUHAMAD AMAR KOSOLOI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MINAHASA TENGGARA",
+    "profile": {
+      "id_calon_dpr": "b5167cff6104d9088294eb9dbce9125b7b0ae4494dc846ba2253c7736ecb6364590751035e868cd954c5a6089c1eaca006ed66649a312dd7a5756b63de7baa2eT5w83E4crAKi2V1ubRQ0MJK9RG3bDheYhFMcgO3sRU4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "710702"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/237617/pas_foto/1683733488_dccac6d6-5c9c-4c39-80c9-a77f697b23e6.jpeg",
+    "nama": "SUBANDRIO TOLOLIU",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MINAHASA TENGGARA",
+    "profile": {
+      "id_calon_dpr": "95551d9b8cce7e34087a2fcf37b4bc618bf62b57d54e96e29044c13312d7edbdec567ff3cfffafd9320fbdcf730c3db0350e59de4ed41be7108176823e03b5d1p6Pnd3zK7y8NPJ9iVZVAnRCvePBBXJAExfFmAWy5ONc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "710702"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/211361/pas_foto/1683732416_db8f5aaa-f5a1-40d4-88f7-75041f767652.jpeg",
+    "nama": "NOVITA MAKALEW",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MINAHASA TENGGARA",
+    "profile": {
+      "id_calon_dpr": "e97a0c067cc140d080e8dcadec69351811739206edaa206fe72c71405eef20a8cc798f6361d33d120c7e8a6c9d03d23920b71e028f6e1845ca65e8d06ff65f54YUnBFsuQ8U7K/MEvG1J7Q31nWMhjljHpe+6b/k11cmo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "710702"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/236741/pas_foto/1683841049_9fc95524-68ba-4ff8-a6b8-a2025daa1c7c.jpeg",
+    "nama": "FIJAY MAHBUB",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MINAHASA TENGGARA",
+    "profile": {
+      "id_calon_dpr": "5f4366c3007c3e8980dac7b58ab59d0560f8d9c695b620b60d18a2128e699e3b237862d6bb41562c3e8fa63ea2891a8d48e1a46788ea201320d739057014a819/2k00aPVEvBe4iG4xiSMjE7C9kyT43xwBneV2CRu3jQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "710702"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/314610/pas_foto/1683873338_3e5e3e98-afc9-4396-ba85-d4eca7c4d818.jpeg",
+    "nama": "SRI GAMAR SAHARA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MINAHASA TENGGARA",
+    "profile": {
+      "id_calon_dpr": "41498a550658b7b3a0acc72006c56c06ea4a68af6689f5e76da6ce088b0bf7879a25d0c1672e10a5be29f7a42deed3fd351436467dbfbce5192515fb98b36354/GPxLsjdheJyo1KjR/S5RoPJ1jnixWIn/uLIJVbLkTM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "710702"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/237377/pas_foto/1683735055_18ed4098-9393-42f4-858d-9ec13321682c.jpeg",
+    "nama": "RIFAI SETIAWAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MINAHASA TENGGARA",
+    "profile": {
+      "id_calon_dpr": "00b87de1083245e0176774274ed3f5117bf504c47ea3213bc66292b3b18046a06a854d0ca904125e1999372f308925acec611067b58af7942e6ed045803b4e52S87YP50sM0XjYj4zKP+dv/l5y9tN8cqbJ80InV5CdiA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "710702"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/449701/pas_foto/1689335321_935dba7f-dbca-47eb-ba9f-fdb68a9bbf47.jpeg",
+    "nama": "MUHAMAD KATILI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA KOTAMOBAGU",
+    "profile": {
+      "id_calon_dpr": "f27fc8127aa66f2ffc80ea3cdf0ec369326539701a941d8c74c707f9eb82818e1543e768aa065c8b901dc8b139e8ff0eefd587f6f8db26f04bebab2e71c5de1bycbXmxLxEclIH1CVm13+Hem6YNIFhkMZojqDqcCrwRs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "710702"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/205213/pas_foto/1683679429_4e6dcbde-279c-4059-be30-702ae6f79890.jpeg",
+    "nama": "STERY WURANGIAN, S.Pd.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MINAHASA TENGGARA",
+    "profile": {
+      "id_calon_dpr": "275af85b0489963e68c94fa73aef853c501da26566d0eada81e26b844c19d613be28e45349194055834f52594c58baa40017029fa6cb84549a6a983d2f17d1aatcPE7ltLOBZ20WRrK5bgZ2wCOU6rCehFhAa2MMMSwcQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "710702"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/205423/pas_foto/1683680737_d07e82eb-b7c6-42a3-8f35-459e94f61adc.jpeg",
+    "nama": "CHRIS S. RUMANSI, M.Si.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MINAHASA TENGGARA",
+    "profile": {
+      "id_calon_dpr": "2e0ce40b4a6d2940af7726ce3a57ddc7fa6f34b6fc1c94239f6c9ad7c9c4acd8a4a51f8d550950f2708da5e11f1e367980cee558d95a9015896466d7862aafb6SI0hVRjA26NNv36Syz3eGNKn6905M2qhzTrVfMdocyk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "710702"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/205542/pas_foto/1683686394_831c6b7e-d048-4dc6-bd44-745472824906.jpeg",
+    "nama": "ARTLY KOUNTUR, S.Sos",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MINAHASA TENGGARA",
+    "profile": {
+      "id_calon_dpr": "9748fcd645c37f26efba3cc53a6172b3a020894be87e59982e33953fece88ffc870050cc63fe60c0abd8345af3f5a53f9ad60fe4402e6e4838a6321faaad16ea7fl7Ckfb9j32OkFIqGgXlAnIWXJeu9HwRl0oG8X2slo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "710702"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/206212/pas_foto/1683680989_90b492fe-047c-4c7c-82a7-20eba3751fa8.jpeg",
+    "nama": "RAKIMIN IBRAHIM, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MINAHASA TENGGARA",
+    "profile": {
+      "id_calon_dpr": "c3b193621e0b8a14e357da62281bc306ed04c3d583f19a07594678579ad97ea61ec8ae08014248591384d506663e514a17716a498749451ed3c179d11c89a4c5myhcoikHj+WprUVcjhrZdfACO2H7bt8OY2f9f8DfSuQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "710702"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/206559/pas_foto/1683686431_4f5de99a-33cf-4b5a-8fa2-e18cb86bd56a.jpeg",
+    "nama": "STEVI SEMUEL KEINTJEM",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MINAHASA TENGGARA",
+    "profile": {
+      "id_calon_dpr": "f6666c120347cafe2d92bba8e0a02f50fb5f703e32d41b20b61be812bfede938ba6b18dcc6449315e7d3f633bca4d7a6e790afeaded5da9d9ac3c2580014350eaM6UWY+Ev+G+Bz7aSRr6HAYn7IZGEw4JvRyKX7cz5Tc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "710702"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/206839/pas_foto/1683686474_f4b288ce-fb22-41d5-b067-248a646bc907.jpeg",
+    "nama": "TJITRAH KAWULUSAN",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MINAHASA TENGGARA",
+    "profile": {
+      "id_calon_dpr": "e3fb183b910c78361ab5cf24bd302273a8d9edfbbafa5fb1b04f3f6a3e7326ab0a45bc854154fa2fb4d046cc1fd67b7485d9b96a458f5ca9783b0ebd19f1aceaZbP4W1oCHgKlXfIv6ultnd60BSe1kIOSHYtvjfDblu4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "710702"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/207031/pas_foto/1683686517_058f6022-ae11-4c42-ba10-1d9a3352addc.jpeg",
+    "nama": "MARTJE MINTJE MANUEL, SE",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MINAHASA TENGGARA",
+    "profile": {
+      "id_calon_dpr": "fe5fe5f58050486f123439639e9cc098712005e3584de5301964f7db59cabfb764fb590c29135a00b9c50295f9b41fd7d372dfe127a8f131b59bf176a6018a3e2ej4+0oaS323nWKIH5b6GndDt6mwOAQgJw7YudAGc3c=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "710702"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/277334/pas_foto/1696144882_5dd71371-1994-4f0e-bd7a-dcd69463d8b1.jpeg",
+    "nama": "TONNY HENDRIK LASUT",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MINAHASA TENGGARA",
+    "profile": {
+      "id_calon_dpr": "9110b11ecd34369528f0d6f6b7e75a2042d32326fbafa60eb8cf310b64cd2df417f60d4883a51c4d423320da46cd59425d358d8e23dd57da8e8ff53ee3c68cafjgayRW4gDdSnRu6RWBgoF2zFdKijTvtR/5t+fvX9eUs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "710702"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/275576/pas_foto/1695913776_182c6651-fd99-4f6c-a63a-3d6d7c666f35.jpeg",
+    "nama": "FARUK ADAM",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MINAHASA TENGGARA",
+    "profile": {
+      "id_calon_dpr": "7dd703fbb95b40c79d8b1a65bbd54888fcea66731e7c648739e50e0c5d12786a471394fd505e09fea017fa008f110a332397037cb97dbd3b7b2f030217908124TTVS+QsdNQZjg+clizkgDjaDlHeQSLQG7XU/mquuzQg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "710702"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/373170/pas_foto/1696154660_b66a7111-53aa-4c48-9d30-bc201e9ecb54.jpeg",
+    "nama": "ERNA LUMELING",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MINAHASA TENGGARA",
+    "profile": {
+      "id_calon_dpr": "52b018245313547766306295c0cc87b25634fcf3f79597b37164c3f35d7d9db14be3d1826489e5ae24d12252d6917ce67226b0afc17004310a6bff398968e5actW30xeT/kVU8VchX8gut+nb+XeGCrHewJmy+fiWIsuM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "710702"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/276535/pas_foto/1695913966_a78e60ac-7d3d-4ae1-b304-011ab67d6dff.jpeg",
+    "nama": "HERYANTO LAHARUN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MINAHASA TENGGARA",
+    "profile": {
+      "id_calon_dpr": "bc1dc5c536699f4022d6228e898c07ad620b6d326f4123d6ceb3cdcf414ffc69fe7b34ede6bcd2ae2deefbee7153301b55b9ed4e2a15316cbbba130b75691728jDXb07ddheUu75f0vTxog8ukuzcgPcGQEPMVUqACxPA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "710702"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/278641/pas_foto/1683800810_0cf84c95-57c8-4b90-b5c1-0d151716ddce.jpeg",
+    "nama": "RAMKI HERMAN MEWO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MINAHASA TENGGARA",
+    "profile": {
+      "id_calon_dpr": "1b0d83d0a775d45fdb5e95f9588a7d641c157c20f642afdd390173cc788f1a4d94b4273888ef5f3729c20a019ca6131d9b222d3b23260b741124d5dc65e586bcFzidNi+Zap1t9fs/Pys+AnlSWwqZ1fV12NKZ0c2Brog=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "710702"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/375004/pas_foto/1695994347_071f5c49-56f9-4c62-a261-9f420b2757b5.jpeg",
+    "nama": "MEISKE G I MANDANG",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MINAHASA TENGGARA",
+    "profile": {
+      "id_calon_dpr": "2d35e0658c50ce5646f07a00b5ae88b694715fde7457041b870e4db8a9605d73fb0f4e601263f0eb09fcd7a87e0f83c83f1f08cf2d6fb5563e4fd989b44205bbUeT2p4miEJjtQLE7zfbMR1p1R6BCdvR1NCvurud+o2U=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "710702"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/366107/pas_foto/1683969783_6798d5f1-b7f7-4a00-a339-4c1ab6f9a6cc.jpeg",
+    "nama": "IMANUDIN KADI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MINAHASA TENGGARA",
+    "profile": {
+      "id_calon_dpr": "bbc0e4b2f64af5b6a95481930482966ea69210cdc079a8bf11798205ef739d1ecb8a548a18ce5f95150b2d6da3e5d1bbed08fea48af4e1f285da21e76df7df7cZziUI/XWWlxyq2hUfOtcq7KuOKZSMNXzHCjP/X+vGlo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "710702"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/305724/pas_foto/1688732766_837a20d7-f491-4963-9475-fc11b3483522.jpeg",
+    "nama": "FITRIYANI TAWO",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MINAHASA TENGGARA",
+    "profile": {
+      "id_calon_dpr": "5b7d2ff17f5cd1e14f5dee76cef9123dc5ec510efc547702b12c053684910953b1967b2659591d6133ccb227aa051794263dc98f600c165f6bbbbd0e4ce01671sKVQz37QUApcHUUIV4ixF2s70TGQrXf8fqG8lmg1IV8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "710702"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/305655/pas_foto/1688815402_5a0d37f2-cde3-471d-8570-87531d9d0117.jpeg",
+    "nama": "HERMAN LUMINTANG",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MINAHASA TENGGARA",
+    "profile": {
+      "id_calon_dpr": "2d5e6e6e5a3d0d0987d27bd8a7843a762e88e2ea03a25632b3bc5cbdeb1d9c1e32398cfc03119b16c9243c31ab31e0d37af0f4e2c1ae6591a1265179c181891eBQULSrdj+zFg1d+whqPJ8KEeQ15D7ZvolHkwm1FQjhY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "710702"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/459685/pas_foto/1688863085_289ab978-35b6-4e6d-9862-af5449e7b5ec.jpeg",
+    "nama": "IIS DJAFAR",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MINAHASA TENGGARA",
+    "profile": {
+      "id_calon_dpr": "b5430037460bad11ec60e650c084739de13666b8f014d494a1a5d7bc8ae354ea20bc69e6b3e3cecad48fb2f2f3c9f9efa059c2b97b78104bb26fb5a52b334221j1bOCBKZo/12xjXedtijS0WDxU5TlhFl4FIZht8VYgE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "710702"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/236711/pas_foto/1688815242_b9cf1644-b265-4610-8e7a-8a7608ee36c7.jpeg",
+    "nama": "DENNY JOHANES KAREL KAENG",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA MANADO",
+    "profile": {
+      "id_calon_dpr": "178075b456db11bb6c36661d2163efd0dd6e5979c716d8618004eb1defbeeab5dfc66400d45e562fe966c71045c772b279e46571d0552c09ec693878164978df9oYMBh0PFBb7qJY6K7HTrW8bqS0kqCxkoXYcYXpbzhk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "710702"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/305619/pas_foto/1688863444_5fd757b5-4ff2-42a9-b00e-c712a8395201.jpeg",
+    "nama": "SELFINA BANAKONO",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MINAHASA TENGGARA",
+    "profile": {
+      "id_calon_dpr": "ba525b7d6b353269c295f240e43f61c67cdf08e08c78cd75bf80d7873a71cc3e0ba9023e6225506f6b109a1c560c384db45c907fd654b2a5c35d87a1708b80afdvJfuVb+o7P3pBc29YOyFEhGtqdh7z8fQTqA3D2tRgw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "710702"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/196742/pas_foto/1688815329_567b0760-6c67-492f-8ba7-5cc0c459e0e7.jpeg",
+    "nama": "SEMUEL PONOMBAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MINAHASA TENGGARA",
+    "profile": {
+      "id_calon_dpr": "68a42f8004a1ab8b3e22a0d79e77886c20d8ab84036068eafa6955eede3e99a68218244e31ef1beeeb971db5387734a4a0df9e01b7be72e4f85c09424dc8a0bdvySW5RmySoohT08bEhzJwof/I464Na8Y/y9KRjAoT10=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "710702"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/206685/pas_foto/1688733803_685617bf-2df1-450a-a826-f9389ec40986.jpeg",
+    "nama": "HARVEY CHRISNA THOMAS PELLENG",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MINAHASA TENGGARA",
+    "profile": {
+      "id_calon_dpr": "c0ddea28cad96bfcbad67555e0471440be2e568dd20ca6140a2378b5d2eecf0481097779e3d7a40268395391fd868edb7898c9be17477e9a453f97cfa8cf99b2bzDbIBwzsBhjKzYZImg1LBl40rMyGJuAVoDh8GheHys=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "710702"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/454516/pas_foto/1688823023_ee7cf350-bc54-43fb-9fc1-e7324fa78282.jpeg",
+    "nama": "HUSAIN DJAIM",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MINAHASA TENGGARA",
+    "profile": {
+      "id_calon_dpr": "335309a1590f40edcbff7427c2c1555d951174ad82e8e8fc618c0553879cc1348c023920c0a881875f45dcd4703eb18c7347b84b8197ec3d48a152374bf7cd0cFR4n6tjbb6IbCEH+fOkqIvcTOoEJFXi2Kmtlb4ggz0c=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "710702"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/382706/pas_foto/1683999734_8a8ca28e-8b2d-47d3-9828-9e4409b8c799.jpeg",
+    "nama": "FITRIA AYU PAKAYA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MINAHASA TENGGARA",
+    "profile": {
+      "id_calon_dpr": "90dcc7c918af962a8f0235bab11a94c10ae50c61815ca625cb7eaa7dc16fa0283780f3876d04a387a17f6d23071617b4c64ee266e0eb3e36acd88f1712c08898w3hKtu7gZGSm2bshcQHeswF2K+Fz2+wYU00DjOTg9oA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "710702"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/344044/pas_foto/1684001539_c88a617d-e734-4deb-a780-bfff6f151c4b.jpeg",
+    "nama": "ANDRE MALIGANI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MINAHASA TENGGARA",
+    "profile": {
+      "id_calon_dpr": "6359a5368985616bb34bb2161ccd1c10b1f330cb22e34a3617f07b99ea98ed53e40e7879df5fd24622dbbd225fae9fd178acf0fa5707ebf0df1d388f4cd5114b2jb3fR8lwJXdXSx9TDMINxp9KHPVvrDu/XzO0mq+9eU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "710702"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/277304/pas_foto/1683903840_c5b7bcbc-7e5e-4f3e-90d5-1569423ea702.jpeg",
+    "nama": "Drs SRUWI ISNAINI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MINAHASA TENGGARA",
+    "profile": {
+      "id_calon_dpr": "f310cb25b01e2062744b8c69b7bf8b23b30dfaee9b3064822690ae18d963562d398490331f22ab291ced18b57a66a9ec7a605573ec6c13545b42ff435d9726c2DRNHqBx2lNyd1uStiGGDMDBLGDMgw0RLLNjGXH29tq8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "710702"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/332658/pas_foto/1683904034_d5f34c61-ba86-4c63-94c8-0288dacb7fab.jpeg",
+    "nama": "SUKARNI PELANGO",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MINAHASA TENGGARA",
+    "profile": {
+      "id_calon_dpr": "4c8e815425e3e797b54181ed349c1679666128c8e3bb65aa3af667631ac3c3dbb1055136e1562a8c5de01f4e8ecf004516254337fb541b25885af588345e817eYp5IrObgpVE19T+VRp6KGpJgTWcW8WNHxEFmjnu9f7A=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "710702"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/331448/pas_foto/1683905134_92d8b482-267f-4058-9afd-105c062f7e06.jpeg",
+    "nama": "PARMAN TANIO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MINAHASA TENGGARA",
+    "profile": {
+      "id_calon_dpr": "64a14c863ce203377ce6929667271ab1cc40c872a83793bd37e41e3148b90a7ed4b3ee51052c5f6f546e844447a149821916b1a0be05e4dc18fb3bddc3911990Wp6Ml1zcW2lCwpLxee0qvnGw+KJP7JcW4Usnm3cl/PQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "710702"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/331206/pas_foto/1683905061_6c22d4a0-bb86-4c78-9337-ed177dd505d9.jpeg",
+    "nama": "SRI DEWI HASAN",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MINAHASA TENGGARA",
+    "profile": {
+      "id_calon_dpr": "a3a29f982e3c61ef10e1225c2abe644a4b3eb0bb1e08a3ec7945cc4d5c35dcd6b877584066601581e7ab9482504f148051538c77c00726298d7fe78d8ef97101Csc4Kh6S0YKGbY9/X4TfF/X0lm0bzoaQeiiMjwmMcYo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "710702"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/331078/pas_foto/1683938924_0e3466bb-478c-40e1-9c24-3960ff0c3888.jpeg",
+    "nama": "MARISA AMELIA PUTRI BAWO",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MINAHASA TENGGARA",
+    "profile": {
+      "id_calon_dpr": "9aa606e5c49664f207e2a5042a1c7647efee7798e3718d2789c86e398db031e3c879bc0f9bfd92fd2e22c55afc0fa453979b1fa1912e08676afb70b6073d51e44aKe/63rgj46Nv8szInXD8HQ0FLOyZXwsm1aK+2m0Z8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "710702"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/165196/pas_foto/7106021712000002.jpg",
+    "nama": "VICKY CHRISTOPAN SANDI KEMBUAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MINAHASA UTARA",
+    "profile": {},
+    "id_partai": 74,
+    "kode_dapil": "710702"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/165196/pas_foto/7103102510990001.jpg",
+    "nama": "VILKY MIRONGSENGGO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEPULAUAN SANGIHE",
+    "profile": {},
+    "id_partai": 74,
+    "kode_dapil": "710702"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/165196/pas_foto/7171025604870001.jpg",
+    "nama": "RAHMAWATI DOLOSEMBA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MINAHASA UTARA",
+    "profile": {},
+    "id_partai": 74,
+    "kode_dapil": "710702"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/165196/pas_foto/7271011807970004.jpg",
+    "nama": "JUVAYDIL",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MINAHASA UTARA",
+    "profile": {},
+    "id_partai": 74,
+    "kode_dapil": "710702"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/165196/pas_foto/7171024107800011.jpg",
+    "nama": "SARINI RAHIM",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA MANADO",
+    "profile": {},
+    "id_partai": 74,
+    "kode_dapil": "710702"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/165196/pas_foto/7104180611970002.jpg",
+    "nama": "SOPIAN MALEE",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KEPULAUAN TALAUD",
+    "profile": {},
+    "id_partai": 74,
+    "kode_dapil": "710702"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/165196/pas_foto/7171040611690001.jpg",
+    "nama": "FACHRI SULTAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA MANADO",
+    "profile": {},
+    "id_partai": 74,
+    "kode_dapil": "710702"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/106153/pas_foto/7107043003860001.jpg",
+    "nama": "MENIX MEXER MANOPO, SH",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MINAHASA TENGGARA",
+    "profile": {},
+    "id_partai": 13,
+    "kode_dapil": "710702"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/108045/pas_foto/7107036809750001.jpg",
+    "nama": "SIFA BUTITI, S.Ag",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MINAHASA TENGGARA",
+    "profile": {},
+    "id_partai": 13,
+    "kode_dapil": "710702"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/106153/pas_foto/7107032903800002.jpg",
+    "nama": "MAIKEL WAGANIA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MINAHASA TENGGARA",
+    "profile": {},
+    "id_partai": 13,
+    "kode_dapil": "710702"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/106153/pas_foto/7107041911660001.jpg",
+    "nama": "BOYKE PIRI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MINAHASA TENGGARA",
+    "profile": {},
+    "id_partai": 13,
+    "kode_dapil": "710702"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/106153/pas_foto/7107095104780001.jpg",
+    "nama": "ALWIN RIBKA WALANGITAN",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MINAHASA TENGGARA",
+    "profile": {},
+    "id_partai": 13,
+    "kode_dapil": "710702"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/108045/pas_foto/7107035009900002.jpg",
+    "nama": "RANTI LAIKO",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MINAHASA TENGGARA",
+    "profile": {},
+    "id_partai": 13,
+    "kode_dapil": "710702"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/485345/pas_foto/1696225265_fe53e109-a9e4-446a-8e89-9d5317e9b865.jpeg",
+    "nama": "AHRIA JUDISTIRA PATURUSI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA MANADO",
+    "profile": {},
+    "id_partai": 13,
+    "kode_dapil": "710702"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/353580/pas_foto/1683952582_1adc79a7-52c8-4534-9ba4-b7f250b25119.jpeg",
+    "nama": "VERRO HIZKIA ARENT KAAWOAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MINAHASA TENGGARA",
+    "profile": {
+      "id_calon_dpr": "36b6dc18319c36483d90c0517a8f97552ec09651358d18d9c79e4dcf9634b9d0c2691093105a2b688e61ddbcca756011f933520367dc4a2a79c501038a816a31B95v3BiaYMooO/OvwuPThRYeYhyJGf6QviYTYRL7dBU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "710702"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/357858/pas_foto/1683979057_cac1527d-a96f-4d04-968f-24539e18bcbc.jpeg",
+    "nama": "RAJU SENDI KAPAHANG",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MINAHASA TENGGARA",
+    "profile": {
+      "id_calon_dpr": "85df6d4c62e5d25c3b6b91b0b638c94830e2de1cae11eaeb0ad556f4b742f3398770f0768e33b8768e023e04fde6e3549ca6c6668f37f6d646ff442d1851f9fb7W8UEk34YBgW0EpCW56BbJB3WwtJxp/SqwXEiPlFixo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "710702"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/451339/pas_foto/1688792626_064dafd4-cf4a-4ae1-84de-fc9dd3335cd8.jpeg",
+    "nama": "MARLINY CLAUDIA PANGEMANAN",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA MANADO",
+    "profile": {
+      "id_calon_dpr": "f3b8370fb70cfc2efed736df3ed828b05c791f2fdc077d7bbb63ae47e16695e8db123148b63c5129a86485e3928ef62a7e095d210ab1e820a485154af9a99b214xc6FfU7gk6dzfz0f+Iq06FWkkQ1bR7kxI1qFqy5cOc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "710702"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/361536/pas_foto/1688612503_a3c59393-9635-4b52-adee-6f8e4f5a40d2.jpeg",
+    "nama": "ELVIE JENNIE PELLENG",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA MANADO",
+    "profile": {
+      "id_calon_dpr": "025d3ed4776c39aad1b841c67384816b948253fd0601b29cdb67ab07e68d1aae165c17720bebf0ec2b436f28f01ff6045a681c7ad7cb3f19a6aed9b524311063nNJBZdZlBbJKsd7MckyLJ+GY9NCuh7xGPnCcfqQ8EJA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "710702"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/355994/pas_foto/1683959059_10c94668-6603-477b-a108-435f4dcfffaf.jpeg",
+    "nama": "CHARLES A.B TUJU",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MINAHASA TENGGARA",
+    "profile": {
+      "id_calon_dpr": "3807de178e7cdbb6241836308607752d5188a9397f5a976178237856fb68a62421f9997284986ea6ae85d44fbe290d942db3e25f92076617b7209feb5bfdd74b9TIbYmqGiZPt8/OBcRUqsbQyKyvMZANNyugDOSfgESE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "710702"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/356785/pas_foto/1688616091_b3aecd5a-620c-4746-a286-9585269351c3.jpeg",
+    "nama": "JOVIN GRINDI O. LEGI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MINAHASA SELATAN",
+    "profile": {
+      "id_calon_dpr": "8aa1814c3cb1f7a92046e3832440e374edf09a077ab421f77c2f39ad6316fb913d56fcef300cafca0ae4ff02be214952484b81633988766cbccd1049247fcf30UoIffTvtlgzHi3pNQ3CYvVCoO94L08UYyA2oBBUlK50=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "710702"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/353987/pas_foto/1688535485_337dc925-84fd-484c-a132-8abcacbd66cd.jpeg",
+    "nama": "DEBBY LIWAN",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MINAHASA TENGGARA",
+    "profile": {
+      "id_calon_dpr": "01558eed44978acf47a1f3bf86dedb15327b4d91ca867e79b8e605bb4eb9447fb405bcb8eb04b1b96746102890a72452456b7ea6120d3018eeb761f362adaed5YQ+xl9nVr+pGNk1TE45ev9mZJDpmxzUma65yPSSIk8o=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "710702"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/206211/pas_foto/1683968925_6c9884bb-88b7-44db-b100-e9c40e6b6f35.jpeg",
+    "nama": "SUKARDI MOKOGINTA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MINAHASA TENGGARA",
+    "profile": {
+      "id_calon_dpr": "50900d2095e2adb2e13c3af1adedb8cfd7a5a0a462abd540e044525ab0b7ac04ceb122c776ec38a0a8e5a6a03cb1a13f623a02f50a95541cf401cb93910a6bfezCO+jye0hQ18AfeQe2X5/sY99bROe5E6AFKzxhtoYv0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "pilihan_publikasi": "datadiri,alamat,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 11,
+    "kode_dapil": "710702"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/403478/pas_foto/1688870110_414e1591-ac22-453e-8c0a-35345df88886.jpeg",
+    "nama": "MULYONO AJIMA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MINAHASA TENGGARA",
+    "profile": {
+      "id_calon_dpr": "ff319a75d373b704850f67d22d807cf812e4af8c6dcd174b4f483c285f5cdeb9f56015ef75f1126889552ed03dd4d7a880f12372954d2b9a5d1f83c7ad4df27791pSoXcKKh80kgmU5waxjwETEJfUCl4vuInkY3EQR9s=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "pilihan_publikasi": "datadiri,alamat,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 11,
+    "kode_dapil": "710702"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/401411/pas_foto/1684042302_97df71ed-634a-484b-a748-dc4b3105002f.jpeg",
+    "nama": "RAHMA NTOMA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MINAHASA TENGGARA",
+    "profile": {
+      "id_calon_dpr": "8f34c6cad44bdc5f41114e2f054b8cd94b4e892de97780e85675f197e1039b1153032927552f40ddd1c28dfde6c9d5e3486617974b8b1f6f1a9c95197702887dY1RcNXr7BLHFMi9ar3t6N/3bEeOuzJ0IuwBFHdXQ2Bw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "pilihan_publikasi": "datadiri,alamat,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 11,
+    "kode_dapil": "710702"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/399939/pas_foto/1684039249_d5f8deaa-c886-4a4c-8894-286747739c1f.jpeg",
+    "nama": "KASIM MOLOLONTO, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MINAHASA TENGGARA",
+    "profile": {
+      "id_calon_dpr": "2186765e3a99b2c907dfcc721d94d9125da86bea1180d89c764c0f27879a8fcb4d3a3fc7e2613f6323830b125b6dcbc4c86d99047476641a1514d562197edbe7eUqyRvgNrD7DMgUh4fG9RuH/hzZj3+b1dt7G3UlAISs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "pilihan_publikasi": "datadiri,alamat,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 11,
+    "kode_dapil": "710702"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/404257/pas_foto/1689473417_1bb85adf-cd5d-487b-af5c-44f80fb9a036.jpeg",
+    "nama": "NURLAILA SARI MIHA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "MINAHASA TENGGARA",
+    "profile": {
+      "id_calon_dpr": "6af4f68e36146f065e32849c631172d64258d9353cba51baceb739ced046bcf859bb9a4ff3de429d71bebe8d672bf7d468086ec1f24889c4d8a79cd5bcd3e060slFyQ8cfwdfU8h7jczrFxM7oAm5fxWub2yhshIzcmZs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "pilihan_publikasi": "datadiri,alamat,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 11,
+    "kode_dapil": "710702"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/474768/pas_foto/1691682622_4aa3d29b-9075-446f-bc98-c401504568d7.jpeg",
+    "nama": "YUNUS TONDAIS",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MINAHASA TENGGARA",
+    "profile": {
+      "id_calon_dpr": "5d3359eb9a232cf29bb70c0b763617a6e231d1433e59b69de703bcb31b76b25978f4269c521fae3cfb92a06ae28b7f8c76e21c95cce4d8b5bfb89bf993489f91Y9Pg2QkxD//Fbz0McEAvthuh+ZQeFpWKFRNsILRbQQw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "pilihan_publikasi": "datadiri,alamat,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 11,
+    "kode_dapil": "710702"
+  }
+]

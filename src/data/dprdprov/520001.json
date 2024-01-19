@@ -1,0 +1,953 @@
+[
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/34902/pas_foto/1218010408910003.png",
+    "nama": "SYAFII EFENDI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA MATARAM",
+    "profile": {
+      "id_calon_dpr": "618391db9e579873bbc994216425d6a4c86c320e8f741f919de0c5985adf4d826e23522a331565bd30287ddb9547f06845963da154159e4eebdb06cf3fe0104bSyxqw/iMFXxx4mR8VOfRP6/CZMB70RxAHogGeD4rZF4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "520001"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/245283/pas_foto/1688384044_2b610b7f-d2d0-4cdf-b422-5d2e4eb4a92b.jpeg",
+    "nama": "DIANA KURNIAWATI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "LOMBOK BARAT",
+    "profile": {
+      "id_calon_dpr": "046b83469fa4194516858d86aad729902fe9ea65345398013e96f6c2561d6e833f8f4c8a0854495655bac5ee04cd22b81297abe9519dc02d6fe7483c78e92bbf0/FTOvFyNFFbWAcIoJoWrR6Q2FY3RkXbcjJfLLY8QbA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "520001"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/245282/pas_foto/1687659211_97c4e7bf-1e29-4f4b-ab14-21d3d35bdc73.jpeg",
+    "nama": "SAMSUL HADI ILHAM",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA MATARAM",
+    "profile": {
+      "id_calon_dpr": "7446bcf3310ee6bb2918fc43c75b4d393c88dee04034df0a786973f417d7a069c2697fea69991f80773fefe2cb7096ca519a03c77e64155c9603519f2a02429bF6bLhozgk11qNA1nHMzFr1eO7rniSsaAVNnjrORuuKo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pendidikan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 8,
+    "kode_dapil": "520001"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/245285/pas_foto/1688517333_ab90c036-6541-49c6-89c1-1aaa3f7a2f20.jpeg",
+    "nama": "M. SIBAWAIH",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA MATARAM",
+    "profile": {
+      "id_calon_dpr": "b581d17ca83a489ac1a03563f441226c7b3cd06535b2416a91d5dd8c52ac6e7c00430000d43ff34e18e62a940431ceec5cfed59a63fa014cee205cad16308f2aAkXjWMEFrV4OoYV0hQEPGrj9GdzCVvzqDa9MXw9svgA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pasangan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 8,
+    "kode_dapil": "520001"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/429590/pas_foto/1688405501_44b839b7-4d90-44a4-982b-bd820bc79a16.jpeg",
+    "nama": "RIZKI KARTIKA HAZRINI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA MATARAM",
+    "profile": {
+      "id_calon_dpr": "a7a732f72d330ff39e1713ea73324e45a017d008e399f0475c1b85d8c0c3796803f4db554be239b3d45be5d153cd4c48cef954c4f658c9e0375d13c9245910c8cU4SlofEmB2EgEm/f2zvkdqGt96b8lNiSlZfNJcLOvk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "pilihan_publikasi": "datadiri,alamat,hukum,pendidikan,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 8,
+    "kode_dapil": "520001"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/229094/pas_foto/1683811586_7537da66-1aee-46b3-b6e8-53ad24492f54.jpeg",
+    "nama": "RANGGA DANU MEINAGA ADHITAMA, S.H., M.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA MATARAM",
+    "profile": {},
+    "id_partai": 10,
+    "kode_dapil": "520001"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/450554/pas_foto/1688786478_fa76f672-3c34-4b3d-9bed-1af8b399ad3a.jpeg",
+    "nama": "LALU FAUZI HARYADI, S.Sos.I., M.Pd.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA MATARAM",
+    "profile": {},
+    "id_partai": 10,
+    "kode_dapil": "520001"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/437868/pas_foto/1688756911_96a88ad6-0884-4242-b4fd-d41ade45a900.jpeg",
+    "nama": "I GUSTI AYU NGURAH PRIMA NINGRAT, S.E.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA MATARAM",
+    "profile": {},
+    "id_partai": 10,
+    "kode_dapil": "520001"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/257265/pas_foto/1683892436_ad80351b-f810-4e42-818f-c2043eb7d201.jpeg",
+    "nama": "I GUSTI AGUNG AYU RATIH MANIK",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA MATARAM",
+    "profile": {},
+    "id_partai": 10,
+    "kode_dapil": "520001"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/169261/pas_foto/1683692994_b85de10f-b682-4319-a2ef-08c41d238a4d.jpeg",
+    "nama": "I GDE SUDIARTA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA MATARAM",
+    "profile": {},
+    "id_partai": 10,
+    "kode_dapil": "520001"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/55269/pas_foto/1683650225_a1cfeba0-5098-432a-8665-293f84cd3d52.jpeg",
+    "nama": "Ir. MADE SLAMET, M.M.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA MATARAM",
+    "profile": {
+      "id_calon_dpr": "370367b25299daa6a4ae2eef1ce89b667178835fee8e134b09f28704c3d1ee0a6a23dc1a87567148dd51d5b7cb6b5d787088fb74363af2e1fe09dd93353cd232niVR4+YMc6+AQ1xu2xwAGMDmF8OD7Sujw06Q2m9C41k=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "520001"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/17874/pas_foto/5271060808790001.jpg",
+    "nama": "DWI ISTANTO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA MATARAM",
+    "profile": {
+      "id_calon_dpr": "39dd72b8f4156f1f72cbab16718167b854d2dbbfededb0ef484f025e4d5644681ce6a901185faeb9351b8b1a469adbc8ab7c75e3c22ea117b88837db1a796116M3zt95jH/cMXNxToxUHtAx4BvJL1wiujsehVS30IPt8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "520001"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/55271/pas_foto/1683725220_7463b618-8504-4907-9ece-65b626df78c1.jpeg",
+    "nama": "Hj. DARBAHYANTI, S.I.P.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA MATARAM",
+    "profile": {
+      "id_calon_dpr": "e32b50f1ef6891de5feef7d71a0680691f116f2928f3a2293a4518838a23848b1f9f41c6b7cdc372d5ad9e31ce93a8b981043d45c5533fd909034df9b537eb7aT96nsodp4VFDjUqthTVsh+dbuurJFcLRnN2vPlVG5Qg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "520001"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/55272/pas_foto/1683728893_801b8f78-0e4c-4e7c-a886-8f74e72aeb66.jpeg",
+    "nama": "RONDINE ALVA NOVITA RENETT",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA MATARAM",
+    "profile": {
+      "id_calon_dpr": "055a00d87bda23e5371beaa01366ddfb89732aa3347c0d779fd3e834b89f0da1c4a5e9e67c35d13c3f633821db79dc7f3a79f21c92ae20752a15b61e0a8b9d32K9BRv9EeCEmPwO2q2FT97W3cNJol9l1Ef0WUo/bs1yg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "520001"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/17874/pas_foto/5271061011000002.jpeg",
+    "nama": "MAULANA RIZKI NOV, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA MATARAM",
+    "profile": {
+      "id_calon_dpr": "eaedea361606731f30d730d06493d36accfc8835209dcd01cb6929130c6d84b3d5520e4e35eeb49808933815ac69d4b1c381166e9502c112967090731b9fbec2tgBDHOYgQeQedk3W8ZToA78M/KJh4+JugTK1JExv0UQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "520001"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/17056/pas_foto/1683771878_9a7e0329-004e-4777-908d-a163b79e4544.jpeg",
+    "nama": "H. DIDI SUMARDI, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA MATARAM",
+    "profile": {},
+    "id_partai": 9,
+    "kode_dapil": "520001"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/17875/pas_foto/1683608630_aa14820e-9889-4df4-a07e-6be279e71bd9.jpeg",
+    "nama": "Ir. H. MISBACH MULYADI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA MATARAM",
+    "profile": {},
+    "id_partai": 9,
+    "kode_dapil": "520001"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/17776/pas_foto/1683769000_36ab4627-eaec-43c8-93d6-264e77b25f14.jpeg",
+    "nama": "Ir. Hj. LALE PRAYATNI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA MATARAM",
+    "profile": {},
+    "id_partai": 9,
+    "kode_dapil": "520001"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/17026/pas_foto/1683627124_84d5da47-f33e-49ef-9b1c-883c3ad491e3.jpeg",
+    "nama": "H. BAIHAQI, S.T.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA MATARAM",
+    "profile": {},
+    "id_partai": 9,
+    "kode_dapil": "520001"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/17749/pas_foto/1683855381_d995e60d-461e-437e-ae85-0e53dfd14c40.jpeg",
+    "nama": "IRMA DAMAYANTI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA MATARAM",
+    "profile": {},
+    "id_partai": 9,
+    "kode_dapil": "520001"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/469786/pas_foto/1691562548_875abe46-3b30-4e0c-b084-e99f5977cdb3.jpeg",
+    "nama": "PUZIATI, S.E.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA MATARAM",
+    "profile": {
+      "id_calon_dpr": "d02ae78cd7e7d480923365e64ca145a8b475c1a5cea2a7f7c2b89ebb2cf18ae0a0da69413fb4722f91d3bbb4ec5f240072cd47747696cc3fbce69f37eba7f274383LcR12Fblk5xbZk0m5CNN6J7wNKo/eZLAO6oXrojM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "520001"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/18068/pas_foto/1683001264_9df340c6-f334-4ba5-8b94-b749d3ce9258.jpeg",
+    "nama": "MULYADIN, S.H., M.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA MATARAM",
+    "profile": {
+      "id_calon_dpr": "4645807abfcca02eab7c495c930945e26c97e73f10db19a825c37f82a643c8281ebe2db1dfce88c38e35d26cf7dc534a8a918ccd20c7301c98a0a392c99239cf3OTjlmQEHg0MHxE6HqlwMmenYJX+KCFqu3tfjy5FcXI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "520001"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/18092/pas_foto/1683001341_28d416e0-7b31-4844-8586-a8eb660cab3c.jpeg",
+    "nama": "A HAFID HASYIM, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA MATARAM",
+    "profile": {
+      "id_calon_dpr": "109b9f6a49cb76833599cec7e5e336df8a093a2ee3fb225314eb7a00f9f8ff683d0adbbdb608330b28d1ef647a3d2c2627a40b0c68f7547a2d99956d6d455472a/+mH8iOCF30hFGS1CNy8TFW61TXqn1QHiAagZUpnwI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "520001"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/460283/pas_foto/1688870692_7d707bb8-eb58-4832-90f7-2c584af5de2f.jpeg",
+    "nama": "Drs.  H. ABDUL KARIM, M.M.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA MATARAM",
+    "profile": {
+      "id_calon_dpr": "824756c222ee2336fe9529c5888387551071cd52e380412a5501a69a51e245b3cb188eae74ab5e35e059661ed00fef0fd88c4db7939fefd5ae8203aca370b7ce6PAaPskuEpTM1qefXi9RHCEx/O8k29X5mVuMpmCTRAA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "520001"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/13706/pas_foto/1682942703_62c2f877-5330-4d62-913e-7032e48e4b3f.jpeg",
+    "nama": "ENDAH YULI ASTUTI, S.E.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA MATARAM",
+    "profile": {
+      "id_calon_dpr": "96051854507fcb3136d6d9e7ee3e3be01b0429a0af8294199e1d1e1e8428402594c6427bc089daab8465bf3233b753f13deea1578368e358c47cf9c30ee499caHCsaq0owSXIY9EiBWsbC+v150q5kZVeeKOsdCpRAKzs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "520001"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/55145/pas_foto/5271060708820002.jpeg",
+    "nama": "MUKARRAMA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA MATARAM",
+    "profile": {
+      "id_calon_dpr": "a26dfa5733ab5b8d5353566169cc2c4b58559fd8922cee44d8a4a087b190e57f819207bc9f11c42a80fd95833e0c951e0e66e81a2b017f9cbde0507acbf98b90pDZ6tflk+s3NCPBoevMSztAYU7dvMUUqCi4Kl2Qgrac=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659959325_LOGO%20RESMI%20PB.png",
+      "pilihan_publikasi": "datadiri,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 41,
+    "kode_dapil": "520001"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/325450/pas_foto/1687834789_675ea1f6-0af2-45e6-a3f6-77f02cf072a9.jpeg",
+    "nama": "FENI RIZKIANA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA MATARAM",
+    "profile": {
+      "id_calon_dpr": "51e92746fa1490978f6a4eab187d1cbb315934638ec5c91f6785ab27395b5cec51f9e11a75cc9bbaa2c3bfecb362e4ff8b8d3ebc007012a98e3aaa8ca6db2e96elFLow36Kj5Q7k5tmxzos2xVA24rfiLYXaU7iyCmpNk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659959325_LOGO%20RESMI%20PB.png",
+      "pilihan_publikasi": "datadiri,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 41,
+    "kode_dapil": "520001"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/325444/pas_foto/1683956396_3fd0f579-ba4a-4a82-80e5-f5260552e319.jpeg",
+    "nama": "MAIDI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA MATARAM",
+    "profile": {
+      "id_calon_dpr": "a941a4e383204108bbcd29895ad8c0ca69c87934657c21c5e313a3138fefe1742e0790e0bfe7db9b9b2c342e46ed9a765d77e4276cc4ede9f73ca484875f34a1LhNuqrHFNKZTbE9iTiNiQu17QQ9GwKDhmsi8VVAFWhA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659959325_LOGO%20RESMI%20PB.png",
+      "pilihan_publikasi": "datadiri,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 41,
+    "kode_dapil": "520001"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/434131/pas_foto/1688540948_c9aa8b89-2add-4734-b7b4-325f91b97701.jpeg",
+    "nama": "AL IMRAN, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SUMBAWA",
+    "profile": {
+      "id_calon_dpr": "992459321aee61ab29e65f9c16b4c5bb91dbed8fbc786313c400c73f357b31a61fd8770c8bd347d7f910337336cd7086378c9e9720ee075721179b8bb49a813dzi/v+i5pUVj3Y1i+/OnkuEpBuc4cVoNS8KZYFPj95fA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "pilihan_publikasi": "datadiri,hukum,pendidikan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 77,
+    "kode_dapil": "520001"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/476827/pas_foto/1691736339_2c47b90d-ca87-400f-a8f4-46c5aa0083a6.jpeg",
+    "nama": "SUJATMIKO HIDAYAT",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA MATARAM",
+    "profile": {
+      "id_calon_dpr": "11b050130b29d97670837c354392089810edaf8609062df467be022b39b7a162fb9657d355e95418c44882ff2db1631a840d607c8ef452d1a6e6f21e349fc44d3u5Zy/e8GJ2O+5Q+oVphKk8WEdP5MxgWm/NZ8HrekOw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "pilihan_publikasi": "datadiri,alamat,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 77,
+    "kode_dapil": "520001"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/395568/pas_foto/1684149365_ac0d6316-c382-4699-aac1-cd3742840c5b.jpeg",
+    "nama": "PUSPAWATI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA MATARAM",
+    "profile": {
+      "id_calon_dpr": "63b546a32c058ea14a45afd19a5332dd7bca7afde3e7b3f19be0e21afb1b838deb41c2962ed9160c8270700196f8474ca15dbee985a4bdb00478ff9ee65e86b0TAYqxgsSqlXTNzst+9vUYqhbzahWA3n8S6P1inr/F6E=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "pilihan_publikasi": "datadiri,alamat,hukum,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 77,
+    "kode_dapil": "520001"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/397121/pas_foto/1684148850_e2c93238-7866-4add-9718-5a111e62aa01.jpeg",
+    "nama": "M ZAINUL FIRDAUS, M.Pd.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA MATARAM",
+    "profile": {
+      "id_calon_dpr": "9d829c0bee3076010cc190f4407736c312a677f59cc86bc099e78a9b5af8e7b84b634dc3c71e4c8facc39aac99abe7eb14bdc78d50ff0d039f4fef210e094eb829r7tqdcwd6OioaeROHRbJH5u5Pyd/rPCJ9qFS/pHNY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 77,
+    "kode_dapil": "520001"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/477259/pas_foto/1691741960_92d7bd88-02d4-4e06-b812-f1a934368a85.jpeg",
+    "nama": "JESSY AVIANTY",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA MATARAM",
+    "profile": {
+      "id_calon_dpr": "ce58225a728f9cb1107cf52ddb41b6e076217f394e0ee7cfe101d28701e1bf6c5b5eaf329e7b954ec9c1e9b0799c616a85ffc8b3037fd41dc0c1e466d1e307ecFGYlF6mmdiBHAlE48ScO20Rk4WoZ4HcxgxldITpcLro=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "pilihan_publikasi": "datadiri,motivasi",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 77,
+    "kode_dapil": "520001"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/5539/pas_foto/1683195218_e911c2c1-5b63-47a7-9230-c0b519d4f45d.jpeg",
+    "nama": "H. MNS KASDIYONO, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LOMBOK BARAT",
+    "profile": {
+      "id_calon_dpr": "b4badf6a25661f090f3e89808039b0389b088fff5cf9c8c24e79d5a6edba9cca4578850762a999880de30f6283a541c361e089f93c25843c6d81e272d6ead0aaxDK26tci2mtlnrNmVRKPC1XW4b/XKTsbFmcz5QQQglc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "520001"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/1160/pas_foto/1682734088_bf46f32a-c520-4add-9b79-c72501c81ad8.jpeg",
+    "nama": "TGH. ACHMAD MUCHLIS",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA MATARAM",
+    "profile": {
+      "id_calon_dpr": "7b182e25546a6f7ec645787ec41f4b045496c9730aace475c5484d1ec4a520036fe72e106c975e3032759a58e86e43f1870acc8bc5bc8307ccda7d1afad5e2fa8r5r+Ldnt/fFl8ffUzkza7Nitadf4vgv5BZMseOOgXA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "520001"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/1315/pas_foto/1682734051_c91d6571-a57d-47ca-a14a-c2e46ce76517.jpeg",
+    "nama": "RINI JATIAYU KURNIATI, S.E.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA MATARAM",
+    "profile": {
+      "id_calon_dpr": "4b13e6654ea15f257364584e9ae5a41e21f4a62731ad0ba49f62b0948b40f4e1152fbfba7c6440cc509a9832d02130099ae44c82f19e3bfce094b4401e81c5256EMRtlGAoEn/FoERtpnKmx4iGVlLk0vLThOHC8Zje3E=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "520001"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/482416/pas_foto/1695970124_8ec0bbbd-a98e-4ca6-b439-a02e7284c3b4.jpeg",
+    "nama": "LELY LUSIANTY, S.E.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA MATARAM",
+    "profile": {
+      "id_calon_dpr": "8a9bc3b4e2d9dc8e45d77837eb662b0b8e78ecd5dbc4bb1d13b28cf6a2f283e474008b22e53deecfe07a7b0f0003dfe5d59f0270c1f552a44232b3524d9df5644Lge7J2SO/dooyZlpdTkoLhUKrk0nDl5e5csdGljZt4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "520001"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/1304/pas_foto/1682734112_54e95619-96c0-409a-ba5a-f3176206762e.jpeg",
+    "nama": "RIONARDA RAJA RM",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA MATARAM",
+    "profile": {
+      "id_calon_dpr": "6b5526fa3a7b1a217bbdfe5d561fa0a79b4cd008ebd8b5ce0eaeb296a4d77b8473924b96137c6c993fe15e27d1051bf850660f48634545adabf1f7a4d7b52d27PZNeega1/dXdtF1ZU0FEvr9pylFj14q5Dw8ICvIJSVE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "520001"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/430912/pas_foto/1688457484_e4a0a934-085a-4701-9f36-eaffd064edea.jpeg",
+    "nama": "H. ISKANDAR, S.Sos., S.H., M.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LOMBOK BARAT",
+    "profile": {
+      "id_calon_dpr": "2b10b2ae39e922170a969434e7551fafb808866d91bcaf080c792ea8fa00113c5ecd295b3a8264d79aed0a3d1b13903ff802ac1fe4921aaaa7c73b8a9e9699dbgJ4Y3Yx9WHdGH43Ug4KD7vKNa+UYhC1ZjWmmPdYMrfQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656155242_logo%20PKN-.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 26,
+    "kode_dapil": "520001"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/485033/pas_foto/1696216047_f262670b-db7e-483a-940a-a9730650d332.jpeg",
+    "nama": "PASRAH SETIAWATI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA MATARAM",
+    "profile": {
+      "id_calon_dpr": "921a886f6467516c832715c20dfadd9523c3cf66ed630db3c78c64fbcbf65739b3ee5849458db3d9f3fbdab805863d64b3566d81fa66874253cdf71a267a5119vzH+QAfjse9LlgdMq2RI7GfEFSezYu19jiD2oot95HQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656155242_logo%20PKN-.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 26,
+    "kode_dapil": "520001"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/430971/pas_foto/1688458396_d60a4377-f50a-4159-af11-b452d2728f44.jpeg",
+    "nama": "MUHSIN JUFRI, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LOMBOK BARAT",
+    "profile": {
+      "id_calon_dpr": "5eb92e9613c0ea639eeb028cb60a5e0fca665869c299601064f461a55b1424cccb7551ba1528c0b4e4b27fc6b3b752c40ac5a3f0539e5010ab2eb0885c107892yMb44TeaEE0wcysHK4E4BV6jDGgvJ4C33KrzOGszW4g=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656155242_logo%20PKN-.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 26,
+    "kode_dapil": "520001"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/131409/pas_foto/1683730276_5a41eee9-3e61-4b8e-b339-890bc007a71c.jpeg",
+    "nama": "Ir. H. MUKMIN, M.M.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA MATARAM",
+    "profile": {
+      "id_calon_dpr": "fb327cb7c78d8fa018ac4c73960d9adc6c051b97c15eb4bec0e247743b39a81de94e135d09eeb39a96761647a6e1f588b1665ecfbeb0200b1715d35cbdb330f5ZEuxwr3xFQF+bM7r+YCwp3rqVoiUxeBmz0rR21NnKTA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656155242_logo%20PKN-.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 26,
+    "kode_dapil": "520001"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/7057/pas_foto/1683523926_46835f0c-ec51-4180-91d3-83f1ef2b234a.jpeg",
+    "nama": "LALU AMRULLAH, S.T.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA MATARAM",
+    "profile": {},
+    "id_partai": 5,
+    "kode_dapil": "520001"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/451919/pas_foto/1688796892_688ce557-e7e9-4ee4-96a1-9a3565467a4d.jpeg",
+    "nama": "H. ABDURROSYID RAZAK",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA MATARAM",
+    "profile": {},
+    "id_partai": 5,
+    "kode_dapil": "520001"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/46727/pas_foto/1687782436_98c1f9cc-aefa-44dd-aff9-1997b9cb2cc9.jpeg",
+    "nama": "EMY ARYANI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA MATARAM",
+    "profile": {},
+    "id_partai": 5,
+    "kode_dapil": "520001"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/451419/pas_foto/1688793200_2841f212-09ef-4601-9b19-6f271c738dd6.jpeg",
+    "nama": "LENI MARLIANA, S.H.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA MATARAM",
+    "profile": {},
+    "id_partai": 5,
+    "kode_dapil": "520001"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/7932/pas_foto/1687776650_2043b704-2fca-438f-92b8-3c904d6fa1bb.jpeg",
+    "nama": "MOH IMAM MARTAUFAN, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA MATARAM",
+    "profile": {},
+    "id_partai": 5,
+    "kode_dapil": "520001"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/9909/pas_foto/1683608096_a308b51e-c858-4848-98a7-282f7461bd28.jpeg",
+    "nama": "YEYEN SEPRIAN RACHMAT, M.Si.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA MATARAM",
+    "profile": {
+      "id_calon_dpr": "924ea91296f89378abd9686ffec250a09d939e87e0146a66585892c72954b7621d05ade34532661ad66f86fd41480de43172ebbc1d63856563dee06234275eb4aMFq/27flXMjiPNpBFWCbm1/UV+OigMGiFleYxSywws=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "520001"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/177306/pas_foto/1683778949_4f68faba-36d2-4de7-88f9-1daf93e8141e.jpeg",
+    "nama": "SAHRAM",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA MATARAM",
+    "profile": {
+      "id_calon_dpr": "6be04bfc8a20d00f2ef4698db1f723c85f9e77e55b1e4265c60fb77ee93dc864268c4db88c59b0f8a818214c42ed41c5f710b483c8d170ea1e18c9b31319b265MeJ6t1d0itAIOVG4OtSK1u+0BwxkV6dZJAxTKF4cbUY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "520001"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/472053/pas_foto/1691643876_54f23c0c-88c1-4480-ac63-242251eac7cc.jpeg",
+    "nama": "ROHANIAH HERMAWATI, S.P.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA MATARAM",
+    "profile": {
+      "id_calon_dpr": "121e5773cd11c215157e7f96b4a16927c0f1e2fa3e3764f45f2735c2800d719432af1b108d9c3a722677a1b069f617532380bdee5bcd8e80e4f666e9487398ba2WBsqi2uqx3Xx9AdifkObJyxLnqE0pUoapE47HqlfXg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "520001"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/144079/pas_foto/1683805054_d9cf095a-bad2-4da0-ab44-f46c22a35bd0.jpeg",
+    "nama": "WINDA NUR AFNI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA MATARAM",
+    "profile": {
+      "id_calon_dpr": "b001e30f246fd1ecb2ff044f336e2b6f5e223e8b5aeb12a33118d21d003ec929d21a314cb06fdeacd1bf4381e6edf97ecea7e857cb356eb1bdc8336e7ccae3dep/Av91fuHS0OEw1b4RHrOR6LN9wr377AvAOk1N2P4w8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "520001"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/433882/pas_foto/1688537347_82580bbe-4ef2-4e72-9828-61a9cd4dcc3b.jpeg",
+    "nama": "IHLASUL AMAL",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA MATARAM",
+    "profile": {
+      "id_calon_dpr": "916e7e15d846cedd22ef8d5a0143417cf7c5ccd335129f3e1538e230bd56c504d231840c95a0b67f54038b239675b8c9a82f2b4f6d18349ea8860fff7d6c809fZEUstnhdXOQkFKeOnVK76qBZ7bapuGfDRYDbCsoh+YQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "520001"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/287438/pas_foto/1688651797_e42c1dd7-e15b-4a8c-848d-236cae8b4786.jpeg",
+    "nama": "LINDA SUSANTI, S.E., M.Ak.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA ADM. JAKARTA BARAT",
+    "profile": {
+      "id_calon_dpr": "5e8e2b3575ca371f23444c80a5785bb4d5c0367b37a9b207395d63eaf2f8e16770e633806451a1d2a56736f083feff1d806b185943907f7f5ba493ac37d456bdroZtAYXRHNB533jMmBOZx7MFMHtX7dNGPeL2+XqKuLI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659262742_LOGO%20PBB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 74,
+    "kode_dapil": "520001"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/9531/pas_foto/5208047112930119.jpg",
+    "nama": "D. PENTIANING",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA MATARAM",
+    "profile": {
+      "id_calon_dpr": "d3633612aba5dd359b8fbde05fdc8f0fa67776827394c1006579a2090bd87e296e326dcb125b43d1b41bd58c44b8c1f2b1dbc50adccce1bffa8eb03ac4be250dn71iH038dhPrdQzw3c7CKHwq1pDNRAFD0t+kSIoWBVw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659262742_LOGO%20PBB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 74,
+    "kode_dapil": "520001"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/482570/pas_foto/1695958045_03c6d63c-a64f-40dd-a6de-8b1757241d50.jpeg",
+    "nama": "THORIQ ZAYADIY",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LOMBOK TIMUR",
+    "profile": {
+      "id_calon_dpr": "99233bc700dae750c90d2e5195b0c1606d04e479834c1789b0673b805854e5ec05ddcd09a23da5eacc100ff249091fcfe5a3f529210db1832b48fa3dd3887f02dpSLPO9FemjZJ6YS9iTs+cEkVWZHQhqwHeGRg3ZMD8U=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659262742_LOGO%20PBB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 74,
+    "kode_dapil": "520001"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/101827/pas_foto/5202050208760001.jpg",
+    "nama": "JUAINI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LOMBOK TENGAH",
+    "profile": {
+      "id_calon_dpr": "e5ac7254408f19c9b575f660e079c60c1186d5b536757ff21f005cd2d2a88c334f06a926d4164c666a617148152b837c868bbb0948a70cae0e3ddc497b105db7XFKtx2Evyiw1GEP4+ymyn7FRaoKcI0KIssK4gmOR9lM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "520001"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/344021/pas_foto/1688622152_29dc0995-721b-4c73-991c-21cdda39038b.jpeg",
+    "nama": "LALU BAYU WINDIA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LOMBOK BARAT",
+    "profile": {
+      "id_calon_dpr": "0cbb476261ed2c038b8919054d780e9955eed75800b6b21d49c54434581d0da686047baa39b5d1a49c0c93264c298507e76af64c2343ab86817a32669e8a7fb46SGf60dICNRoBvhMTnP+1qy4zTCLi/SgZrr8bfX/mgo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "520001"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/344022/pas_foto/1688622335_a963da27-0dda-4165-a85a-32efdb5b2326.jpeg",
+    "nama": "HERSYA MARTA SAPUTRI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "SUMBAWA",
+    "profile": {
+      "id_calon_dpr": "564bb65ae0af6a197ffea743b80e83ef3cc7ec4241978fb4a0772db6ee251b682796c27fac5bb5ff256c0b8b161cb6d29791f91eee5f70fc0b3af99f4b4bbf12aKUwgiZWC8XSMvCbQS1DW1I+sPtZpS+qaesX4b9m3Xs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "520001"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/458575/pas_foto/1688848159_5f7e2e59-c875-467e-9a58-f1fa68d4d076.jpeg",
+    "nama": "Hj. GUSTINI WIDIJANINGSIH, S.H., M.H.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA MATARAM",
+    "profile": {
+      "id_calon_dpr": "28e943421f74d945cbef02c7b5578d1fc5ca5be92319d2506e344510a3d16efada5cef66dcc836ace32909f978545a34421a418312437dd854228345a72e1c430LO33z3oCLlp+YLCUiWcfUHnytnDITc+7lFFH4MmQXM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "520001"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/103283/pas_foto/5271050607740005.jpg",
+    "nama": "SUHAYATMAN, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA MATARAM",
+    "profile": {
+      "id_calon_dpr": "a93116191e407e8d91c3ba995c0391f9b3e640fb1200fa2eeea1dbf7c4fdcf03e799d95316573f2a8b906489364fec82bb3129e1bf3d239b2dfd2de5b6ec8c57GhglbZZsLQRb46qqGOf/DCGZe0TkMex89O3MmrqAEjI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "520001"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/118058/pas_foto/1688876684_351217ac-e719-4e4d-94e3-aa210e2307a8.jpeg",
+    "nama": "NURROCHMAN HARTADI DASRIEN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "LOMBOK BARAT",
+    "profile": {},
+    "id_partai": 76,
+    "kode_dapil": "520001"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/479154/pas_foto/1695622229_ad88a770-1dad-46da-b076-7f520c891c0c.jpeg",
+    "nama": "dr. I GUSTI LANANG RONI SUPATRA, M.A.R.S.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA MATARAM",
+    "profile": {},
+    "id_partai": 18,
+    "kode_dapil": "520001"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/487299/pas_foto/1696307943_153b8563-9d63-40cb-b5b1-ce61c95b6766.jpeg",
+    "nama": "ERISTIANA, S.E.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA MATARAM",
+    "profile": {},
+    "id_partai": 18,
+    "kode_dapil": "520001"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/189363/pas_foto/1683797446_daa7b5c8-55eb-475a-8c9e-dc74d1f7d36f.jpeg",
+    "nama": "Dra. NI MADE KEMBAR SAILANTINI, M.Pd.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA MATARAM",
+    "profile": {},
+    "id_partai": 18,
+    "kode_dapil": "520001"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/189099/pas_foto/1683821374_90a133ab-4726-42ac-a0fd-e947ab28aef3.jpeg",
+    "nama": "LALU SOFIYAR PUTRANGGA M, S.I.P.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA MATARAM",
+    "profile": {},
+    "id_partai": 18,
+    "kode_dapil": "520001"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/3096/pas_foto/1682761441_9810b7ac-0506-4361-a591-24e5dfa687e4.jpeg",
+    "nama": "Drs. H. MUZIHIR",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA MATARAM",
+    "profile": {
+      "id_calon_dpr": "929c9c40a85d4411543e752ddf475b5b2715ee42f0a4de6a36edb6ea7fb221eee33162e019b13cc1c1b8dbad00de4949978a8ec2bab3f92a5fa0fe783358ea89kx/CcvW0ocVwldL3MPdwZ/2HAnRiA74USFJRC1tnQhE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "520001"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/50744/pas_foto/1688524590_e79aa285-24ce-41ed-86ea-2a205349abd6.jpeg",
+    "nama": "H. KURDI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA MATARAM",
+    "profile": {
+      "id_calon_dpr": "dfab98b6a5ec87da4c2d4592e27f96ceeed3a7818f81df13ec74c18cf68b181fa70150347b6ac06257a98a360b25d934243945316383b7e6a017fa3845198c14XH6I7/FKEpaXvz8boGWzB7vN63qETVj3KeyrEOHe/Hk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "520001"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/4200/pas_foto/1682780889_267320eb-5873-4bef-97e6-5b3d8c732965.jpeg",
+    "nama": "Dra. Hj. SUHARTINI, M.Pd.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA MATARAM",
+    "profile": {
+      "id_calon_dpr": "f571ee609e67968d78a4842d24fb88efefac6a06228bf308c5c517221b7b1f9b138b81a97dc0aa5710347aad5eb61b09629d1911f85cd1a935fc97ac01b5455b6BJMcRL6rfF+9laB8k6h6OLqcN8cT3OU4mWC+pqV1+o=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "520001"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/50250/pas_foto/1683247778_2619a435-44a4-4ee3-bcbc-71e507f36f57.jpeg",
+    "nama": "PUTRI RAMDANI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "LOMBOK BARAT",
+    "profile": {
+      "id_calon_dpr": "66b89570badaa95ff95b41db57e21a753fc938c55b5c4a97194681a3f3562a45d3d17367478d1c7a15318454d974d8b59f26d29988033560cc02119139baf421niBMOX9wopV2r7GE8a4XwScFTSK89L6eXpbfyykuJVg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "520001"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/265819/pas_foto/1683789575_b5919c91-bbd0-463c-8f71-1bc4d2482abe.jpeg",
+    "nama": "MADIONO, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA MATARAM",
+    "profile": {
+      "id_calon_dpr": "86f563ed550c1463461e843744d19e51802b7c35d7fa61029f54b81ed7ee9fa31382646740339bdb6c734f3f6adf646f25ecaa5555affbc65e69eabe614e858fKeh+NmO8CMCzEYWS7kS5xZSlXrl6sAXXatSKg9HWcuE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "520001"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/57325/pas_foto/1688187135_e7a4489d-4e3b-49f2-9d46-853c250601ca.jpeg",
+    "nama": "NUR IDA JURAIDAH, S.Psi.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA MATARAM",
+    "profile": {},
+    "id_partai": 78,
+    "kode_dapil": "520001"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/210066/pas_foto/1688324877_43b811b4-cc07-4cef-9361-76698629bc7d.jpeg",
+    "nama": "I DEWA GDE AGUNG OKA MAHENDRA, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA MATARAM",
+    "profile": {},
+    "id_partai": 78,
+    "kode_dapil": "520001"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/455750/pas_foto/1688822584_0254c0f5-0685-4e03-ae63-5d49d28ace91.jpeg",
+    "nama": "INDRIA EKA PUTRI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA MATARAM",
+    "profile": {},
+    "id_partai": 78,
+    "kode_dapil": "520001"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/436567/pas_foto/1688579420_e082f2c8-9bee-4f69-a228-4d628b69097c.jpeg",
+    "nama": "CHAIRIL ANWAR, S.Adm.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA MATARAM",
+    "profile": {},
+    "id_partai": 78,
+    "kode_dapil": "520001"
+  }
+]

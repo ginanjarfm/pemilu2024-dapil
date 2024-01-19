@@ -1,0 +1,912 @@
+[
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/166584/pas_foto/7312042907000001.jpeg",
+    "nama": "A. RAHMANSYAH",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SOPPENG",
+    "profile": {
+      "id_calon_dpr": "28b528f9c7383a44224f86363e833310a4f1172116b76c5ba85f1cca148d4a798789c9af00344df27d988bc7a733f206bc418ea0d9952ecb116a630b78bb9ef0O1fchthK44hr/8/X7yT8PX1jQPdEoMoYgq5TR8TxC24=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "731202"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/166584/pas_foto/7312041003000001.jpeg",
+    "nama": "MUH. IDIL ADHA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SOPPENG",
+    "profile": {
+      "id_calon_dpr": "a4e93d8f50020e1d4328abba3f37ea7315c357f0948eae3388f92e4108a14e1b6c44b346ff3cb5d6dfb0de63ea6c7bec4461ededa442245b38a214e0ec29c7633+lH4+FiQ7im/g+0q2xoAwZr5er3TIrBzc2PBtrdhRQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "731202"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/166584/pas_foto/7312045212810001.jpeg",
+    "nama": "MEGAWATI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "SOPPENG",
+    "profile": {
+      "id_calon_dpr": "9b180bf0d05e9ed35e01293b7e2420a6d12dc89e28123b21cefee6a776b1fd9da1dac044b0fc82eacf3ba2e15deaf45abe5afb3fb3c4df7ada5a97d13d997201drEiTB0biw9XfxZqTCFUoC5coijPZ/z2C4tm/hrAVRM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "731202"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/166584/pas_foto/7312040611010001.jpeg",
+    "nama": "ASHAR",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SOPPENG",
+    "profile": {
+      "id_calon_dpr": "80305a081cf2ff219f338772810d7d03a022ccb3ede7115b84a8b5c7eaecd088b645c7729c120279b54926f06d9161151e6ccc6f95e4946b4b10d686f94fcb2fD2SehpcqL1iAyPc9n66K5aLm3f81pHmiBOkl5ZC8Ajs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "731202"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/166584/pas_foto/7311065708920001.jpeg",
+    "nama": "SRIHARDYANTI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "BARRU",
+    "profile": {
+      "id_calon_dpr": "3f3287a80abf8453303a40774cf9ae6938a5629928e4095545e1f23e08bb9a39a00ab43b74b96bccbe4ef9116d5c433dc990568eecb1b2ad2a9bb6e42169a4c4EptuBGzYXBl5A+FVM0ZecOS/bY7qIQDPPChEsFdNlGk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "731202"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/166584/pas_foto/7371014504800004.jpeg",
+    "nama": "AISYAH AR",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA MAKASSAR",
+    "profile": {
+      "id_calon_dpr": "d4552913e5afbc1d034474ceb465cadc4d29c3c9856dddd18a991e40b2f903d5f3075c751572368c1e49be8239d31b01a234e384a99b2d310f50f3aa58615e0eIRL6fv5HcG66Nj+x2SWXZjTQjasYrSHmZfcylA24tkg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "731202"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/166584/pas_foto/7371131310940003.jpeg",
+    "nama": "AHMAD KAWAKIBY",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA MAKASSAR",
+    "profile": {
+      "id_calon_dpr": "951bc76f29a1348be19d46897bf26d422ac28b98f819114d7ca47801665bc7797c05a15456050e67b378efcaa89c1e5b19d50649293603b1d635343d6b326d86ESyZHFQyZW8Cck5TEOrrl/6L+CNjD0jkGi65+zZi6aY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "731202"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/328499/pas_foto/1688353604_5406942b-bc7e-479e-b7b5-f258ef206475.jpeg",
+    "nama": "RASYIDI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SOPPENG",
+    "profile": {
+      "id_calon_dpr": "54a6017203d5f3c2dc153839857c7cfcc51f9067fd9f17af8d1f4e5f24a1e3238b681f8bd4174ba7fbdc9168fb9b41dcc1289d6db47540924686e5c9058104b2V1FEkOsRDISUinMSY2YsI3vdFa+VXPqw9ZHO/hlQv4o=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "731202"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/278859/pas_foto/1683881419_60afcada-51fd-4a8f-91e4-4c7227194db4.jpeg",
+    "nama": "ANDI MUHTAD BILLA, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SOPPENG",
+    "profile": {
+      "id_calon_dpr": "c793904008d3a6a44e53a1d6efedf3a62fe82901eab5e46fa524d0d85b27e4ee54e3a0b83291fdc99affde83ff3312e7ac113dcb6fe4ef6b79840f3381cba81a6Z93jjuAsL9pWdR3W1wPrGHJ6n4K7iA/6tQ7xBP8JRo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "731202"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/356989/pas_foto/1688353475_aa07a0d3-3446-4592-b852-5cd848c061d7.jpeg",
+    "nama": "Hj. NURDIANA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "SOPPENG",
+    "profile": {
+      "id_calon_dpr": "369514e386a8972847450b78ca56dcde5a5199b669008d9b2f96b9beb6cab45caf47c47faf087ec66c10a21325656c6a76784b511d8bf80d5f863a36740cf65fjPYM+30Xi/+r0tQfWuTnJXnTdSFBAPiFbc7zTwVejkw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "731202"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/278126/pas_foto/1688450450_66f71c03-1c7c-4fb5-820f-bb31fd7564c0.jpeg",
+    "nama": "LA TANSI, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SINJAI",
+    "profile": {
+      "id_calon_dpr": "4099c57f8eb34bbfb830bca925c0d6ad321207d63075d15d7bdf3c6e8b3eaaf67aab0e8472f3108ede6545bb428f712fff14cfe809e33100fb5fe0dc3cb114400PX9oMzlGq0V3lQWnyeNoxZvAXMU2gfv+e4COUadJ3k=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "731202"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/479265/pas_foto/1695620846_dce1088b-4ec6-4651-8c01-13c623a1285b.jpeg",
+    "nama": "HAMDANI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SOPPENG",
+    "profile": {
+      "id_calon_dpr": "e64ed98693f24808df479b4991f904467444994c272184dff8b3430890fc7073d8cbbbf0b712e2d139e454975708f71b9e58b62f2ebf7afc5d545497a8280a42HEdPmx56oMvwOmqgS5imLXQXki09trXLcJbC193UYyQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "731202"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/437964/pas_foto/1688800873_b4ffda49-e395-4bfb-92c4-a9ec979d78c6.jpeg",
+    "nama": "RISMA KUSUMA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "SOPPENG",
+    "profile": {
+      "id_calon_dpr": "6384c993dade51dc178c9a11405587c1de6c955f7bf180efb853830b3fa411d4f49e0bd8896e29d62752447366452a135b7aea944852651cecbe499c94090452zKtmCKddVq7j3yz2lmVanQgodSk8l0NQnbHpuQVSynk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "731202"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/278423/pas_foto/1683981983_d77584b1-4b48-49bc-9ee5-519c7116437e.jpeg",
+    "nama": "RUDIHARTONO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SOPPENG",
+    "profile": {
+      "id_calon_dpr": "722d48a7b86b997ecf8cef1d639d307d01e7a84f2098dd3942b085c17c6a5dd9dee86a5d7fa054c8ad3c135b0e322aaa770c68eb4cd8b47e342865a57125ebce5JzB9YfITfh7W2IltQeP+c0CMmtz+Llp/lzEybcGev4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1657710596_Logo%20GERINDRA%2010x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 10,
+    "kode_dapil": "731202"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/218508/pas_foto/1683720671_38048919-67a6-46c8-bd60-c382bcca3bdf.jpeg",
+    "nama": "Hj. A. BESSE MEGAWATI, S.E.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "SOPPENG",
+    "profile": {
+      "id_calon_dpr": "6e3c34189c05cae0cc2589115cc7c14ade91e7f7bcb6185137fd210969a0e7d9994332dcc10ecb25aebd72ae3bd67bbf309ad958feff8c051d76d0f6e57a9d9fCaIuQCgDTW8k5G5KmS/lAOee5LZWYXEd8jLEAUo9ERg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "731202"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/218509/pas_foto/1683720743_3738eac6-361e-4718-ad8a-0bec6dad07ef.jpeg",
+    "nama": "H. NASFIDING",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SOPPENG",
+    "profile": {
+      "id_calon_dpr": "9b4d00bd33a6534688ee0f348474a6a46f5f308453d493c720b6cd44e18aa33c9fc2df61619c1dde7f32cd91b827fd2d6d86cf50a60e83885d908820e0ef2878yzH7tVhghGVc7JoQV79SHV39448s6iMZz8abEaEzbZM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "731202"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/218510/pas_foto/1683720804_1744a193-d268-43f3-90bd-1710bdd83b16.jpeg",
+    "nama": "MUHAMMAD JUFRI, S.Pd.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SOPPENG",
+    "profile": {
+      "id_calon_dpr": "4ae7de82862916fffea3972213e213d8ae7adbcc47f4ee8deaa4c6c04cc176fdb79ba64f4717eab9bb2010c10244670bc9e7014d3522b6bede1db94580abdbe3Fsb8GH2/cmHFjKnCzGPSxwxLYzJZLb0ef+E5mt0J/kc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "731202"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/218511/pas_foto/1683720848_73b5cac0-874e-4aa1-9fb3-c591592ec20e.jpeg",
+    "nama": "SAINAL NUR",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SOPPENG",
+    "profile": {
+      "id_calon_dpr": "1a3fe61a8e2715180a053462983c3f37ba14c9a190da489c352c3e846283a479107cb8db0d4f5f4cc12f6a13911791dbf7e1210d0258ea0468ff065b2b1b6793fZW+Q1H5dfvpUyNpRsaZG+oEp8yuHiSBdGQLUfMhsLk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "731202"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/218512/pas_foto/1683720903_9e69cc00-e7aa-4e67-9a96-4c322ee7c5f1.jpeg",
+    "nama": "RISMA WIDYASTUTI, S.Pd., M.Pd.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "SOPPENG",
+    "profile": {
+      "id_calon_dpr": "562b35d41d6d19b7f5e444978dd31f38cd89a4a18c21bc5441323b18fe21d4d6427f412c6cfcec748606216f8efc3472b9629827cf458728ed56a2dcdcb0c272tc0gJNS/Mmisz9byPAb9KbNLy7SydmQv/aqTfcVpsf0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "731202"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/218513/pas_foto/1683720957_567fe710-d788-43a6-975f-d914f6aef496.jpeg",
+    "nama": "AMAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SOPPENG",
+    "profile": {
+      "id_calon_dpr": "f76fa65373c3d10c7f40b67fbf1824f744cac04cee208b27b5f97bbd704906f39ae0a1bcc1f4b24929d7852bc13ae51a22c3137f9c0e6f7f91218b382a35eda7UIa5SzPpbzSkSr0NT5CAgmWo8mDidPWRpjxABiaLrsU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "731202"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/218514/pas_foto/1683721019_36addefe-3769-4c13-9efd-c6d89557a86a.jpeg",
+    "nama": "SUMARNI, S.E.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "SOPPENG",
+    "profile": {
+      "id_calon_dpr": "5d782f7c1116e09eebcc65d4687870dedc0e3284bef17b55ed04b1e34350ffa2d453de1727919a5111c92caec974359bd00c6373c763daae5adb4a8b7b60ee59sg6oAvbF63E6fqLkpjXsyPAnZdBTn5kE0HpELq0de+I=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 12,
+    "kode_dapil": "731202"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/124578/pas_foto/1683453799_47f1374a-df74-4df8-a41f-9c6766c56dc4.jpeg",
+    "nama": "SUMARNI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "SOPPENG",
+    "profile": {
+      "id_calon_dpr": "b0e44baef148438062fdd313321e464660076fb3863018f53a7ef3192cbe3183396de4c6b380c64a113c6910d4a07d4f546e48017d5a207a7ff7f8d985ea315cnMx4Gm8oOIV6m7/GwsDom6HABSuFlB7drIGIE41+sTM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "731202"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/121611/pas_foto/1683451166_e5b354d3-e3e7-440f-9fe9-fb7680fc4314.jpeg",
+    "nama": "H. ANDI WADENG, S.E., M.M.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SOPPENG",
+    "profile": {
+      "id_calon_dpr": "48a3fcce318911cd6206240ec78fabc8c4b68ff5155deddaf17d3b4dbc60211a95ab5df8ad7248a47be5a61da183326238e630a6adf3dd2e15b2032831ad571etIAsmqeo+Alxf50VfpK5ZNORi935bpNXr+iMLwnHMN8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "731202"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/122893/pas_foto/1683451788_720de3ef-e9f0-4b55-8826-fb7368752a8a.jpeg",
+    "nama": "Hj. INSANA, S.Pd.SD.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "SOPPENG",
+    "profile": {
+      "id_calon_dpr": "f91b7cc6dc0f1fbc94d423a8cf5f6ce3a2d8cda1be4b5dc68c1292bfecb39ffe1ac95d907cc4d4afcac021b378a7b1971fca2cba4ff537e9eb3e2927fccb56a80rKRJ2YmOL0oZ4BaudpJqq1NokcuYlrizTy/vHDOApE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "731202"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/124406/pas_foto/1683453417_39511128-67c6-4391-8b92-e99b867b0096.jpeg",
+    "nama": "MUHAMMAD RIDWAN, S.Sos.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SOPPENG",
+    "profile": {
+      "id_calon_dpr": "9d01b3031380ff53f3f899f41059643b5e7111e099b614355f602e0930f1f50e1bcf378f83170d092b96b31668213000157e3286fec6107b8866257f3708c079EAdAWXk9ISU/6PKzo9seE34MNRFkBqcvRKztci2qifo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "731202"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/488576/pas_foto/1697716940_deedd8dc-e733-465f-a5b0-95b9249e94df.jpeg",
+    "nama": "ANDI AFANDI, S.A.P.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SOPPENG",
+    "profile": {
+      "id_calon_dpr": "8a59cfb673ac6e950f838c77ecb52037e03adc6ae65d8bfa3675ed8b326011336da84081affd4e7baba1411ca1e46e100c2f764104d4620166d7e6274c7e217fj2ck9ODGVQrZ4KOOO54XY781w+YFexdAWduBC9wmEs4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "731202"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/115320/pas_foto/1683456909_9c1eea0f-ffaa-4903-8c1e-af71d2455ea6.jpeg",
+    "nama": "NURHUDA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "SOPPENG",
+    "profile": {
+      "id_calon_dpr": "a31f8f2716bdd285d6fc5fdd4f0c2db6e2026107b10abdfe0b49d88023923fbc6d7ee3a82c1504155d0be5b8be5dbd765906e72f6be3bcd478a5620503f56e3dpx+Hm2s0hn53wNOWIBVtfG9DEUNMu51SZd4gmk46mUY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "731202"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/124320/pas_foto/1683607947_fd63652c-d0df-4437-a23b-1f2483ad8b8a.jpeg",
+    "nama": "MANSYUR PADU",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SOPPENG",
+    "profile": {
+      "id_calon_dpr": "0fb9a01f0cd605898c556d2ffb382fc6d0a7566df29e5e7a479449ff6e0ae8bcfd9ac73901b4e3259f81d5c46805bf4a3836f77c3d4406a30c4fc92ce4b45fc7/kNG+y7rXekRehOExS/mKSHoDjjMAbSfOKzdweBzWbo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "731202"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/5525/pas_foto/1683001417_083b8495-6e2d-4831-9e3c-276d252253e1.jpeg",
+    "nama": "H. RISWAN, S.Sos.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SOPPENG",
+    "profile": {
+      "id_calon_dpr": "ccc459f4cedd300a71d53a7232f2709dfdb9fa50d014c0ac6e5cfacc554251250eddcc494ab09e7bf7ff3adcad1917475b71f1ba371792ada59f6ade611324d49Th/m6cA/sNC4CHJg1fkYLkSwKyAU3V7HOdffw6DjgQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "731202"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/8625/pas_foto/1683001632_69eed90a-dac2-43fc-9ff7-72e6ebac058d.jpeg",
+    "nama": "SAHRIANA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "SOPPENG",
+    "profile": {
+      "id_calon_dpr": "7c4fe7caf7c60bbbdebd29e17937adfdf94e8c332f611033dc8c8b3633f8d7c1b82b388fa8f2a7a76ebd3c23a82352109ac06148ce6037db1f39709cad60a38907a4G24fmzw6QWffDXwMa0/8f+k8K4faD/xwk2YJgZ8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "731202"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/86657/pas_foto/1683457192_d7d34313-4b63-466a-919d-3b6448f17f0c.jpeg",
+    "nama": "A. TASLIM",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SOPPENG",
+    "profile": {
+      "id_calon_dpr": "a29296e58f4dc0bfe68a2bb185f2a112bf61e23216bc72e299cb05ec3fa35da067b87b324db5dc0cc229837db7e69a8b39c26bbb866c0b855a7be04081876f75HpoeI9ZwxS2e3v/QnadoPZBe4Cg+P6K15qKo0NPev80=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "731202"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/16748/pas_foto/1683003422_b90ef36b-1c3a-44b3-859f-23df2ac32d08.jpeg",
+    "nama": "ANDI HERIAH",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "SOPPENG",
+    "profile": {
+      "id_calon_dpr": "3fe343a0a5405246b480ac581f78872df59721c5ca709c7f1f4a9d14a04e3da83cb2cbf2db7f7b0c118ad8a773bb7bd422401bbd01c85f4c91bc92e51c530459tOcxrwxE4X+5auG+XQz5FeGZiWkGT5DMa5XZtwDhuk4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "731202"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/428658/pas_foto/1688377427_7d7d239a-bd86-4b44-968f-4462ddcc1f3b.jpeg",
+    "nama": "NURDIN, S.Pd.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SOPPENG",
+    "profile": {
+      "id_calon_dpr": "ecbc8726fbae4a2415b85146960c0fc8eb5e793d5b984fa5418978fd44622e92e9b45fd444f073dfd78488a0f1e242705621021fefc2f260c72465ddf8207b22wr+DFH3G3zQoO5KrKjfQ1LEOgSsy0g8YW1QkFZcQzVY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "731202"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/136196/pas_foto/1683475035_ff67c64f-931c-4133-b364-aecdd7a37560.jpeg",
+    "nama": "SUKMAWATI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "SOPPENG",
+    "profile": {
+      "id_calon_dpr": "015e5549c0cfd809b384172465c7c84b390638ab774174fb4b5a919a96a390b493953686a2501cfd0edd2822a2bd4ef1dc605a948a446fadd1e1796d4719fa05u2nSgxOMxG0XPkU/xMw7hCRXrRoibH5IqXKSE0OSQwo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "731202"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/5299/pas_foto/1683001704_176b366c-9164-456b-b096-99b9b00f429c.jpeg",
+    "nama": "MUHAMMAD TAUFAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SOPPENG",
+    "profile": {
+      "id_calon_dpr": "321596247a32bdbe1aa0b62f0afb237c3a49b759656fc33fffa39ca267e062a84206ecf6e09122a9720cbd0ad8f7f9138ea62d62bf5547e76be53fcb9541ff30Ht4iGd9h2nLCepz7wb4EZw+s844+h5dBdBMdY7p4x6Y=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "731202"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/359752/pas_foto/1688615186_da0b2bc4-3b24-4912-864f-33ce4a8a15f0.jpeg",
+    "nama": "MUH. ANAS",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SOPPENG",
+    "profile": {
+      "id_calon_dpr": "4dccd8aa3ea9846a86483129947f72511068d130df56634e77b49bbd92114b6cbbe9a136ab2f4070937459f124010121db2d82cab52c8747abaf39a0752c84afRaGK2TlXL+GQeqyLkLdwUfKR23+Z2fE6Xbv4PKIUGsY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659959325_LOGO%20RESMI%20PB.png",
+      "pilihan_publikasi": "datadiri,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 41,
+    "kode_dapil": "731202"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/404666/pas_foto/1684073578_e15cb701-c392-40aa-98bf-5751d8369b67.jpeg",
+    "nama": "NUR ILHAM AKBAR, S.Pt., M.P.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SOPPENG",
+    "profile": {
+      "id_calon_dpr": "48578b1f2779c8403d748e1e43f7e757d5110364b7e527b2a94c8937b13a1daaf8bd19852841d7b36bcf5a634748001fa8085782b39ccf1bb3e461b2f7276b51Rysk/h1iTWjvJdzCQddKojQXeZZLiyvGlzXbhr2EzVk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pendidikan,riwayatpekerjaan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 77,
+    "kode_dapil": "731202"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/404667/pas_foto/1684077563_325cd060-dcad-4f5d-b2ea-72b613002236.jpeg",
+    "nama": "YULIA KURNIAWATI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "SOPPENG",
+    "profile": {
+      "id_calon_dpr": "6f14bcb52ea802400f35873086b2f21b11cdb5454d0da9ccc252dcb6f41be133b913e247869bf1b576e2b0b9496b40f488c22f2ca8bb685234bcdc70c75e6d68KO7t7JozCCRTD4CAhggqPUvRqCPJRmGqG+gtDEZvSlo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 77,
+    "kode_dapil": "731202"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/404668/pas_foto/1684074759_a7410297-7866-418a-a1f7-3b8d84651311.jpeg",
+    "nama": "MUH. HERWIN T., S.Pd.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SOPPENG",
+    "profile": {
+      "id_calon_dpr": "97f7de010e9accd8f4d77319b44b987e75de810c595d2fc6a6eb539ec902e602f74fb8c336ee21bbb478d239b848f2589ab1aad2336327c33b9089cb36e2fa89ie/t6aAuP3IIBqiVAUQ6fqw0omsgGPJwzdvRHBDlB3c=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pendidikan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 77,
+    "kode_dapil": "731202"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/404665/pas_foto/1684076457_4538fdbd-52b7-45bf-b824-ab46e2b4bb93.jpeg",
+    "nama": "SITTI NURLAILA, S.Pd.I.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "SOPPENG",
+    "profile": {
+      "id_calon_dpr": "b828170071451736139dd69c7e4941167073422b9be74993bd09e5a72c76f9355231cde92f95575c439ef39a59076379f8a770fc513f0cf1c120b388165d5a230+Bf0eNbeZRku4KIBSVYKrcv/bCZktQyZL5eFMSv8Xg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum,pendidikan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 77,
+    "kode_dapil": "731202"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/94174/pas_foto/1691405998_b71d9f45-3254-474d-84db-89f2e2e368fe.jpeg",
+    "nama": "RAHMAN YUSRAH, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA PAREPARE",
+    "profile": {
+      "id_calon_dpr": "ed868a4d5c87208107daa78d9be3c4c4bd57a5a8b4b0b545f9d1f90f0c237dcb0d5f79e63210e3a6122d2b2b98bb5745e9d384e8d918834814396efb6d4c1b43m2S8pNalTl7ZDDpPwqUBCbvv/h8uO3Ul1zoLMdG6Bi0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "pilihan_publikasi": "datadiri,alamat,hukum,pendidikan",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 6,
+    "kode_dapil": "731202"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/94289/pas_foto/1683440483_646be75e-685b-4ef5-a07a-c982f1c1694e.jpeg",
+    "nama": "SUSIANTO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA MAKASSAR",
+    "profile": {
+      "id_calon_dpr": "44019b584f12244dd2dfa3edbfb346bd48a6bf057e5c54615b53f282fcf23c6723279b1c8df451c0888b1dc7a867c3ba801fb0222b092b02572fc49e3c598b3ddk8rSUdyylw7jzKmDGzzeZd0LQ9Ea+MKes71NeSxC98=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "pilihan_publikasi": "datadiri,alamat,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 6,
+    "kode_dapil": "731202"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/119442/pas_foto/1688096461_f5c83bd2-b2dc-4905-acc1-3f3260e0d33c.jpeg",
+    "nama": "SYAMSURIANI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "SOPPENG",
+    "profile": {
+      "id_calon_dpr": "393fb2755fedd9de86f9187c6217a9eb417c6d1db9dce791c522b6318c73a56ecd2c3ced4eecd108f7f2b7517c700516f0aeb841c5c6812c54824dd185b8e34cI7ahA6aGYErvOiyv80Ac5igmc7BviAxNYwTuONHsDBI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "pilihan_publikasi": "datadiri,alamat,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 6,
+    "kode_dapil": "731202"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/481036/pas_foto/1695776826_662562c5-b3b1-4477-bad1-cb9db16e4ee3.jpeg",
+    "nama": "JUNIAWAL, S.Pd.I.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA MAKASSAR",
+    "profile": {
+      "id_calon_dpr": "5b287111c97a4cea24667b474e593432e6aed4bc461d9e06564d7be379e63fa1e1fb6a1248f72ba279b365fd7884b40dfb5d7e4d93d4058c20331ada488e4419JT97CaamkiLvyIfUvW7e1jGhHH04w0QxvNWHAI7Nmp0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "731202"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/101319/pas_foto/1688043944_3d2fd472-f151-4fbb-ac3c-5a4febafbbae.jpeg",
+    "nama": "A. ASNAWI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA MAKASSAR",
+    "profile": {
+      "id_calon_dpr": "b555b373d22af23d5492bf35fc157c314d87f8640555619697c5eb2f63bcba8dbdfd10759386d7ab6178efeb0787ba66a424c77ca7a8404a99abedfd64f05e3aXyJeMRSb9Au56Qo3NknFg4fla++Fi1Y59nbn7cHhBiM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "pilihan_publikasi": "datadiri,alamat,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 6,
+    "kode_dapil": "731202"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/101736/pas_foto/1691406177_74b0522b-3eeb-421c-a853-8af2011e795f.jpeg",
+    "nama": "FITRIANI MALIK",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "BANTAENG",
+    "profile": {
+      "id_calon_dpr": "a8e4e66b3ea2d8f0fa503e57b788d472e3019d698b194d14144d8bce913876f03ec638847475fdf761d555e6434909afd1108bbb52a9d64ec9c332a23b32e869iI8BVo2AvZ8veO4TR6NioPG0B/CSVOgpPODsL+PBZFI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "pilihan_publikasi": "datadiri,alamat,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 6,
+    "kode_dapil": "731202"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/102200/pas_foto/1688792812_6bc64c7a-b65a-486b-a52b-0d009437420b.jpeg",
+    "nama": "SYAHIDIN AKBAR",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SOPPENG",
+    "profile": {
+      "id_calon_dpr": "694eb9e8f42e4c8c908994331d9448a57958b674bb20494ac4cddaac7f3d702af380a1a26433c918d5727c5dc7e1d2bb041b315f2b678cd16927089fcc04997cQ1DUVyiUbl+16Ls4/S8W9iRE33q2120mE0m3z5gBuZg=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "pilihan_publikasi": "datadiri,alamat,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 6,
+    "kode_dapil": "731202"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/256686/pas_foto/1683950313_0c968db4-a100-484c-9ed6-6d2380aec15b.jpeg",
+    "nama": "TAWING",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA MAKASSAR",
+    "profile": {
+      "id_calon_dpr": "1a90300f062e1f10f06bc34e63111476b9b80750836e8c3aba8e03895c70c1fe35969a7c305daa4e799a7d94f8d631b340b3003cddb2623df8966c2dbdedb2b2EeB62foOd/Qr4rBSA1yOBE4L3qwYBdbHdYIduGMz5B0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "731202"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/234759/pas_foto/1691549343_8e90f1d6-405c-4b74-9c4f-3de7d814537e.jpeg",
+    "nama": "SRI MASNIAWATI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "KOTA MAKASSAR",
+    "profile": {
+      "id_calon_dpr": "08eea818603380f7e99000e45c5166ffe438465fdd36642dc9cfa27254372f60239072e6444fd9a767306f9c7b9f154cac3512a431e261e15a0d643df7cee93aWDBbC8PHzpToNEacBmdwQ5SgeMoedbRF9+izX8fwpTs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656404797_LOGO%20PAN.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 7,
+    "kode_dapil": "731202"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/293933/pas_foto/1683962676_35e265fe-d959-4596-b0eb-c1f183f4be53.jpeg",
+    "nama": "MOHAMAD CANDRA MUHCTAR, S.Pd., M.Pd.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SOPPENG",
+    "profile": {
+      "id_calon_dpr": "30f4ab6faa05f4b53997d1f086b3d2437d6650fc6eec74a9f0fc505724fefccfb29f8e65b673d40f7998468f27aba4bb8c93ee579d1d40893c28097038095f81JZZSzCriXOWzGoXNNeFXgLSaTaVUAKEy7QYZgr54zV4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "pilihan_publikasi": "datadiri,alamat",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 13,
+    "kode_dapil": "731202"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/293934/pas_foto/1683963301_7a723638-b19f-4be2-ac3e-b81633f4828a.jpeg",
+    "nama": "MUH. RUSTANG JAFAR",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SOPPENG",
+    "profile": {
+      "id_calon_dpr": "5f39827251ccdffe0b72246d41bf21fa30d9a1dba722828333451475bbcda305f2e83eca1411775f277264225748eb3fc614a691755e6d0f21c7c8d54ba950d4+5QSYjOADHreyiEEuSvY4oCOxtiwgzhIpfFXhyt/4Yc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "pilihan_publikasi": "datadiri,alamat",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 13,
+    "kode_dapil": "731202"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/293935/pas_foto/1683963366_e9416036-c734-4715-870b-57b15218c86c.jpeg",
+    "nama": "ANDI RUKHDAMAYANTI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "SOPPENG",
+    "profile": {
+      "id_calon_dpr": "ccfae50b359402f36d04214b504a9c6776baf0c1a31b7479dafae369dd81b8420c47283afeb7823a9c02dcf5fd4113943703480bc298ab2d44222f54222b2a28uqnlHz2Z8WvBnze34yL+PNF7X1/Def4i6mjVVTe83nE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "pilihan_publikasi": "datadiri,alamat",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 13,
+    "kode_dapil": "731202"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/293936/pas_foto/1683963860_a3f13d61-d895-4289-a892-d25d9a6746fc.jpeg",
+    "nama": "ANDI DEVI HARDYANTI, S.E.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "SOPPENG",
+    "profile": {
+      "id_calon_dpr": "1a96e7117b1d21327f86420d285bc9c18403c40987796787a799f4b8b79bb94422689a4a008f7603e81e7f286e46a41524d08eeaecc4379f7c754ffe918830c1KanjGOyxi8bIuG3ezqdKMa5JBfduNEQbHjtQ3gVPtD4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "pilihan_publikasi": "datadiri,alamat",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 13,
+    "kode_dapil": "731202"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/293937/pas_foto/1683963969_f2d02726-5e3d-431d-b1d0-866352ee33ac.jpeg",
+    "nama": "A. MUHAMMAD ZULFITRAH HARUN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SOPPENG",
+    "profile": {
+      "id_calon_dpr": "85624312da891aa987885af94859f31da73aeedacd94ab25754302fab5d63c939eca6e9b1297f7914621f2cca35127cbf63d8cb57d10c60232d54869d3be77b5ige1Je1gN2U//PsX/NwmNGfhOuycToSIKki5IoxPMIA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "pilihan_publikasi": "datadiri,alamat",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 13,
+    "kode_dapil": "731202"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/293938/pas_foto/1683964200_7c82a785-0c70-4487-826e-63083b253407.jpeg",
+    "nama": "DEDI ISWANTO, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SOPPENG",
+    "profile": {
+      "id_calon_dpr": "58224b33c3bd705805573184e5566bdd29516834faaf0836fe6c7c0f1f7c05bdcc64a7255e5a9ef48d87163cea79b5eb4a5a148ef0a4704ed9ef26107f6f34d2ATHFQOE+1VIMc+lVPyG2y7SN1iB2YZZiCcFsi0rULdA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "pilihan_publikasi": "datadiri,alamat",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 13,
+    "kode_dapil": "731202"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/293939/pas_foto/1683964364_f65bddb1-2cd4-40fe-ba8e-2d9c0ea4620f.jpeg",
+    "nama": "ABD. KADIR RAHMAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SOPPENG",
+    "profile": {
+      "id_calon_dpr": "bcb62be9c9c0bae91333ec0061eef19fca6885cc9b8a7893bc1896ed592676c296abdc954459a7b32b5144ff3707de7f3c3893afb4bbe2e4adc083db73451ebb/HgQghi3v1ZBb3+vaEKSzDmjUKt3ZJ9UY9/qR8Ow0xI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "pilihan_publikasi": "datadiri,alamat",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 13,
+    "kode_dapil": "731202"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/302286/pas_foto/1683993851_e9e02532-0095-4a6a-984a-0db5a0d1ebe4.jpeg",
+    "nama": "SYAHRUL RAHMADANI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "KOTA MAKASSAR",
+    "profile": {},
+    "id_partai": 18,
+    "kode_dapil": "731202"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/23548/pas_foto/1683023249_cde1f6d4-2bef-4114-9cc6-2b68200ebb91.jpeg",
+    "nama": "Ir. Hj. USMANIAR",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "SOPPENG",
+    "profile": {
+      "id_calon_dpr": "798a6710c8611c43985f386abced39b2eb111ca6add4312c2179b0366dc043fe5e4933be8cab76d7d46fc8095a3c75b260c9aa5530d564d7179c38d7d5651980HKjY0DM1VwQE/cqu+S9jiEgnbmMZ4OSwfZM1kEg0bQY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "731202"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/37226/pas_foto/1683111674_b7791959-6eaf-4f12-8ca2-b916d4a53e17.jpeg",
+    "nama": "H. ASAKE, S.T.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SOPPENG",
+    "profile": {
+      "id_calon_dpr": "72e8282c28556204598aeda4eee498335b49f7cd4cc52c8bb9117a2f6ed8b8f82834d96963e8b0e2840c132438c992fbf521ae6bc1c6d935c428929706504f2dovDz7PCXbtjcnLDlIFv54lyh4nk+R1cAlfp4sQOL+l4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "731202"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/24330/pas_foto/1683028274_99d32a9b-e525-43ca-af29-a54b33a6575b.jpeg",
+    "nama": "Hj. SUMARTINA S., S.Sos.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "SOPPENG",
+    "profile": {
+      "id_calon_dpr": "ac12234aa944e39542f9a57edffe23630aca516dbf3cccdd200e38e5a00d1ca9b18d52c32188a2a7eebab29930fb160753b55643aaa0056acefcbe68bd35de2ckMho7XTS1ff128okPraixbIbB2CELgcfvs3LizxP8AI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "731202"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/24595/pas_foto/1683030060_7f5345bb-a805-471a-bff7-0e96259d0d29.jpeg",
+    "nama": "ANDI ARHAM",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SOPPENG",
+    "profile": {
+      "id_calon_dpr": "4782998f511f661ca0702ba5712cd54e79c993de7d11c9efc9bc816369846ca36b8e25f286782933e064b9847b736de5f9b143cf96859c3bdc4ccaa4e40af1dcbWd1MNLmF0UfxhplFLqvaMPIfl21JfRpptMFMB6ow6E=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "731202"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/67249/pas_foto/1683554874_7a74e264-042e-44df-aeba-34a0672dd0a1.jpeg",
+    "nama": "ANDI BURMAL JAYA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SOPPENG",
+    "profile": {
+      "id_calon_dpr": "974f83e45df0b19d87be19e37744720ab0b7d51370bf3df5c8691432d6a74541319034a2f2350082930927612ac2a4415a5647ecf73bd9cea31a09ea5dc0a546Ts0z6rGa3SQb/s0bbmCg1rWuxyyyZCFQR2PvzS3hVJs=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "731202"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/43845/pas_foto/1683189097_f7f92870-ad7a-4869-88c5-80acc53734cb.jpeg",
+    "nama": "Hj. ARSUNING, S.Pd., M.M.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "SOPPENG",
+    "profile": {
+      "id_calon_dpr": "83850905b76bb23f2d3e0b3efa07ec7a1cf997d66fd821774877066cb80a2a640d291ba50730bc20f0be7ab9e90d85253ee9b8ea4c1588aba80382fe21598a7fH0GZtWcRT56BNTQP6fDxo8D1Oe4jPSx5qPYoEVgCpL4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "731202"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/470060/pas_foto/1691567966_1718e5de-5546-4be3-b09a-f237cb85ae1a.jpeg",
+    "nama": "MUSTANG, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "SOPPENG",
+    "profile": {
+      "id_calon_dpr": "48c27214f8e4ab987018d6ec9248d901f87a9873abfdba355889e800390a4c952effcc1f1af1ea3a3dd79ba0744e991e44ccdf34db312c1eaf34391cc045e566mQmD537kRnLKeGgr0bKqY09Qex7W4QW2bw8G424VJ6I=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658455987_Logo%20PPP.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 11,
+    "kode_dapil": "731202"
+  }
+]

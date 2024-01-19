@@ -1,0 +1,874 @@
+[
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/103312/pas_foto/1688651648_49bd9fa6-7b4e-4ef3-a5f6-3abcce811c7a.jpeg",
+    "nama": "SEBLON KOWI, S.T.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEGUNUNGAN ARFAK",
+    "profile": {
+      "id_calon_dpr": "4050a57fcf78cd0768c12f55a9841803b9df832acaadd9fe5ae2908539948f2aa49d354c44a7429f7e824b38acfacd06e88359455a0e785767e966cef2a7fce95WdIyth30LY+gMUmpmzJi2sS9KHjA0g9Ff9Kuos1/KY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "921201"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/103316/pas_foto/1688653604_39bfe4c5-5e7c-47ad-9161-ae6a5ba56e0e.jpeg",
+    "nama": "BARABAS TIRIRBO, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "MANOKWARI",
+    "profile": {
+      "id_calon_dpr": "719d1e9444a05dcf40cc8329a801f80aed61110adab47e74c8b9d7b0f7c5a64966414a71e89d0534ed054de21fae8edea77fc224e221d191849f695afb822d27M0z8gh9xna5HdsrdtkcpH3BvHrq9lN/+R3OHaBrvmds=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "921201"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/440837/pas_foto/1688655067_d7036d6b-2139-4cfa-8044-0c68dc92f923.jpeg",
+    "nama": "APYANTI DOUMA KOWI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PEGUNUNGAN ARFAK",
+    "profile": {
+      "id_calon_dpr": "6df858af34b841c89aa9078cd7cabafe509ec99f36befd9647cb3858e34faeb2c7583bcd6bf0909c8a87f51b944236969298cafee5e229c293d8615b2a3039cb8iLGJGb42fs+ox5u7/LNAxFnS/wqSG+lp+cfxynkTh4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "921201"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/26265/pas_foto/9202251601760001.png",
+    "nama": "HERMANUS TOWANSIBA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEGUNUNGAN ARFAK",
+    "profile": {
+      "id_calon_dpr": "d082305f7d3c7e27c43c9969a8f4a8f40d9cf2a5078ce8adf693c15545b45c2c8e6d64099dc2a505cf81af403c8020a30dc66d586d31e329569fe01847dcdc86pSCHt268hVjXZkIaR508NNdHws92qBDUP1EqgDlP4J4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "921201"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/103318/pas_foto/1688655756_362db6cd-bfaf-4445-81ae-fdaf1c0f6e76.jpeg",
+    "nama": "YOPI M. SUGA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEGUNUNGAN ARFAK",
+    "profile": {
+      "id_calon_dpr": "c8d2b1f125046dce57579ee6fbc7d5bf774e6852073aee59d5731860059da65b256c2f454dc60674712d951daec5327a343616cf404d2420e4d3c9732fcff1c55qoxQSx3bIan9Esfepocv9Xvgl3pSydl/Vx0+dNE06c=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "921201"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/482817/pas_foto/1695984236_5ceeb509-5831-44c6-9f53-6799eac5bb2d.jpeg",
+    "nama": "KLARA LILIAN MARANI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PEGUNUNGAN ARFAK",
+    "profile": {
+      "id_calon_dpr": "74dbae2203d93af1b5761a129aa4d6bbca54591b5f74916dd53997bcad9ac94b76c5dcc88b9836e530f2563e8b9e28e314211a5b979b1cc474756dddbd8b0f69HmnFD5yuoD4uXm5BwsqXEaZx43jFR7WYvdmyiTwErg0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "921201"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/103317/pas_foto/1688656288_7c87b6ca-792e-48df-911a-9e34675c123f.jpeg",
+    "nama": "ERGONIUS TOWANSIBA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEGUNUNGAN ARFAK",
+    "profile": {
+      "id_calon_dpr": "d3e6a8e64142fbb022b14120a3edf5568c7e5d6566481a52a1a1c298eb4e262a6ccb185a95943adcfae3193ceed4785d822d26130524b9d0cec8e7bb3fcf59c7W8HaeRKX8SyrulQRJNM9+s82ofR+Q0vtXpY05zbNqS8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656538128_Logo%20PKB.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 8,
+    "kode_dapil": "921201"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/248009/pas_foto/1683750845_2574f3f3-8f04-41c1-a82c-22712cd81724.jpeg",
+    "nama": "APLES J. HORESAMAU SAIBA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEGUNUNGAN ARFAK",
+    "profile": {},
+    "id_partai": 12,
+    "kode_dapil": "921201"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/467290/pas_foto/1691421848_0f893eab-9293-4c4b-9276-8b1ac7352615.jpeg",
+    "nama": "SITINA TOWANSIBA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PEGUNUNGAN ARFAK",
+    "profile": {
+      "id_calon_dpr": "71590a86bafb01084d8770528c4b29e5cd7d5fa7da0b6fd7dd095614883077f644c117b5499ef754d01801e9efc5417ad38e45c07baba033a6e91629c16dca35I2smfz0GDtkni8zGr3G8W8Mre1qSwBpXVtSYWfVLhy0=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656305039_LOGO%20PDI%20PERJUANGAN.png",
+      "pilihan_publikasi": "datadiri,alamat,pendidikan,organisasi,motivasi,program",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 12,
+    "kode_dapil": "921201"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/248011/pas_foto/1683751303_0a250019-dee0-44a7-8e88-e6071c3be7bb.jpeg",
+    "nama": "YESKIEL TOANSIBA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEGUNUNGAN ARFAK",
+    "profile": {},
+    "id_partai": 12,
+    "kode_dapil": "921201"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/233764/pas_foto/1683726902_914aea10-63ff-4e49-a24a-2c662de763cc.jpeg",
+    "nama": "TERTIUS WONGGOR",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEGUNUNGAN ARFAK",
+    "profile": {
+      "id_calon_dpr": "a8426a6759aebb43bb0a382f088e35f73e444ef5a5b3a732d34595c3e91783ff4c0a6da42fd7271c7bee382f277cd56ab453f0c8bc6bfb138645e84b81537cb9Sjm68+eXUnQ4W8b+uJ6q4WUVTzVqSeG5Yb/mwX4y+mQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "921201"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/192510/pas_foto/1683641547_014d9e46-6f59-419d-b8ae-6c67dc06220e.jpeg",
+    "nama": "YULITA YULANDA GINUNI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PEGUNUNGAN ARFAK",
+    "profile": {
+      "id_calon_dpr": "a52908234d64f1ec0dec025d2e4820dd3aad1965ebea94281c2bea8e1acb455405df33c0b4b2e4ed3bd7e4b3315eb0d3c511e3d3d212fa6ad5a79c9f7dddcf44yX7ylhjJZO9m5HB+VG1z99vlUY//T1ethhL9O6rq2Js=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "921201"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/444293/pas_foto/1688716134_e900dcc3-a3cc-4e39-9919-9c2594d038f5.jpeg",
+    "nama": "FERRY DOWANSIBA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEGUNUNGAN ARFAK",
+    "profile": {
+      "id_calon_dpr": "668b3efc9e12040222883b2e7b5d9e0384e41be435473023875db25fa86f03bf88bc2b49c2b06863fb1feb8a44bb64e4b2f3b380c971efd696c83a5d29cb482cMcBDVOIBXm0Kr7mscvZBKZGsV8lNBhvCcOu3IEkVml4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "921201"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/188278/pas_foto/1683633154_94129685-3952-4ced-93c6-91f81601288b.jpeg",
+    "nama": "NORIANCE DOWANSIBA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PEGUNUNGAN ARFAK",
+    "profile": {
+      "id_calon_dpr": "7c44ff29da26fd2aa7b76083abb36c506f4d5d9f68e4e1c18ce7eff7c2f23b0fbb4a631d4a63c44dc89d9bc5d45ab09946625a2d18e5d459f747800ed0369c8dlq2na7VKuOX6C/C2IJrUADfMYdT6GirETXExOESE++8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "921201"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/198348/pas_foto/1683651171_cb79120e-a107-44d3-92e5-3ec31443e450.jpeg",
+    "nama": "SERKI SAROY",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEGUNUNGAN ARFAK",
+    "profile": {
+      "id_calon_dpr": "551d3732a81c630ee4d1a63ead11f718fdf86a14dbc9306260ad53cef0f9a1c45c2e713410f5d45c52456012cc50fa8d48271c5c443eb3eb4d7803fdcb0a8ac5p1J0+iW4ohPAaJKtD/yR1PKU6LaAPjzNg6kIHlbzeZw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "921201"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/218377/pas_foto/1683705007_7318ce41-2b6a-4cae-947e-3c504d24c8cd.jpeg",
+    "nama": "TIBENIUS DOWANSIBA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEGUNUNGAN ARFAK",
+    "profile": {
+      "id_calon_dpr": "812a9ff3f9254a775a444f5b9cbbbcbe6509538d93842b727888f08572c19eaba59efd63fa6fc5669af47a823b560385cc19f89ed215c88138d9603110b3bddbrsdaojEgul9fRXjyTEVNBdKAYDi23wxaxCFT7IWvksw=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "921201"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/237686/pas_foto/1683731915_87ada9a6-aa94-4584-a58c-fe6e808ca2b9.jpeg",
+    "nama": "ANDI INDOU",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEGUNUNGAN ARFAK",
+    "profile": {
+      "id_calon_dpr": "66badf55ce32de39ce4bc15547742305a9115034b8e335741487e8680e00a77919da6fa78044d8a9ab8474c6793b3a3542134ed8cb644711f1ee4256b7000f3c0gDjRi8iwL6q6QHelc5GtLggklA+IgRutAkRwnHFdnE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656586681_Logo%20Golkar.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 9,
+    "kode_dapil": "921201"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/108530/pas_foto/1683570881_1bf20686-90a2-4ce4-aa59-dc1b9b31fad5.jpeg",
+    "nama": "ZADRAKH TOWANSIBA, S.Sos.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEGUNUNGAN ARFAK",
+    "profile": {
+      "id_calon_dpr": "9227e44c6f82a7fb72edc6ae16358de6e6a34eaf555ec6e597f58a82287f558a034ae613d9f66f139e987f4a0da7ecf0ff83fd681f6c6bb21eac4431361bda32XIysFbD6w4+fMXBjTkKukXDcggcmVL5Dn9jxWhH1VPQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656224727_Logo%20NasDem%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 4,
+    "kode_dapil": "921201"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/166006/pas_foto/1683880838_e497e249-fe2e-4b91-a9b7-df1e5e0c48f1.jpeg",
+    "nama": "AKSAMINA TOWANSIBA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PEGUNUNGAN ARFAK",
+    "profile": {},
+    "id_partai": 4,
+    "kode_dapil": "921201"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/166344/pas_foto/1683957783_a1e999a0-27bb-476c-9d68-450c9708056a.jpeg",
+    "nama": "JUFRI INDOU, S.Pd.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEGUNUNGAN ARFAK",
+    "profile": {},
+    "id_partai": 4,
+    "kode_dapil": "921201"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/327000/pas_foto/1683892343_c7fd85d5-762f-464c-8cc5-b49d2e16c1cb.jpeg",
+    "nama": "DINA IMA TOWANSIBA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PEGUNUNGAN ARFAK",
+    "profile": {},
+    "id_partai": 4,
+    "kode_dapil": "921201"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/443262/pas_foto/1688705770_812610f8-ba3e-42b0-b24f-f27ee3b62489.jpeg",
+    "nama": "ESAU TOWANSIBA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEGUNUNGAN ARFAK",
+    "profile": {},
+    "id_partai": 4,
+    "kode_dapil": "921201"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/427419/pas_foto/1688314358_63ab1f11-5686-4ec2-812c-637844707746.jpeg",
+    "nama": "ENDI BERNAD AILLELIJ, S.IP.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEGUNUNGAN ARFAK",
+    "profile": {
+      "id_calon_dpr": "869734db9384901b09b1fda77dd6dea9d95dfc2e4fde5027871818d1952c28c812c2a11d1d0a68082caf6dca36d251feaf7838e76e6cb3cfbade9b1dbedfb9df/3PO3irQmv+EDB+zGZEelvdqbmvIOrdhw46+k/bjlqA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "921201"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/427493/pas_foto/1688325156_c9e67bbc-71c9-4d19-989b-a6f63e123034.jpeg",
+    "nama": "JETI SUSAN INYOMUSI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PEGUNUNGAN ARFAK",
+    "profile": {
+      "id_calon_dpr": "697ac8fbb255f081d242872fd9b941c374d3895b0f6707e9301099431d2fc5075deba585b08a281790195583ec5d2d57a72fba51028f032a44cb73e18a775779SA+IODgkGne9yq9Ifzqc0lpT6vulvH9+1iejcyNtLzY=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "921201"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/427335/pas_foto/1688309352_9f7735c2-af88-4228-94d6-6f10e6c0fb81.jpeg",
+    "nama": "YUDI ARDIANSYAH",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEGUNUNGAN ARFAK",
+    "profile": {
+      "id_calon_dpr": "3ffbea790f55e65de9829c522ca0d1d2a1563f922e714944af8f7e956ebee477dff0c9040ff6cc05fbb9bf72611bfe4c702c1e651e4e8ed1c0c284e044adae4aW6Z4S1+8hsTNEVUBdJ2zKkbvapiJLzdGr/xN9USwMgk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1658983159_Logo%20Gelora%20Portrait.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 77,
+    "kode_dapil": "921201"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/23977/pas_foto/1688050501_040e3a59-f1a4-490d-a22d-f2caab18237a.jpeg",
+    "nama": "SERUS KOWI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEGUNUNGAN ARFAK",
+    "profile": {
+      "id_calon_dpr": "252e7d9e980657e3242655a7158ea8062c697c66767641af109bc9af86f9faeb3328bff928f26af4ec3af644ae86feeb580d66318936a94933d1236d5f62a2f6EeC/5b3P0ukfG6epyA1p3PcAUJmi0eA+mFCnSoD9SbM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "921201"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/22455/pas_foto/1688049935_cf6ff6aa-3bc3-462a-aa4b-4503c2e77081.jpeg",
+    "nama": "ROBI SAIBA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEGUNUNGAN ARFAK",
+    "profile": {
+      "id_calon_dpr": "27b0236517122e2b840f7b0de19e93fb4f8ff0a344aaaa1d0f6ce5e67d5882729efcfd38eb148869a998d09e107a1f7ac36ce10bf10f5db8ecd0f5495a0fb15dhpm2gF2wvzKKXEFhDdZ+Kal9kK5RDf5rlVZOYN42caQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "921201"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/146065/pas_foto/1688050319_828f0819-4d2a-4eea-8b89-87684337659e.jpeg",
+    "nama": "BANTRINA KOWI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PEGUNUNGAN ARFAK",
+    "profile": {},
+    "id_partai": 6,
+    "kode_dapil": "921201"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/15520/pas_foto/1688547257_ec12584d-f706-459b-a5c0-1dc49a712046.jpeg",
+    "nama": "MAIKEL SAIBA, S.P.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEGUNUNGAN ARFAK",
+    "profile": {
+      "id_calon_dpr": "f7784bea172325d3e27878a4fef93c176bdb24c2d8d762b06a0674b406ef13af44f1965727f0b65567eb449134e9a115d2de9801331e708b4bac55dfed276ae099AjMXsVGKsHh4t5gtbkZRZljxF1P5FKOKxnE3kI5Zk=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "921201"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/25981/pas_foto/1688549750_578b6dd3-e757-41f8-bdb5-900a0c2e49f3.jpeg",
+    "nama": "NORCE PAULINA SAIBA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PEGUNUNGAN ARFAK",
+    "profile": {
+      "id_calon_dpr": "d7b02ee3b02981fc7aeb620abee23350fe866ca1f56dbe01c01b261c74f87e5f9535e70a016472a38583ffe3f9642e37bd91a313f88eece39ed6e3ea04bd9123dptB8Sl4Up2c6JJ2pjp9LLv8jJ66LFDpBFGpVARBGss=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "921201"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/26767/pas_foto/1688470442_66f5cfeb-8cf3-4420-b48f-8a2849cc66de.jpeg",
+    "nama": "DOMINGGUS AHOREN, S.IP.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEGUNUNGAN ARFAK",
+    "profile": {
+      "id_calon_dpr": "7e59c7c881765802dbcd9d7f8c82965f71a64acb8bdab99b2da7f04ff5a1be8afc9501c29147efb52781c45ab93fd1acffc6229174f01a166f15fd658e86987drnk3WWrdTB7Bjs2CYOXR2L2kU5kEJUML2S9TpP4cOSI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656395115_lambang_pks.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 6,
+    "kode_dapil": "921201"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/251998/pas_foto/1683752088_d9617185-3076-44c5-9306-5c897eee4ff1.jpeg",
+    "nama": "SANDI TOWANSIBA, S.IP.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEGUNUNGAN ARFAK",
+    "profile": {
+      "id_calon_dpr": "75217ca5812aae6ad457a265502da329d74241d67762bc82b4e37b0e59540d32068deee56140e8c62061bb2717d0381febaccd8d42065e22aa2f2af869235d6f9kTyTZrJfNKh6+0GAq1WUtxZ6I/aIaCDG4GQ0hzQNNo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 5,
+    "kode_dapil": "921201"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/169233/pas_foto/1683713718_92ec4e63-8ca1-4adc-b79d-6ffa9e4570f3.jpeg",
+    "nama": "BENYAMIN TOWANSIBA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEGUNUNGAN ARFAK",
+    "profile": {
+      "id_calon_dpr": "ae9fd37fc183dd32af61f200686fa888779b0e0c34da7625f6dbcc1b4db3f4e1a9057fbf7c0ee4a1a8f849bbb88ad1b04b66d2e34deb4ac86c4e4c8b8b16613flIPqAJ+VqF5UIG6ruMYQGqQf9UH2Yi+2kCiPO6K+M/4=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 5,
+    "kode_dapil": "921201"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/169192/pas_foto/1683583711_86bf0e58-ad71-4769-aaea-0ac28a90ea04.jpeg",
+    "nama": "MIMI AHOREN",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PEGUNUNGAN ARFAK",
+    "profile": {
+      "id_calon_dpr": "aa845b455014f413211f386d242239b7b5b17c4727a3dd3d756d55eb339e4a8b8719a070f426b5a79fda2b32a43b837a9395a3e030a5a2d8175cf5eabb895dc0CLz4BDQCjbaXISiyb85ODp1i2I3JqH6zXtLwYcgLpjQ=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 5,
+    "kode_dapil": "921201"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/225281/pas_foto/1683713856_c3bff08f-c275-4c55-8f87-a1bdb502c6c8.jpeg",
+    "nama": "NUAK TOWANSIBA, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEGUNUNGAN ARFAK",
+    "profile": {
+      "id_calon_dpr": "4d70b2c8d70f4390a3f5f99bf6491221c31337043fbc183c6a75eb7a4cf61b2dce6971ada33bd48ab7e177329c3d28fae3964eece50b64008c516b7fee7aad04/5405Hi35RblUvNZnPGZsn0BEOSjebTQtsHYZ/EtOwA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1659263373_hanura_10x10.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 5,
+    "kode_dapil": "921201"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/424480/pas_foto/1688648749_e0ff5854-c588-43d6-888a-c22179988159.jpeg",
+    "nama": "ANIS KINGKONG DOWANSIBA, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEGUNUNGAN ARFAK",
+    "profile": {
+      "id_calon_dpr": "d7bc6daeb166a37f1a7b88a467eebb8257761ff3cac4de3d2e02428dc9335d3f21f94da439d9cb7c60d0c07e87e5e6e6584bfd7adfcebd3e554fd5839fb1c354hG4pSNC/hZ3ZZCk0EOrliJdheYi3Et7dzZNyosZsXPU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656406064_Logo%20Partai%20Garuda%20square.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 44,
+    "kode_dapil": "921201"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/424492/pas_foto/1688648796_73c0587b-a558-48d9-aea7-1260de9d63c5.jpeg",
+    "nama": "YESAYA SAIBA, S.Pd.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEGUNUNGAN ARFAK",
+    "profile": {
+      "id_calon_dpr": "39388c3399908ad92be4a1f213bc2bba554be4c412c3475f23ce0c76c2c061f830cd4990af83a2ce9bb8408695a190a015a09cea53f1646be2c57fb7434fb91az5I5wrVLDIeOIFf0MBQJZ9kL7lm0CGl6/VHONrc5UyE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656406064_Logo%20Partai%20Garuda%20square.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 44,
+    "kode_dapil": "921201"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/431330/pas_foto/1688648839_2b898b8b-8348-4c77-a2ba-8f523d37733b.jpeg",
+    "nama": "MARTINA MANUPAPAMI",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PEGUNUNGAN ARFAK",
+    "profile": {
+      "id_calon_dpr": "11a86f9c97c6fa15613c18c52e9c6ca984b91ff8734eae2f18e6a1564f633f4f44688ab0a9f6262f330343d664218dc578cfe3c8550177776c121d437f7130cdJq34JuB14ET850juERVcPQsRmnn96OEfq57QwU7CM6g=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656406064_Logo%20Partai%20Garuda%20square.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 44,
+    "kode_dapil": "921201"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/427882/pas_foto/1688648537_1448fbb9-8846-422e-89a0-bbe2ca5cd6c8.jpeg",
+    "nama": "SEPTINUS TOWANSIBA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEGUNUNGAN ARFAK",
+    "profile": {
+      "id_calon_dpr": "8ed1e6494d8aa3d04b9d19f41e80a430b08931c506cd2f8d3e846370a305229e9c54175996e71e208fef3fc547dad4f1667e0248799683b3ec82ac2a3b2673aazatIW9UFHP/WML4k/PfsYz4JkXlAaYh0bVukhQlcifU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656406064_Logo%20Partai%20Garuda%20square.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 44,
+    "kode_dapil": "921201"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/428101/pas_foto/1688648919_a39e8b5f-e7e2-497f-9058-767053001a10.jpeg",
+    "nama": "YAPET TOANSIBA, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEGUNUNGAN ARFAK",
+    "profile": {
+      "id_calon_dpr": "9ed1a88a8afc4c83b505004b911cd2e9262204640daefd0bdce4cd69cf7327bccd33f5a0a0664db60efd6dd61e905bbe036a7374d5dd1f584f7ff8f95ca4fed57zVbporctUKGJ3hkYDJpZA9GaiMv1eTpxyf4um9u6Y8=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656406064_Logo%20Partai%20Garuda%20square.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 44,
+    "kode_dapil": "921201"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/425180/pas_foto/1688647555_44dd18ab-f9f3-4e66-8a25-ddb2c8f2df9f.jpeg",
+    "nama": "ANIKA TAEK",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PEGUNUNGAN ARFAK",
+    "profile": {},
+    "id_partai": 44,
+    "kode_dapil": "921201"
+  },
+  {
+    "nomor_urut": 7,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/431739/pas_foto/1688647795_654f2d12-e5aa-4273-b279-1bb7ae4ab0d2.jpeg",
+    "nama": "MASBARUS TOWANSIBA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEGUNUNGAN ARFAK",
+    "profile": {
+      "id_calon_dpr": "97caa6cfa3e56ecabcf56d894a00fd640cb08dbc469e70ad2f5cae3979bc5826520b153eabfc6eab0acf63b5b4bcfd5b69bce8b5fd7c71f88c0bbcae14d3dcb7f2sKjkwCeos8tJSa7Z4XV/Gk6I0RrKx1rSjCGq6rSak=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656406064_Logo%20Partai%20Garuda%20square.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 44,
+    "kode_dapil": "921201"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/104748/pas_foto/9202241512870001.png",
+    "nama": "DEMIANUS TOWANSIBA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEGUNUNGAN ARFAK",
+    "profile": {
+      "id_calon_dpr": "05411896e437f117b834d6ded30def9c3790a0490ccfb49c3b09a81aa4997b0b71b27917ed83129df9284f767a7335c2a91b3a75a1f5dc967bdaa4a4d19153f3sCw968AKUFwH3VxqTCqxwwfs5nU8dmupsaC2RORWodA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "921201"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/104748/pas_foto/9202091512850001.png",
+    "nama": "ESAU ASTARA, S.E.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEGUNUNGAN ARFAK",
+    "profile": {},
+    "id_partai": 13,
+    "kode_dapil": "921201"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/104748/pas_foto/9202124103970005.png",
+    "nama": "ELIATI IRYO",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PEGUNUNGAN ARFAK",
+    "profile": {
+      "id_calon_dpr": "2661d32b3e57f714a34049546aa3d1ad5dc037cf7137600d7ef6f54738cb1e75a99c89294cd520d1ca4a05a76a10ac03585cad75f8016639144c36fd6a1d49dfkvcXX9I+XMLpTVORht5agSJ96nuN1KmFjWJhMjposTE=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "921201"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon_unggah/104748/pas_foto/9202090104900001.png",
+    "nama": "YONI TIRIBO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEGUNUNGAN ARFAK",
+    "profile": {
+      "id_calon_dpr": "2136deaa6930b31506da21617ac212b8fd553f952840a5d327ac1dd334c9973927631d5eb9c117ea3351456ee15155558a2e7e913062a4f8f5a849194ef353ffFG4pq95bFWaT377jicmUyufZaBQBJPsqOWm1RRylsKo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656229496_WhatsApp%20Image%202022-06-26%20at%201.53.14%20PM.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 13,
+    "kode_dapil": "921201"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/79111/pas_foto/1683821746_69638d9f-8d19-4d7e-81ce-e02fac9ed37b.jpeg",
+    "nama": "AGUS AHOREN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEGUNUNGAN ARFAK",
+    "profile": {
+      "id_calon_dpr": "bcaa7c5d5a9f30e95c194c1fc7bee36201fdcfbc79ec9ebc1b62633251bba248102ea82b120e888b30e86209fa7ca3a659244b5b00b3371b0ad2f7a9606b2488Acwx9PZ4JfMSjCbWMy0NIfofTu3yb2vS7pXunSGdXDc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656419883_logo-10x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 76,
+    "kode_dapil": "921201"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/288867/pas_foto/1683821407_10e6f10e-ab1b-4dbe-97f5-daaf87b0b6a1.jpeg",
+    "nama": "AMASON AHOREN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEGUNUNGAN ARFAK",
+    "profile": {
+      "id_calon_dpr": "74415f86f5b317abcd6686f972fa2b72af62ce182ee6410b92fb10f6ca0a2e4005a7df7fb330471a15c8058c984e85a6d04048f35a0ef409752b334b134fce9eyQq7tOrI5NYIMjHps9qPQKx1noM5z9jOTsAfmL2a3qM=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656419883_logo-10x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 76,
+    "kode_dapil": "921201"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/77879/pas_foto/1683820681_94f1f3c8-213d-4342-aeb9-5938d3b2db4a.jpeg",
+    "nama": "DORCE AHOREN, S.Kep.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PEGUNUNGAN ARFAK",
+    "profile": {
+      "id_calon_dpr": "e35e95aff40058b5b8da941eefd47bb97f4d24c4da2f204aaed3dcdf738ff36082e1fb7ccfbd2788f36b8e8b48625c8c641a34c464599b92bf2f68b9dec48692zql3BiBG1mraddEwkecJRLWAWjhFqJDUWCS7CDMNuiU=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656419883_logo-10x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 76,
+    "kode_dapil": "921201"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/454796/pas_foto/1688815173_aeb3e771-2a20-4246-b9ae-ffac7119f458.jpeg",
+    "nama": "PERMAS SAIBA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEGUNUNGAN ARFAK",
+    "profile": {
+      "id_calon_dpr": "d8cf67c8f1c82a2f1513ddd810f28cc1b790e4b381c08c6ec1d39469d04ddef77172b4f1617a3a59d0a8a5acf981359dc7cbd96cd10cbfaf2ad1c9d64b23aeda1QuiBlxsYl7bwwD3SE5Ynfwy6iU5g0xVrX9IfhniTss=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656419883_logo-10x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 76,
+    "kode_dapil": "921201"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/78586/pas_foto/1683819746_fa7c24b0-4e7f-4796-bbde-dcc9ee6063a6.jpeg",
+    "nama": "YENI ASTARA, S.Kep.",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PEGUNUNGAN ARFAK",
+    "profile": {
+      "id_calon_dpr": "591e7cb2d05b99b490e82803c6d01b6e5a69699f165eb02f045360ce932382275114a65a894ecb58e9456a698abd7be4e3a824e12c3a66861a751179e9d534a5GMS1dLYMwOEP+OkDmANJAdR0mDwZ8hqOEEdvhaTmN+o=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656419883_logo-10x10.png",
+      "pilihan_publikasi": "datadiri,alamat,pekerjaan,hukum",
+      "status_publikasi": "Bersedia Sebagian"
+    },
+    "id_partai": 76,
+    "kode_dapil": "921201"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/20061/pas_foto/1688186587_2acc13d3-5e36-4b02-b3d7-b1bfea8eb7a8.jpeg",
+    "nama": "ANDRIS INYOMUSI",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEGUNUNGAN ARFAK",
+    "profile": {
+      "id_calon_dpr": "4e8e1987d66626bee87b6232f2d922fda5554d64ddff900af3e5eedd4a0b184c7d5b496f5d6d63b74c9b9a18f00ac956e800ef32e8f06fbc0520754d5e5cba13+vqc9pPubf1P7H6dR7EoAe56hIxkCpltpgnTjjmwisc=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "921201"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/11885/pas_foto/1688187514_2ab820eb-4063-41e4-acdc-86211bf1c683.jpeg",
+    "nama": "TONI INDOW",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEGUNUNGAN ARFAK",
+    "profile": {
+      "id_calon_dpr": "1c21a06229905cd0e8d6b55f6bcd06e3a66b120ae96a444903f9964150c084d78c9f693b3b0d0338782d32a6003fcd55f75915daad59cfdb900b858601ec9694E57uTX5VSUriyI21idYPIjlBXv44e5f5+MmZHXAFKgo=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "921201"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/20348/pas_foto/1688183048_c9c04ca3-564b-4f2f-83a4-85d39bfb7253.jpeg",
+    "nama": "METTI MANDACAN",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PEGUNUNGAN ARFAK",
+    "profile": {
+      "id_calon_dpr": "404e4568e83a44ad1698bb9f20bc00895dca30d3dd472ad45a7cdcf775148e940f1ae91f1010eaa4799adc3156f20900501176ac6a51a1358f83af019b7b5f2foGVvX/gQ8vaFs5miIi/LFmj+qIt/nGAu7Wm+HWhvE9I=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "921201"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/465055/pas_foto/1689386879_e3c7fbdf-076f-4cf5-a651-b878c1353696.jpeg",
+    "nama": "THOMAS DEMIH",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEGUNUNGAN ARFAK",
+    "profile": {
+      "id_calon_dpr": "d281c658e67b458eacb0bbe3a2be540e67cf399d6191cf2457a1a8e95b2981becdecd5b2e60e1b75e4cecae42dfe7e3dfcac2296a7deb9e7988100960db71f431ohdOCK/sbSMaQI91gdYTgoB7Hk0sQZNWLE2Px0uGLA=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "921201"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/5460/pas_foto/1688010277_89ca7cb3-35f1-4bf6-ad10-295387268b11.jpeg",
+    "nama": "JEFRI INDOU, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEGUNUNGAN ARFAK",
+    "profile": {
+      "id_calon_dpr": "fe4572b73796043a2d8ec92b5c661856d0aece623226792226993e07bb1ea57935c871027ef1ef80405c04dd3a07618e1a49de808729447bce8c38a0c91b4a01vKxJ5zridjyE016LmTNWy2NWmjSI7AJskDmBxI4aOho=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "921201"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/19724/pas_foto/1688006846_f90aa416-ef75-4b6a-943d-4462d222b3ec.jpeg",
+    "nama": "MERI TOWANSIBA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PEGUNUNGAN ARFAK",
+    "profile": {
+      "id_calon_dpr": "607c3d5d76238b74c342ff4bc0458d1eb8bf14d455c2a3fbc54ac4591850f783f3938fc39ed86530658786fd7ae89622bbdf87b11fe214f5680bc14066777b78NW+xxTV1kgDQ5JUKDzinb2/NbgcZB+vb7csbYmNvazI=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656144884_LOGO%20PARTAI%20PERINDO%2010x10%20cm%20(RGB).png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 18,
+    "kode_dapil": "921201"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/308629/pas_foto/1683859688_a92c189d-3da9-4728-bfa8-86299e434fe2.jpeg",
+    "nama": "YUNIARI WARAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEGUNUNGAN ARFAK",
+    "profile": {},
+    "id_partai": 11,
+    "kode_dapil": "921201"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/308681/pas_foto/1683886340_3938e931-ff96-49dc-beac-ce717bf64498.jpeg",
+    "nama": "ZETH DOWANSIBA, S.H.",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEGUNUNGAN ARFAK",
+    "profile": {},
+    "id_partai": 11,
+    "kode_dapil": "921201"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/322150/pas_foto/1683884849_f197a211-995d-4c3f-8324-9f26690e1abc.jpeg",
+    "nama": "LUDINA DOWANSIBA",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PEGUNUNGAN ARFAK",
+    "profile": {},
+    "id_partai": 11,
+    "kode_dapil": "921201"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/322350/pas_foto/1683887735_eb9e7326-a28c-4a96-b7e6-6ac122ac69bc.jpeg",
+    "nama": "JHON WARAN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEGUNUNGAN ARFAK",
+    "profile": {},
+    "id_partai": 11,
+    "kode_dapil": "921201"
+  },
+  {
+    "nomor_urut": 1,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/484245/pas_foto/1696139054_e13d0d49-8d14-44d0-8899-e9195a78158f.jpeg",
+    "nama": "ENAS IRYO",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEGUNUNGAN ARFAK",
+    "profile": {},
+    "id_partai": 78,
+    "kode_dapil": "921201"
+  },
+  {
+    "nomor_urut": 2,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/10968/pas_foto/1683171160_52e5a551-a224-4d07-986c-b078d1f5f4da.jpeg",
+    "nama": "YABAR SUNGEMERA INDEN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEGUNUNGAN ARFAK",
+    "profile": {},
+    "id_partai": 78,
+    "kode_dapil": "921201"
+  },
+  {
+    "nomor_urut": 3,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/11476/pas_foto/1682928252_c206a49e-f548-4150-9a90-8d86fba8d0ec.jpeg",
+    "nama": "WATI IRYO",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PEGUNUNGAN ARFAK",
+    "profile": {},
+    "id_partai": 78,
+    "kode_dapil": "921201"
+  },
+  {
+    "nomor_urut": 4,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/24979/pas_foto/1683032474_7fea6c0e-d69b-4fe4-9130-4f5825e81b24.jpeg",
+    "nama": "VENUS TOWANSIBA",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEGUNUNGAN ARFAK",
+    "profile": {},
+    "id_partai": 78,
+    "kode_dapil": "921201"
+  },
+  {
+    "nomor_urut": 5,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/26524/pas_foto/1683167961_708e232d-1d18-4f87-b24d-4e9b3c64d74e.jpeg",
+    "nama": "AMSON INDEN",
+    "jenis_kelamin": "L",
+    "alamat_kabko": "PEGUNUNGAN ARFAK",
+    "profile": {},
+    "id_partai": 78,
+    "kode_dapil": "921201"
+  },
+  {
+    "nomor_urut": 6,
+    "foto": "https://infopemilu.kpu.go.id/dct/berkas-silon/calon/476236/pas_foto/1691726523_cd5b7fe8-6b07-4e7e-8263-836edaed67cf.jpeg",
+    "nama": "HERMINA IRYO",
+    "jenis_kelamin": "P",
+    "alamat_kabko": "PEGUNUNGAN ARFAK",
+    "profile": {
+      "id_calon_dpr": "1d5bcaf609d078d853b5609cf4ed43fe82c2d292b68ce87102a2c696d67d64b43899de315402a4560c0a1679004ae41f86429a18780f376d0a473d072ed408a7X+5ayu4Oi3Ramc3SN1Kuq0eBysrA4c6iGAJc7UxBl/s=",
+      "logo_partai": "berkas-sipol/parpol/profil/gambar_parpol/1656157120_LOGO%20PARTAI%20UMMAT%2010X10%20CM%20KPU.png",
+      "status_publikasi": "Bersedia"
+    },
+    "id_partai": 78,
+    "kode_dapil": "921201"
+  }
+]
