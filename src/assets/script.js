@@ -1366,7 +1366,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
   window.openProfile = function (candidateType, favoriteId) {
     const form = document.createElement('form');
-    form.action = `https://infopemilu.kpu.go.id/Pemilu/${candidateType}/profile`;
+    form.action = `https://infopemilu.kpu.go.id/Pemilu/${candidateType}/profil${candidateType === 'Dct_dpd' ? '' : 'e'}`;
     form.method = 'POST';
     form.target = '_blank';
 
